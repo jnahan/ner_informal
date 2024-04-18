@@ -10,28 +10,32 @@ wordCounts = defaultdict(lambda:0)
 prev = ('Begin_Sent','Begin_Sent')
 
 #training stage
-file = open('truecaser/training.words', 'r')
-for line in file:
-    if line=='\n':
-        transition['End_Sent'][prev] += 1
-        prev = ('Begin_Sent','Begin_Sent')
-        continue
-    word = line.strip()
-    if word in string.punctuation:
-        pos = 'punctuation'
-    elif word.istitle():
-        if prev[1]=='Begin_Sent':
-            pos = 'uppercase'
+training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
+for training in training_files:
+    file = open('truecaser/training/'+training, 'r')
+    for line in file:
+        if line=='\n':
+            transition['End_Sent'][prev] += 1
+            prev = ('Begin_Sent','Begin_Sent')
+            continue
+        word = line.strip()
+        if word in string.punctuation:
+            pos = 'punctuation'
+        elif word[0].isnumeric():
+            pos = 'number'
+        elif word.istitle():
+            if prev[1]=='Begin_Sent':
+                pos = 'uppercase'
+            else:
+                pos = 'title case'
         else:
-            pos = 'title case'
-    else:
-        pos = 'lowercase'
-    word = word.lower()
-    words.add(word)
-    wordCounts[word] += 1
-    likelihood[pos][word] += 1
-    transition[prev][pos] += 1
-    prev = (prev[1],pos)
+            pos = 'lowercase'
+        word = word.lower()
+        words.add(word)
+        wordCounts[word] += 1
+        likelihood[pos][word] += 1
+        transition[prev][pos] += 1
+        prev = (prev[1],pos)
 
 unknownWords = [k for k, v in wordCounts.items() if v == 1]
 for unknown in unknownWords:
@@ -54,12 +58,17 @@ for bigram in transition:
         transition_probabilities[bigram][state] = transition[bigram][state] / total
 
 sentence = []
-tags = ['Begin_Sent', 'title case', 'uppercase', 'lowercase', 'End_Sent', 'punctuation']
+tags = ['Begin_Sent', 'title case', 'uppercase', 'lowercase', 'End_Sent', 'punctuation', 'number', 'other']
 tags[tags.index('End_Sent')] = tags[len(tags)-1]
 tags[len(tags)-1] = 'End_Sent'
 
 first_word = True
 #transducer, probability calculator
+
+res = open("truecaser/submission.pos", 'w')
+res.write('')
+res.close()
+
 file = open('truecaser/test.words', 'r')
 for line in file:
     if line != '\n':
@@ -87,8 +96,20 @@ for line in file:
                         #known words
                         if (currWord in words):
                             currLikelihood = likelihood[currTag][currWord]
-                        if (first_word and currTag == "uppercase"):
-                            currLikelihood = 1
+                        
+                        if (currWord in string.punctuation): 
+                            if (currTag == "punctuation"):
+                                currLikelihood = 1
+                        elif (currWord[0].isnumeric()):
+                            if (currTag == "number"):
+                                currLikelihood = 1
+                        elif (not currWord[0].isalnum()):
+                            if (currTag == "other"):
+                                currLikelihood = 1
+                        elif (first_word):
+                            if (currTag == "uppercase"):
+                                currLikelihood = 1
+                        
                         viterbi[j][i][k] = max(viterbi[j][i][k], viterbi[j-1][k][t]*currTransition*currLikelihood)
             first_word = False
         #get index of max val in each column (most likely pos)
@@ -100,7 +121,15 @@ for line in file:
         #write results in output file
         res = open("truecaser/submission.pos", 'a')
         for i in range(len(sentence)):
-            res.write(sentence[i] + "\t" + tags[maxInd[i+1]] + "\n")
+            tag = tags[maxInd[i+1]]
+            word = sentence[i]
+            if word in string.punctuation:
+                tag = 'punctuation'
+            elif word[0].isnumeric():
+                tag = 'number'
+            elif not word[0].isalnum():
+                tag = 'other'
+            res.write(sentence[i] + "\t" + tag + "\n")
         res.write("\n")
         res.close()
         sentence=[]
