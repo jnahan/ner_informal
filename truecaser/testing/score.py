@@ -11,6 +11,10 @@ import sys
 import os
 
 def score (keyFileName, responseFileName):
+	incorrect_list = open("truecaser/testing/incorrect.pos", 'w')
+	incorrect_list.write('')
+	incorrect_list.close()
+
 	keyFile = open(keyFileName, 'r')
 	key = keyFile.readlines()
 	responseFile = open(responseFileName, 'r')
@@ -20,6 +24,8 @@ def score (keyFileName, responseFileName):
 		exit()
 	correct = 0
 	incorrect = 0
+	correct_is_title = 0
+	correct_is_lower = 0
 	for i in range(len(key)):
 		key[i] = key[i].rstrip(os.linesep)
 		response[i] = response[i].rstrip(os.linesep)
@@ -44,11 +50,16 @@ def score (keyFileName, responseFileName):
 		if responseToken != keyToken:
 			print ("token mismatch at line " + str(i))
 			exit()
-		#they put as title and we put as lower
+
 		if responsePos == keyPos:
 			correct = correct + 1
 		elif responsePos != keyPos:
 			incorrect = incorrect + 1
+
+			if keyPos == "title case":
+				correct_is_title += 1
+			elif keyPos == "lowercase":
+				correct_is_lower += 1
 
 			incorrect_list = open("truecaser/testing/incorrect.pos", 'a')
 			incorrect_list.write('answer: ' + keyToken.strip() + '  ' + keyPos.strip() + '\n')
@@ -60,6 +71,8 @@ def score (keyFileName, responseFileName):
 	print (str(correct) + " out of " + str(correct + incorrect) + " tags correct")
 	accuracy = 100.0 * correct / (correct + incorrect)
 	print("  accuracy: %f" % accuracy)
+	print ("incorrect, answer was supposed to be title: " + str(correct_is_title))
+	print ("incorrect, answer was supposed to be lower: " + str(correct_is_lower))
 
 def main(args):
 	key_file = args[1]
