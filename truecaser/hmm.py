@@ -1,5 +1,6 @@
 from collections import defaultdict
 import numpy as np
+import string
 
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))
@@ -16,7 +17,9 @@ for line in file:
         prev = ('Begin_Sent','Begin_Sent')
         continue
     word = line.strip()
-    if word.istitle():
+    if word in string.punctuation:
+        pos = 'punctuation'
+    elif word.istitle():
         if prev[1]=='Begin_Sent':
             pos = 'uppercase'
         else:
@@ -51,16 +54,18 @@ for bigram in transition:
         transition_probabilities[bigram][state] = transition[bigram][state] / total
 
 sentence = []
-tags = ['Begin_Sent', 'uppercase', 'title case', 'lowercase', 'End_Sent']
+tags = ['Begin_Sent', 'title case', 'uppercase', 'lowercase', 'End_Sent', 'punctuation']
 tags[tags.index('End_Sent')] = tags[len(tags)-1]
 tags[len(tags)-1] = 'End_Sent'
 
-# #transducer, probability calculator
+first_word = True
+#transducer, probability calculator
 file = open('truecaser/test.words', 'r')
 for line in file:
     if line != '\n':
         line = line.strip()
         sentence.append(line)
+        first_word = True
     else:
         res = [None] * (len(sentence)+2)
         res[0] = ['Begin_Sent']
@@ -68,24 +73,24 @@ for line in file:
         viterbi = [[[0 for _ in range(len(tags))] for _ in range(len(tags))] for _ in range(len(sentence)+2)]
         viterbi[0][0][0] = 1
         viterbi[len(sentence)+1][len(tags)-1][len(tags)-1] = 1
-        for j in range (1, len(sentence) + 1):
-            for i in range (len(tags)):
-                for k in range (len(tags)):
-                    for t in range(len(tags)):
+        for j in range (1, len(sentence) + 1): ##curr word
+            for i in range (len(tags)): #curr tag
+                for k in range (len(tags)): #prev tag
+                    for t in range(len(tags)): #prev2 tag
                         currWord = sentence[j-1]
                         currTag = tags[i]
                         prevTag = tags[k]
-                        lastTag = tags[t]
-                        currTransition = transition_probabilities[(lastTag,prevTag)][currTag]
+                        prev2Tag = tags[t]
+                        currTransition = transition_probabilities[(prev2Tag,prevTag)][currTag]
                         #handle oov using unknown word
                         currLikelihood = likelihood[currTag]["Unknown_Word"]
-                        #handle first word in sentence
-                        if currTag == 'capitalized':
-                            currLikelihood = 1
                         #known words
                         if (currWord in words):
                             currLikelihood = likelihood[currTag][currWord]
+                        if (first_word and currTag == "uppercase"):
+                            currLikelihood = 1
                         viterbi[j][i][k] = max(viterbi[j][i][k], viterbi[j-1][k][t]*currTransition*currLikelihood)
+            first_word = False
         #get index of max val in each column (most likely pos)
         viterbi = np.array(viterbi)
         maxInd = []
