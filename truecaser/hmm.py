@@ -1,6 +1,12 @@
 from collections import defaultdict
 import numpy as np
 import string
+# import nltk
+# from nltk import pos_tag
+
+
+#tagger to be used
+# nltk.download('averaged_perceptron_tagger')
 
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))
@@ -8,34 +14,39 @@ transition_probabilities = defaultdict(lambda: defaultdict(float))
 words = set()
 wordCounts = defaultdict(lambda:0)
 prev = ('Begin_Sent','Begin_Sent')
+all_tokenized_pos = set()
 
 #training stage
-training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
-for training in training_files:
-    file = open('truecaser/training/'+training, 'r')
-    for line in file:
-        if line=='\n':
-            transition['End_Sent'][prev] += 1
-            prev = ('Begin_Sent','Begin_Sent')
-            continue
-        word = line.strip()
-        if word in string.punctuation:
-            pos = 'punctuation'
-        elif word[0].isnumeric():
-            pos = 'number'
-        elif word.istitle():
-            if prev[1]=='Begin_Sent':
-                pos = 'uppercase'
-            else:
-                pos = 'title case'
+# training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
+# for training in training_files:
+file = open('truecaser/training/training.pos', 'r')
+for line in file:
+    if line=='\n':
+        transition[prev]['End_Sent'] += 1
+        prev = ('Begin_Sent','Begin_Sent')
+        continue
+    line = line.strip().split('\t')
+    word = line[0]
+    token_pos = line[1]
+    if word in string.punctuation:
+        pos = 'punctuation'
+    elif word[0].isnumeric():
+        pos = 'number'
+    elif word.istitle():
+        if prev[1]=='Begin_Sent':
+            pos='uppercase-'+token_pos
         else:
-            pos = 'lowercase'
-        word = word.lower()
-        words.add(word)
-        wordCounts[word] += 1
-        likelihood[pos][word] += 1
-        transition[prev][pos] += 1
-        prev = (prev[1],pos)
+            pos = 'title case-'+token_pos
+        all_tokenized_pos.add(pos)
+    else:
+        pos = 'lowercase-'+token_pos
+        all_tokenized_pos.add(pos)
+    word = word.lower()
+    words.add(word)
+    wordCounts[word] += 1
+    likelihood[pos][word] += 1
+    transition[prev][pos] += 1
+    prev = (prev[1],pos)
 
 unknownWords = [k for k, v in wordCounts.items() if v == 1]
 for unknown in unknownWords:
@@ -58,7 +69,9 @@ for bigram in transition:
         transition_probabilities[bigram][state] = transition[bigram][state] / total
 
 sentence = []
-tags = ['Begin_Sent', 'title case', 'uppercase', 'lowercase', 'End_Sent', 'punctuation', 'number', 'other']
+tags = ['Begin_Sent', 'End_Sent', 'punctuation', 'number', 'other']
+for tag in all_tokenized_pos:
+    tags.append(tag)
 tags[tags.index('End_Sent')] = tags[len(tags)-1]
 tags[len(tags)-1] = 'End_Sent'
 
@@ -71,6 +84,7 @@ res.close()
 
 file = open('truecaser/test.words', 'r')
 for line in file:
+    print(line)
     if line != '\n':
         line = line.strip()
         sentence.append(line)
@@ -107,9 +121,11 @@ for line in file:
                             if (currTag == "other"):
                                 currLikelihood = 1
                         elif (first_word):
-                            if (currTag == "uppercase"):
+                            if "uppercase" in currTag:
                                 currLikelihood = 1
-                        
+                        if (not first_word):
+                            if (currTag == 'Begin_Sent'):
+                                currLikelihood = 0
                         viterbi[j][i][k] = max(viterbi[j][i][k], viterbi[j-1][k][t]*currTransition*currLikelihood)
             first_word = False
         #get index of max val in each column (most likely pos)
@@ -121,7 +137,7 @@ for line in file:
         #write results in output file
         res = open("truecaser/submission.pos", 'a')
         for i in range(len(sentence)):
-            tag = tags[maxInd[i+1]]
+            tag = tags[maxInd[i+1]].split('-')[0] if '-' in tags[maxInd[i+1]] else tags[maxInd[i+1]]
             word = sentence[i]
             if word in string.punctuation:
                 tag = 'punctuation'
