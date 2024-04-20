@@ -10,32 +10,34 @@ wordCounts = defaultdict(lambda:0)
 prev = ('Begin_Sent','Begin_Sent')
 
 #training stage
-training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
-for training in training_files:
-    file = open('truecaser/training/'+training, 'r')
-    for line in file:
-        if line=='\n':
-            transition['End_Sent'][prev] += 1
-            prev = ('Begin_Sent','Begin_Sent')
-            continue
-        word = line.strip()
-        if word in string.punctuation:
-            pos = 'punctuation'
-        elif word[0].isnumeric():
-            pos = 'number'
-        elif word.istitle():
-            if prev[1]=='Begin_Sent':
-                pos = 'uppercase'
-            else:
-                pos = 'title case'
+# training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
+# for training in training_files:
+file = open('truecaser/training/training.words', 'r')
+for line in file:
+    if line=='\n':
+        transition[prev]['End_Sent'] += 1
+        transition[prev[1]]['End_Sent']+=1
+        prev = ('Begin_Sent','Begin_Sent')
+        continue
+    word = line.strip()
+    if word in string.punctuation:
+        pos = 'punctuation'
+    elif word[0].isnumeric():
+        pos = 'number'
+    elif word.istitle():
+        if prev[1]=='Begin_Sent':
+            pos = 'uppercase'
         else:
-            pos = 'lowercase'
-        word = word.lower()
-        words.add(word)
-        wordCounts[word] += 1
-        likelihood[pos][word] += 1
-        transition[prev][pos] += 1
-        prev = (prev[1],pos)
+            pos = 'title case'
+    else:
+        pos = 'lowercase'
+    word = word.lower()
+    words.add(word)
+    wordCounts[word] += 1
+    likelihood[pos][word] += 1
+    transition[prev][pos] += 1
+    transition[prev[1]][pos]+=1
+    prev = (prev[1],pos)
 
 unknownWords = [k for k, v in wordCounts.items() if v == 1]
 for unknown in unknownWords:
@@ -52,10 +54,10 @@ for pos in likelihood:
     for word in likelihood[pos]:
         likelihood[pos][word] = likelihood[pos][word] / total
 
-for bigram in transition:
-    total = sum(transition[bigram].values())
-    for state in transition[bigram]:
-        transition_probabilities[bigram][state] = transition[bigram][state] / total
+for t in transition:
+    total = sum(transition[t].values())
+    for state in transition[t]:
+        transition_probabilities[t][state] = transition[t][state] / total
 
 sentence = []
 tags = ['Begin_Sent', 'title case', 'uppercase', 'lowercase', 'End_Sent', 'punctuation', 'number', 'other']
@@ -90,7 +92,7 @@ for line in file:
                         currTag = tags[i]
                         prevTag = tags[k]
                         prev2Tag = tags[t]
-                        currTransition = transition_probabilities[(prev2Tag,prevTag)][currTag]
+                        currTransition = transition_probabilities[(prev2Tag,prevTag)][currTag]*transition_probabilities[prevTag][currTag]
                         #handle oov using unknown word
                         currLikelihood = likelihood[currTag]["Unknown_Word"]
                         #known words

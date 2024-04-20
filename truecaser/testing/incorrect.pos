@@ -1,32 +1,26 @@
+answer: international  title case
+response: international  lowercase
+
 answer: new  title case
 response: new  lowercase
-
-answer: price  lowercase
-response: price  title case
-
-answer: industrial  lowercase
-response: industrial  title case
 
 answer: housing  lowercase
 response: housing  title case
 
+answer: starts  lowercase
+response: starts  title case
+
 answer: there  title case
 response: there  lowercase
 
-answer: englund  title case
-response: englund  lowercase
-
-answer: englund  title case
-response: englund  lowercase
-
-answer: industrial  lowercase
-response: industrial  title case
+answer: trade  title case
+response: trade  lowercase
 
 answer: the  title case
 response: the  lowercase
 
-answer: chandross  title case
-response: chandross  lowercase
+answer: cpi  lowercase
+response: cpi  title case
 
 answer: bank  title case
 response: bank  lowercase
@@ -49,6 +43,9 @@ response: financial  lowercase
 answer: group  title case
 response: group  lowercase
 
+answer: starts  lowercase
+response: starts  title case
+
 answer: why  title case
 response: why  lowercase
 
@@ -58,11 +55,23 @@ response: to  lowercase
 answer: similar  title case
 response: similar  lowercase
 
+answer: rollin  title case
+response: rollin  lowercase
+
+answer: s.  title case
+response: s.  lowercase
+
 answer: trexler  title case
 response: trexler  lowercase
 
 answer: comment  title case
 response: comment  lowercase
+
+answer: c.e.  title case
+response: c.e.  lowercase
+
+answer: thames  title case
+response: thames  lowercase
 
 answer: television  title case
 response: television  lowercase
@@ -70,14 +79,14 @@ response: television  lowercase
 answer: capital  title case
 response: capital  lowercase
 
-answer: city  title case
-response: city  lowercase
-
 answer: shane  title case
 response: shane  lowercase
 
 answer: longman  title case
 response: longman  lowercase
+
+answer: london  title case
+response: london  lowercase
 
 answer: shane  title case
 response: shane  lowercase
@@ -96,9 +105,6 @@ response: michelle  lowercase
 
 answer: michelle  title case
 response: michelle  lowercase
-
-answer: sandwich  lowercase
-response: sandwich  title case
 
 answer: shane  title case
 response: shane  lowercase
@@ -115,6 +121,9 @@ response: shane  lowercase
 answer: longman  title case
 response: longman  lowercase
 
+answer: house  lowercase
+response: house  title case
+
 answer: porsche  title case
 response: porsche  lowercase
 
@@ -130,8 +139,11 @@ response: max  lowercase
 answer: max  title case
 response: max  lowercase
 
-answer: dialects  lowercase
-response: dialects  title case
+answer: chinese  title case
+response: chinese  lowercase
+
+answer: girl  lowercase
+response: girl  title case
 
 answer: dieppe  title case
 response: dieppe  lowercase
@@ -142,17 +154,20 @@ response: capital  lowercase
 answer: city  title case
 response: city  lowercase
 
+answer: thames  title case
+response: thames  lowercase
+
 answer: shane  title case
 response: shane  lowercase
 
 answer: longman  title case
 response: longman  lowercase
 
-answer: budget  lowercase
-response: budget  title case
-
 answer: dealers  title case
 response: dealers  lowercase
+
+answer: london  title case
+response: london  lowercase
 
 answer: capital  title case
 response: capital  lowercase
@@ -190,17 +205,17 @@ response: it  lowercase
 answer: out  title case
 response: out  lowercase
 
-answer: taffner  title case
-response: taffner  lowercase
+answer: antecedents  lowercase
+response: antecedents  title case
 
 answer: ideal  lowercase
 response: ideal  title case
 
+answer: solution  lowercase
+response: solution  title case
+
 answer: capital  title case
 response: capital  lowercase
-
-answer: city  title case
-response: city  lowercase
 
 answer: carry  title case
 response: carry  lowercase
@@ -220,9 +235,6 @@ response: zsa  lowercase
 answer: gabor  title case
 response: gabor  lowercase
 
-answer: armstrong  title case
-response: armstrong  lowercase
-
 answer: max  title case
 response: max  lowercase
 
@@ -240,9 +252,6 @@ response: hodge  lowercase
 
 answer: declan  title case
 response: declan  lowercase
-
-answer: farentino  title case
-response: farentino  lowercase
 
 answer: rolf  title case
 response: rolf  lowercase
@@ -264,9 +273,6 @@ response: healy  lowercase
 
 answer: huntz  title case
 response: huntz  lowercase
-
-answer: hall  title case
-response: hall  lowercase
 
 answer: bowery  title case
 response: bowery  lowercase
@@ -298,23 +304,23 @@ response: bank  lowercase
 answer: white  title case
 response: white  lowercase
 
-answer: house  title case
-response: house  lowercase
-
 answer: zsa  title case
 response: zsa  lowercase
 
 answer: zsa  title case
 response: zsa  lowercase
+
+answer: guard  lowercase
+response: guard  title case
 
 answer: huntz  title case
 response: huntz  lowercase
 
-answer: hall  title case
-response: hall  lowercase
-
 answer: rustin  title case
 response: rustin  lowercase
+
+answer: london  title case
+response: london  lowercase
 
 answer: bureau  lowercase
 response: bureau  title case
@@ -328,9 +334,6 @@ response: farmers  lowercase
 answer: group  title case
 response: group  lowercase
 
-answer: states  lowercase
-response: states  title case
-
 answer: farmers  title case
 response: farmers  lowercase
 
@@ -343,8 +346,17 @@ response: b.a.t  lowercase
 answer: industries  title case
 response: industries  lowercase
 
+answer: tobacco  lowercase
+response: tobacco  title case
+
+answer: angeles-based  lowercase
+response: angeles-based  title case
+
 answer: farmers  title case
 response: farmers  lowercase
+
+answer: goldsmith  title case
+response: goldsmith  lowercase
 
 answer: farmers  title case
 response: farmers  lowercase
@@ -406,9 +418,6 @@ response: cie  lowercase
 answer: financiere  title case
 response: financiere  lowercase
 
-answer: de  lowercase
-response: de  title case
-
 answer: paribas  title case
 response: paribas  lowercase
 
@@ -462,9 +471,6 @@ response: hoylake  lowercase
 
 answer: farmers  title case
 response: farmers  lowercase
-
-answer: bebear  title case
-response: bebear  lowercase
 
 answer: farmers  title case
 response: farmers  lowercase
@@ -520,32 +526,23 @@ response: b.a.t  lowercase
 answer: general  title case
 response: general  lowercase
 
-answer: car  lowercase
-response: car  title case
-
-answer: truck  lowercase
-response: truck  title case
-
-answer: truck  lowercase
-response: truck  title case
-
-answer: models  lowercase
-response: models  number
+answer: dragged  lowercase
+response: dragged  title case
 
 answer: car  lowercase
 response: car  title case
 
-answer: truck  lowercase
-response: truck  title case
+answer: north  title case
+response: north  lowercase
+
+answer: car  lowercase
+response: car  title case
+
+answer: automakers  lowercase
+response: automakers  title case
 
 answer: auto  lowercase
 response: auto  title case
-
-answer: models  lowercase
-response: models  number
-
-answer: kelly  title case
-response: kelly  lowercase
 
 answer: bill  title case
 response: bill  lowercase
@@ -562,8 +559,8 @@ response: dearborn  lowercase
 answer: mich  title case
 response: mich  lowercase
 
-answer: vehicles  lowercase
-response: vehicles  number
+answer: poor  lowercase
+response: poor  title case
 
 answer: gm  lowercase
 response: gm  uppercase
@@ -580,26 +577,29 @@ response: toyota  lowercase
 answer: motor  title case
 response: motor  lowercase
 
+answer: corp  title case
+response: corp  lowercase
+
 answer: toyota  title case
 response: toyota  lowercase
 
-answer: models  lowercase
-response: models  number
+answer: no.  title case
+response: no.  lowercase
 
-answer: truck  lowercase
-response: truck  title case
+answer: motor  title case
+response: motor  lowercase
+
+answer: motor  title case
+response: motor  lowercase
 
 answer: marysville  title case
 response: marysville  lowercase
 
 answer: accords  title case
-response: accords  number
+response: accords  lowercase
 
 answer: honda  title case
 response: honda  lowercase
-
-answer: models  lowercase
-response: models  number
 
 answer: a  lowercase
 response: a  uppercase
@@ -631,12 +631,6 @@ response: savoca  lowercase
 answer: savoca  title case
 response: savoca  lowercase
 
-answer: savoca  title case
-response: savoca  lowercase
-
-answer: borten  title case
-response: borten  lowercase
-
 answer: transportation  lowercase
 response: transportation  title case
 
@@ -654,6 +648,9 @@ response: bureau  title case
 
 answer: hungarian  title case
 response: hungarian  lowercase
+
+answer: house  lowercase
+response: house  title case
 
 answer: szabad  title case
 response: szabad  lowercase
@@ -715,11 +712,17 @@ response: they  lowercase
 answer: hungarian  title case
 response: hungarian  lowercase
 
+answer: andrew  title case
+response: andrew  lowercase
+
 answer: deak  title case
 response: deak  lowercase
 
 answer: technical  title case
 response: technical  lowercase
+
+answer: university  title case
+response: university  lowercase
 
 answer: budapest  title case
 response: budapest  lowercase
@@ -733,11 +736,11 @@ response: hungarian  lowercase
 answer: hungary  title case
 response: hungary  lowercase
 
-answer: state  title case
-response: state  lowercase
-
 answer: voice  title case
 response: voice  lowercase
+
+answer: broadcast  lowercase
+response: broadcast  title case
 
 answer: hungarian  title case
 response: hungarian  lowercase
@@ -751,14 +754,8 @@ response: rupert  lowercase
 answer: murdoch  title case
 response: murdoch  lowercase
 
-answer: stakes  lowercase
-response: stakes  number
-
 answer: hungarian  title case
 response: hungarian  lowercase
-
-answer: maxwell  title case
-response: maxwell  lowercase
 
 answer: radio  title case
 response: radio  lowercase
@@ -871,6 +868,9 @@ response: radio  lowercase
 answer: free  title case
 response: free  lowercase
 
+answer: correspondent  lowercase
+response: correspondent  title case
+
 answer: budapest  title case
 response: budapest  lowercase
 
@@ -885,6 +885,9 @@ response: radio  lowercase
 
 answer: free  title case
 response: free  lowercase
+
+answer: loyalty  lowercase
+response: loyalty  title case
 
 answer: dark  title case
 response: dark  lowercase
@@ -913,6 +916,9 @@ response: hungary  lowercase
 answer: when  title case
 response: when  lowercase
 
+answer: station  lowercase
+response: station  title case
+
 answer: budapest  title case
 response: budapest  lowercase
 
@@ -933,9 +939,6 @@ response: end  lowercase
 
 answer: day  title case
 response: day  lowercase
-
-answer: p.m  lowercase
-response: p.m  number
 
 answer: hungary  title case
 response: hungary  lowercase
@@ -976,9 +979,6 @@ response: hungarian  lowercase
 answer: newsreel  title case
 response: newsreel  lowercase
 
-answer: international  lowercase
-response: international  title case
-
 answer: the  title case
 response: the  lowercase
 
@@ -990,6 +990,9 @@ response: radio  lowercase
 
 answer: free  title case
 response: free  lowercase
+
+answer: intersperses  lowercase
+response: intersperses  title case
 
 answer: western  title case
 response: western  lowercase
@@ -1006,9 +1009,6 @@ response: boys  lowercase
 answer: budapest  title case
 response: budapest  lowercase
 
-answer: deak  title case
-response: deak  lowercase
-
 answer: every  title case
 response: every  lowercase
 
@@ -1024,6 +1024,24 @@ response: service  lowercase
 answer: act  title case
 response: act  lowercase
 
+answer: moreover  lowercase
+response: moreover  Begin_Sent
+
+answer: could  lowercase
+response: could  Begin_Sent
+
+answer: be  lowercase
+response: be  Begin_Sent
+
+answer: a  lowercase
+response: a  Begin_Sent
+
+answer: national-service  lowercase
+response: national-service  Begin_Sent
+
+answer: option  lowercase
+response: option  Begin_Sent
+
 answer: democratic  title case
 response: democratic  lowercase
 
@@ -1033,35 +1051,20 @@ response: leadership  lowercase
 answer: council  title case
 response: council  lowercase
 
-answer: college  lowercase
-response: college  title case
-
-answer: grant  lowercase
-response: grant  title case
-
-answer: kennedy  title case
-response: kennedy  lowercase
-
 answer: labor  title case
 response: labor  lowercase
 
+answer: committee  title case
+response: committee  lowercase
+
 answer: nunn  title case
 response: nunn  lowercase
-
-answer: la  lowercase
-response: la  title case
-
-answer: chris  title case
-response: chris  lowercase
 
 answer: dodd  title case
 response: dodd  lowercase
 
 answer: kennedy  title case
 response: kennedy  lowercase
-
-answer: dale  title case
-response: dale  lowercase
 
 answer: bumpers  title case
 response: bumpers  lowercase
@@ -1087,20 +1090,20 @@ response: senior  lowercase
 answer: companion  title case
 response: companion  lowercase
 
-answer: house  title case
-response: house  lowercase
+answer: congress  title case
+response: congress  lowercase
 
 answer: gallup  title case
 response: gallup  lowercase
 
-answer: national  lowercase
-response: national  title case
+answer: poll  title case
+response: poll  lowercase
+
+answer: adults  lowercase
+response: adults  title case
 
 answer: bill  title case
 response: bill  lowercase
-
-answer: national  lowercase
-response: national  title case
 
 answer: points  title case
 response: points  lowercase
@@ -1111,23 +1114,20 @@ response: light  lowercase
 answer: white  title case
 response: white  lowercase
 
-answer: house  title case
-response: house  lowercase
-
 answer: democratic  title case
 response: democratic  lowercase
 
 answer: chapman  title case
 response: chapman  lowercase
 
+answer: hudson  title case
+response: hudson  lowercase
+
 answer: hoover  title case
 response: hoover  lowercase
 
 answer: institution  title case
 response: institution  lowercase
-
-answer: szanton  title case
-response: szanton  lowercase
 
 answer: emporium  title case
 response: emporium  lowercase
@@ -1138,8 +1138,8 @@ response: gary  lowercase
 answer: wilber  title case
 response: wilber  lowercase
 
-answer: wilber  title case
-response: wilber  lowercase
+answer: e.  title case
+response: e.  lowercase
 
 answer: lyons  title case
 response: lyons  lowercase
@@ -1177,6 +1177,9 @@ response: energy  lowercase
 answer: physicians  title case
 response: physicians  lowercase
 
+answer: representatives  lowercase
+response: representatives  title case
+
 answer: prime  title case
 response: prime  lowercase
 
@@ -1185,6 +1188,12 @@ response: bedminster  lowercase
 
 answer: prime  title case
 response: prime  lowercase
+
+answer: national  title case
+response: national  lowercase
+
+answer: statistics  title case
+response: statistics  lowercase
 
 answer: institute  lowercase
 response: institute  title case
@@ -1204,8 +1213,8 @@ response: national  lowercase
 answer: service  title case
 response: service  lowercase
 
-answer: localities  lowercase
-response: localities  number
+answer: congress  title case
+response: congress  lowercase
 
 answer: nunn  title case
 response: nunn  lowercase
@@ -1213,17 +1222,8 @@ response: nunn  lowercase
 answer: ga  title case
 response: ga  lowercase
 
-answer: dave  title case
-response: dave  lowercase
-
 answer: okla.  title case
 response: okla.  lowercase
-
-answer: college  lowercase
-response: college  title case
-
-answer: kennedy  title case
-response: kennedy  lowercase
 
 answer: mass.  title case
 response: mass.  lowercase
@@ -1240,11 +1240,14 @@ response: claiborne  lowercase
 answer: pell  title case
 response: pell  lowercase
 
+answer: barbara  title case
+response: barbara  lowercase
+
 answer: mikulski  title case
 response: mikulski  lowercase
 
-answer: dodd  title case
-response: dodd  lowercase
+answer: passage  lowercase
+response: passage  title case
 
 answer: youth  title case
 response: youth  lowercase
@@ -1254,9 +1257,6 @@ response: entering  lowercase
 
 answer: service  title case
 response: service  lowercase
-
-answer: yes  lowercase
-response: yes  title case
 
 answer: part-time  lowercase
 response: part-time  uppercase
@@ -1273,9 +1273,6 @@ response: service  lowercase
 answer: federal  title case
 response: federal  lowercase
 
-answer: college  lowercase
-response: college  title case
-
 answer: bill  title case
 response: bill  lowercase
 
@@ -1283,13 +1280,40 @@ answer: encouragement  title case
 response: encouragement  lowercase
 
 answer: who  title case
-response: who  lowercase
+response: who  Begin_Sent
+
+answer: will  lowercase
+response: will  Begin_Sent
+
+answer: throw  lowercase
+response: throw  Begin_Sent
+
+answer: several  lowercase
+response: several  Begin_Sent
+
+answer: hundred  lowercase
+response: hundred  Begin_Sent
+
+answer: thousand  lowercase
+response: thousand  Begin_Sent
+
+answer: refusers  lowercase
+response: refusers  Begin_Sent
+
+answer: in  lowercase
+response: in  Begin_Sent
+
+answer: jail  lowercase
+response: jail  Begin_Sent
+
+answer: each  lowercase
+response: each  Begin_Sent
+
+answer: year  lowercase
+response: year  Begin_Sent
 
 answer: good  title case
 response: good  lowercase
-
-answer: forest  lowercase
-response: forest  title case
 
 answer: supervision  lowercase
 response: supervision  title case
@@ -1303,23 +1327,20 @@ response: supervision  title case
 answer: stanford  title case
 response: stanford  lowercase
 
+answer: yale  title case
+response: yale  lowercase
+
 answer: non-residential  lowercase
 response: non-residential  uppercase
 
 answer: underclass  title case
-response: underclass  number
-
-answer: college  lowercase
-response: college  title case
+response: underclass  lowercase
 
 answer: szanton  title case
 response: szanton  lowercase
 
 answer: carter  title case
 response: carter  lowercase
-
-answer: budget  lowercase
-response: budget  title case
 
 answer: national  title case
 response: national  lowercase
@@ -1339,35 +1360,32 @@ response: it  lowercase
 answer: mean  title case
 response: mean  lowercase
 
+answer: lexington  title case
+response: lexington  number
+
 answer: books  title case
 response: books  lowercase
 
-answer: reserve  title case
-response: reserve  lowercase
+answer: treasury  title case
+response: treasury  lowercase
 
-answer: chairman  title case
-response: chairman  lowercase
+answer: secretary  title case
+response: secretary  lowercase
 
-answer: greenspan  title case
-response: greenspan  lowercase
-
-answer: fed  title case
-response: fed  lowercase
+answer: nicholas  title case
+response: nicholas  lowercase
 
 answer: brady  title case
 response: brady  lowercase
 
-answer: wall  title case
-response: wall  lowercase
-
-answer: street  title case
-response: street  lowercase
-
 answer: assistant  title case
 response: assistant  lowercase
 
-answer: fed  title case
-response: fed  lowercase
+answer: secretary  title case
+response: secretary  lowercase
+
+answer: carefully  lowercase
+response: carefully  title case
 
 answer: the  title case
 response: the  lowercase
@@ -1375,26 +1393,29 @@ response: the  lowercase
 answer: new  title case
 response: new  lowercase
 
-answer: times  title case
-response: times  lowercase
-
-answer: post  title case
-response: post  lowercase
-
-answer: fed  title case
-response: fed  lowercase
-
 answer: chairman  title case
 response: chairman  lowercase
 
 answer: greenspan  title case
 response: greenspan  lowercase
 
+answer: provides  lowercase
+response: provides  title case
+
+answer: budget  title case
+response: budget  lowercase
+
+answer: director  title case
+response: director  lowercase
+
 answer: this  title case
 response: this  lowercase
 
 answer: week  title case
 response: week  lowercase
+
+answer: treasury  title case
+response: treasury  lowercase
 
 answer: brady  title case
 response: brady  lowercase
@@ -1408,8 +1429,17 @@ response: greenspan  lowercase
 answer: it  title case
 response: it  lowercase
 
+answer: treasury  title case
+response: treasury  lowercase
+
+answer: secretary  title case
+response: secretary  lowercase
+
 answer: brady  title case
 response: brady  lowercase
+
+answer: today  title case
+response: today  lowercase
 
 answer: the  title case
 response: the  lowercase
@@ -1432,23 +1462,29 @@ response: chairman  lowercase
 answer: manuel  title case
 response: manuel  lowercase
 
+answer: johnson  title case
+response: johnson  lowercase
+
 answer: new  title case
 response: new  lowercase
 
-answer: exchange  lowercase
-response: exchange  title case
-
-answer: markets  lowercase
-response: markets  title case
+answer: zealand  title case
+response: zealand  lowercase
 
 answer: tokyo  title case
 response: tokyo  lowercase
 
-answer: fed  title case
-response: fed  lowercase
+answer: treasury  title case
+response: treasury  lowercase
 
 answer: tokyo  title case
 response: tokyo  lowercase
+
+answer: treasury  title case
+response: treasury  lowercase
+
+answer: secretary  title case
+response: secretary  lowercase
 
 answer: brady  title case
 response: brady  lowercase
@@ -1456,17 +1492,11 @@ response: brady  lowercase
 answer: undersecretary  title case
 response: undersecretary  lowercase
 
-answer: glauber  title case
-response: glauber  lowercase
-
 answer: assistant  title case
 response: assistant  lowercase
 
-answer: brady  title case
-response: brady  lowercase
-
-answer: commission  title case
-response: commission  lowercase
+answer: secretary  title case
+response: secretary  lowercase
 
 answer: brady  title case
 response: brady  lowercase
@@ -1477,23 +1507,11 @@ response: brady  lowercase
 answer: white  title case
 response: white  lowercase
 
-answer: house  title case
-response: house  lowercase
-
 answer: new  title case
 response: new  lowercase
 
-answer: brady  title case
-response: brady  lowercase
-
-answer: greenspan  title case
-response: greenspan  lowercase
-
 answer: chairman  title case
 response: chairman  lowercase
-
-answer: breeden  title case
-response: breeden  lowercase
 
 answer: new  title case
 response: new  lowercase
@@ -1504,17 +1522,8 @@ response: president  lowercase
 answer: camp  title case
 response: camp  lowercase
 
-answer: brady  title case
-response: brady  lowercase
-
-answer: boskin  title case
-response: boskin  lowercase
-
 answer: undersecretary  title case
 response: undersecretary  lowercase
-
-answer: mulford  title case
-response: mulford  lowercase
 
 answer: business  title case
 response: business  lowercase
@@ -1530,15 +1539,6 @@ response: springs  lowercase
 
 answer: va.  title case
 response: va.  lowercase
-
-answer: greenspan  title case
-response: greenspan  lowercase
-
-answer: bankers  title case
-response: bankers  lowercase
-
-answer: a.m.  lowercase
-response: a.m.  number
 
 answer: greenspan  title case
 response: greenspan  lowercase
@@ -1563,9 +1563,6 @@ response: commercial  lowercase
 
 answer: rand  title case
 response: rand  lowercase
-
-answer: exchange  lowercase
-response: exchange  title case
 
 answer: e  lowercase
 response: e  uppercase
@@ -1594,14 +1591,11 @@ response: do  lowercase
 answer: depression  title case
 response: depression  lowercase
 
-answer: scary  lowercase
-response: scary  number
+answer: massacres  lowercase
+response: massacres  title case
 
 answer: there  title case
 response: there  lowercase
-
-answer: timbers  title case
-response: timbers  lowercase
 
 answer: kemper  title case
 response: kemper  lowercase
@@ -1611,9 +1605,6 @@ response: financial  lowercase
 
 answer: services  title case
 response: services  lowercase
-
-answer: pat  lowercase
-response: pat  title case
 
 answer: when  title case
 response: when  lowercase
@@ -1639,9 +1630,6 @@ response: janachowski  lowercase
 answer: wait  title case
 response: wait  lowercase
 
-answer: front  title case
-response: front  lowercase
-
 answer: stein  title case
 response: stein  lowercase
 
@@ -1651,9 +1639,6 @@ response: roe  lowercase
 answer: farnham  title case
 response: farnham  lowercase
 
-answer: front  title case
-response: front  lowercase
-
 answer: this  title case
 response: this  lowercase
 
@@ -1662,6 +1647,12 @@ response: so  lowercase
 
 answer: ibbotson  title case
 response: ibbotson  lowercase
+
+answer: yale  title case
+response: yale  lowercase
+
+answer: university  title case
+response: university  lowercase
 
 answer: ibbotson  title case
 response: ibbotson  lowercase
@@ -1678,8 +1669,14 @@ response: ibbotson  lowercase
 answer: snyder  title case
 response: snyder  lowercase
 
+answer: chapter  lowercase
+response: chapter  title case
+
 answer: national  title case
 response: national  lowercase
+
+answer: association  title case
+response: association  lowercase
 
 answer: investors  title case
 response: investors  lowercase
@@ -1695,9 +1692,6 @@ response: a.g.  lowercase
 
 answer: edwards  title case
 response: edwards  lowercase
-
-answer: sons  title case
-response: sons  lowercase
 
 answer: stocks  title case
 response: stocks  lowercase
@@ -1720,17 +1714,17 @@ response: wal-mart  lowercase
 answer: stores  title case
 response: stores  lowercase
 
-answer: group  title case
-response: group  lowercase
-
 answer: federal  title case
 response: federal  lowercase
+
+answer: national  title case
+response: national  lowercase
 
 answer: mortgage  title case
 response: mortgage  lowercase
 
-answer: craig  title case
-response: craig  lowercase
+answer: association  title case
+response: association  lowercase
 
 answer: it  title case
 response: it  lowercase
@@ -1744,26 +1738,17 @@ response: stein  lowercase
 answer: roe  title case
 response: roe  lowercase
 
-answer: fleckenstein  title case
-response: fleckenstein  lowercase
+answer: ball  lowercase
+response: ball  title case
 
-answer: fleckenstein  title case
-response: fleckenstein  lowercase
-
-answer: fleckenstein  title case
-response: fleckenstein  lowercase
+answer: m.  title case
+response: m.  lowercase
 
 answer: aubrey  title case
 response: aubrey  lowercase
 
-answer: lanston  title case
-response: lanston  lowercase
-
 answer: securities  lowercase
 response: securities  title case
-
-answer: herman  title case
-response: herman  lowercase
 
 answer: banker  title case
 response: banker  lowercase
@@ -1780,20 +1765,17 @@ response: sears  lowercase
 answer: roebuck  title case
 response: roebuck  lowercase
 
-answer: didion  title case
-response: didion  lowercase
-
 answer: we  title case
 response: we  lowercase
 
 answer: they  title case
 response: they  lowercase
 
-answer: didion  title case
-response: didion  lowercase
-
 answer: it  title case
 response: it  lowercase
+
+answer: house  lowercase
+response: house  title case
 
 answer: coldwell  title case
 response: coldwell  lowercase
@@ -1816,14 +1798,11 @@ response: group  lowercase
 answer: d.c.  title case
 response: d.c.  lowercase
 
-answer: carlucci  title case
-response: carlucci  lowercase
-
-answer: secretary  lowercase
-response: secretary  title case
-
 answer: frederic  title case
 response: frederic  lowercase
+
+answer: v.  title case
+response: v.  lowercase
 
 answer: malek  title case
 response: malek  lowercase
@@ -1903,9 +1882,6 @@ response: walt  lowercase
 answer: disney  title case
 response: disney  lowercase
 
-answer: montgomery  title case
-response: montgomery  lowercase
-
 answer: great  title case
 response: great  lowercase
 
@@ -1914,9 +1890,6 @@ response: western  lowercase
 
 answer: financial  title case
 response: financial  lowercase
-
-answer: ubberroth  title case
-response: ubberroth  lowercase
 
 answer: merc  title case
 response: merc  lowercase
@@ -1945,14 +1918,11 @@ response: task  lowercase
 answer: force  title case
 response: force  lowercase
 
-answer: secretary  lowercase
-response: secretary  title case
+answer: treasury  title case
+response: treasury  lowercase
 
 answer: brady  title case
 response: brady  lowercase
-
-answer: board  title case
-response: board  lowercase
 
 answer: merc  title case
 response: merc  lowercase
@@ -1978,17 +1948,11 @@ response: board  lowercase
 answer: sidecar  title case
 response: sidecar  lowercase
 
-answer: exchange  lowercase
-response: exchange  title case
-
 answer: merc  title case
 response: merc  lowercase
 
 answer: you  title case
 response: you  lowercase
-
-answer: dubnow  title case
-response: dubnow  lowercase
 
 answer: merc  title case
 response: merc  lowercase
@@ -1998,12 +1962,6 @@ response: there  lowercase
 
 answer: index  lowercase
 response: index  title case
-
-answer: dubnow  title case
-response: dubnow  lowercase
-
-answer: board  title case
-response: board  lowercase
 
 answer: trade  title case
 response: trade  lowercase
@@ -2020,17 +1978,11 @@ response: index  lowercase
 answer: capitol  title case
 response: capitol  lowercase
 
-answer: hill  title case
-response: hill  lowercase
-
 answer: federal  title case
 response: federal  lowercase
 
 answer: judge  title case
 response: judge  lowercase
-
-answer: sporkin  title case
-response: sporkin  lowercase
 
 answer: new  title case
 response: new  lowercase
@@ -2046,9 +1998,6 @@ response: task  lowercase
 
 answer: force  title case
 response: force  lowercase
-
-answer: house  title case
-response: house  lowercase
 
 answer: brady  title case
 response: brady  lowercase
@@ -2077,8 +2026,14 @@ response: group  lowercase
 answer: federal  title case
 response: federal  lowercase
 
+answer: treasury  title case
+response: treasury  lowercase
+
 answer: securities  title case
 response: securities  lowercase
+
+answer: exchange  title case
+response: exchange  lowercase
 
 answer: commodity  title case
 response: commodity  lowercase
@@ -2088,9 +2043,6 @@ response: futures  lowercase
 
 answer: trading  title case
 response: trading  lowercase
-
-answer: commission  title case
-response: commission  lowercase
 
 answer: if  title case
 response: if  lowercase
@@ -2140,6 +2092,9 @@ response: jan.  lowercase
 answer: establish  title case
 response: establish  lowercase
 
+answer: unify  title case
+response: unify  lowercase
+
 answer: make  title case
 response: make  lowercase
 
@@ -2159,7 +2114,7 @@ answer: transfer  title case
 response: transfer  lowercase
 
 answer: opposed  title case
-response: opposed  lowercase
+response: opposed  number
 
 answer: give  title case
 response: give  lowercase
@@ -2167,11 +2122,17 @@ response: give  lowercase
 answer: create  title case
 response: create  lowercase
 
+answer: films  lowercase
+response: films  title case
+
 answer: there  title case
 response: there  lowercase
 
 answer: nikolai  title case
 response: nikolai  lowercase
+
+answer: i.  title case
+response: i.  lowercase
 
 answer: lutsenko  title case
 response: lutsenko  lowercase
@@ -2187,12 +2148,6 @@ response: lutsenko  lowercase
 
 answer: nedelya  title case
 response: nedelya  lowercase
-
-answer: films  lowercase
-response: films  title case
-
-answer: lutsenko  title case
-response: lutsenko  lowercase
 
 answer: colorado  title case
 response: colorado  lowercase
@@ -2203,23 +2158,53 @@ response: nika  lowercase
 answer: communist  title case
 response: communist  lowercase
 
+answer: africa  title case
+response: africa  lowercase
+
+answer: national  title case
+response: national  lowercase
+
+answer: union  title case
+response: union  lowercase
+
 answer: mineworkers  title case
 response: mineworkers  lowercase
 
+answer: diamond  lowercase
+response: diamond  Begin_Sent
+
 answer: miners  lowercase
-response: miners  number
+response: miners  Begin_Sent
+
+answer: struck  lowercase
+response: struck  Begin_Sent
+
+answer: for  lowercase
+response: for  Begin_Sent
+
+answer: higher  lowercase
+response: higher  Begin_Sent
+
+answer: wages  lowercase
+response: wages  Begin_Sent
+
+answer: at  lowercase
+response: at  Begin_Sent
 
 answer: de  title case
-response: de  lowercase
+response: de  Begin_Sent
 
 answer: beers  title case
-response: beers  lowercase
+response: beers  Begin_Sent
 
 answer: consolidated  title case
-response: consolidated  lowercase
+response: consolidated  Begin_Sent
 
 answer: mines  title case
-response: mines  lowercase
+response: mines  Begin_Sent
+
+answer: ltd.  title case
+response: ltd.  Begin_Sent
 
 answer: beers  title case
 response: beers  lowercase
@@ -2235,6 +2220,9 @@ response: socialist  lowercase
 
 answer: party  title case
 response: party  lowercase
+
+answer: parliament  title case
+response: parliament  lowercase
 
 answer: liberal  title case
 response: liberal  lowercase
@@ -2248,20 +2236,11 @@ response: party  lowercase
 answer: yamaguchi  title case
 response: yamaguchi  lowercase
 
-answer: secretary  lowercase
-response: secretary  title case
-
 answer: socialist  title case
 response: socialist  lowercase
 
 answer: party  title case
 response: party  lowercase
-
-answer: association  lowercase
-response: association  title case
-
-answer: yen  lowercase
-response: yen  number
 
 answer: world  title case
 response: world  lowercase
@@ -2287,6 +2266,9 @@ response: indonesia  lowercase
 answer: convention  title case
 response: convention  lowercase
 
+answer: international  title case
+response: international  lowercase
+
 answer: trade  title case
 response: trade  lowercase
 
@@ -2304,9 +2286,6 @@ response: simon  lowercase
 
 answer: lyster  title case
 response: lyster  lowercase
-
-answer: torpedoed  lowercase
-response: torpedoed  number
 
 answer: east-west  title case
 response: east-west  lowercase
@@ -2329,9 +2308,6 @@ response: labor  lowercase
 answer: bank  title case
 response: bank  lowercase
 
-answer: china  title case
-response: china  lowercase
-
 answer: daily  title case
 response: daily  lowercase
 
@@ -2341,11 +2317,11 @@ response: state  lowercase
 answer: statistical  title case
 response: statistical  lowercase
 
-answer: yuan  lowercase
-response: yuan  number
+answer: russian  title case
+response: russian  lowercase
 
-answer: budget  lowercase
-response: budget  title case
+answer: priests  lowercase
+response: priests  title case
 
 answer: moscow  title case
 response: moscow  lowercase
@@ -2362,8 +2338,8 @@ response: cathedral  lowercase
 answer: buddha  title case
 response: buddha  lowercase
 
-answer: china  title case
-response: china  lowercase
+answer: hill  lowercase
+response: hill  title case
 
 answer: sik  title case
 response: sik  lowercase
@@ -2389,9 +2365,6 @@ response: last  lowercase
 answer: steven  title case
 response: steven  lowercase
 
-answer: iken  title case
-response: iken  lowercase
-
 answer: justin  title case
 response: justin  lowercase
 
@@ -2403,9 +2376,6 @@ response: it  lowercase
 
 answer: sony  title case
 response: sony  lowercase
-
-answer: iken  title case
-response: iken  lowercase
 
 answer: justin  title case
 response: justin  lowercase
@@ -2458,8 +2428,8 @@ response: may  lowercase
 answer: federal  lowercase
 response: federal  title case
 
-answer: kaye  title case
-response: kaye  lowercase
+answer: court  lowercase
+response: court  title case
 
 answer: justin  title case
 response: justin  lowercase
@@ -2470,11 +2440,11 @@ response: it  lowercase
 answer: sony  title case
 response: sony  lowercase
 
+answer: business  lowercase
+response: business  title case
+
 answer: sony  title case
 response: sony  lowercase
-
-answer: china  title case
-response: china  lowercase
 
 answer: the  title case
 response: the  lowercase
@@ -2491,9 +2461,6 @@ response: sony  lowercase
 answer: lewis  title case
 response: lewis  lowercase
 
-answer: eslinger  title case
-response: eslinger  lowercase
-
 answer: sony  title case
 response: sony  lowercase
 
@@ -2504,10 +2471,10 @@ answer: cube  title case
 response: cube  lowercase
 
 answer: sony  title case
-response: sony  lowercase
+response: sony  number
 
-answer: eslinger  title case
-response: eslinger  lowercase
+answer: sony  title case
+response: sony  lowercase
 
 answer: they  title case
 response: they  lowercase
@@ -2539,9 +2506,6 @@ response: justin  lowercase
 answer: justin  title case
 response: justin  lowercase
 
-answer: kaye  title case
-response: kaye  lowercase
-
 answer: justin  title case
 response: justin  lowercase
 
@@ -2560,14 +2524,11 @@ response: justin  lowercase
 answer: mickey  title case
 response: mickey  lowercase
 
-answer: kaye  title case
-response: kaye  lowercase
-
-answer: kaye  title case
-response: kaye  lowercase
+answer: mouse  title case
+response: mouse  lowercase
 
 answer: sony  title case
-response: sony  number
+response: sony  lowercase
 
 answer: walkman  title case
 response: walkman  lowercase
@@ -2581,14 +2542,11 @@ response: first  lowercase
 answer: sony  title case
 response: sony  lowercase
 
-answer: in  title case
-response: in  lowercase
+answer: court  lowercase
+response: court  title case
 
 answer: sony  title case
 response: sony  lowercase
-
-answer: kaye  title case
-response: kaye  lowercase
 
 answer: sony  title case
 response: sony  lowercase
@@ -2597,13 +2555,73 @@ answer: justin  title case
 response: justin  lowercase
 
 answer: to  title case
-response: to  lowercase
+response: to  Begin_Sent
+
+answer: be  lowercase
+response: be  Begin_Sent
+
+answer: successful  lowercase
+response: successful  Begin_Sent
+
+answer: a  lowercase
+response: a  Begin_Sent
+
+answer: product  lowercase
+response: product  Begin_Sent
+
+answer: can  lowercase
+response: can  Begin_Sent
+
+answer: be  lowercase
+response: be  Begin_Sent
+
+answer: any  lowercase
+response: any  Begin_Sent
+
+answer: color  lowercase
+response: color  Begin_Sent
+
+answer: whatsoever  lowercase
+response: whatsoever  Begin_Sent
+
+answer: as  lowercase
+response: as  Begin_Sent
+
+answer: long  lowercase
+response: long  Begin_Sent
+
+answer: as  lowercase
+response: as  Begin_Sent
+
+answer: it  lowercase
+response: it  Begin_Sent
+
+answer: is  lowercase
+response: is  Begin_Sent
+
+answer: fire-engine  lowercase
+response: fire-engine  Begin_Sent
+
+answer: red  lowercase
+response: red  Begin_Sent
+
+answer: says  lowercase
+response: says  Begin_Sent
+
+answer: charles  title case
+response: charles  Begin_Sent
+
+answer: e.  title case
+response: e.  Begin_Sent
 
 answer: baxley  title case
-response: baxley  lowercase
+response: baxley  Begin_Sent
 
 answer: justin  title case
-response: justin  lowercase
+response: justin  Begin_Sent
+
+answer: attorney  lowercase
+response: attorney  Begin_Sent
 
 answer: justin  title case
 response: justin  lowercase
@@ -2623,12 +2641,6 @@ response: sony  lowercase
 answer: justin  title case
 response: justin  lowercase
 
-answer: baxley  title case
-response: baxley  lowercase
-
-answer: fired  lowercase
-response: fired  title case
-
 answer: sony  title case
 response: sony  lowercase
 
@@ -2638,20 +2650,11 @@ response: federal  lowercase
 answer: trade  title case
 response: trade  lowercase
 
-answer: commission  title case
-response: commission  lowercase
-
 answer: justin  title case
 response: justin  lowercase
 
-answer: eslinger  title case
-response: eslinger  lowercase
-
 answer: sony  title case
 response: sony  lowercase
-
-answer: baxley  title case
-response: baxley  lowercase
 
 answer: our  title case
 response: our  lowercase
@@ -2668,6 +2671,9 @@ response: once  lowercase
 answer: sony  title case
 response: sony  lowercase
 
+answer: courtrooms  lowercase
+response: courtrooms  title case
+
 answer: sony  title case
 response: sony  lowercase
 
@@ -2679,6 +2685,9 @@ response: first  lowercase
 
 answer: sony  title case
 response: sony  lowercase
+
+answer: justin  title case
+response: justin  number
 
 answer: sony  title case
 response: sony  lowercase
@@ -2695,14 +2704,8 @@ response: kaye  lowercase
 answer: sony  title case
 response: sony  lowercase
 
-answer: kaye  title case
-response: kaye  lowercase
-
 answer: they  title case
 response: they  lowercase
-
-answer: tenney  title case
-response: tenney  lowercase
 
 answer: unitil  title case
 response: unitil  lowercase
@@ -2713,6 +2716,9 @@ response: unitil  lowercase
 answer: securities  title case
 response: securities  lowercase
 
+answer: exchange  title case
+response: exchange  lowercase
+
 answer: unitil  title case
 response: unitil  lowercase
 
@@ -2720,7 +2726,7 @@ answer: exeter  title case
 response: exeter  lowercase
 
 answer: n.h.  title case
-response: n.h.  number
+response: n.h.  lowercase
 
 answer: fitchburg  title case
 response: fitchburg  lowercase
@@ -2740,8 +2746,14 @@ response: mass.  lowercase
 answer: eastern  title case
 response: eastern  lowercase
 
+answer: utilities  title case
+response: utilities  lowercase
+
 answer: associates  title case
 response: associates  lowercase
+
+answer: utilities  title case
+response: utilities  lowercase
 
 answer: unitil  title case
 response: unitil  lowercase
@@ -2751,9 +2763,6 @@ response: fitchburg  lowercase
 
 answer: gas  title case
 response: gas  lowercase
-
-answer: bank  title case
-response: bank  lowercase
 
 answer: banque  title case
 response: banque  lowercase
@@ -2812,14 +2821,11 @@ response: rocha  lowercase
 answer: garza  title case
 response: garza  lowercase
 
-answer: laboratories  title case
-response: laboratories  lowercase
-
 answer: securities  title case
 response: securities  lowercase
 
-answer: rocha  title case
-response: rocha  lowercase
+answer: exchange  title case
+response: exchange  lowercase
 
 answer: garza  title case
 response: garza  lowercase
@@ -2863,9 +2869,6 @@ response: rocha  lowercase
 answer: garza  title case
 response: garza  lowercase
 
-answer: laboratories  title case
-response: laboratories  lowercase
-
 answer: president  title case
 response: president  lowercase
 
@@ -2899,11 +2902,11 @@ response: recreation  lowercase
 answer: oliver  title case
 response: oliver  lowercase
 
+answer: e.  title case
+response: e.  lowercase
+
 answer: investcorp  title case
 response: investcorp  lowercase
-
-answer: committee  lowercase
-response: committee  title case
 
 answer: unlimited  title case
 response: unlimited  lowercase
@@ -2914,17 +2917,14 @@ response: sports  lowercase
 answer: recreation  title case
 response: recreation  lowercase
 
+answer: brunswick  title case
+response: brunswick  lowercase
+
 answer: skokie  title case
 response: skokie  lowercase
 
-answer: ill  title case
-response: ill  lowercase
-
-answer: beach  title case
-response: beach  lowercase
-
-answer: fidelity  title case
-response: fidelity  lowercase
+answer: extended  lowercase
+response: extended  title case
 
 answer: irvine  title case
 response: irvine  lowercase
@@ -2935,6 +2935,12 @@ response: hammond  lowercase
 answer: securities  title case
 response: securities  lowercase
 
+answer: exchange  title case
+response: exchange  lowercase
+
+answer: filings  lowercase
+response: filings  title case
+
 answer: hammond  title case
 response: hammond  lowercase
 
@@ -2943,18 +2949,6 @@ response: group  lowercase
 
 answer: aspen  title case
 response: aspen  lowercase
-
-answer: united  title case
-response: united  lowercase
-
-answer: express  title case
-response: express  lowercase
-
-answer: united  title case
-response: united  lowercase
-
-answer: sugarman  title case
-response: sugarman  lowercase
 
 answer: aspen  title case
 response: aspen  lowercase
@@ -2970,9 +2964,6 @@ response: aspen  lowercase
 
 answer: giant  title case
 response: giant  lowercase
-
-answer: cement  lowercase
-response: cement  title case
 
 answer: assurances  title case
 response: assurances  lowercase
@@ -2997,9 +2988,6 @@ response: cie  lowercase
 
 answer: financiere  title case
 response: financiere  lowercase
-
-answer: de  lowercase
-response: de  title case
 
 answer: paribas  title case
 response: paribas  lowercase
@@ -3040,12 +3028,6 @@ response: air  lowercase
 answer: force  title case
 response: force  lowercase
 
-answer: air  title case
-response: air  lowercase
-
-answer: force  title case
-response: force  lowercase
-
 answer: t-37  title case
 response: t-37  lowercase
 
@@ -3067,9 +3049,6 @@ response: air  lowercase
 answer: force  title case
 response: force  lowercase
 
-answer: navy  title case
-response: navy  lowercase
-
 answer: t34c  title case
 response: t34c  lowercase
 
@@ -3081,6 +3060,9 @@ response: aircraft  lowercase
 
 answer: raytheon  title case
 response: raytheon  lowercase
+
+answer: corp  title case
+response: corp  lowercase
 
 answer: lockheed  title case
 response: lockheed  lowercase
@@ -3148,26 +3130,20 @@ response: ministry  lowercase
 answer: finance  title case
 response: finance  lowercase
 
+answer: frenchman  title case
+response: frenchman  lowercase
+
 answer: the  title case
 response: the  lowercase
 
-answer: sass  title case
-response: sass  lowercase
-
-answer: lonski  title case
-response: lonski  lowercase
-
-answer: moody  title case
-response: moody  lowercase
+answer: martin  title case
+response: martin  lowercase
 
 answer: investors  title case
 response: investors  lowercase
 
 answer: service  title case
 response: service  lowercase
-
-answer: price  lowercase
-response: price  title case
 
 answer: southland  title case
 response: southland  lowercase
@@ -3190,8 +3166,8 @@ response: services  lowercase
 answer: the  title case
 response: the  lowercase
 
-answer: harkins  title case
-response: harkins  lowercase
+answer: music  lowercase
+response: music  title case
 
 answer: levy  title case
 response: levy  lowercase
@@ -3202,9 +3178,6 @@ response: harkins  lowercase
 answer: you  title case
 response: you  lowercase
 
-answer: douglas  title case
-response: douglas  lowercase
-
 answer: carleton  title case
 response: carleton  lowercase
 
@@ -3213,12 +3186,6 @@ response: first  lowercase
 
 answer: first  title case
 response: first  lowercase
-
-answer: mattress  title case
-response: mattress  lowercase
-
-answer: penniman  title case
-response: penniman  lowercase
 
 answer: crisanti  title case
 response: crisanti  lowercase
@@ -3235,11 +3202,11 @@ response: financial  lowercase
 answer: services  title case
 response: services  lowercase
 
-answer: moody  title case
-response: moody  lowercase
-
 answer: asset  lowercase
 response: asset  title case
+
+answer: treasury  title case
+response: treasury  lowercase
 
 answer: technical  title case
 response: technical  lowercase
@@ -3255,6 +3222,9 @@ response: markets  lowercase
 
 answer: group  title case
 response: group  lowercase
+
+answer: treasury  title case
+response: treasury  lowercase
 
 answer: when  title case
 response: when  lowercase
@@ -3273,6 +3243,9 @@ response: this  lowercase
 
 answer: new  title case
 response: new  lowercase
+
+answer: lord  title case
+response: lord  lowercase
 
 answer: abbett  title case
 response: abbett  lowercase
@@ -3301,9 +3274,6 @@ response: system  lowercase
 answer: that  title case
 response: that  lowercase
 
-answer: carleton  title case
-response: carleton  lowercase
-
 answer: first  title case
 response: first  lowercase
 
@@ -3312,6 +3282,9 @@ response: raymond  lowercase
 
 answer: minella  title case
 response: minella  lowercase
+
+answer: merrill  title case
+response: merrill  lowercase
 
 answer: when  title case
 response: when  lowercase
@@ -3331,14 +3304,17 @@ response: last  lowercase
 answer: this  title case
 response: this  lowercase
 
+answer: mcnamara  lowercase
+response: mcnamara  title case
+
 answer: the  title case
 response: the  lowercase
 
 answer: olympia  title case
 response: olympia  lowercase
 
-answer: minella  title case
-response: minella  lowercase
+answer: merrill  title case
+response: merrill  lowercase
 
 answer: that  title case
 response: that  lowercase
@@ -3436,11 +3412,17 @@ response: law  Begin_Sent
 answer: by  title case
 response: by  lowercase
 
+answer: treasury  title case
+response: treasury  lowercase
+
 answer: in  title case
 response: in  lowercase
 
 answer: resorts  title case
 response: resorts  lowercase
+
+answer: international  title case
+response: international  lowercase
 
 answer: in  title case
 response: in  lowercase
@@ -3451,6 +3433,9 @@ response: lomas  lowercase
 answer: financial  title case
 response: financial  lowercase
 
+answer: defaulted  lowercase
+response: defaulted  title case
+
 answer: federal  title case
 response: federal  lowercase
 
@@ -3460,8 +3445,14 @@ response: deposit  lowercase
 answer: insurance  title case
 response: insurance  lowercase
 
+answer: corp  title case
+response: corp  lowercase
+
 answer: the  title case
 response: the  lowercase
+
+answer: grant  title case
+response: grant  lowercase
 
 answer: interest  title case
 response: interest  lowercase
@@ -3472,6 +3463,9 @@ response: rate  lowercase
 answer: observer  title case
 response: observer  lowercase
 
+answer: what  title case
+response: what  lowercase
+
 answer: asset  lowercase
 response: asset  title case
 
@@ -3480,6 +3474,12 @@ response: market  lowercase
 
 answer: activity  title case
 response: activity  lowercase
+
+answer: treasury  title case
+response: treasury  lowercase
+
+answer: treasury  title case
+response: treasury  lowercase
 
 answer: technical  title case
 response: technical  lowercase
@@ -3499,6 +3499,9 @@ response: group  lowercase
 answer: federal  title case
 response: federal  lowercase
 
+answer: treasury  title case
+response: treasury  lowercase
+
 answer: government  title case
 response: government  lowercase
 
@@ -3508,8 +3511,8 @@ response: national  lowercase
 answer: mortgage  title case
 response: mortgage  lowercase
 
-answer: coupon  lowercase
-response: coupon  number
+answer: association  title case
+response: association  lowercase
 
 answer: ginnie  title case
 response: ginnie  lowercase
@@ -3520,8 +3523,8 @@ response: mae  lowercase
 answer: investment-grade  lowercase
 response: investment-grade  uppercase
 
-answer: authority  title case
-response: authority  lowercase
+answer: tennessee  title case
+response: tennessee  lowercase
 
 answer: lowenstein  title case
 response: lowenstein  lowercase
@@ -3529,17 +3532,23 @@ response: lowenstein  lowercase
 answer: on  title case
 response: on  lowercase
 
-answer: house  title case
-response: house  lowercase
+answer: business  lowercase
+response: business  title case
+
+answer: ticker  lowercase
+response: ticker  title case
+
+answer: congress  title case
+response: congress  lowercase
 
 answer: president  title case
 response: president  lowercase
 
-answer: airlines  lowercase
-response: airlines  title case
+answer: fiasco  lowercase
+response: fiasco  title case
 
-answer: skinner  title case
-response: skinner  lowercase
+answer: secretary  title case
+response: secretary  lowercase
 
 answer: skinner  title case
 response: skinner  lowercase
@@ -3559,26 +3568,8 @@ response: public  lowercase
 answer: works  title case
 response: works  lowercase
 
-answer: aviation  lowercase
-response: aviation  title case
-
-answer: subcommittee  lowercase
-response: subcommittee  title case
-
-answer: united  title case
-response: united  lowercase
-
-answer: air  title case
-response: air  lowercase
-
-answer: lines  title case
-response: lines  lowercase
-
-answer: skinner  title case
-response: skinner  lowercase
-
-answer: congressman  title case
-response: congressman  lowercase
+answer: carrier  lowercase
+response: carrier  title case
 
 answer: danny  title case
 response: danny  lowercase
@@ -3586,11 +3577,14 @@ response: danny  lowercase
 answer: rostenkowski  title case
 response: rostenkowski  lowercase
 
+answer: treasury  title case
+response: treasury  lowercase
+
+answer: promises  lowercase
+response: promises  title case
+
 answer: big  title case
 response: big  lowercase
-
-answer: board  title case
-response: board  lowercase
 
 answer: board  title case
 response: board  lowercase
@@ -3604,8 +3598,11 @@ response: first  lowercase
 answer: national  title case
 response: national  lowercase
 
-answer: additions  lowercase
-response: additions  number
+answer: bank  title case
+response: bank  lowercase
+
+answer: reserve  lowercase
+response: reserve  title case
 
 answer: first  title case
 response: first  lowercase
@@ -3618,6 +3615,9 @@ response: advisors  lowercase
 
 answer: first  title case
 response: first  lowercase
+
+answer: greece  title case
+response: greece  lowercase
 
 answer: the  title case
 response: the  lowercase
@@ -3633,6 +3633,9 @@ response: andreas  lowercase
 
 answer: papandreou  title case
 response: papandreou  lowercase
+
+answer: greeks  title case
+response: greeks  lowercase
 
 answer: on  title case
 response: on  lowercase
@@ -3667,6 +3670,9 @@ response: communist  lowercase
 answer: party  title case
 response: party  lowercase
 
+answer: greece  title case
+response: greece  lowercase
+
 answer: euro-communist  title case
 response: euro-communist  lowercase
 
@@ -3676,17 +3682,8 @@ response: hellenic  lowercase
 answer: left  title case
 response: left  lowercase
 
-answer: papandreou  title case
-response: papandreou  lowercase
-
-answer: papandreou  title case
-response: papandreou  lowercase
-
-answer: papandreou  title case
-response: papandreou  lowercase
-
-answer: koskotas  title case
-response: koskotas  lowercase
+answer: greece  title case
+response: greece  lowercase
 
 answer: bank  title case
 response: bank  lowercase
@@ -3700,6 +3697,9 @@ response: salem  lowercase
 answer: mass.  title case
 response: mass.  lowercase
 
+answer: greece  title case
+response: greece  lowercase
+
 answer: koskotas  title case
 response: koskotas  lowercase
 
@@ -3712,9 +3712,6 @@ response: democracy  lowercase
 answer: communist  title case
 response: communist  lowercase
 
-answer: papandreou  title case
-response: papandreou  lowercase
-
 answer: bank  title case
 response: bank  lowercase
 
@@ -3724,14 +3721,8 @@ response: crete  lowercase
 answer: koskotas  title case
 response: koskotas  lowercase
 
-answer: koskotas  title case
-response: koskotas  lowercase
-
-answer: koskotas  title case
-response: koskotas  lowercase
-
-answer: koskotas  title case
-response: koskotas  lowercase
+answer: parliament  title case
+response: parliament  lowercase
 
 answer: new  title case
 response: new  lowercase
@@ -3739,8 +3730,8 @@ response: new  lowercase
 answer: democracy  title case
 response: democracy  lowercase
 
-answer: papandreou  title case
-response: papandreou  lowercase
+answer: greeks  title case
+response: greeks  lowercase
 
 answer: f-16  title case
 response: f-16  lowercase
@@ -3778,17 +3769,8 @@ response: dynamics  lowercase
 answer: dassault  title case
 response: dassault  lowercase
 
-answer: mitsotakis  title case
-response: mitsotakis  lowercase
-
-answer: papandreou  title case
-response: papandreou  lowercase
-
-answer: papandreou  title case
-response: papandreou  lowercase
-
-answer: papandreou  title case
-response: papandreou  lowercase
+answer: greek  title case
+response: greek  lowercase
 
 answer: he  title case
 response: he  lowercase
@@ -3801,6 +3783,9 @@ response: left  lowercase
 
 answer: progress  title case
 response: progress  lowercase
+
+answer: greece  title case
+response: greece  lowercase
 
 answer: communist  title case
 response: communist  lowercase
@@ -3817,8 +3802,8 @@ response: democracy  lowercase
 answer: party  title case
 response: party  lowercase
 
-answer: mitsotakis  title case
-response: mitsotakis  lowercase
+answer: greece  title case
+response: greece  lowercase
 
 answer: common  title case
 response: common  lowercase
@@ -3826,8 +3811,14 @@ response: common  lowercase
 answer: market  title case
 response: market  lowercase
 
+answer: greece  title case
+response: greece  lowercase
+
 answer: may  title case
 response: may  lowercase
+
+answer: elections  lowercase
+response: elections  title case
 
 answer: mohammed  title case
 response: mohammed  lowercase
@@ -3838,23 +3829,29 @@ response: rashid  lowercase
 answer: palestinian  title case
 response: palestinian  lowercase
 
+answer: flight  lowercase
+response: flight  title case
+
+answer: greek  title case
+response: greek  lowercase
+
 answer: rashid  title case
 response: rashid  lowercase
 
-answer: international  lowercase
-response: international  title case
+answer: greece  title case
+response: greece  lowercase
 
-answer: papandreou  title case
-response: papandreou  lowercase
+answer: greeks  title case
+response: greeks  lowercase
 
-answer: papandreou  title case
-response: papandreou  lowercase
+answer: greece  title case
+response: greece  lowercase
+
+answer: greek  title case
+response: greek  lowercase
 
 answer: democracy  title case
 response: democracy  lowercase
-
-answer: papandreou  title case
-response: papandreou  lowercase
 
 answer: carpenter  title case
 response: carpenter  lowercase
@@ -3877,17 +3874,20 @@ response: chairman  lowercase
 answer: greenspan  title case
 response: greenspan  lowercase
 
+answer: treasury  title case
+response: treasury  lowercase
+
 answer: tokyo  title case
 response: tokyo  lowercase
 
-answer: truck  lowercase
-response: truck  title case
+answer: conferees  lowercase
+response: conferees  title case
+
+answer: north  title case
+response: north  lowercase
 
 answer: sony  title case
 response: sony  lowercase
-
-answer: gruber  title case
-response: gruber  lowercase
 
 answer: jon  title case
 response: jon  lowercase
@@ -3898,11 +3898,8 @@ response: peters  lowercase
 answer: sony  title case
 response: sony  lowercase
 
-answer: airlines  lowercase
-response: airlines  title case
-
-answer: fifth  lowercase
-response: fifth  title case
+answer: steel-import  lowercase
+response: steel-import  title case
 
 answer: volume  title case
 response: volume  lowercase
@@ -3910,14 +3907,14 @@ response: volume  lowercase
 answer: transportation  lowercase
 response: transportation  title case
 
-answer: federal  lowercase
-response: federal  title case
+answer: index  lowercase
+response: index  title case
 
 answer: appeals  lowercase
 response: appeals  title case
 
-answer: apple  title case
-response: apple  lowercase
+answer: ruled  lowercase
+response: ruled  title case
 
 answer: computer  title case
 response: computer  lowercase
@@ -3925,17 +3922,11 @@ response: computer  lowercase
 answer: lisa  title case
 response: lisa  lowercase
 
-answer: apple  title case
-response: apple  lowercase
-
 answer: lisa  title case
 response: lisa  lowercase
 
 answer: lisa  title case
 response: lisa  lowercase
-
-answer: apple  title case
-response: apple  lowercase
 
 answer: lisa  title case
 response: lisa  lowercase
@@ -3943,6 +3934,9 @@ response: lisa  lowercase
 answer: district  lowercase
 response: district  title case
 
+answer: court  lowercase
+response: court  title case
+
 answer: lisa  title case
 response: lisa  lowercase
 
@@ -3954,12 +3948,12 @@ response: twiggy  lowercase
 
 answer: twiggy  title case
 response: twiggy  lowercase
-
-answer: apple  title case
-response: apple  lowercase
 
 answer: the  title case
 response: the  lowercase
+
+answer: patrick  title case
+response: patrick  lowercase
 
 answer: grannon  title case
 response: grannon  lowercase
@@ -3994,14 +3988,14 @@ response: the  lowercase
 answer: nfl  lowercase
 response: nfl  uppercase
 
+answer: national  title case
+response: national  lowercase
+
 answer: football  title case
 response: football  lowercase
 
 answer: league  title case
 response: league  lowercase
-
-answer: football  title case
-response: football  lowercase
 
 answer: league  title case
 response: league  lowercase
@@ -4012,8 +4006,8 @@ response: appeals  lowercase
 answer: new  title case
 response: new  lowercase
 
-answer: myerson  title case
-response: myerson  lowercase
+answer: upheld  lowercase
+response: upheld  title case
 
 answer: myerson  title case
 response: myerson  lowercase
@@ -4031,22 +4025,19 @@ answer: wagner  title case
 response: wagner  lowercase
 
 answer: heine  title case
-response: heine  number
+response: heine  lowercase
 
 answer: underberg  title case
-response: underberg  number
+response: underberg  lowercase
 
 answer: manley  title case
-response: manley  number
+response: manley  lowercase
 
 answer: myerson  title case
-response: myerson  number
+response: myerson  lowercase
 
 answer: casey  title case
-response: casey  number
-
-answer: pappas  title case
-response: pappas  lowercase
+response: casey  lowercase
 
 answer: myerson  title case
 response: myerson  lowercase
@@ -4057,9 +4048,6 @@ response: kuhn  lowercase
 answer: kuhn  title case
 response: kuhn  lowercase
 
-answer: federal  lowercase
-response: federal  title case
-
 answer: appeals  lowercase
 response: appeals  title case
 
@@ -4068,9 +4056,6 @@ response: shepard  lowercase
 
 answer: goldfein  title case
 response: goldfein  lowercase
-
-answer: court  title case
-response: court  lowercase
 
 answer: goldfein  title case
 response: goldfein  lowercase
@@ -4096,9 +4081,6 @@ response: new  lowercase
 answer: the  title case
 response: the  lowercase
 
-answer: goldfein  title case
-response: goldfein  lowercase
-
 answer: houston-calgary  lowercase
 response: houston-calgary  uppercase
 
@@ -4122,9 +4104,6 @@ response: calgary  lowercase
 
 answer: alberta  title case
 response: alberta  lowercase
-
-answer: environmental  lowercase
-response: environmental  title case
 
 answer: gibson  title case
 response: gibson  lowercase
@@ -4156,6 +4135,9 @@ response: robertson  lowercase
 answer: francis  title case
 response: francis  lowercase
 
+answer: m.  title case
+response: m.  lowercase
+
 answer: saville  title case
 response: saville  lowercase
 
@@ -4173,6 +4155,9 @@ response: w.r.  lowercase
 
 answer: grace  title case
 response: grace  lowercase
+
+answer: won  lowercase
+response: won  title case
 
 answer: pittsburgh  title case
 response: pittsburgh  lowercase
@@ -4192,6 +4177,9 @@ response: grace  lowercase
 answer: fcc  lowercase
 response: fcc  uppercase
 
+answer: s.  title case
+response: s.  lowercase
+
 answer: killory  title case
 response: killory  lowercase
 
@@ -4204,29 +4192,53 @@ response: foerster  lowercase
 answer: d.c.  title case
 response: d.c.  lowercase
 
+answer: francisco-based  lowercase
+response: francisco-based  title case
+
 answer: killory  title case
 response: killory  lowercase
 
 answer: federal  title case
 response: federal  lowercase
 
+answer: communications  title case
+response: communications  lowercase
+
+answer: general  lowercase
+response: general  title case
+
 answer: richard  lowercase
 response: richard  uppercase
+
+answer: magurno  lowercase
+response: magurno  title case
+
+answer: eastern  title case
+response: eastern  lowercase
+
+answer: airlines  title case
+response: airlines  lowercase
 
 answer: new  title case
 response: new  lowercase
 
+answer: law  lowercase
+response: law  title case
+
+answer: lord  title case
+response: lord  lowercase
+
 answer: day  title case
 response: day  lowercase
+
+answer: lord  title case
+response: lord  lowercase
 
 answer: barrett  title case
 response: barrett  lowercase
 
 answer: magurno  title case
 response: magurno  lowercase
-
-answer: air  title case
-response: air  lowercase
 
 answer: magurno  title case
 response: magurno  lowercase
@@ -4240,14 +4252,8 @@ response: new  lowercase
 answer: computer  title case
 response: computer  lowercase
 
-answer: apple  title case
-response: apple  lowercase
-
-answer: apple  title case
-response: apple  lowercase
-
-answer: monitor  title case
-response: monitor  lowercase
+answer: iigs  lowercase
+response: iigs  title case
 
 answer: macintosh  title case
 response: macintosh  lowercase
@@ -4264,20 +4270,17 @@ response: macintosh  lowercase
 answer: macintosh  title case
 response: macintosh  lowercase
 
-answer: apple  title case
-response: apple  lowercase
+answer: video  lowercase
+response: video  title case
 
-answer: apple  title case
-response: apple  lowercase
+answer: monitor  lowercase
+response: monitor  title case
 
 answer: electric  title case
 response: electric  lowercase
 
 answer: siemens  title case
 response: siemens  lowercase
-
-answer: million-mark  lowercase
-response: million-mark  number
 
 answer: siemens  title case
 response: siemens  lowercase
@@ -4303,6 +4306,9 @@ response: matsushita  lowercase
 answer: components  title case
 response: components  lowercase
 
+answer: h  title case
+response: h  lowercase
+
 answer: munich  title case
 response: munich  lowercase
 
@@ -4314,9 +4320,6 @@ response: austria  lowercase
 
 answer: rosenblatt  title case
 response: rosenblatt  lowercase
-
-answer: news  title case
-response: news  lowercase
 
 answer: world  title case
 response: world  lowercase
@@ -4333,14 +4336,8 @@ response: new  lowercase
 answer: frankly  title case
 response: frankly  lowercase
 
-answer: rosenblatt  title case
-response: rosenblatt  lowercase
-
-answer: rosenblatt  title case
-response: rosenblatt  lowercase
-
-answer: news  title case
-response: news  lowercase
+answer: missed  lowercase
+response: missed  title case
 
 answer: time  title case
 response: time  lowercase
@@ -4348,20 +4345,14 @@ response: time  lowercase
 answer: time  title case
 response: time  lowercase
 
-answer: post  title case
-response: post  lowercase
-
-answer: zuckerman  title case
-response: zuckerman  lowercase
-
-answer: rosenblatt  title case
-response: rosenblatt  lowercase
+answer: merrill  title case
+response: merrill  lowercase
 
 answer: ruby  title case
 response: ruby  lowercase
 
-answer: ruby  title case
-response: ruby  lowercase
+answer: mcloughlin  lowercase
+response: mcloughlin  title case
 
 answer: zuckerman  title case
 response: zuckerman  lowercase
@@ -4371,9 +4362,6 @@ response: rosenblatt  lowercase
 
 answer: time  title case
 response: time  lowercase
-
-answer: news  title case
-response: news  lowercase
 
 answer: world  title case
 response: world  lowercase
@@ -4390,14 +4378,8 @@ response: dassault-breguet  lowercase
 answer: aviation  title case
 response: aviation  lowercase
 
-answer: francs  lowercase
-response: francs  number
-
-answer: francs  lowercase
-response: francs  number
-
 answer: dassault  title case
-response: dassault  number
+response: dassault  lowercase
 
 answer: consolidated  title case
 response: consolidated  lowercase
@@ -4408,14 +4390,8 @@ response: industries  lowercase
 answer: glenn  title case
 response: glenn  lowercase
 
-answer: simmons  title case
-response: simmons  lowercase
-
 answer: keystone  title case
-response: keystone  number
-
-answer: simmons  title case
-response: simmons  lowercase
+response: keystone  lowercase
 
 answer: keystone  title case
 response: keystone  lowercase
@@ -4423,14 +4399,17 @@ response: keystone  lowercase
 answer: simmons  title case
 response: simmons  lowercase
 
+answer: rod  lowercase
+response: rod  title case
+
+answer: minimill  lowercase
+response: minimill  title case
+
 answer: keystone  title case
 response: keystone  lowercase
 
-answer: simmons  title case
-response: simmons  lowercase
-
 answer: keystone  title case
-response: keystone  number
+response: keystone  lowercase
 
 answer: simmons  title case
 response: simmons  lowercase
@@ -4444,14 +4423,11 @@ response: keystone  lowercase
 answer: keystone  title case
 response: keystone  lowercase
 
-answer: simmons  title case
-response: simmons  lowercase
-
-answer: singer  title case
-response: singer  lowercase
-
 answer: keystone  title case
 response: keystone  lowercase
+
+answer: coasts  lowercase
+response: coasts  title case
 
 answer: prior  title case
 response: prior  lowercase
@@ -4459,8 +4435,11 @@ response: prior  lowercase
 answer: keystone  title case
 response: keystone  lowercase
 
-answer: simmons  title case
-response: simmons  lowercase
+answer: field  lowercase
+response: field  title case
+
+answer: fence  lowercase
+response: fence  title case
 
 answer: freeport-mcmoran  lowercase
 response: freeport-mcmoran  uppercase
@@ -4488,9 +4467,6 @@ response: limited  lowercase
 
 answer: partnership  title case
 response: partnership  lowercase
-
-answer: uncle  title case
-response: uncle  lowercase
 
 answer: la.  title case
 response: la.  lowercase
@@ -4528,6 +4504,9 @@ response: corporate  lowercase
 answer: elite  title case
 response: elite  lowercase
 
+answer: publication  lowercase
+response: publication  title case
+
 answer: instruments  title case
 response: instruments  lowercase
 
@@ -4540,9 +4519,6 @@ response: week  lowercase
 answer: instruments  title case
 response: instruments  lowercase
 
-answer: miss  lowercase
-response: miss  title case
-
 answer: three  title case
 response: three  lowercase
 
@@ -4552,14 +4528,17 @@ response: financial  lowercase
 answer: bankruptcy  lowercase
 response: bankruptcy  title case
 
+answer: court  lowercase
+response: court  title case
+
 answer: lazard  title case
 response: lazard  lowercase
 
 answer: freres  title case
 response: freres  lowercase
 
-answer: markets  title case
-response: markets  lowercase
+answer: merrill  title case
+response: merrill  lowercase
 
 answer: equitable  title case
 response: equitable  lowercase
@@ -4576,8 +4555,11 @@ response: asset  title case
 answer: lomas  title case
 response: lomas  lowercase
 
-answer: chapter  title case
-response: chapter  lowercase
+answer: bankruptcy  title case
+response: bankruptcy  lowercase
+
+answer: merrill  title case
+response: merrill  lowercase
 
 answer: lomas  title case
 response: lomas  lowercase
@@ -4591,14 +4573,8 @@ response: lazard  lowercase
 answer: lazard  title case
 response: lazard  lowercase
 
-answer: imperial  title case
-response: imperial  lowercase
-
-answer: bank  title case
-response: bank  lowercase
-
-answer: commerce  title case
-response: commerce  lowercase
+answer: leasing  lowercase
+response: leasing  title case
 
 answer: bowder  title case
 response: bowder  lowercase
@@ -4609,41 +4585,50 @@ response: bank  title case
 answer: it  title case
 response: it  lowercase
 
-answer: bowder  title case
-response: bowder  lowercase
+answer: bank  lowercase
+response: bank  title case
 
 answer: bowder  title case
 response: bowder  lowercase
 
-answer: mexican  title case
-response: mexican  lowercase
-
-answer: mexican  title case
-response: mexican  lowercase
-
-answer: mexican  title case
-response: mexican  lowercase
-
-answer: mexican  title case
-response: mexican  lowercase
+answer: bank  lowercase
+response: bank  title case
 
 answer: bowder  title case
 response: bowder  lowercase
 
-answer: wall  title case
-response: wall  lowercase
+answer: mexican  title case
+response: mexican  lowercase
 
-answer: merger  lowercase
-response: merger  number
+answer: mexican  title case
+response: mexican  lowercase
+
+answer: bank  lowercase
+response: bank  title case
+
+answer: reserve  lowercase
+response: reserve  title case
+
+answer: mexican  title case
+response: mexican  lowercase
+
+answer: mexican  title case
+response: mexican  lowercase
+
+answer: zero-coupon  lowercase
+response: zero-coupon  title case
+
+answer: bowder  title case
+response: bowder  lowercase
 
 answer: the  title case
 response: the  lowercase
 
-answer: gaines  title case
-response: gaines  lowercase
-
 answer: new  title case
 response: new  lowercase
+
+answer: money-management  lowercase
+response: money-management  title case
 
 answer: gaines  title case
 response: gaines  lowercase
@@ -4666,9 +4651,6 @@ response: lazard  lowercase
 answer: freres  title case
 response: freres  lowercase
 
-answer: united  title case
-response: united  lowercase
-
 answer: takeover-stock  lowercase
 response: takeover-stock  uppercase
 
@@ -4678,8 +4660,8 @@ response: new  lowercase
 answer: donald  title case
 response: donald  lowercase
 
-answer: trump  title case
-response: trump  lowercase
+answer: london  title case
+response: london  lowercase
 
 answer: jefferies  title case
 response: jefferies  lowercase
@@ -4687,20 +4669,8 @@ response: jefferies  lowercase
 answer: securities  lowercase
 response: securities  title case
 
-answer: air  title case
-response: air  lowercase
-
-answer: lines  title case
-response: lines  lowercase
-
 answer: group  title case
 response: group  lowercase
-
-answer: wall  title case
-response: wall  lowercase
-
-answer: street  title case
-response: street  lowercase
 
 answer: mexican  title case
 response: mexican  lowercase
@@ -4753,20 +4723,17 @@ response: vitro  lowercase
 answer: donaldson  title case
 response: donaldson  lowercase
 
-answer: loan  lowercase
-response: loan  title case
-
 answer: vitro  title case
 response: vitro  lowercase
 
+answer: cellular  title case
+response: cellular  lowercase
+
+answer: communications  title case
+response: communications  lowercase
+
 answer: mccaw  lowercase
 response: mccaw  uppercase
-
-answer: cellular  lowercase
-response: cellular  title case
-
-answer: rattner  title case
-response: rattner  lowercase
 
 answer: lazard  title case
 response: lazard  lowercase
@@ -4774,20 +4741,11 @@ response: lazard  lowercase
 answer: nothing  title case
 response: nothing  lowercase
 
-answer: rattner  title case
-response: rattner  lowercase
-
 answer: just  title case
 response: just  lowercase
 
 answer: in  title case
 response: in  lowercase
-
-answer: tomilson  title case
-response: tomilson  lowercase
-
-answer: hill  title case
-response: hill  lowercase
 
 answer: pictures  title case
 response: pictures  lowercase
@@ -4798,14 +4756,20 @@ response: entertainment  lowercase
 answer: sony  title case
 response: sony  lowercase
 
+answer: campbell  title case
+response: campbell  lowercase
+
+answer: soup  title case
+response: soup  lowercase
+
+answer: paramount  title case
+response: paramount  lowercase
+
+answer: communications  title case
+response: communications  lowercase
+
 answer: woolworth  title case
 response: woolworth  lowercase
-
-answer: air  title case
-response: air  lowercase
-
-answer: lines  title case
-response: lines  lowercase
 
 answer: kollmorgen  title case
 response: kollmorgen  lowercase
@@ -4834,9 +4798,6 @@ response: hilton  lowercase
 answer: hilton  title case
 response: hilton  lowercase
 
-answer: lebo  title case
-response: lebo  lowercase
-
 answer: new  title case
 response: new  lowercase
 
@@ -4858,26 +4819,14 @@ response: new  lowercase
 answer: when  title case
 response: when  lowercase
 
-answer: buildings  lowercase
-response: buildings  title case
-
-answer: airport  lowercase
-response: airport  title case
-
 answer: new  title case
 response: new  lowercase
 
 answer: leinberger  title case
 response: leinberger  lowercase
 
-answer: truck  lowercase
-response: truck  title case
-
 answer: cause  title case
 response: cause  lowercase
-
-answer: ethics  title case
-response: ethics  lowercase
 
 answer: justice  title case
 response: justice  lowercase
@@ -4888,14 +4837,14 @@ response: arizona  lowercase
 answer: keating  title case
 response: keating  lowercase
 
-answer: senators  lowercase
-response: senators  title case
-
-answer: keating  title case
-response: keating  lowercase
-
 answer: lincoln  title case
 response: lincoln  lowercase
+
+answer: savings  title case
+response: savings  lowercase
+
+answer: loan  title case
+response: loan  lowercase
 
 answer: wertheimer  title case
 response: wertheimer  lowercase
@@ -4905,9 +4854,6 @@ response: common  lowercase
 
 answer: cause  title case
 response: cause  lowercase
-
-answer: keating  title case
-response: keating  lowercase
 
 answer: democratic  title case
 response: democratic  lowercase
@@ -4921,17 +4867,17 @@ response: dennis  lowercase
 answer: arizona  title case
 response: arizona  lowercase
 
-answer: cranston  title case
-response: cranston  lowercase
-
-answer: glenn  title case
-response: glenn  lowercase
-
 answer: donald  title case
 response: donald  lowercase
 
 answer: riegle  title case
 response: riegle  lowercase
+
+answer: michigan  title case
+response: michigan  lowercase
+
+answer: mccain  lowercase
+response: mccain  title case
 
 answer: arizona  title case
 response: arizona  lowercase
@@ -4939,18 +4885,12 @@ response: arizona  lowercase
 answer: wertheimer  title case
 response: wertheimer  lowercase
 
-answer: keating  title case
-response: keating  lowercase
-
-answer: wall  title case
-response: wall  lowercase
-
-answer: street  title case
-response: street  lowercase
-
 answer: one  title case
 response: one  lowercase
 
+answer: deconcini  lowercase
+response: deconcini  title case
+
 answer: lincoln  title case
 response: lincoln  lowercase
 
@@ -4959,6 +4899,9 @@ response: lincoln  lowercase
 
 answer: keating  title case
 response: keating  lowercase
+
+answer: deconcini  lowercase
+response: deconcini  title case
 
 answer: federal  title case
 response: federal  lowercase
@@ -4975,12 +4918,6 @@ response: bank  lowercase
 answer: board  title case
 response: board  lowercase
 
-answer: glenn  title case
-response: glenn  lowercase
-
-answer: keating  title case
-response: keating  lowercase
-
 answer: bank  title case
 response: bank  lowercase
 
@@ -4989,9 +4926,6 @@ response: board  lowercase
 
 answer: may  title case
 response: may  lowercase
-
-answer: keating  title case
-response: keating  lowercase
 
 answer: lincoln  title case
 response: lincoln  lowercase
@@ -5011,29 +4945,14 @@ response: board  lowercase
 answer: keating  title case
 response: keating  lowercase
 
-answer: keating  title case
-response: keating  lowercase
+answer: lincoln  title case
+response: lincoln  lowercase
 
 answer: lincoln  title case
 response: lincoln  lowercase
 
-answer: re-election  lowercase
-response: re-election  number
-
-answer: riegle  title case
-response: riegle  lowercase
-
-answer: keating  title case
-response: keating  lowercase
-
-answer: keating  title case
-response: keating  lowercase
-
-answer: lincoln  title case
-response: lincoln  lowercase
-
-answer: keating  title case
-response: keating  lowercase
+answer: mccain  lowercase
+response: mccain  title case
 
 answer: cat  title case
 response: cat  lowercase
@@ -5047,35 +4966,23 @@ response: bahamas  lowercase
 answer: keating  title case
 response: keating  lowercase
 
-answer: keating  title case
-response: keating  lowercase
+answer: mccain  lowercase
+response: mccain  title case
 
-answer: keating  title case
-response: keating  lowercase
+answer: mccain  lowercase
+response: mccain  title case
 
 answer: he  title case
 response: he  lowercase
 
-answer: keating  title case
-response: keating  lowercase
-
-answer: cranston  title case
-response: cranston  lowercase
-
-answer: cranston  title case
-response: cranston  lowercase
-
-answer: keating  title case
-response: keating  lowercase
-
-answer: get-out-the-vote  lowercase
-response: get-out-the-vote  number
-
-answer: keating  title case
-response: keating  lowercase
+answer: mccain  lowercase
+response: mccain  title case
 
 answer: national  title case
 response: national  lowercase
+
+answer: council  title case
+response: council  lowercase
 
 answer: public  title case
 response: public  lowercase
@@ -5083,26 +4990,11 @@ response: public  lowercase
 answer: policy  title case
 response: policy  lowercase
 
-answer: committee  lowercase
-response: committee  title case
-
-answer: glenn  title case
-response: glenn  lowercase
-
-answer: keating  title case
-response: keating  lowercase
+answer: senator  lowercase
+response: senator  title case
 
 answer: wertheimer  title case
 response: wertheimer  lowercase
-
-answer: ethics  title case
-response: ethics  lowercase
-
-answer: house  title case
-response: house  lowercase
-
-answer: speaker  title case
-response: speaker  lowercase
 
 answer: abney  title case
 response: abney  lowercase
@@ -5112,9 +5004,6 @@ response: riegle  lowercase
 
 answer: glenn  title case
 response: glenn  lowercase
-
-answer: ethics  title case
-response: ethics  lowercase
 
 answer: when  title case
 response: when  lowercase
@@ -5128,11 +5017,8 @@ response: federal  lowercase
 answer: investigation  title case
 response: investigation  lowercase
 
-answer: keating  title case
-response: keating  lowercase
-
-answer: prodding  lowercase
-response: prodding  number
+answer: why  title case
+response: why  lowercase
 
 answer: bank  title case
 response: bank  lowercase
@@ -5149,11 +5035,17 @@ response: common  lowercase
 answer: cause  title case
 response: cause  lowercase
 
+answer: industries  title case
+response: industries  lowercase
+
 answer: norfolk  title case
 response: norfolk  lowercase
 
 answer: southern  title case
 response: southern  lowercase
+
+answer: corp  title case
+response: corp  lowercase
 
 answer: norfolk  title case
 response: norfolk  lowercase
@@ -5167,15 +5059,6 @@ response: norfolk  lowercase
 answer: march  lowercase
 response: march  title case
 
-answer: china  title case
-response: china  lowercase
-
-answer: toys  title case
-response: toys  lowercase
-
-answer: council  title case
-response: council  lowercase
-
 answer: dennis  title case
 response: dennis  lowercase
 
@@ -5185,26 +5068,23 @@ response: ting  lowercase
 answer: made  title case
 response: made  lowercase
 
-answer: china  title case
-response: china  lowercase
-
 answer: companies  title case
 response: companies  lowercase
+
+answer: colony  lowercase
+response: colony  title case
 
 answer: beijing  title case
 response: beijing  lowercase
 
-answer: china  title case
-response: china  lowercase
+answer: toy  lowercase
+response: toy  title case
 
-answer: china  title case
-response: china  lowercase
+answer: nobody  title case
+response: nobody  lowercase
 
-answer: china  title case
-response: china  lowercase
-
-answer: yeh  title case
-response: yeh  lowercase
+answer: international  title case
+response: international  lowercase
 
 answer: matchbox  title case
 response: matchbox  lowercase
@@ -5218,23 +5098,23 @@ response: ltd  lowercase
 answer: matchbox  title case
 response: matchbox  lowercase
 
+answer: toy  lowercase
+response: toy  title case
+
 answer: southeast  title case
 response: southeast  lowercase
+
+answer: asia  title case
+response: asia  lowercase
 
 answer: thailand  title case
 response: thailand  lowercase
 
-answer: china  title case
-response: china  lowercase
-
-answer: airport  lowercase
-response: airport  title case
-
-answer: china  title case
-response: china  lowercase
-
 answer: guangdong  title case
 response: guangdong  lowercase
+
+answer: henry  title case
+response: henry  lowercase
 
 answer: hu  title case
 response: hu  lowercase
@@ -5254,14 +5134,14 @@ response: consolidated  lowercase
 answer: ltd  title case
 response: ltd  lowercase
 
-answer: china  title case
-response: china  lowercase
+answer: trade  lowercase
+response: trade  title case
 
 answer: for  title case
 response: for  lowercase
 
-answer: china  title case
-response: china  lowercase
+answer: edmund  title case
+response: edmund  lowercase
 
 answer: young  title case
 response: young  lowercase
@@ -5272,8 +5152,14 @@ response: perfecta  lowercase
 answer: enterprises  title case
 response: enterprises  lowercase
 
+answer: toy  lowercase
+response: toy  title case
+
 answer: southeast  title case
 response: southeast  lowercase
+
+answer: asia  title case
+response: asia  lowercase
 
 answer: thailand  title case
 response: thailand  lowercase
@@ -5290,8 +5176,8 @@ response: shing  lowercase
 answer: kader  title case
 response: kader  lowercase
 
-answer: ting  title case
-response: ting  lowercase
+answer: industrial  title case
+response: industrial  lowercase
 
 answer: philippines  title case
 response: philippines  lowercase
@@ -5302,8 +5188,8 @@ response: indonesia  lowercase
 answer: portugal  title case
 response: portugal  lowercase
 
-answer: china  title case
-response: china  lowercase
+answer: greece  title case
+response: greece  lowercase
 
 answer: worlds  title case
 response: worlds  lowercase
@@ -5320,8 +5206,8 @@ response: industries  lowercase
 answer: manufacturers  lowercase
 response: manufacturers  title case
 
-answer: chastened  lowercase
-response: chastened  number
+answer: mega-hit  lowercase
+response: mega-hit  title case
 
 answer: teenage  title case
 response: teenage  lowercase
@@ -5344,6 +5230,9 @@ response: holdings  lowercase
 answer: ltd  title case
 response: ltd  lowercase
 
+answer: comic  lowercase
+response: comic  title case
+
 answer: kwan  title case
 response: kwan  lowercase
 
@@ -5351,16 +5240,13 @@ answer: playmates  title case
 response: playmates  lowercase
 
 answer: ninja  title case
-response: ninja  number
+response: ninja  lowercase
 
 answer: turtles  title case
 response: turtles  lowercase
 
-answer: biggest-selling  lowercase
-response: biggest-selling  number
-
-answer: kwan  title case
-response: kwan  lowercase
+answer: christmas  title case
+response: christmas  lowercase
 
 answer: ninja  title case
 response: ninja  lowercase
@@ -5370,6 +5256,9 @@ response: turtles  lowercase
 
 answer: playmates  title case
 response: playmates  lowercase
+
+answer: manufacturers  lowercase
+response: manufacturers  title case
 
 answer: nintendo  title case
 response: nintendo  lowercase
@@ -5389,9 +5278,6 @@ response: beijing  lowercase
 answer: guangdong  title case
 response: guangdong  lowercase
 
-answer: china  title case
-response: china  lowercase
-
 answer: investments  lowercase
 response: investments  title case
 
@@ -5404,53 +5290,26 @@ response: guangdong  lowercase
 answer: beijing  title case
 response: beijing  lowercase
 
-answer: china  title case
-response: china  lowercase
-
-answer: exchange  lowercase
-response: exchange  title case
-
 answer: guangdong  title case
 response: guangdong  lowercase
 
 answer: the  title case
 response: the  lowercase
 
-answer: kwan  title case
-response: kwan  lowercase
+answer: chinese  title case
+response: chinese  lowercase
 
 answer: playmates  title case
 response: playmates  lowercase
 
-answer: supreme  title case
-response: supreme  lowercase
-
-answer: court  title case
-response: court  lowercase
-
 answer: general  title case
 response: general  lowercase
-
-answer: starr  title case
-response: starr  lowercase
-
-answer: supreme  title case
-response: supreme  lowercase
-
-answer: court  title case
-response: court  lowercase
 
 answer: roe  title case
 response: roe  lowercase
 
 answer: wade  title case
 response: wade  lowercase
-
-answer: supreme  title case
-response: supreme  lowercase
-
-answer: court  title case
-response: court  lowercase
 
 answer: minnesota  title case
 response: minnesota  lowercase
@@ -5461,14 +5320,8 @@ response: chief  lowercase
 answer: justice  title case
 response: justice  lowercase
 
-answer: rehnquist  title case
-response: rehnquist  lowercase
-
-answer: supreme  title case
-response: supreme  lowercase
-
-answer: court  title case
-response: court  lowercase
+answer: missouri  title case
+response: missouri  lowercase
 
 answer: minnesota  title case
 response: minnesota  lowercase
@@ -5479,26 +5332,17 @@ response: hodgson  lowercase
 answer: minnesota  title case
 response: minnesota  lowercase
 
+answer: no.  title case
+response: no.  lowercase
+
 answer: alcoa  title case
 response: alcoa  lowercase
 
 answer: it  title case
 response: it  lowercase
 
-answer: siedenburg  title case
-response: siedenburg  lowercase
-
 answer: in  title case
 response: in  lowercase
-
-answer: exchange  lowercase
-response: exchange  title case
-
-answer: wayne  title case
-response: wayne  lowercase
-
-answer: atwell  title case
-response: atwell  lowercase
 
 answer: atwell  title case
 response: atwell  lowercase
@@ -5514,6 +5358,15 @@ response: composite  title case
 
 answer: alcoa  title case
 response: alcoa  lowercase
+
+answer: studios  lowercase
+response: studios  title case
+
+answer: congress  title case
+response: congress  lowercase
+
+answer: congress  title case
+response: congress  lowercase
 
 answer: financial  title case
 response: financial  lowercase
@@ -5545,6 +5398,9 @@ response: communications  lowercase
 answer: nbc  lowercase
 response: nbc  uppercase
 
+answer: australian  title case
+response: australian  lowercase
+
 answer: our  title case
 response: our  lowercase
 
@@ -5554,14 +5410,23 @@ response: nbc  uppercase
 answer: capital  title case
 response: capital  lowercase
 
+answer: studios  lowercase
+response: studios  title case
+
 answer: motion  title case
 response: motion  lowercase
 
 answer: picture  title case
 response: picture  lowercase
 
+answer: association  title case
+response: association  lowercase
+
 answer: president  title case
 response: president  lowercase
+
+answer: jack  title case
+response: jack  lowercase
 
 answer: valenti  title case
 response: valenti  lowercase
@@ -5578,9 +5443,6 @@ response: fries  lowercase
 answer: entertainment  title case
 response: entertainment  lowercase
 
-answer: valenti  title case
-response: valenti  lowercase
-
 answer: the  title case
 response: the  lowercase
 
@@ -5596,12 +5458,6 @@ response: president  lowercase
 answer: sony  title case
 response: sony  lowercase
 
-answer: pictures  title case
-response: pictures  lowercase
-
-answer: entertainment  title case
-response: entertainment  lowercase
-
 answer: guber  title case
 response: guber  lowercase
 
@@ -5610,6 +5466,9 @@ response: peters  lowercase
 
 answer: entertainment  title case
 response: entertainment  lowercase
+
+answer: walter  title case
+response: walter  lowercase
 
 answer: cronkite  title case
 response: cronkite  lowercase
@@ -5647,17 +5506,11 @@ response: j.b.  lowercase
 answer: holston  title case
 response: holston  lowercase
 
-answer: holston  title case
-response: holston  lowercase
-
 answer: he  title case
 response: he  lowercase
 
 answer: qintex  title case
 response: qintex  lowercase
-
-answer: holston  title case
-response: holston  lowercase
 
 answer: qintex  title case
 response: qintex  lowercase
@@ -5689,6 +5542,9 @@ response: box  lowercase
 answer: office  title case
 response: office  lowercase
 
+answer: movies  lowercase
+response: movies  title case
+
 answer: nbc  lowercase
 response: nbc  uppercase
 
@@ -5706,9 +5562,6 @@ response: qintex  lowercase
 
 answer: it  title case
 response: it  lowercase
-
-answer: lilley  title case
-response: lilley  lowercase
 
 answer: policy  title case
 response: policy  lowercase
@@ -5728,6 +5581,9 @@ response: moonlighting  lowercase
 answer: federal  title case
 response: federal  lowercase
 
+answer: communications  title case
+response: communications  lowercase
+
 answer: brookings  title case
 response: brookings  lowercase
 
@@ -5740,20 +5596,11 @@ response: president  lowercase
 answer: it  title case
 response: it  lowercase
 
-answer: markey  title case
-response: markey  lowercase
-
 answer: d-mass.  title case
 response: d-mass.  lowercase
 
-answer: markey  title case
-response: markey  lowercase
-
 answer: sony-columbia  title case
 response: sony-columbia  lowercase
-
-answer: markey  title case
-response: markey  lowercase
 
 answer: chairman  title case
 response: chairman  lowercase
@@ -5761,26 +5608,8 @@ response: chairman  lowercase
 answer: alfred  title case
 response: alfred  lowercase
 
-answer: c.  title case
-response: c.  lowercase
-
-answer: sikes  title case
-response: sikes  lowercase
-
 answer: equipment  title case
 response: equipment  lowercase
-
-answer: postal  title case
-response: postal  lowercase
-
-answer: service  title case
-response: service  lowercase
-
-answer: moore  title case
-response: moore  lowercase
-
-answer: reedy  title case
-response: reedy  lowercase
 
 answer: voss  title case
 response: voss  lowercase
@@ -5790,24 +5619,12 @@ response: postal  lowercase
 
 answer: service  title case
 response: service  lowercase
-
-answer: kickbacks  lowercase
-response: kickbacks  number
-
-answer: gratuities  lowercase
-response: gratuities  number
 
 answer: voss  title case
 response: voss  lowercase
 
 answer: recognition  title case
 response: recognition  lowercase
-
-answer: moore  title case
-response: moore  lowercase
-
-answer: reedy  title case
-response: reedy  lowercase
 
 answer: district  title case
 response: district  lowercase
@@ -5839,11 +5656,35 @@ response: service  lowercase
 answer: siemens  title case
 response: siemens  lowercase
 
+answer: andrew  title case
+response: andrew  lowercase
+
 answer: s.grove  title case
 response: s.grove  lowercase
 
-answer: van  lowercase
-response: van  title case
+answer: president  lowercase
+response: president  title case
+
+answer: african  title case
+response: african  lowercase
+
+answer: national  title case
+response: national  lowercase
+
+answer: congress  title case
+response: congress  lowercase
+
+answer: house  lowercase
+response: house  title case
+
+answer: south  title case
+response: south  lowercase
+
+answer: africa  title case
+response: africa  lowercase
+
+answer: house  lowercase
+response: house  title case
 
 answer: elias  title case
 response: elias  lowercase
@@ -5878,6 +5719,9 @@ response: saloojee  lowercase
 answer: things  title case
 response: things  lowercase
 
+answer: tide  lowercase
+response: tide  title case
+
 answer: holy  title case
 response: holy  lowercase
 
@@ -5899,17 +5743,26 @@ response: umkhonto  lowercase
 answer: sizwe  title case
 response: sizwe  lowercase
 
+answer: nelson  title case
+response: nelson  lowercase
+
 answer: f.w.  title case
 response: f.w.  lowercase
 
 answer: klerk  title case
 response: klerk  lowercase
 
-answer: africanist  title case
-response: africanist  lowercase
-
 answer: pretoria  title case
 response: pretoria  lowercase
+
+answer: poland  title case
+response: poland  lowercase
+
+answer: south  title case
+response: south  lowercase
+
+answer: african  title case
+response: african  lowercase
 
 answer: pretoria  title case
 response: pretoria  lowercase
@@ -5917,18 +5770,30 @@ response: pretoria  lowercase
 answer: lusaka  title case
 response: lusaka  lowercase
 
-answer: mokaba  title case
-response: mokaba  lowercase
+answer: south  title case
+response: south  lowercase
+
+answer: african  title case
+response: african  lowercase
 
 answer: youth  title case
 response: youth  lowercase
 
+answer: congress  title case
+response: congress  lowercase
+
 answer: we  title case
 response: we  lowercase
+
+answer: andrew  title case
+response: andrew  lowercase
 
 answer: mlangeni  title case
 response: mlangeni  lowercase
 
 answer: umkhonto  title case
 response: umkhonto  lowercase
+
+answer: nelson  title case
+response: nelson  lowercase
 
