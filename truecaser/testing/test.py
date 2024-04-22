@@ -32,4 +32,6 @@ for line in file:
 
 print(count)
 
-#python3 truecaser/testing/score.py truecaser/testing/answers.words truecaser/submission.pos
+#python3 truecaser/testing/score.py truecaser/testing/answers.words truecaser/testing/submission.pos
+#regex: answer:(.*)lowercase
+#regex: answer:(.*)title case

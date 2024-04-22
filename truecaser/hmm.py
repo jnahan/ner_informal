@@ -2,6 +2,8 @@ from collections import defaultdict
 import numpy as np
 import string
 
+#recognize if all word in sentence are capitalized
+
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))
 transition_probabilities = defaultdict(lambda: defaultdict(float))
@@ -9,35 +11,44 @@ words = set()
 wordCounts = defaultdict(lambda:0)
 prev = ('Begin_Sent','Begin_Sent')
 
+# common_words = open('truecaser/google-non-upper.words', 'r').read()
+# words_list = common_words.split("\n")
+
+lower = open('truecaser/lower.words', 'r').read()
+lower_list = lower.split("\n")
+
+title = open('truecaser/title.words', 'r').read()
+title_list = title.split("\n")
+
 #training stage
-# training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
-# for training in training_files:
-file = open('truecaser/training/training.words', 'r')
-for line in file:
-    if line=='\n':
-        transition[prev]['End_Sent'] += 1
-        transition[prev[1]]['End_Sent']+=1
-        prev = ('Begin_Sent','Begin_Sent')
-        continue
-    word = line.strip()
-    if word in string.punctuation:
-        pos = 'punctuation'
-    elif word[0].isnumeric():
-        pos = 'number'
-    elif word.istitle():
-        if prev[1]=='Begin_Sent':
-            pos = 'uppercase'
+training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
+for training in training_files:
+    file = open('truecaser/training/'+training, 'r')
+    for line in file:
+        if line=='\n':
+            transition[prev]['End_Sent'] += 1
+            transition[prev[1]]['End_Sent']+=1
+            prev = ('Begin_Sent','Begin_Sent')
+            continue
+        word = line.strip()
+        if word in string.punctuation:
+            pos = 'punctuation'
+        elif word[0].isnumeric():
+            pos = 'number'
+        elif word.istitle():
+            if prev[1]=='Begin_Sent':
+                pos = 'uppercase'
+            else:
+                pos = 'title case'
         else:
-            pos = 'title case'
-    else:
-        pos = 'lowercase'
-    word = word.lower()
-    words.add(word)
-    wordCounts[word] += 1
-    likelihood[pos][word] += 1
-    transition[prev][pos] += 1
-    transition[prev[1]][pos]+=1
-    prev = (prev[1],pos)
+            pos = 'lowercase'
+        word = word.lower()
+        words.add(word)
+        wordCounts[word] += 1
+        likelihood[pos][word] += 1
+        transition[prev][pos] += 1
+        transition[prev[1]][pos]+=1
+        prev = (prev[1],pos)
 
 unknownWords = [k for k, v in wordCounts.items() if v == 1]
 for unknown in unknownWords:
@@ -71,6 +82,8 @@ res = open("truecaser/submission.pos", 'w')
 res.write('')
 res.close()
 
+count = 0
+
 file = open('truecaser/test.words', 'r')
 for line in file:
     if line != '\n':
@@ -98,7 +111,6 @@ for line in file:
                         #known words
                         if (currWord in words):
                             currLikelihood = likelihood[currTag][currWord]
-                        
                         if (currWord in string.punctuation): 
                             if (currTag == "punctuation"):
                                 currLikelihood = 1
@@ -125,13 +137,27 @@ for line in file:
         for i in range(len(sentence)):
             tag = tags[maxInd[i+1]]
             word = sentence[i]
+
+
             if word in string.punctuation:
                 tag = 'punctuation'
             elif word[0].isnumeric():
                 tag = 'number'
             elif not word[0].isalnum():
                 tag = 'other'
+            #handle oov -> set it to title if its not in list of
+            #common lowercase words
+            elif ("-" in word):
+                if (tag != "uppercase"):
+                    tag = "lowercase"
+            elif (word not in words):
+                if (word not in lower_list):
+                    if (tag != "uppercase"):
+                        tag = "title case"
+
             res.write(sentence[i] + "\t" + tag + "\n")
         res.write("\n")
         res.close()
         sentence=[]
+
+print(count)

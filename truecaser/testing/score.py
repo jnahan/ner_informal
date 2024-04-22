@@ -10,6 +10,8 @@
 import sys
 import os
 
+#python3 truecaser/testing/score.py truecaser/testing/answers.words truecaser/testing/submission.pos
+
 def score (keyFileName, responseFileName):
 	incorrect_list = open("truecaser/testing/incorrect.pos", 'w')
 	incorrect_list.write('')
