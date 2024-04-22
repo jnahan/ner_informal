@@ -3129,7 +3129,7 @@ truck	title case
 sales	lowercase
 .	punctuation
 
-chrysler	title case
+chrysler	uppercase
 corp.	title case
 had	lowercase
 a	lowercase
@@ -9424,7 +9424,7 @@ one	lowercase
 hand	lowercase
 ,	punctuation
 mr.	title case
-front	lowercase
+front	title case
 says	lowercase
 ,	punctuation
 it	lowercase
@@ -9904,7 +9904,7 @@ of	lowercase
 .	punctuation
 
 mr.	uppercase
-front	lowercase
+front	title case
 of	lowercase
 stein	title case
 roe	title case
@@ -13887,7 +13887,7 @@ july	title case
 
 the	uppercase
 judge	lowercase
-turned	lowercase
+turned	title case
 down	lowercase
 an	lowercase
 earlier	lowercase
@@ -15197,7 +15197,7 @@ richardson	title case
 said	lowercase
 .	punctuation
 
-hammond	title case
+hammond	uppercase
 co.	title case
 ,	punctuation
 newport	title case
@@ -20552,7 +20552,7 @@ eliminated	lowercase
 .	punctuation
 
 mr.	uppercase
-carpenter	lowercase
+carpenter	title case
 ,	punctuation
 a	lowercase
 regional	lowercase
@@ -22442,7 +22442,7 @@ law	lowercase
 firm	lowercase
 of	lowercase
 lord	title case
-day	lowercase
+day	title case
 &	punctuation
 lord	title case
 ,	punctuation
@@ -25419,7 +25419,7 @@ major	lowercase
 companies	lowercase
 .	punctuation
 
-vitro	title case
+vitro	uppercase
 s.a.	title case
 ,	punctuation
 a	lowercase
@@ -30525,7 +30525,7 @@ nov.	title case
 29	number
 .	punctuation
 
-aluminum	title case
+aluminum	uppercase
 co.	title case
 of	lowercase
 america	title case
@@ -32714,7 +32714,7 @@ the	lowercase
 suspension	lowercase
 .	punctuation
 
-intel	title case
+intel	uppercase
 corp.	title case
 reported	lowercase
 a	lowercase

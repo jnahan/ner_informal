@@ -490,10 +490,6 @@ line 3127
 answer: truck  lowercase
 response: truck  title case
 
-line 3131
-answer: chrysler  uppercase
-response: chrysler  title case
-
 line 3202
 answer: accords  title case
 response: accords  number
@@ -1558,10 +1554,6 @@ line 9390
 answer: front  title case
 response: front  lowercase
 
-line 9426
-answer: front  title case
-response: front  lowercase
-
 line 9463
 answer: this  title case
 response: this  lowercase
@@ -1625,10 +1617,6 @@ response: mortgage  lowercase
 line 9853
 answer: it  title case
 response: it  lowercase
-
-line 9906
-answer: front  title case
-response: front  lowercase
 
 line 9962
 answer: pros  lowercase
@@ -2306,6 +2294,10 @@ line 13855
 answer: judge  title case
 response: judge  lowercase
 
+line 13889
+answer: turned  lowercase
+response: turned  title case
+
 line 14049
 answer: teddy  lowercase
 response: teddy  title case
@@ -2509,10 +2501,6 @@ response: recreation  lowercase
 line 15177
 answer: ill  title case
 response: ill  lowercase
-
-line 15199
-answer: hammond  uppercase
-response: hammond  title case
 
 line 15203
 answer: beach  title case
@@ -3470,10 +3458,6 @@ line 20485
 answer: pasok  lowercase
 response: pasok  title case
 
-line 20554
-answer: carpenter  title case
-response: carpenter  lowercase
-
 line 20560
 answer: national  title case
 response: national  lowercase
@@ -3725,10 +3709,6 @@ response: magurno  title case
 line 22438
 answer: new  title case
 response: new  lowercase
-
-line 22444
-answer: day  title case
-response: day  lowercase
 
 line 22510
 answer: new  title case
@@ -4153,10 +4133,6 @@ response: wall  lowercase
 line 25401
 answer: street  title case
 response: street  lowercase
-
-line 25421
-answer: vitro  uppercase
-response: vitro  title case
 
 line 25437
 answer: anchor  title case
@@ -4794,10 +4770,6 @@ line 30442
 answer: court  title case
 response: court  lowercase
 
-line 30527
-answer: aluminum  uppercase
-response: aluminum  title case
-
 line 30628
 answer: it  title case
 response: it  lowercase
@@ -5153,10 +5125,6 @@ response: service  lowercase
 line 32696
 answer: ban  lowercase
 response: ban  title case
-
-line 32716
-answer: intel  uppercase
-response: intel  title case
 
 line 33128
 answer: van  lowercase
