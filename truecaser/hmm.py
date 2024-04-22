@@ -15,7 +15,7 @@ import math
 # update code to produce properly capitalized sentences rather than the tags
 # maybe remove uppercase (try to tag those properly instead)
 
-#curr accuracy: 95.899918
+#curr accuracy: 96.049067
 
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))

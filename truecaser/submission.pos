@@ -3762,7 +3762,7 @@ explosion	lowercase
 
 boys	uppercase
 on	lowercase
-busy	lowercase
+busy	title case
 street	lowercase
 corners	lowercase
 peddle	lowercase
@@ -7930,7 +7930,7 @@ friends	lowercase
 and	lowercase
 associates	lowercase
 on	lowercase
-wall	lowercase
+wall	title case
 street	lowercase
 while	lowercase
 assistant	lowercase
@@ -18333,7 +18333,7 @@ washington	title case
 the	uppercase
 consensus	lowercase
 along	lowercase
-the	lowercase
+the	title case
 street	lowercase
 seems	lowercase
 to	lowercase
@@ -24882,7 +24882,7 @@ less	lowercase
 ambitious	lowercase
 game	lowercase
 ,	punctuation
-wall	lowercase
+wall	title case
 street	title case
 's	other
 big-time	lowercase
@@ -25398,7 +25398,7 @@ that	lowercase
 commerical	title case
 banks	lowercase
 and	lowercase
-wall	lowercase
+wall	title case
 street	lowercase
 firms	lowercase
 still	lowercase
@@ -28068,7 +28068,7 @@ was	lowercase
 quoted	lowercase
 in	lowercase
 a	lowercase
-wall	lowercase
+wall	title case
 street	lowercase
 journal	title case
 story	lowercase
@@ -33247,7 +33247,7 @@ house	lowercase
 ,	punctuation
 while	lowercase
 on	lowercase
-the	lowercase
+the	title case
 street	lowercase
 out	lowercase
 front	lowercase

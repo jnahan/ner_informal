@@ -606,6 +606,10 @@ line 3727
 answer: the  title case
 response: the  lowercase
 
+line 3764
+answer: busy  lowercase
+response: busy  title case
+
 line 3803
 answer: state  title case
 response: state  lowercase
@@ -1241,10 +1245,6 @@ response: fed  lowercase
 line 7923
 answer: secretary  title case
 response: secretary  lowercase
-
-line 7932
-answer: wall  title case
-response: wall  lowercase
 
 line 7933
 answer: street  title case
@@ -3078,6 +3078,10 @@ line 18319
 answer: on  title case
 response: on  lowercase
 
+line 18335
+answer: the  lowercase
+response: the  title case
+
 line 18487
 answer: house  title case
 response: house  lowercase
@@ -4062,10 +4066,6 @@ line 24840
 answer: ldc  lowercase
 response: ldc  title case
 
-line 24884
-answer: wall  title case
-response: wall  lowercase
-
 line 24967
 answer: merger  lowercase
 response: merger  number
@@ -4125,10 +4125,6 @@ response: weeked  title case
 line 25397
 answer: commerical  lowercase
 response: commerical  title case
-
-line 25400
-answer: wall  title case
-response: wall  lowercase
 
 line 25401
 answer: street  title case
@@ -4333,10 +4329,6 @@ response: gop  title case
 line 28050
 answer: mccain  lowercase
 response: mccain  title case
-
-line 28070
-answer: wall  title case
-response: wall  lowercase
 
 line 28071
 answer: street  title case
@@ -5129,6 +5121,10 @@ response: ban  title case
 line 33128
 answer: van  lowercase
 response: van  title case
+
+line 33249
+answer: the  lowercase
+response: the  title case
 
 line 33280
 answer: unionist  lowercase
