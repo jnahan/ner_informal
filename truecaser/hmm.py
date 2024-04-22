@@ -3,10 +3,16 @@ import numpy as np
 import string
 
 # TODOS
-# recognize if all word in sentence are capitalized (training)
+# recognize if all word in sentence are capitalized (training, ex for titles)
 # get a list of words that commonly precede/follow title cases
-    #Inc Corp
+    # Inc Corp
 # optimize trigram
+    # currently causing some words to be incorrectly tagged title case
+    # missing some words
+# consider common prefixes suffixes (ness, ingm etc,)
+# tag urls (http/https/www, etc as lowercase)
+# update code to produce properly capitalized sentences rather than the tags
+# maybe remove uppercase (try to tag those properly instead)
 
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))
@@ -86,7 +92,6 @@ res = open("truecaser/submission.pos", 'w')
 res.write('')
 res.close()
 
-count = 0
 
 file = open('truecaser/test.words', 'r')
 for line in file:
@@ -141,8 +146,6 @@ for line in file:
         for i in range(len(sentence)):
             tag = tags[maxInd[i+1]]
             word = sentence[i]
-
-
             if word in string.punctuation:
                 tag = 'punctuation'
             elif word[0].isnumeric():
@@ -163,5 +166,3 @@ for line in file:
         res.write("\n")
         res.close()
         sentence=[]
-
-print(count)
