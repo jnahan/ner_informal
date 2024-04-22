@@ -1,6 +1,7 @@
 from collections import defaultdict
 import numpy as np
 import string
+import math
 
 # TODOS
 # recognize if all word in sentence are capitalized (training, ex for titles)
@@ -13,6 +14,8 @@ import string
 # tag urls (http/https/www, etc as lowercase)
 # update code to produce properly capitalized sentences rather than the tags
 # maybe remove uppercase (try to tag those properly instead)
+
+#curr accuracy: 95.899918
 
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))
@@ -117,7 +120,7 @@ for line in file:
                         currTag = tags[i]
                         prevTag = tags[k]
                         prev2Tag = tags[t]
-                        currTransition = transition_probabilities[(prev2Tag,prevTag)][currTag]*transition_probabilities[prevTag][currTag]
+                        currTransition = transition_probabilities[(prev2Tag,prevTag)][currTag]*math.pow(transition_probabilities[prevTag][currTag],1 if j==1 else likelihood[prevTag][sentence[j-2]])
                         #handle oov using unknown word
                         currLikelihood = likelihood[currTag]["Unknown_Word"]
                         #known words
