@@ -36,6 +36,9 @@ title_list = title.split("\n")
 suffix = open("truecaser/suffix.end",'r').read()
 suffix_list = suffix.split("\n")
 
+follow = open("truecaser/follow.words",'r').read()
+follow_list = follow.split("\n")
+
 #training stage
 training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
 for training in training_files:
@@ -163,6 +166,8 @@ for line in file:
             elif ("-" in word):
                 if (tag != "uppercase"):
                     tag = "lowercase"
+            elif (i<len(sentence)-1 and sentence[i+1] in follow_list):
+                tag = "title case"
             elif (word not in words):
                 if (word not in lower_list):
                     if (tag != "uppercase"):

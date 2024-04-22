@@ -282,10 +282,6 @@ line 2010
 answer: farmers  title case
 response: farmers  lowercase
 
-line 2011
-answer: group  title case
-response: group  lowercase
-
 line 2024
 answer: states  lowercase
 response: states  title case
@@ -297,10 +293,6 @@ response: farmers  lowercase
 line 2036
 answer: sir  title case
 response: sir  lowercase
-
-line 2045
-answer: industries  title case
-response: industries  lowercase
 
 line 2065
 answer: farmers  title case
@@ -317,10 +309,6 @@ response: sir  lowercase
 line 2091
 answer: farmers  title case
 response: farmers  lowercase
-
-line 2118
-answer: investments  title case
-response: investments  lowercase
 
 line 2121
 answer: sir  title case
@@ -501,6 +489,10 @@ response: models  number
 line 3127
 answer: truck  lowercase
 response: truck  title case
+
+line 3131
+answer: chrysler  uppercase
+response: chrysler  title case
 
 line 3202
 answer: accords  title case
@@ -1038,10 +1030,6 @@ line 6146
 answer: service  title case
 response: service  lowercase
 
-line 6147
-answer: group  title case
-response: group  lowercase
-
 line 6156
 answer: prime  title case
 response: prime  lowercase
@@ -1049,10 +1037,6 @@ response: prime  lowercase
 line 6157
 answer: medical  title case
 response: medical  lowercase
-
-line 6158
-answer: services  title case
-response: services  lowercase
 
 line 6168
 answer: energy  title case
@@ -1586,10 +1570,6 @@ line 9491
 answer: so  title case
 response: so  lowercase
 
-line 9523
-answer: associates  title case
-response: associates  lowercase
-
 line 9529
 answer: my  title case
 response: my  lowercase
@@ -1597,10 +1577,6 @@ response: my  lowercase
 line 9604
 answer: national  title case
 response: national  lowercase
-
-line 9607
-answer: investors  title case
-response: investors  lowercase
 
 line 9611
 answer: organization  lowercase
@@ -1618,6 +1594,10 @@ line 9738
 answer: sons  title case
 response: sons  lowercase
 
+line 9739
+answer: in  lowercase
+response: in  title case
+
 line 9745
 answer: stocks  title case
 response: stocks  lowercase
@@ -1630,21 +1610,9 @@ line 9795
 answer: records  lowercase
 response: records  title case
 
-line 9810
-answer: foods  title case
-response: foods  lowercase
-
 line 9813
 answer: wal-mart  title case
 response: wal-mart  lowercase
-
-line 9814
-answer: stores  title case
-response: stores  lowercase
-
-line 9819
-answer: group  title case
-response: group  lowercase
 
 line 9822
 answer: federal  title case
@@ -1726,21 +1694,9 @@ line 10847
 answer: trust  title case
 response: trust  lowercase
 
-line 10852
-answer: credit  title case
-response: credit  lowercase
-
-line 10861
-answer: electric  title case
-response: electric  lowercase
-
 line 10864
 answer: bankers  title case
 response: bankers  lowercase
-
-line 10865
-answer: trust  title case
-response: trust  lowercase
 
 line 10871
 answer: bankers  title case
@@ -1777,10 +1733,6 @@ response: great  lowercase
 line 10947
 answer: western  title case
 response: western  lowercase
-
-line 10948
-answer: financial  title case
-response: financial  lowercase
 
 line 10991
 answer: reform  lowercase
@@ -2294,10 +2246,6 @@ line 13323
 answer: last  title case
 response: last  lowercase
 
-line 13332
-answer: products  title case
-response: products  lowercase
-
 line 13359
 answer: it  title case
 response: it  lowercase
@@ -2434,10 +2382,6 @@ line 14710
 answer: gas  title case
 response: gas  lowercase
 
-line 14712
-answer: electric  title case
-response: electric  lowercase
-
 line 14727
 answer: eastern  title case
 response: eastern  lowercase
@@ -2449,10 +2393,6 @@ response: associates  lowercase
 line 14749
 answer: gas  title case
 response: gas  lowercase
-
-line 14768
-answer: bank  title case
-response: bank  lowercase
 
 line 14782
 answer: banque  title case
@@ -2502,10 +2442,6 @@ line 14892
 answer: tradition  title case
 response: tradition  lowercase
 
-line 14918
-answer: laboratories  title case
-response: laboratories  lowercase
-
 line 14934
 answer: securities  title case
 response: securities  lowercase
@@ -2514,13 +2450,13 @@ line 14936
 answer: exchange  title case
 response: exchange  lowercase
 
-line 14944
-answer: syndicate  title case
-response: syndicate  lowercase
+line 14948
+answer: ii  lowercase
+response: ii  title case
 
-line 14982
-answer: group  title case
-response: group  lowercase
+line 14953
+answer: iii  lowercase
+response: iii  title case
 
 line 15028
 answer: laboratories  title case
@@ -2537,10 +2473,6 @@ response: new  lowercase
 line 15054
 answer: sports  title case
 response: sports  lowercase
-
-line 15056
-answer: recreation  title case
-response: recreation  lowercase
 
 line 15064
 answer: sports  title case
@@ -2578,6 +2510,10 @@ line 15177
 answer: ill  title case
 response: ill  lowercase
 
+line 15199
+answer: hammond  uppercase
+response: hammond  title case
+
 line 15203
 answer: beach  title case
 response: beach  lowercase
@@ -2594,10 +2530,6 @@ line 15296
 answer: exchange  title case
 response: exchange  lowercase
 
-line 15309
-answer: group  title case
-response: group  lowercase
-
 line 15329
 answer: united  title case
 response: united  lowercase
@@ -2605,6 +2537,10 @@ response: united  lowercase
 line 15330
 answer: express  title case
 response: express  lowercase
+
+line 15336
+answer: ual  lowercase
+response: ual  title case
 
 line 15339
 answer: united  title case
@@ -2658,10 +2594,6 @@ line 15642
 answer: aeronautical  title case
 response: aeronautical  lowercase
 
-line 15643
-answer: systems  title case
-response: systems  lowercase
-
 line 15678
 answer: air  title case
 response: air  lowercase
@@ -2682,17 +2614,9 @@ line 15719
 answer: t-37  title case
 response: t-37  lowercase
 
-line 15725
-answer: aircraft  title case
-response: aircraft  lowercase
-
 line 15729
 answer: general  title case
 response: general  lowercase
-
-line 15730
-answer: dynamics  title case
-response: dynamics  lowercase
 
 line 15735
 answer: air  title case
@@ -2713,10 +2637,6 @@ response: trainer  title case
 line 15765
 answer: beech  title case
 response: beech  lowercase
-
-line 15766
-answer: aircraft  title case
-response: aircraft  lowercase
 
 line 15810
 answer: trainer  lowercase
@@ -2773,10 +2693,6 @@ response: investors  lowercase
 line 16273
 answer: service  title case
 response: service  lowercase
-
-line 16283
-answer: southland  title case
-response: southland  lowercase
 
 line 16334
 answer: southland  title case
@@ -2958,17 +2874,9 @@ line 17561
 answer: integrated  title case
 response: integrated  lowercase
 
-line 17562
-answer: resources  title case
-response: resources  lowercase
-
 line 17574
 answer: in  title case
 response: in  lowercase
-
-line 17577
-answer: southmark  title case
-response: southmark  Begin_Sent
 
 line 17578
 answer: corp.  title case
@@ -3073,10 +2981,6 @@ response: resorts  lowercase
 line 17662
 answer: in  title case
 response: in  lowercase
-
-line 17674
-answer: financial  title case
-response: financial  lowercase
 
 line 17761
 answer: federal  title case
@@ -3438,10 +3342,6 @@ line 19901
 answer: general  title case
 response: general  lowercase
 
-line 19902
-answer: dynamics  title case
-response: dynamics  lowercase
-
 line 19907
 answer: avions  title case
 response: avions  lowercase
@@ -3629,10 +3529,6 @@ response: appeals  title case
 line 21237
 answer: apple  title case
 response: apple  lowercase
-
-line 21238
-answer: computer  title case
-response: computer  lowercase
 
 line 21296
 answer: apple  title case
@@ -3834,17 +3730,9 @@ line 22444
 answer: day  title case
 response: day  lowercase
 
-line 22471
-answer: air  title case
-response: air  lowercase
-
 line 22510
 answer: new  title case
 response: new  lowercase
-
-line 22523
-answer: computer  title case
-response: computer  lowercase
 
 line 22561
 answer: apple  title case
@@ -3898,10 +3786,6 @@ line 22720
 answer: electronic  title case
 response: electronic  lowercase
 
-line 22721
-answer: components  title case
-response: components  lowercase
-
 line 22750
 answer: components  title case
 response: components  lowercase
@@ -3942,10 +3826,6 @@ line 22949
 answer: time  title case
 response: time  lowercase
 
-line 22959
-answer: post  title case
-response: post  lowercase
-
 line 23000
 answer: mcloughlin  lowercase
 response: mcloughlin  title case
@@ -3974,10 +3854,6 @@ line 23104
 answer: dassault-breguet  title case
 response: dassault-breguet  lowercase
 
-line 23105
-answer: aviation  title case
-response: aviation  lowercase
-
 line 23138
 answer: francs  lowercase
 response: francs  number
@@ -3993,10 +3869,6 @@ response: billings  title case
 line 23292
 answer: consolidated  title case
 response: consolidated  lowercase
-
-line 23293
-answer: industries  title case
-response: industries  lowercase
 
 line 23349
 answer: keystone  title case
@@ -4086,10 +3958,6 @@ line 24087
 answer: uranium  title case
 response: uranium  lowercase
 
-line 24088
-answer: recovery  title case
-response: recovery  lowercase
-
 line 24106
 answer: freeport-mcmoran  lowercase
 response: freeport-mcmoran  uppercase
@@ -4105,10 +3973,6 @@ response: partners  lowercase
 line 24123
 answer: week  title case
 response: week  lowercase
-
-line 24142
-answer: instruments  title case
-response: instruments  lowercase
 
 line 24155
 answer: corporate  title case
@@ -4154,10 +4018,6 @@ line 24325
 answer: three  title case
 response: three  lowercase
 
-line 24340
-answer: financial  title case
-response: financial  lowercase
-
 line 24351
 answer: bankruptcy  lowercase
 response: bankruptcy  title case
@@ -4173,10 +4033,6 @@ response: markets  lowercase
 line 24386
 answer: equitable  title case
 response: equitable  lowercase
-
-line 24388
-answer: leasing  title case
-response: leasing  lowercase
 
 line 24423
 answer: asset  lowercase
@@ -4297,6 +4153,10 @@ response: wall  lowercase
 line 25401
 answer: street  title case
 response: street  lowercase
+
+line 25421
+answer: vitro  uppercase
+response: vitro  title case
 
 line 25437
 answer: anchor  title case
@@ -4554,10 +4414,6 @@ line 28310
 answer: resolution  title case
 response: resolution  lowercase
 
-line 28311
-answer: trust  title case
-response: trust  lowercase
-
 line 28317
 answer: bank  title case
 response: bank  lowercase
@@ -4782,10 +4638,6 @@ line 29597
 answer: perfecta  title case
 response: perfecta  lowercase
 
-line 29598
-answer: enterprises  title case
-response: enterprises  lowercase
-
 line 29650
 answer: matchbox  title case
 response: matchbox  lowercase
@@ -4801,10 +4653,6 @@ response: china  lowercase
 line 29740
 answer: worlds  title case
 response: worlds  lowercase
-
-line 29742
-answer: wonder  title case
-response: wonder  lowercase
 
 line 29746
 answer: industries  title case
@@ -4946,6 +4794,10 @@ line 30442
 answer: court  title case
 response: court  lowercase
 
+line 30527
+answer: aluminum  uppercase
+response: aluminum  title case
+
 line 30628
 answer: it  title case
 response: it  lowercase
@@ -4998,10 +4850,6 @@ line 31084
 answer: general  title case
 response: general  lowercase
 
-line 31085
-answer: electric  title case
-response: electric  lowercase
-
 line 31103
 answer: mgm\/ua  lowercase
 response: mgm\/ua  title case
@@ -5026,9 +4874,17 @@ line 31159
 answer: nbc  lowercase
 response: nbc  uppercase
 
+line 31187
+answer: cbs  lowercase
+response: cbs  title case
+
 line 31194
 answer: capital  title case
 response: capital  lowercase
+
+line 31195
+answer: cities\/abc  lowercase
+response: cities\/abc  title case
 
 line 31283
 answer: motion  title case
@@ -5045,14 +4901,6 @@ response: president  lowercase
 line 31359
 answer: paramount  title case
 response: paramount  lowercase
-
-line 31360
-answer: communications  title case
-response: communications  lowercase
-
-line 31364
-answer: entertainment  title case
-response: entertainment  lowercase
 
 line 31371
 answer: mca  lowercase
@@ -5077,14 +4925,6 @@ response: president  lowercase
 line 31558
 answer: pictures  title case
 response: pictures  lowercase
-
-line 31559
-answer: entertainment  title case
-response: entertainment  lowercase
-
-line 31573
-answer: entertainment  title case
-response: entertainment  lowercase
 
 line 31592
 answer: broadcast  title case
@@ -5125,10 +4965,6 @@ response: big  lowercase
 line 31753
 answer: three  title case
 response: three  lowercase
-
-line 31766
-answer: time  title case
-response: time  lowercase
 
 line 31778
 answer: time  title case
@@ -5258,10 +5094,6 @@ line 32383
 answer: c.  title case
 response: c.  lowercase
 
-line 32401
-answer: equipment  title case
-response: equipment  lowercase
-
 line 32421
 answer: postal  title case
 response: postal  lowercase
@@ -5321,6 +5153,10 @@ response: service  lowercase
 line 32696
 answer: ban  lowercase
 response: ban  title case
+
+line 32716
+answer: intel  uppercase
+response: intel  title case
 
 line 33128
 answer: van  lowercase
