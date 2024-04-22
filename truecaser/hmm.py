@@ -30,6 +30,9 @@ lower_list = lower.split("\n")
 title = open('truecaser/title.words', 'r').read()
 title_list = title.split("\n")
 
+suffix = open("truecaser/suffix.end",'r').read()
+suffix_list = suffix.split("\n")
+
 #training stage
 training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
 for training in training_files:
@@ -161,7 +164,9 @@ for line in file:
                 if (word not in lower_list):
                     if (tag != "uppercase"):
                         tag = "title case"
-
+                elif any(word.endswith(suffix) for suffix in suffix_list):
+                    if (tag != "uppercase"):
+                        tag = "lowercase"
             res.write(sentence[i] + "\t" + tag + "\n")
         res.write("\n")
         res.close()
