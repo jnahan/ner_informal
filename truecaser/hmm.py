@@ -2,7 +2,11 @@ from collections import defaultdict
 import numpy as np
 import string
 
-#recognize if all word in sentence are capitalized
+# TODOS
+# recognize if all word in sentence are capitalized (training)
+# get a list of words that commonly precede/follow title cases
+    #Inc Corp
+# optimize trigram
 
 likelihood = defaultdict(lambda: defaultdict(int))
 transition = defaultdict(lambda: defaultdict(int))
