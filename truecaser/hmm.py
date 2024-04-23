@@ -2,16 +2,13 @@ from collections import defaultdict
 import numpy as np
 import string
 import math
+import re
 
 # TODOS
 # recognize if all word in sentence are capitalized (training, ex for titles)
-# get a list of words that commonly precede/follow title cases
-    # Inc Corp
 # optimize trigram
     # currently causing some words to be incorrectly tagged title case
     # missing some words
-# consider common prefixes suffixes (ness, ingm etc,)
-# tag urls (http/https/www, etc as lowercase)
 # update code to produce properly capitalized sentences rather than the tags
 # maybe remove uppercase (try to tag those properly instead)
 
@@ -139,6 +136,18 @@ res = open("truecaser/submission.pos", 'w')
 res.write('')
 res.close()
 
+def is_url(url):
+    #check if url starts with http:// or https://
+    if re.match(r"^https?://", url, re.IGNORECASE):
+        return True
+    #check if url starts with www.
+    elif re.match(r"^www\.", url, re.IGNORECASE):
+        return True
+    #check if url ends with common domain extensions
+    elif re.search(r"\.(com|net|org|edu|gov|co|io|info|biz)", url, re.IGNORECASE):
+        return True
+    return False
+
 #truecaser/test.words = test data
 file = open('truecaser/test.words', 'r')
 #loop through test data
@@ -232,8 +241,14 @@ for line in file:
                     tag = "title case"
             #handle oov
             elif (word not in words):
+                #set it to title if it is a username
+                if (word.startswith("@") and len(word) > 3):
+                    tag = "title case"
+                #set it to lowercase if it is a url
+                elif (is_url(word)):
+                    tag = "lowercase"
                 #set it to title if its not in list of common lowercase words
-                if (word not in lower_list):
+                elif (word not in lower_list):
                     if (tag != "uppercase"):
                         tag = "title case"
                 #set it to lowercase if word is not the first word in the sentence and ends with a suffix that is rarely found in named entities
