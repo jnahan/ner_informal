@@ -36,23 +36,28 @@ words = set()
 wordCounts = defaultdict(lambda:0)
 prev = ('Begin_Sent','Begin_Sent')
 
-lower = open('truecaser/lower.words', 'r').read()
+with open('truecaser/lower.words', 'r') as lower_file:
+    lower = lower_file.read()
 #stores a list of common words that are not named entities
 lower_list = lower.split("\n")
 
-title = open('truecaser/title.words', 'r').read()
+with open('truecaser/title.words', 'r') as title_file:
+    title = title_file.read()
 #stores a list of common words that are named entities
 title_list = title.split("\n")
 
-suffix = open("truecaser/suffix.end",'r').read()
+with open("truecaser/suffix.end",'r') as suffix_file:
+    suffix = suffix_file.read()
 #stores a list of common suffixes for words that are not named entities
 suffix_list = suffix.split("\n")
 
-follow = open("truecaser/follow.words",'r').read()
+with open("truecaser/follow.words",'r') as follow_file:
+    follow = follow_file.read()
 #stores a list of common words that follow a named entity
 follow_list = follow.split("\n")
 
-prev = open("truecaser/prevne.words",'r').read()
+with open("truecaser/prevne.words",'r') as prev_file:
+    prev = prev_file.read()
 #stores a list of common words that precede a named entity
 prev_list = prev.split("\n")
 
@@ -91,6 +96,8 @@ for training in training_files:
         transition[prev][pos] += 1
         transition[prev[1]][pos]+=1
         prev = (prev[1],pos)
+
+file.close()
 
 #unknownWords - stores a list of all words that only appear once in training corpus
 unknownWords = [k for k, v in wordCounts.items() if v == 1]
@@ -216,7 +223,7 @@ for line in file:
             maxInd.append(np.argmax(max_prob_per_tag))
         
         #write results in output file
-        res = open("truecaser/submission.pos", 'a')
+        res = open("truecaser/result.words", 'a')
         for i in range(len(sentence)):
             #tag that word is most likely to be
             tag = tags[maxInd[i+1]]
@@ -260,3 +267,4 @@ for line in file:
         res.write("\n")
         res.close()
         sentence=[]
+file.close()
