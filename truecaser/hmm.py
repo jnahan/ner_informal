@@ -12,7 +12,7 @@ import re
 # update code to produce properly capitalized sentences rather than the tags
 # maybe remove uppercase (try to tag those properly instead)
 
-#curr accuracy: 96.049067
+#curr accuracy: 96.058199
 
 """
 likelihood - dictionary that stores likelihood of word being tagged pos (likelihood[pos][word]), trained on training data
@@ -247,14 +247,14 @@ for line in file:
                 #set it to lowercase if it is a url
                 elif (is_url(word)):
                     tag = "lowercase"
-                #set it to title if its not in list of common lowercase words
-                elif (word not in lower_list):
-                    if (tag != "uppercase"):
-                        tag = "title case"
                 #set it to lowercase if word is not the first word in the sentence and ends with a suffix that is rarely found in named entities
                 elif any(word.endswith(suffix) for suffix in suffix_list):
                     if (tag != "uppercase"):
                         tag = "lowercase"
+                #set it to title if its not in list of common lowercase words
+                elif (word not in lower_list):
+                    if (tag != "uppercase"):
+                        tag = "title case"
             #write out the word and the tag
             res.write(sentence[i] + "\t" + tag + "\n")
         res.write("\n")

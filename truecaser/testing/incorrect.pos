@@ -102,10 +102,6 @@ line 787
 answer: city  title case
 response: city  lowercase
 
-line 867
-answer: fraction  lowercase
-response: fraction  title case
-
 line 1030
 answer: sandwich  lowercase
 response: sandwich  title case
@@ -113,10 +109,6 @@ response: sandwich  title case
 line 1066
 answer: monthly  lowercase
 response: monthly  title case
-
-line 1106
-answer: fraction  lowercase
-response: fraction  title case
 
 line 1478
 answer: script  lowercase
@@ -209,6 +201,10 @@ response: on  lowercase
 line 1765
 answer: script  lowercase
 response: script  title case
+
+line 1860
+answer: healy  title case
+response: healy  lowercase
 
 line 1866
 answer: hall  title case
@@ -461,6 +457,10 @@ response: auto  title case
 line 2834
 answer: models  lowercase
 response: models  number
+
+line 2870
+answer: kelly  title case
+response: kelly  lowercase
 
 line 2875
 answer: bill  title case
@@ -2034,17 +2034,9 @@ line 12397
 answer: create  title case
 response: create  lowercase
 
-line 12420
-answer: monopoly  lowercase
-response: monopoly  title case
-
 line 12439
 answer: there  title case
 response: there  lowercase
-
-line 12444
-answer: monopoly  lowercase
-response: monopoly  title case
 
 line 12530
 answer: films  lowercase
