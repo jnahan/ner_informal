@@ -48,7 +48,3 @@ with open('truecaser/alice.words','w') as file:
         file.write(token+'\n')
         if token in {'.', '?', '!'}:
             file.write('\n')
-
-
-
-

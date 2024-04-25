@@ -13,7 +13,7 @@ import os
 #python3 truecaser/testing/score.py truecaser/testing/answers.words truecaser/testing/submission.pos
 
 def score (keyFileName, responseFileName):
-	incorrect_list = open("truecaser/testing/incorrect.pos", 'w')
+	incorrect_list = open("truecaser/incorrect.words", 'w')
 	incorrect_list.write('')
 	incorrect_list.close()
 
@@ -126,9 +126,9 @@ def score (keyFileName, responseFileName):
 	print("Recall: %f" % recall)
 	print("F-Score: %f"% (2.0/((1.0/precision)+(1.0/recall))))
 
-def main(args):
-	key_file = args[1]
-	response_file = args[2]
+def main():
+	key_file = "truecaser/development/answers.words"
+	response_file = "truecaser/development/result.words"
 	score(key_file,response_file)
 
-if __name__ == '__main__': sys.exit(main(sys.argv))
+main()

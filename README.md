@@ -3,6 +3,7 @@
 ### resources
 - nltk corpus
 - list of common words that are/are not named entities
+    - https://github.com/dwyl/english-words
 - list of common suffixes
 - list of common words that precede/follow named entities
 
