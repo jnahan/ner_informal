@@ -70,9 +70,7 @@ international	title case
 a	lowercase
 unit	lowercase
 of	lowercase
-mcgraw	lowercase
--	punctuation
-hill	title case
+mcgraw-hill	lowercase
 inc.	title case
 ,	punctuation
 new	title case
@@ -137,9 +135,7 @@ started	lowercase
 on	lowercase
 its	lowercase
 reckless	lowercase
-190	number
--	punctuation
-point	lowercase
+190-point	number
 plunge	lowercase
 .	punctuation
 
@@ -188,7 +184,7 @@ inched	lowercase
 upward	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 there	title case
 's	other
 a	lowercase
@@ -196,7 +192,7 @@ possibility	lowercase
 of	lowercase
 a	lowercase
 surprise	lowercase
-"	punctuation
+''	other
 in	lowercase
 the	lowercase
 trade	lowercase
@@ -269,7 +265,7 @@ been	lowercase
 made	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 trade	title case
 is	lowercase
 definitely	lowercase
@@ -292,7 +288,7 @@ begins	lowercase
 to	lowercase
 slow	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
@@ -479,7 +475,7 @@ producer	lowercase
 level	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 auto	title case
 prices	lowercase
 had	lowercase
@@ -499,7 +495,7 @@ they	lowercase
 wo	lowercase
 n't	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
@@ -538,11 +534,11 @@ also	lowercase
 says	lowercase
 he	lowercase
 thinks	lowercase
-"	punctuation
+``	other
 core	lowercase
 inflation	lowercase
 ,	punctuation
-"	punctuation
+''	other
 which	lowercase
 excludes	lowercase
 the	lowercase
@@ -625,19 +621,13 @@ historical	lowercase
 standards	lowercase
 .	punctuation
 
-two	uppercase
--	punctuation
-way	title case
+two-way	uppercase
 street	title case
 
 if	uppercase
 the	lowercase
-sixty	lowercase
--	punctuation
-day	lowercase
-plant	lowercase
--	punctuation
-closing	lowercase
+sixty-day	lowercase
+plant-closing	lowercase
 law	lowercase
 's	other
 fair	lowercase
@@ -685,13 +675,13 @@ cuts	lowercase
 ,	punctuation
 are	lowercase
 we	lowercase
-"	punctuation
+``	other
 caught	lowercase
 with	lowercase
 our	lowercase
 grants	lowercase
 down	lowercase
-"	punctuation
+''	other
 ?	punctuation
 
 --	other
@@ -732,10 +722,10 @@ of	lowercase
 both	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 capital	title case
 city	title case
-"	punctuation
+''	other
 is	lowercase
 a	lowercase
 weekly	lowercase
@@ -793,11 +783,11 @@ program	lowercase
 publicity	lowercase
 prospectus	lowercase
 ,	punctuation
-"	punctuation
+``	other
 capital	title case
 city	title case
 ,	punctuation
-"	punctuation
+''	other
 set	lowercase
 at	lowercase
 shane	title case
@@ -805,9 +795,7 @@ longman	title case
 ,	punctuation
 a	lowercase
 fictional	lowercase
-mid	lowercase
--	punctuation
-sized	lowercase
+mid-sized	lowercase
 securities	lowercase
 firm	lowercase
 with	lowercase
@@ -816,22 +804,18 @@ with	lowercase
 million	lowercase
 capital	lowercase
 ,	punctuation
-"	punctuation
+``	other
 follows	lowercase
 the	lowercase
 fortunes	lowercase
 of	lowercase
 a	lowercase
-close	lowercase
--	punctuation
-knit	lowercase
+close-knit	lowercase
 team	lowercase
 of	lowercase
 young	lowercase
 ,	punctuation
-high	lowercase
--	punctuation
-flying	lowercase
+high-flying	lowercase
 dealers	lowercase
 ,	punctuation
 hired	lowercase
@@ -886,16 +870,14 @@ of	lowercase
 a	lowercase
 second	lowercase
 ...	other
-"	punctuation
+''	other
 
 you	uppercase
 need	lowercase
 n't	lowercase
 be	lowercase
 a	lowercase
-high	lowercase
--	punctuation
-powered	lowercase
+high-powered	lowercase
 securities	lowercase
 lawyer	lowercase
 to	lowercase
@@ -1268,9 +1250,7 @@ for	lowercase
 such	lowercase
 ineptitude	lowercase
 are	lowercase
-six	lowercase
--	punctuation
-figure	lowercase
+six-figure	lowercase
 salaries	lowercase
 ,	punctuation
 you	lowercase
@@ -1321,9 +1301,7 @@ although	lowercase
 she	lowercase
 drives	lowercase
 a	lowercase
-canary	lowercase
--	punctuation
-colored	lowercase
+canary-colored	lowercase
 porsche	title case
 ,	punctuation
 she	lowercase
@@ -1337,9 +1315,7 @@ repair	lowercase
 it	lowercase
 ;	punctuation
 the	lowercase
-beat	lowercase
--	punctuation
-up	lowercase
+beat-up	lowercase
 vehicle	lowercase
 can	lowercase
 be	lowercase
@@ -1401,9 +1377,7 @@ these	lowercase
 anomalies	lowercase
 is	lowercase
 that	lowercase
-class	lowercase
--	punctuation
-conscious	lowercase
+class-conscious	lowercase
 britain	title case
 is	lowercase
 n't	lowercase
@@ -1419,9 +1393,7 @@ created	lowercase
 by	lowercase
 the	lowercase
 thatcherian	title case
-free	lowercase
--	punctuation
-enterprise	lowercase
+free-enterprise	lowercase
 regime	lowercase
 .	punctuation
 
@@ -1506,9 +1478,7 @@ masses	lowercase
 the	lowercase
 script	lowercase
 inflates	lowercase
-pony	lowercase
--	punctuation
-tailed	lowercase
+pony-tailed	lowercase
 max	title case
 into	lowercase
 an	lowercase
@@ -1565,11 +1535,11 @@ in	uppercase
 producing	lowercase
 and	lowercase
 promoting	lowercase
-"	punctuation
+``	other
 capital	title case
 city	title case
 ,	punctuation
-"	punctuation
+''	other
 thames	title case
 has	lowercase
 spent	lowercase
@@ -1623,17 +1593,13 @@ in	lowercase
 the	lowercase
 budget	lowercase
 of	lowercase
-"	punctuation
+``	other
 dealers	title case
 ,	punctuation
-"	punctuation
+''	other
 an	lowercase
 earlier	lowercase
-made	lowercase
--	punctuation
-for	lowercase
--	punctuation
-tv	lowercase
+made-for-tv	lowercase
 movie	lowercase
 .	punctuation
 
@@ -1646,9 +1612,7 @@ for	lowercase
 a	lowercase
 volley	lowercase
 of	lowercase
-full	lowercase
--	punctuation
-page	lowercase
+full-page	lowercase
 advertisements	lowercase
 in	lowercase
 six	lowercase
@@ -1672,11 +1636,11 @@ a	lowercase
 special	lowercase
 incentive	lowercase
 for	lowercase
-"	punctuation
+``	other
 capital	title case
 city	title case
 's	other
-"	punctuation
+''	other
 producers	lowercase
 to	lowercase
 flog	lowercase
@@ -1684,9 +1648,7 @@ it	lowercase
 ,	punctuation
 or	lowercase
 a	lowercase
-yank	title case
--	punctuation
-oriented	lowercase
+yank-oriented	lowercase
 version	lowercase
 of	lowercase
 it	lowercase
@@ -1721,22 +1683,28 @@ citing	lowercase
 three	lowercase
 u.s.	title case
 comedy	lowercase
-series--"three	lowercase
+series	lowercase
+--	other
+``	other
+three	title case
 's	other
 company	title case
 ,	punctuation
-"	punctuation
-"	punctuation
+''	other
+``	other
 too	title case
 close	title case
 for	lowercase
 comfort	title case
-"	punctuation
+''	other
 and	lowercase
-"	punctuation
+``	other
 check	title case
 it	title case
-out"--that	lowercase
+out	title case
+''	other
+--	other
+that	lowercase
 had	lowercase
 british	title case
 antecedents	lowercase
@@ -1762,10 +1730,10 @@ an	lowercase
 ideal	lowercase
 solution	lowercase
 :	punctuation
-"	punctuation
+``	other
 capital	title case
 city	title case
-"	punctuation
+''	other
 should	lowercase
 have	lowercase
 been	lowercase
@@ -1779,10 +1747,10 @@ to	lowercase
 the	lowercase
 screwball	lowercase
 british	title case
-"	punctuation
+``	other
 carry	title case
 on	title case
-"	punctuation
+''	other
 movies	lowercase
 of	lowercase
 the	lowercase
@@ -1810,9 +1778,7 @@ scene	lowercase
 in	lowercase
 which	lowercase
 the	lowercase
-trading	lowercase
--	punctuation
-room	lowercase
+trading-room	lowercase
 crew	lowercase
 minded	lowercase
 a	lowercase
@@ -1901,9 +1867,7 @@ huntz	title case
 hall	title case
 ,	punctuation
 the	lowercase
-blank	lowercase
--	punctuation
-faced	lowercase
+blank-faced	lowercase
 foil	lowercase
 of	lowercase
 the	lowercase
@@ -1921,11 +1885,11 @@ everybody	lowercase
 on	lowercase
 stage	lowercase
 for	lowercase
-"	punctuation
+``	other
 carry	title case
 on	title case
 trading	title case
-"	punctuation
+''	other
 :	punctuation
 the	title case
 cast	lowercase
@@ -1945,9 +1909,7 @@ soared	lowercase
 in	lowercase
 value	lowercase
 because	lowercase
-dai	title case
--	punctuation
-ichi	title case
+dai-ichi	title case
 kangyo	title case
 bank	title case
 has	lowercase
@@ -2028,9 +1990,7 @@ london	title case
 bureau	lowercase
 .	punctuation
 
-axa	uppercase
--	punctuation
-midi	title case
+axa-midi	uppercase
 assurances	title case
 of	lowercase
 france	title case
@@ -2102,9 +2062,7 @@ is	lowercase
 parent	lowercase
 of	lowercase
 los	title case
-angeles	title case
--	punctuation
-based	lowercase
+angeles-based	lowercase
 farmers	title case
 .	punctuation
 
@@ -2140,7 +2098,8 @@ is	lowercase
 successful	lowercase
 in	lowercase
 acquiring	lowercase
-b.a.t.	title case
+b.a.t	title case
+.	punctuation
 
 as	uppercase
 part	lowercase
@@ -2195,9 +2154,7 @@ axa	title case
 's	other
 parent	lowercase
 ,	punctuation
-axa	title case
--	punctuation
-midi	title case
+axa-midi	title case
 group	title case
 ,	punctuation
 $	punctuation
@@ -2223,9 +2180,7 @@ billion	lowercase
 will	lowercase
 be	lowercase
 in	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 bank	lowercase
 loans	lowercase
 .	punctuation
@@ -2303,21 +2258,17 @@ said	lowercase
 mr.	uppercase
 bebear	title case
 said	lowercase
-axa	title case
--	punctuation
-midi	title case
+axa-midi	title case
 group	title case
 has	lowercase
-"	punctuation
+``	other
 more	lowercase
 than	lowercase
 $	punctuation
 2.5	number
 billion	lowercase
 of	lowercase
-non	lowercase
--	punctuation
-strategic	lowercase
+non-strategic	lowercase
 assets	lowercase
 that	lowercase
 we	lowercase
@@ -2325,7 +2276,7 @@ can	lowercase
 and	lowercase
 will	lowercase
 sell	lowercase
-"	punctuation
+''	other
 to	lowercase
 help	lowercase
 pay	lowercase
@@ -2345,11 +2296,9 @@ be	lowercase
 sold	lowercase
 would	lowercase
 be	lowercase
-"	punctuation
-non	lowercase
--	punctuation
-insurance	lowercase
-"	punctuation
+``	other
+non-insurance	lowercase
+''	other
 assets	lowercase
 ,	punctuation
 including	lowercase
@@ -2372,7 +2321,7 @@ of	lowercase
 farmers	title case
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 wo	lowercase
 n't	lowercase
@@ -2382,7 +2331,7 @@ burden	lowercase
 on	lowercase
 farmers	title case
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
@@ -2413,9 +2362,10 @@ upon	lowercase
 an	lowercase
 acquisition	lowercase
 of	lowercase
-b.a.t.	title case
+b.a.t	title case
+.	punctuation
 
-"	punctuation
+``	other
 we	title case
 hope	lowercase
 that	lowercase
@@ -2456,7 +2406,7 @@ farmers	title case
 at	lowercase
 anytime	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 bebear	title case
 said	lowercase
@@ -2579,7 +2529,7 @@ amended	lowercase
 filings	lowercase
 that	lowercase
 ,	punctuation
-"	punctuation
+``	other
 it	title case
 would	lowercase
 appear	lowercase
@@ -2597,9 +2547,7 @@ structure	lowercase
 is	lowercase
 still	lowercase
 a	lowercase
-very	lowercase
--	punctuation
-highly	lowercase
+very-highly	lowercase
 leveraged	lowercase
 one	lowercase
 ,	punctuation
@@ -2623,7 +2571,7 @@ service	lowercase
 their	lowercase
 debt	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 that	uppercase
 dividend	lowercase
@@ -2646,7 +2594,7 @@ spokesman	lowercase
 added	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 would	lowercase
 have	lowercase
@@ -2658,7 +2606,7 @@ farmers	title case
 policy	lowercase
 holders	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 to	uppercase
 fend	lowercase
@@ -2702,9 +2650,7 @@ truck	lowercase
 market	lowercase
 down	lowercase
 below	lowercase
-year	lowercase
--	punctuation
-ago	lowercase
+year-ago	lowercase
 levels	lowercase
 in	lowercase
 early	lowercase
@@ -2730,9 +2676,7 @@ makers	lowercase
 sold	lowercase
 160,510	number
 north	title case
-american	title case
--	punctuation
-made	lowercase
+american-made	lowercase
 cars	lowercase
 in	lowercase
 the	lowercase
@@ -2846,9 +2790,7 @@ overall	uppercase
 sales	lowercase
 of	lowercase
 all	lowercase
-domestic	lowercase
--	punctuation
-made	lowercase
+domestic-made	lowercase
 vehicles	lowercase
 fell	lowercase
 11.9	number
@@ -2906,7 +2848,7 @@ sales	lowercase
 up	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 've	other
 created	lowercase
@@ -2923,7 +2865,7 @@ a	lowercase
 tough	lowercase
 market	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 tom	title case
 kelly	title case
@@ -2937,7 +2879,8 @@ chevrolet	title case
 in	lowercase
 dearborn	title case
 ,	punctuation
-mich.	title case
+mich	title case
+.	punctuation
 
 car	uppercase
 sales	lowercase
@@ -3057,14 +3000,13 @@ lexus	title case
 ,	punctuation
 the	lowercase
 fledging	lowercase
-luxury	lowercase
--	punctuation
-car	lowercase
+luxury-car	lowercase
 division	lowercase
 of	lowercase
 toyota	title case
 motor	title case
-corp.	title case
+corp	title case
+.	punctuation
 
 lexus	uppercase
 sales	lowercase
@@ -3083,9 +3025,7 @@ their	lowercase
 sales	lowercase
 only	lowercase
 at	lowercase
-month	lowercase
--	punctuation
-end	lowercase
+month-end	lowercase
 .	punctuation
 
 the	uppercase
@@ -3093,8 +3033,7 @@ sales	lowercase
 drop	lowercase
 for	lowercase
 the	lowercase
-no	title case
-.	punctuation
+no.	title case
 1	number
 car	lowercase
 maker	lowercase
@@ -3121,9 +3060,7 @@ to	lowercase
 consumer	lowercase
 rebates	lowercase
 and	lowercase
-low	lowercase
--	punctuation
-interest	lowercase
+low-interest	lowercase
 financing	lowercase
 ,	punctuation
 a	lowercase
@@ -3271,7 +3208,7 @@ spokesman	lowercase
 said	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 're	other
 really	lowercase
@@ -3283,7 +3220,7 @@ back	lowercase
 to	lowercase
 normal	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 added	lowercase
 .	punctuation
@@ -3296,9 +3233,7 @@ firm	lowercase
 prices	lowercase
 on	lowercase
 its	lowercase
-1990	number
--	punctuation
-model	lowercase
+1990-model	number
 domestic	lowercase
 cars	lowercase
 and	lowercase
@@ -3456,9 +3391,7 @@ to	lowercase
 the	lowercase
 subsidiary	lowercase
 's	other
-rocket	lowercase
--	punctuation
-propulsion	lowercase
+rocket-propulsion	lowercase
 operations	lowercase
 .	punctuation
 
@@ -3493,9 +3426,7 @@ in	lowercase
 military	lowercase
 electronics	lowercase
 and	lowercase
-electro	lowercase
--	punctuation
-optics	lowercase
+electro-optics	lowercase
 ,	punctuation
 marine	lowercase
 transportation	lowercase
@@ -3577,15 +3508,18 @@ out	lowercase
 a	lowercase
 sign	lowercase
 :	punctuation
-"	punctuation
+``	other
 szabad	title case
 europa	title case
-radio"--radio	title case
+radio	title case
+''	other
+--	other
+radio	title case
 free	title case
 europe	title case
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 think	lowercase
 this	lowercase
@@ -3596,18 +3530,14 @@ for	lowercase
 the	lowercase
 radio	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 barnabas	title case
 de	lowercase
 bueky	title case
 ,	punctuation
 a	lowercase
-55	number
--	punctuation
-year	lowercase
--	punctuation
-old	lowercase
+55-year-old	number
 former	lowercase
 hungarian	title case
 refugee	lowercase
@@ -3763,7 +3693,7 @@ even	lowercase
 boring	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 they	title case
 have	lowercase
 a	lowercase
@@ -3778,15 +3708,13 @@ with	lowercase
 hungarian	title case
 radio	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 andrew	title case
 deak	title case
 ,	punctuation
 a	lowercase
-computer	lowercase
--	punctuation
-science	lowercase
+computer-science	lowercase
 student	lowercase
 at	lowercase
 the	lowercase
@@ -3796,7 +3724,7 @@ in	lowercase
 budapest	title case
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 hungarian	title case
 {	punctuation
@@ -3817,7 +3745,7 @@ going	lowercase
 on	lowercase
 here	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 indeed	uppercase
 ,	punctuation
@@ -3974,12 +3902,12 @@ hungary	title case
 and	lowercase
 in	lowercase
 the	lowercase
-"	punctuation
+``	other
 great	title case
 eastern	title case
 beyond	title case
 .	punctuation
-"	punctuation
+''	other
 
 radio	uppercase
 free	title case
@@ -4143,7 +4071,7 @@ even	lowercase
 more	lowercase
 amazing	lowercase
 :	punctuation
-"	punctuation
+``	other
 they	title case
 found	lowercase
 us	lowercase
@@ -4154,7 +4082,7 @@ in	lowercase
 central	lowercase
 budapest	title case
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 geza	title case
 szocs	title case
@@ -4172,13 +4100,13 @@ budapest	title case
 location	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 that	title case
 is	lowercase
 a	lowercase
 miracle	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 it	uppercase
 's	other
@@ -4258,7 +4186,7 @@ writer	lowercase
 here	lowercase
 calls	lowercase
 the	lowercase
-"	punctuation
+``	other
 dark	title case
 ages	title case
 of	lowercase
@@ -4266,9 +4194,9 @@ the	lowercase
 20th	number
 century	title case
 .	punctuation
-"	punctuation
+''	other
 
-"	punctuation
+``	other
 during	title case
 the	lowercase
 past	lowercase
@@ -4290,13 +4218,13 @@ to	lowercase
 our	lowercase
 radios	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 the	lowercase
 writer	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 there	title case
 were	lowercase
 some	lowercase
@@ -4304,7 +4232,7 @@ very	lowercase
 brave	lowercase
 broadcasts	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 listeners	lowercase
@@ -4321,9 +4249,7 @@ through	uppercase
 much	lowercase
 of	lowercase
 the	lowercase
-post	lowercase
--	punctuation
-world	title case
+post-world	lowercase
 war	title case
 ii	lowercase
 period	lowercase
@@ -4339,7 +4265,7 @@ in	lowercase
 hungary	title case
 .	punctuation
 
-"	punctuation
+``	other
 when	title case
 we	lowercase
 listen	lowercase
@@ -4354,14 +4280,14 @@ still	lowercase
 gets	lowercase
 nervous	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 a	lowercase
 budapest	title case
 translator	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 she	title case
 wants	lowercase
 to	lowercase
@@ -4374,7 +4300,7 @@ close	lowercase
 the	lowercase
 curtains	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 now	uppercase
 ,	punctuation
@@ -4388,9 +4314,7 @@ europe	title case
 comes	lowercase
 during	lowercase
 the	lowercase
-late	lowercase
--	punctuation
-night	lowercase
+late-night	lowercase
 slot	lowercase
 .	punctuation
 
@@ -4429,20 +4353,21 @@ a	lowercase
 new	lowercase
 program	lowercase
 ,	punctuation
-"	punctuation
+``	other
 the	title case
 end	title case
 of	lowercase
 the	lowercase
 day	title case
 ,	punctuation
-"	punctuation
+''	other
 which	lowercase
 comes	lowercase
 on	lowercase
 after	lowercase
 11	number
-p.m.	lowercase
+p.m	lowercase
+.	punctuation
 
 it	uppercase
 is	lowercase
@@ -4487,11 +4412,11 @@ on	lowercase
 sunday	title case
 morning	lowercase
 for	lowercase
-"	punctuation
+``	other
 sunday	title case
 journal	title case
 ,	punctuation
-"	punctuation
+''	other
 on	lowercase
 hungarian	title case
 radio	title case
@@ -4522,9 +4447,7 @@ office	lowercase
 plans	lowercase
 to	lowercase
 hire	lowercase
-free	lowercase
--	punctuation
-lance	lowercase
+free-lance	lowercase
 reporters	lowercase
 to	lowercase
 cover	lowercase
@@ -4553,9 +4476,7 @@ service	lowercase
 has	lowercase
 a	lowercase
 daily	lowercase
-40	number
--	punctuation
-minute	lowercase
+40-minute	number
 news	lowercase
 show	lowercase
 called	lowercase
@@ -4603,17 +4524,15 @@ politics	lowercase
 
 a	uppercase
 daily	lowercase
-35	number
--	punctuation
-minute	lowercase
+35-minute	number
 program	lowercase
 called	lowercase
-"	punctuation
+``	other
 the	title case
 march	title case
 of	lowercase
 time	title case
-"	punctuation
+''	other
 tries	lowercase
 to	lowercase
 find	lowercase
@@ -4672,7 +4591,7 @@ in	lowercase
 budapest	title case
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 are	lowercase
 starving	lowercase
@@ -4681,7 +4600,7 @@ all	lowercase
 the	lowercase
 news	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 mr.	title case
 deak	title case
@@ -4690,7 +4609,7 @@ the	lowercase
 student	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 every	title case
 moment	lowercase
 we	lowercase
@@ -4705,14 +4624,12 @@ world	lowercase
 
 proposals	uppercase
 for	lowercase
-government	lowercase
--	punctuation
-operated	lowercase
-"	punctuation
+government-operated	lowercase
+``	other
 national	lowercase
 service	lowercase
 ,	punctuation
-"	punctuation
+''	other
 like	lowercase
 influenza	lowercase
 ,	punctuation
@@ -4823,14 +4740,14 @@ pay	lowercase
 volunteers	lowercase
 under	lowercase
 a	lowercase
-"	punctuation
+``	other
 national	title case
 and	lowercase
 community	title case
 service	title case
 act	title case
 ,	punctuation
-"	punctuation
+''	other
 a	lowercase
 proposal	lowercase
 with	lowercase
@@ -4847,9 +4764,7 @@ fall	lowercase
 why	uppercase
 does	lowercase
 the	lowercase
-national	lowercase
--	punctuation
-service	lowercase
+national-service	lowercase
 virus	lowercase
 keep	lowercase
 coming	lowercase
@@ -4893,9 +4808,7 @@ be	lowercase
 able	lowercase
 to	lowercase
 teach	lowercase
-self	lowercase
--	punctuation
-discipline	lowercase
+self-discipline	lowercase
 again	lowercase
 and	lowercase
 revive	lowercase
@@ -4962,15 +4875,11 @@ is	lowercase
 still	lowercase
 the	lowercase
 true	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 aim	lowercase
 of	lowercase
 many	lowercase
-national	lowercase
--	punctuation
-service	lowercase
+national-service	lowercase
 backers	lowercase
 ,	punctuation
 despite	lowercase
@@ -5093,9 +5002,7 @@ moreover	lowercase
 could	lowercase
 be	lowercase
 a	lowercase
-national	lowercase
--	punctuation
-service	lowercase
+national-service	lowercase
 option	lowercase
 .	punctuation
 
@@ -5120,13 +5027,7 @@ infecting	lowercase
 patriotic	lowercase
 conservatives	lowercase
 ,	punctuation
-pay	lowercase
--	punctuation
-as	lowercase
--	punctuation
-you	lowercase
--	punctuation
-go	lowercase
+pay-as-you-go	lowercase
 moderates	lowercase
 ,	punctuation
 and	lowercase
@@ -5174,9 +5075,7 @@ to	lowercase
 be	lowercase
 applied	lowercase
 to	lowercase
-first	lowercase
--	punctuation
-home	lowercase
+first-home	lowercase
 purchases	lowercase
 was	lowercase
 added	lowercase
@@ -5196,9 +5095,9 @@ the	uppercase
 dlc	lowercase
 plan	lowercase
 envisaged	lowercase
-"	punctuation
+``	other
 volunteers	lowercase
-"	punctuation
+''	other
 planting	lowercase
 trees	lowercase
 ,	punctuation
@@ -5227,9 +5126,7 @@ care	lowercase
 
 with	uppercase
 a	lowercase
-tax	lowercase
--	punctuation
-free	lowercase
+tax-free	lowercase
 $	punctuation
 10,000	number
 voucher	lowercase
@@ -5261,21 +5158,17 @@ you	lowercase
 ,	punctuation
 most	lowercase
 of	lowercase
-"	punctuation
+``	other
 the	lowercase
 volunteers	lowercase
-"	punctuation
+''	other
 would	lowercase
 be	lowercase
 unskilled	lowercase
 17	number
 -	punctuation
 to	lowercase
-18	number
--	punctuation
-year	lowercase
--	punctuation
-olds	lowercase
+18-year-olds	number
 ,	punctuation
 some	lowercase
 not	lowercase
@@ -5342,9 +5235,7 @@ system	lowercase
 ,	punctuation
 so	lowercase
 the	lowercase
-national	lowercase
--	punctuation
-service	lowercase
+national-service	lowercase
 devotees	lowercase
 decided	lowercase
 to	lowercase
@@ -5354,14 +5245,14 @@ supposedly	lowercase
 crucial	lowercase
 principle	lowercase
 of	lowercase
-"	punctuation
+``	other
 give	lowercase
 in	lowercase
 order	lowercase
 to	lowercase
 get	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 opposition	uppercase
 to	lowercase
@@ -5384,9 +5275,7 @@ also	lowercase
 led	lowercase
 to	lowercase
 the	lowercase
-military	lowercase
--	punctuation
-service	lowercase
+military-service	lowercase
 option	lowercase
 being	lowercase
 dropped	lowercase
@@ -5530,9 +5419,7 @@ specialty	lowercase
 a	lowercase
 community	lowercase
 service	lowercase
-work	lowercase
--	punctuation
-study	lowercase
+work-study	lowercase
 program	lowercase
 for	lowercase
 students	lowercase
@@ -5605,7 +5492,7 @@ is	lowercase
 widely	lowercase
 known	lowercase
 that	lowercase
-"	punctuation
+``	other
 too	lowercase
 many	lowercase
 cooks	lowercase
@@ -5613,7 +5500,7 @@ spoil	lowercase
 the	lowercase
 broth	lowercase
 ,	punctuation
-"	punctuation
+''	other
 but	lowercase
 that	lowercase
 wisdom	lowercase
@@ -5635,9 +5522,9 @@ senators	lowercase
 .	punctuation
 
 the	uppercase
-"	punctuation
+``	other
 omnibus	lowercase
-"	punctuation
+''	other
 bill	lowercase
 coming	lowercase
 out	lowercase
@@ -5745,11 +5632,11 @@ government	lowercase
 does	lowercase
 see	lowercase
 various	lowercase
-"	punctuation
+``	other
 unmet	lowercase
 needs	lowercase
 ,	punctuation
-"	punctuation
+''	other
 national	lowercase
 service	lowercase
 is	lowercase
@@ -5785,10 +5672,10 @@ based	lowercase
 on	lowercase
 something	lowercase
 called	lowercase
-"	punctuation
+``	other
 scholarship	lowercase
 ,	punctuation
-"	punctuation
+''	other
 rather	lowercase
 than	lowercase
 on	lowercase
@@ -5797,10 +5684,10 @@ government	lowercase
 's	other
 idea	lowercase
 of	lowercase
-"	punctuation
+``	other
 service	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 or	uppercase
 we	lowercase
@@ -5861,9 +5748,7 @@ raise	lowercase
 pay	lowercase
 ,	punctuation
 pursue	lowercase
-labor	lowercase
--	punctuation
-saving	lowercase
+labor-saving	lowercase
 technology	lowercase
 ,	punctuation
 or	lowercase
@@ -5879,9 +5764,7 @@ high	lowercase
 school	lowercase
 graduates	lowercase
 as	lowercase
-short	lowercase
--	punctuation
-term	lowercase
+short-term	lowercase
 workers	lowercase
 and	lowercase
 cause	lowercase
@@ -5959,18 +5842,18 @@ a	lowercase
 roll	lowercase
 of	lowercase
 supporting	lowercase
-"	punctuation
+``	other
 associations	lowercase
 ,	punctuation
-"	punctuation
-"	punctuation
+''	other
+``	other
 societies	lowercase
-"	punctuation
+''	other
 and	lowercase
-"	punctuation
+``	other
 councils	lowercase
 ,	punctuation
-"	punctuation
+''	other
 some	lowercase
 of	lowercase
 which	lowercase
@@ -5980,10 +5863,10 @@ to	lowercase
 receive	lowercase
 the	lowercase
 paid	lowercase
-"	punctuation
+``	other
 volunteers	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 so	uppercase
 far	lowercase
@@ -5991,9 +5874,7 @@ far	lowercase
 the	lowercase
 president	lowercase
 seems	lowercase
-ill	lowercase
--	punctuation
-disposed	lowercase
+ill-disposed	lowercase
 to	lowercase
 substitute	lowercase
 any	lowercase
@@ -6003,18 +5884,16 @@ omnibus	lowercase
 for	lowercase
 his	lowercase
 own	lowercase
-free	lowercase
--	punctuation
-standing	lowercase
+free-standing	lowercase
 proposal	lowercase
 to	lowercase
 endow	lowercase
 a	lowercase
-"	punctuation
+``	other
 points	title case
 of	lowercase
 light	title case
-"	punctuation
+''	other
 foundation	lowercase
 with	lowercase
 $	punctuation
@@ -6070,9 +5949,9 @@ the	lowercase
 independent	lowercase
 foundation	lowercase
 in	lowercase
-"	punctuation
+``	other
 brokering	lowercase
-"	punctuation
+''	other
 federal	lowercase
 funds	lowercase
 for	lowercase
@@ -6126,17 +6005,15 @@ but	lowercase
 the	lowercase
 millions	lowercase
 of	lowercase
-knee	lowercase
--	punctuation
-socked	lowercase
+knee-socked	lowercase
 youth	lowercase
 performing	lowercase
 works	lowercase
 of	lowercase
-"	punctuation
+``	other
 civic	lowercase
 content	lowercase
-"	punctuation
+''	other
 will	lowercase
 be	lowercase
 mobilized	lowercase
@@ -6156,9 +6033,7 @@ a	lowercase
 fellow	lowercase
 at	lowercase
 the	lowercase
-indianapolis	title case
--	punctuation
-based	lowercase
+indianapolis-based	lowercase
 hudson	title case
 institute	title case
 .	punctuation
@@ -6292,7 +6167,8 @@ from	lowercase
 texas	title case
 american	title case
 energy	title case
-corp.	title case
+corp	title case
+.	punctuation
 
 american	uppercase
 physicians	title case
@@ -6307,9 +6183,7 @@ representatives	lowercase
 on	lowercase
 prime	title case
 's	other
-five	lowercase
--	punctuation
-member	lowercase
+five-member	lowercase
 board	lowercase
 .	punctuation
 
@@ -6372,9 +6246,7 @@ million	lowercase
 .	punctuation
 
 the	uppercase
-inflation	lowercase
--	punctuation
-adjusted	lowercase
+inflation-adjusted	lowercase
 growth	lowercase
 rate	lowercase
 for	lowercase
@@ -6426,9 +6298,7 @@ growth	lowercase
 rate	lowercase
 for	lowercase
 the	lowercase
-first	lowercase
--	punctuation
-quarter	lowercase
+first-quarter	lowercase
 compared	lowercase
 with	lowercase
 the	lowercase
@@ -6498,9 +6368,7 @@ announced	lowercase
 a	lowercase
 new	lowercase
 ,	punctuation
-12	number
--	punctuation
-year	lowercase
+12-year	number
 canada	title case
 savings	title case
 bond	title case
@@ -6646,9 +6514,7 @@ service	lowercase
 a	lowercase
 prerequisite	lowercase
 to	lowercase
-high	lowercase
--	punctuation
-school	lowercase
+high-school	lowercase
 graduation	lowercase
 ,	punctuation
 the	lowercase
@@ -6679,9 +6545,7 @@ spring	lowercase
 
 one	uppercase
 ,	punctuation
-co	lowercase
--	punctuation
-sponsored	lowercase
+co-sponsored	lowercase
 by	lowercase
 sen.	title case
 sam	title case
@@ -6733,9 +6597,7 @@ and	lowercase
 including	lowercase
 some	lowercase
 diluted	lowercase
-nunn	title case
--	punctuation
-mccurdy	lowercase
+nunn-mccurdy	lowercase
 provisions	lowercase
 along	lowercase
 with	lowercase
@@ -6743,8 +6605,7 @@ proposals	lowercase
 by	lowercase
 fellow	lowercase
 democratic	title case
-sens	title case
-.	punctuation
+sens.	title case
 claiborne	title case
 pell	title case
 ,	punctuation
@@ -6820,13 +6681,13 @@ eager	lowercase
 to	lowercase
 have	lowercase
 youth	lowercase
-"	punctuation
+``	other
 pay	lowercase
 their	lowercase
 dues	lowercase
 to	lowercase
 society	lowercase
-"	punctuation
+''	other
 favor	lowercase
 service	lowercase
 proposals	lowercase
@@ -6842,15 +6703,13 @@ those	lowercase
 who	lowercase
 seek	lowercase
 a	lowercase
-"	punctuation
-re	lowercase
--	punctuation
-energized	lowercase
+``	other
+re-energized	lowercase
 concept	lowercase
 of	lowercase
 citizenship	lowercase
 ,	punctuation
-"	punctuation
+''	other
 a	lowercase
 concept	lowercase
 imposing	lowercase
@@ -6998,9 +6857,12 @@ a	lowercase
 main	lowercase
 source	lowercase
 of	lowercase
-confusion--"national	lowercase
+confusion	lowercase
+--	other
+``	other
+national	lowercase
 service	lowercase
-"	punctuation
+''	other
 has	lowercase
 no	lowercase
 agreed	lowercase
@@ -7020,13 +6882,9 @@ or	lowercase
 long	lowercase
 ?	punctuation
 
-part	uppercase
--	punctuation
-time	lowercase
+part-time	lowercase
 or	lowercase
-full	lowercase
--	punctuation
-time	lowercase
+full-time	lowercase
 ?	punctuation
 
 paid	uppercase
@@ -7064,9 +6922,9 @@ do	lowercase
 
 what	uppercase
 does	lowercase
-"	punctuation
+``	other
 national	lowercase
-"	punctuation
+''	other
 mean	lowercase
 ?	punctuation
 
@@ -7117,9 +6975,7 @@ all	lowercase
 ages	lowercase
 ?	punctuation
 
-middle	uppercase
--	punctuation
-class	lowercase
+middle-class	lowercase
 people	lowercase
 ,	punctuation
 or	lowercase
@@ -7129,9 +6985,7 @@ people	lowercase
 or	lowercase
 a	lowercase
 genuine	lowercase
-cross	lowercase
--	punctuation
-section	lowercase
+cross-section	lowercase
 ?	punctuation
 
 many	uppercase
@@ -7148,10 +7002,10 @@ questions	lowercase
 and	lowercase
 the	lowercase
 label	lowercase
-"	punctuation
+``	other
 national	lowercase
 service	lowercase
-"	punctuation
+''	other
 answers	lowercase
 none	lowercase
 of	lowercase
@@ -7190,10 +7044,10 @@ name	lowercase
 .	punctuation
 
 ignore	uppercase
-"	punctuation
+``	other
 national	lowercase
 service	lowercase
-"	punctuation
+''	other
 in	lowercase
 the	lowercase
 abstract	lowercase
@@ -7213,9 +7067,9 @@ ways	lowercase
 
 2	number
 .	punctuation
-"	punctuation
+``	other
 service	title case
-"	punctuation
+''	other
 should	lowercase
 be	lowercase
 service	lowercase
@@ -7251,9 +7105,7 @@ follows	lowercase
 that	lowercase
 proposals	lowercase
 like	lowercase
-nunn	title case
--	punctuation
-mccurdy	lowercase
+nunn-mccurdy	lowercase
 ,	punctuation
 whose	lowercase
 benefits	lowercase
@@ -7287,14 +7139,14 @@ college	lowercase
 students	lowercase
 amount	lowercase
 to	lowercase
-"	punctuation
+``	other
 a	lowercase
 gi	lowercase
 bill	title case
 without	lowercase
 the	lowercase
 gi	lowercase
-"	punctuation
+''	other
 ;	punctuation
 arguably	lowercase
 those	lowercase
@@ -7319,14 +7171,10 @@ average	lowercase
 income	lowercase
 of	lowercase
 young	lowercase
-high	lowercase
--	punctuation
-school	lowercase
+high-school	lowercase
 graduates	lowercase
 with	lowercase
-full	lowercase
--	punctuation
-time	lowercase
+full-time	lowercase
 jobs	lowercase
 .	punctuation
 
@@ -7479,9 +7327,7 @@ rehabilitated	lowercase
 students	lowercase
 tutored	lowercase
 ,	punctuation
-day	lowercase
--	punctuation
-care	lowercase
+day-care	lowercase
 centers	lowercase
 staffed	lowercase
 .	punctuation
@@ -7547,18 +7393,14 @@ to	lowercase
 participants	lowercase
 .	punctuation
 
-full	uppercase
--	punctuation
-time	lowercase
+full-time	lowercase
 residential	lowercase
 programs	lowercase
 also	lowercase
 require	lowercase
 housing	lowercase
 and	lowercase
-full	lowercase
--	punctuation
-time	lowercase
+full-time	lowercase
 supervision	lowercase
 ;	punctuation
 they	lowercase
@@ -7578,9 +7420,7 @@ or	lowercase
 yale	title case
 .	punctuation
 
-non	uppercase
--	punctuation
-residential	lowercase
+non-residential	lowercase
 programs	lowercase
 are	lowercase
 cheaper	lowercase
@@ -7672,9 +7512,7 @@ are	lowercase
 many	lowercase
 ways	lowercase
 for	lowercase
-middle	lowercase
--	punctuation
-class	lowercase
+middle-class	lowercase
 kids	lowercase
 ,	punctuation
 and	lowercase
@@ -7697,9 +7535,7 @@ any	lowercase
 of	lowercase
 thousands	lowercase
 of	lowercase
-non	lowercase
--	punctuation
-profit	lowercase
+non-profit	lowercase
 institutions	lowercase
 ,	punctuation
 or	lowercase
@@ -7765,9 +7601,7 @@ down	lowercase
 ,	punctuation
 surrounded	lowercase
 by	lowercase
-self	lowercase
--	punctuation
-destructive	lowercase
+self-destructive	lowercase
 behaviors	lowercase
 and	lowercase
 bleak	lowercase
@@ -7852,9 +7686,7 @@ paint	lowercase
 apartments	lowercase
 or	lowercase
 plant	lowercase
-dune	lowercase
--	punctuation
-grass	lowercase
+dune-grass	lowercase
 with	lowercase
 paid	lowercase
 professionals	lowercase
@@ -7966,9 +7798,7 @@ official	lowercase
 heads	lowercase
 his	lowercase
 own	lowercase
-washington	title case
--	punctuation
-based	lowercase
+washington-based	lowercase
 strategic	lowercase
 planning	lowercase
 firm	lowercase
@@ -7977,11 +7807,9 @@ firm	lowercase
 he	uppercase
 is	lowercase
 a	lowercase
-co	lowercase
--	punctuation
-author	lowercase
+co-author	lowercase
 of	lowercase
-"	punctuation
+``	other
 national	title case
 service	title case
 :	punctuation
@@ -7990,7 +7818,7 @@ would	title case
 it	title case
 mean	title case
 ?	punctuation
-"	punctuation
+''	other
 
 (	punctuation
 lexington	title case
@@ -8176,7 +8004,7 @@ morning	lowercase
 rout	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 disadvantage	lowercase
 at	lowercase
@@ -8203,7 +8031,7 @@ sense	lowercase
 of	lowercase
 crisis	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 one	lowercase
 government	lowercase
@@ -8370,13 +8198,13 @@ darman	title case
 on	lowercase
 abc	lowercase
 's	other
-"	punctuation
+``	other
 this	title case
 week	title case
 .	punctuation
-"	punctuation
+''	other
 
-"	punctuation
+``	other
 secretary	title case
 of	lowercase
 the	lowercase
@@ -8418,7 +8246,7 @@ what	lowercase
 's	other
 sensible	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
@@ -8431,23 +8259,19 @@ his	lowercase
 comment	lowercase
 was	lowercase
 a	lowercase
-"	punctuation
-non	lowercase
--	punctuation
-answer	lowercase
+``	other
+non-answer	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 darman	title case
 replied	lowercase
 :	punctuation
-"	punctuation
+``	other
 it	title case
 is	lowercase
 a	lowercase
-non	lowercase
--	punctuation
-answer	lowercase
+non-answer	lowercase
 .	punctuation
 
 but	uppercase
@@ -8464,7 +8288,7 @@ thing	lowercase
 to	lowercase
 do	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 at	uppercase
 the	lowercase
@@ -8483,7 +8307,7 @@ market	lowercase
 drop	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 today	title case
 's	other
 stock	lowercase
@@ -8502,18 +8326,16 @@ of	lowercase
 the	lowercase
 economy	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 economy	lowercase
 remains	lowercase
-well	lowercase
--	punctuation
-balanced	lowercase
+well-balanced	lowercase
 ,	punctuation
 and	lowercase
 the	lowercase
@@ -8524,7 +8346,7 @@ continued	lowercase
 moderate	lowercase
 growth	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 but	uppercase
 administration	lowercase
@@ -8544,7 +8366,7 @@ this	lowercase
 week	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 one	title case
 possibility	lowercase
 is	lowercase
@@ -8567,7 +8389,7 @@ a	lowercase
 major	lowercase
 problem	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 one	lowercase
 senior	lowercase
@@ -8584,7 +8406,7 @@ be	lowercase
 named	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 other	lowercase
 is	lowercase
@@ -8608,7 +8430,7 @@ that	lowercase
 less	lowercase
 likely	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 nevertheless	uppercase
 ,	punctuation
@@ -8778,9 +8600,7 @@ worked	lowercase
 together	lowercase
 on	lowercase
 the	lowercase
-so	lowercase
--	punctuation
-called	lowercase
+so-called	lowercase
 brady	title case
 commission	title case
 ,	punctuation
@@ -8952,11 +8772,7 @@ weekend	lowercase
 to	lowercase
 render	lowercase
 a	lowercase
-business	lowercase
--	punctuation
-as	lowercase
--	punctuation
-usual	lowercase
+business-as-usual	lowercase
 appearance	lowercase
 in	lowercase
 order	lowercase
@@ -9125,11 +8941,7 @@ market	lowercase
 price	lowercase
 or	lowercase
 a	lowercase
-dealer	lowercase
--	punctuation
-to	lowercase
--	punctuation
-dealer	lowercase
+dealer-to-dealer	lowercase
 asked	lowercase
 price	lowercase
 of	lowercase
@@ -9234,9 +9046,7 @@ professionals	lowercase
 after	lowercase
 friday	title case
 's	other
-190	number
--	punctuation
-point	lowercase
+190-point	number
 drop	lowercase
 in	lowercase
 the	lowercase
@@ -9375,10 +9185,10 @@ began	lowercase
 .	punctuation
 
 the	uppercase
-"	punctuation
+``	other
 october	title case
 massacres	lowercase
-"	punctuation
+''	other
 of	lowercase
 1978	number
 and	lowercase
@@ -9425,7 +9235,7 @@ bargain	lowercase
 hunting	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 there	title case
 has	lowercase
 been	lowercase
@@ -9447,7 +9257,7 @@ got	lowercase
 the	lowercase
 cash	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 stephen	title case
 b.	title case
@@ -9457,13 +9267,12 @@ chief	lowercase
 investment	lowercase
 officer	lowercase
 of	lowercase
-chicago	title case
--	punctuation
-based	lowercase
+chicago-based	lowercase
 kemper	title case
 financial	title case
 services	title case
-inc.	title case
+inc	title case
+.	punctuation
 
 but	uppercase
 most	lowercase
@@ -9482,7 +9291,7 @@ stand	lowercase
 pat	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 when	title case
 you	lowercase
 see	lowercase
@@ -9490,7 +9299,7 @@ a	lowercase
 runaway	lowercase
 train	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 steve	title case
 janachowski	title case
@@ -9507,7 +9316,7 @@ brouwer	title case
 &	punctuation
 janachowski	title case
 ,	punctuation
-"	punctuation
+``	other
 you	lowercase
 wait	lowercase
 for	lowercase
@@ -9516,7 +9325,7 @@ train	lowercase
 to	lowercase
 stop	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 even	uppercase
 for	lowercase
@@ -9570,12 +9379,12 @@ investors	lowercase
 can	lowercase
 do	lowercase
 is	lowercase
-"	punctuation
+``	other
 just	lowercase
 sit	lowercase
 tight	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 marshall	title case
 b.	title case
@@ -9597,9 +9406,7 @@ farnham	title case
 inc.	title case
 ,	punctuation
 a	lowercase
-chicago	title case
--	punctuation
-based	lowercase
+chicago-based	lowercase
 investment	lowercase
 counseling	lowercase
 firm	lowercase
@@ -9627,12 +9434,12 @@ misguided	lowercase
 to	lowercase
 sell	lowercase
 into	lowercase
-"	punctuation
+``	other
 a	lowercase
 classic	lowercase
 panic	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 on	uppercase
 the	lowercase
@@ -9653,7 +9460,7 @@ and	lowercase
 buy	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 this	title case
 is	lowercase
 all	lowercase
@@ -9676,12 +9483,12 @@ than	lowercase
 anyone	lowercase
 anticipates	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 so	title case
 it	lowercase
 's	other
@@ -9695,7 +9502,7 @@ how	lowercase
 things	lowercase
 stabilize	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 roger	uppercase
 ibbotson	title case
@@ -9719,7 +9526,7 @@ inc.	title case
 ,	punctuation
 says	lowercase
 ,	punctuation
-"	punctuation
+``	other
 my	title case
 real	lowercase
 advice	lowercase
@@ -9743,7 +9550,7 @@ be	lowercase
 in	lowercase
 and	lowercase
 out	lowercase
-"	punctuation
+''	other
 of	lowercase
 the	lowercase
 stock	lowercase
@@ -9757,17 +9564,15 @@ that	lowercase
 this	lowercase
 week	lowercase
 is	lowercase
-"	punctuation
+``	other
 going	lowercase
 to	lowercase
 be	lowercase
 a	lowercase
-roller	lowercase
--	punctuation
-coaster	lowercase
+roller-coaster	lowercase
 week	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 but	uppercase
 he	lowercase
@@ -9775,7 +9580,7 @@ also	lowercase
 thinks	lowercase
 it	lowercase
 is	lowercase
-"	punctuation
+``	other
 a	lowercase
 good	lowercase
 week	lowercase
@@ -9783,7 +9588,7 @@ to	lowercase
 consider	lowercase
 buying	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 john	uppercase
 snyder	title case
@@ -9835,24 +9640,22 @@ sell	lowercase
 now	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 're	other
 dedicated	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 investors	lowercase
 ,	punctuation
 not	lowercase
 traders	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 understand	lowercase
 panics	lowercase
@@ -9875,7 +9678,7 @@ when	lowercase
 they	lowercase
 plunge	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 one	uppercase
 camp	lowercase
@@ -9913,15 +9716,13 @@ buy	lowercase
 friday	uppercase
 's	other
 action	lowercase
-"	punctuation
+``	other
 was	lowercase
 an	lowercase
-old	lowercase
--	punctuation
-fashioned	lowercase
+old-fashioned	lowercase
 panic	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 alfred	title case
 goldman	title case
@@ -9941,7 +9742,7 @@ st.	title case
 louis	title case
 .	punctuation
 
-"	punctuation
+``	other
 stocks	title case
 were	lowercase
 being	lowercase
@@ -9953,12 +9754,12 @@ at	lowercase
 any	lowercase
 price	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 his	uppercase
 advice	lowercase
 :	punctuation
-"	punctuation
+``	other
 you	title case
 ought	lowercase
 to	lowercase
@@ -9970,7 +9771,7 @@ basket	lowercase
 catching	lowercase
 them	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 james	uppercase
 craig	title case
@@ -9979,9 +9780,7 @@ portfolio	lowercase
 manager	lowercase
 for	lowercase
 the	lowercase
-denver	title case
--	punctuation
-based	lowercase
+denver-based	lowercase
 janus	title case
 fund	title case
 ,	punctuation
@@ -10012,9 +9811,7 @@ hershey	title case
 foods	title case
 corp.	title case
 ,	punctuation
-wal	title case
--	punctuation
-mart	title case
+wal-mart	title case
 stores	title case
 inc.	title case
 ,	punctuation
@@ -10053,7 +9850,7 @@ shares	lowercase
 today	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 will	lowercase
 be	lowercase
@@ -10077,7 +9874,7 @@ for	lowercase
 real	lowercase
 trouble	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 .	punctuation
@@ -10116,7 +9913,7 @@ that	lowercase
 any	lowercase
 buying	lowercase
 should	lowercase
-"	punctuation
+``	other
 concentrate	lowercase
 in	lowercase
 stocks	lowercase
@@ -10147,7 +9944,7 @@ in	lowercase
 this	lowercase
 correction	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 his	uppercase
 firm	lowercase
@@ -10157,9 +9954,7 @@ computer	lowercase
 ,	punctuation
 drug	lowercase
 and	lowercase
-pollution	lowercase
--	punctuation
-control	lowercase
+pollution-control	lowercase
 stocks	lowercase
 .	punctuation
 
@@ -10336,7 +10131,7 @@ mr.	title case
 fleckenstein	title case
 says	lowercase
 ,	punctuation
-"	punctuation
+``	other
 i	title case
 think	lowercase
 the	lowercase
@@ -10345,7 +10140,7 @@ game	lowercase
 's	other
 over	lowercase
 ,	punctuation
-"	punctuation
+''	other
 and	lowercase
 investors	lowercase
 are	lowercase
@@ -10429,9 +10224,9 @@ bets	lowercase
 is	lowercase
 to	lowercase
 buy	lowercase
-"	punctuation
+``	other
 put	lowercase
-"	punctuation
+''	other
 options	lowercase
 ,	punctuation
 either	lowercase
@@ -10598,9 +10393,7 @@ $	punctuation
 .	punctuation
 
 but	uppercase
-put	lowercase
--	punctuation
-option	lowercase
+put-option	lowercase
 prices	lowercase
 may	lowercase
 zoom	lowercase
@@ -10644,9 +10437,7 @@ for	lowercase
 stock	lowercase
 holdings	lowercase
 ,	punctuation
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 ,	punctuation
 is	lowercase
 9	number
@@ -10756,12 +10547,8 @@ roebuck	title case
 co.	title case
 in	lowercase
 a	lowercase
-management	lowercase
--	punctuation
-led	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+management-led	lowercase
+buy-out	lowercase
 ,	punctuation
 had	lowercase
 planned	lowercase
@@ -10810,7 +10597,7 @@ officer	lowercase
 ,	punctuation
 said	lowercase
 ,	punctuation
-"	punctuation
+``	other
 we	title case
 're	other
 pretty	lowercase
@@ -10821,7 +10608,7 @@ employees	lowercase
 '	punctuation
 response	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 he	uppercase
 noted	lowercase
@@ -10870,7 +10657,7 @@ the	lowercase
 stock	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 they	title case
 came	lowercase
 up	lowercase
@@ -10883,19 +10670,19 @@ of	lowercase
 borrowed	lowercase
 money	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 didion	title case
 said	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 's	other
 totally	lowercase
 different	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 he	uppercase
 said	lowercase
@@ -10905,15 +10692,13 @@ was	lowercase
 designed	lowercase
 to	lowercase
 create	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 incentives	lowercase
 for	lowercase
 employees	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 're	other
 in	lowercase
@@ -10946,7 +10731,7 @@ in	lowercase
 the	lowercase
 success	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 brokerage	lowercase
@@ -11038,9 +10823,7 @@ merchant	lowercase
 banking	lowercase
 firm	lowercase
 whose	lowercase
-co	lowercase
--	punctuation
-chairman	lowercase
+co-chairman	lowercase
 is	lowercase
 frank	title case
 carlucci	title case
@@ -11105,9 +10888,7 @@ investment	lowercase
 banking	lowercase
 unit	lowercase
 of	lowercase
-tokyo	title case
--	punctuation
-based	lowercase
+tokyo-based	lowercase
 sumitomo	title case
 bank	title case
 .	punctuation
@@ -11220,9 +11001,7 @@ in	lowercase
 the	lowercase
 merc	title case
 's	other
-stock	lowercase
--	punctuation
-index	lowercase
+stock-index	lowercase
 futures	lowercase
 will	lowercase
 break	lowercase
@@ -11289,9 +11068,7 @@ merc	title case
 .	punctuation
 
 that	uppercase
-early	lowercase
--	punctuation
-morning	lowercase
+early-morning	lowercase
 breather	lowercase
 is	lowercase
 just	lowercase
@@ -11327,18 +11104,14 @@ volume	lowercase
 several	uppercase
 of	lowercase
 those	lowercase
-post	lowercase
--	punctuation
-crash	lowercase
+post-crash	lowercase
 changes	lowercase
 kicked	lowercase
 in	lowercase
 during	lowercase
 friday	title case
 's	other
-one	lowercase
--	punctuation
-hour	lowercase
+one-hour	lowercase
 collapse	lowercase
 and	lowercase
 worked	lowercase
@@ -11359,10 +11132,10 @@ plunge	lowercase
 but	uppercase
 the	lowercase
 major	lowercase
-"	punctuation
+``	other
 circuit	lowercase
 breakers	lowercase
-"	punctuation
+''	other
 have	lowercase
 yet	lowercase
 to	lowercase
@@ -11465,9 +11238,7 @@ regulator	lowercase
 to	lowercase
 handle	lowercase
 crucial	lowercase
-cross	lowercase
--	punctuation
-market	lowercase
+cross-market	lowercase
 questions	lowercase
 ,	punctuation
 such	lowercase
@@ -11543,11 +11314,9 @@ contract	lowercase
 as	lowercase
 well	lowercase
 as	lowercase
-"	punctuation
-hot	lowercase
--	punctuation
-line	lowercase
-"	punctuation
+``	other
+hot-line	lowercase
+''	other
 communications	lowercase
 among	lowercase
 exchanges	lowercase
@@ -11573,9 +11342,7 @@ close	lowercase
 of	lowercase
 trading	lowercase
 a	lowercase
-half	lowercase
--	punctuation
-hour	lowercase
+half-hour	lowercase
 later	lowercase
 --	other
 forced	lowercase
@@ -11614,9 +11381,9 @@ the	lowercase
 big	title case
 board	title case
 's	other
-"	punctuation
+``	other
 sidecar	title case
-"	punctuation
+''	other
 computer	lowercase
 program	lowercase
 automatically	lowercase
@@ -11630,9 +11397,7 @@ is	lowercase
 designed	lowercase
 to	lowercase
 separate	lowercase
-computer	lowercase
--	punctuation
-generated	lowercase
+computer-generated	lowercase
 program	lowercase
 trades	lowercase
 from	lowercase
@@ -11670,13 +11435,11 @@ a	lowercase
 fire	lowercase
 at	lowercase
 a	lowercase
-well	lowercase
--	punctuation
-drilled	lowercase
+well-drilled	lowercase
 school	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 you	title case
 do	lowercase
 n't	lowercase
@@ -11690,7 +11453,7 @@ what	lowercase
 to	lowercase
 do	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 howard	title case
 dubnow	title case
@@ -11705,7 +11468,7 @@ merc	title case
 governor	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 there	title case
 was	lowercase
 no	lowercase
@@ -11723,7 +11486,7 @@ it	lowercase
 to	lowercase
 work	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 after	uppercase
 reopening	lowercase
@@ -11738,9 +11501,7 @@ index	lowercase
 tumbled	lowercase
 to	lowercase
 its	lowercase
-30	number
--	punctuation
-point	lowercase
+30-point	number
 limit	lowercase
 and	lowercase
 the	lowercase
@@ -11756,10 +11517,8 @@ then	lowercase
 spent	lowercase
 the	lowercase
 last	lowercase
-half	lowercase
--	punctuation
-hour	lowercase
-"	punctuation
+half-hour	lowercase
+``	other
 watching	lowercase
 to	lowercase
 see	lowercase
@@ -11771,7 +11530,7 @@ drop	lowercase
 250	number
 points	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 dubnow	title case
 added	lowercase
@@ -11807,20 +11566,18 @@ of	lowercase
 the	lowercase
 s&p	title case
 traders	lowercase
-"	punctuation
+``	other
 were	lowercase
 just	lowercase
 standing	lowercase
 around	lowercase
 watching	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 but	uppercase
 the	lowercase
-250	number
--	punctuation
-point	lowercase
+250-point	number
 circuit	lowercase
 breaker	lowercase
 never	lowercase
@@ -11890,9 +11647,7 @@ crash	lowercase
 the	uppercase
 process	lowercase
 of	lowercase
-post	lowercase
--	punctuation
-crash	lowercase
+post-crash	lowercase
 reforms	lowercase
 began	lowercase
 with	lowercase
@@ -11988,9 +11743,7 @@ limits	lowercase
 were	lowercase
 placed	lowercase
 on	lowercase
-computer	lowercase
--	punctuation
-driven	lowercase
+computer-driven	lowercase
 trading	lowercase
 ,	punctuation
 and	lowercase
@@ -12052,16 +11805,14 @@ the	lowercase
 stock	lowercase
 markets	lowercase
 of	lowercase
-"	punctuation
+``	other
 derivative	lowercase
-"	punctuation
+''	other
 products	lowercase
 ,	punctuation
 such	lowercase
 as	lowercase
-stock	lowercase
--	punctuation
-index	lowercase
+stock-index	lowercase
 futures	lowercase
 and	lowercase
 options	lowercase
@@ -12077,7 +11828,7 @@ example	lowercase
 ,	punctuation
 likened	lowercase
 to	lowercase
-"	punctuation
+``	other
 barnacles	lowercase
 attached	lowercase
 to	lowercase
@@ -12085,7 +11836,7 @@ the	lowercase
 basic	lowercase
 market	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 and	uppercase
 there	lowercase
@@ -12155,20 +11906,18 @@ that	lowercase
 the	lowercase
 crash	lowercase
 had	lowercase
-"	punctuation
+``	other
 raised	lowercase
 the	lowercase
 possibility	lowercase
 of	lowercase
 a	lowercase
-full	lowercase
--	punctuation
-scale	lowercase
+full-scale	lowercase
 financial	lowercase
 system	lowercase
 breakdown	lowercase
 ,	punctuation
-"	punctuation
+''	other
 the	lowercase
 presidential	lowercase
 task	lowercase
@@ -12177,9 +11926,7 @@ called	lowercase
 for	lowercase
 establishing	lowercase
 a	lowercase
-super	lowercase
--	punctuation
-regulator	lowercase
+super-regulator	lowercase
 to	lowercase
 oversee	lowercase
 the	lowercase
@@ -12351,9 +12098,7 @@ after	uppercase
 all	lowercase
 ,	punctuation
 this	lowercase
-free	lowercase
--	punctuation
-market	lowercase
+free-market	lowercase
 argument	lowercase
 went	lowercase
 ,	punctuation
@@ -12370,10 +12115,10 @@ this	lowercase
 century	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 circuit	title case
 breakers	lowercase
-"	punctuation
+''	other
 set	lowercase
 to	lowercase
 soften	lowercase
@@ -12547,7 +12292,8 @@ recommendations	lowercase
 (	punctuation
 jan.	title case
 1988	number
-):	other
+)	punctuation
+:	punctuation
 
 --	other
 establish	title case
@@ -12560,9 +12306,7 @@ markets	lowercase
 
 --	other
 unify	title case
-trade	lowercase
--	punctuation
-clearing	lowercase
+trade-clearing	lowercase
 systems	lowercase
 
 --	other
@@ -12580,7 +12324,8 @@ proposals	lowercase
 (	punctuation
 may	title case
 1988	number
-):	other
+)	punctuation
+:	punctuation
 
 --	other
 require	title case
@@ -12598,9 +12343,7 @@ sec	lowercase
 authority	lowercase
 to	lowercase
 monitor	lowercase
-risk	lowercase
--	punctuation
-taking	lowercase
+risk-taking	lowercase
 by	lowercase
 affiliates	lowercase
 of	lowercase
@@ -12612,9 +12355,7 @@ firms	lowercase
 transfer	title case
 jurisdiction	lowercase
 over	lowercase
-stock	lowercase
--	punctuation
-related	lowercase
+stock-related	lowercase
 futures	lowercase
 to	lowercase
 sec	lowercase
@@ -12695,7 +12436,7 @@ american	title case
 films	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 there	title case
 must	lowercase
 not	lowercase
@@ -12715,7 +12456,7 @@ journalists	lowercase
 and	lowercase
 viewers	lowercase
 ,	punctuation
-"	punctuation
+''	other
 nikolai	title case
 i.	title case
 lutsenko	title case
@@ -12912,9 +12653,7 @@ a	lowercase
 increase	lowercase
 in	lowercase
 the	lowercase
-minimum	lowercase
--	punctuation
-wage	lowercase
+minimum-wage	lowercase
 category	lowercase
 while	lowercase
 the	lowercase
@@ -12943,9 +12682,7 @@ had	lowercase
 been	lowercase
 bribed	lowercase
 by	lowercase
-pinball	lowercase
--	punctuation
-parlor	lowercase
+pinball-parlor	lowercase
 owners	lowercase
 .	punctuation
 
@@ -12969,9 +12706,7 @@ suggesting	lowercase
 that	lowercase
 money	lowercase
 from	lowercase
-japanese	title case
--	punctuation
-style	lowercase
+japanese-style	lowercase
 pinball	lowercase
 ,	punctuation
 called	lowercase
@@ -13130,9 +12865,7 @@ was	lowercase
 torpedoed	lowercase
 by	lowercase
 the	lowercase
-pull	lowercase
--	punctuation
-out	lowercase
+pull-out	lowercase
 of	lowercase
 three	lowercase
 of	lowercase
@@ -13171,9 +12904,7 @@ big	lowercase
 defense	lowercase
 spending	lowercase
 while	lowercase
-east	title case
--	punctuation
-west	title case
+east-west	title case
 disarmament	lowercase
 talks	lowercase
 show	lowercase
@@ -13271,11 +13002,7 @@ plastic	lowercase
 in	lowercase
 britain	title case
 's	other
-high	lowercase
--	punctuation
-interest	lowercase
--	punctuation
-rate	lowercase
+high-interest-rate	lowercase
 environment	lowercase
 ,	punctuation
 the	lowercase
@@ -13284,9 +13011,7 @@ card	lowercase
 ,	punctuation
 administered	lowercase
 by	lowercase
-co	title case
--	punctuation
-operative	lowercase
+co-operative	lowercase
 bank	title case
 ,	punctuation
 carries	lowercase
@@ -13310,9 +13035,7 @@ balance	lowercase
 
 china	uppercase
 's	other
-year	lowercase
--	punctuation
-long	lowercase
+year-long	lowercase
 austerity	lowercase
 program	lowercase
 has	lowercase
@@ -13354,9 +13077,7 @@ said	lowercase
 retail	lowercase
 prices	lowercase
 of	lowercase
-non	lowercase
--	punctuation
-staple	lowercase
+non-staple	lowercase
 foods	lowercase
 have	lowercase
 n't	lowercase
@@ -13430,11 +13151,11 @@ values	lowercase
 of	lowercase
 commodities	lowercase
 to	lowercase
-"	punctuation
+``	other
 become	lowercase
 very	lowercase
 unreasonable	lowercase
-"	punctuation
+''	other
 and	lowercase
 reduce	lowercase
 needed	lowercase
@@ -13443,13 +13164,13 @@ for	lowercase
 investment	lowercase
 in	lowercase
 the	lowercase
-"	punctuation
+``	other
 already	lowercase
 difficult	lowercase
 state	lowercase
 budget	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 aim	lowercase
@@ -13522,9 +13243,7 @@ in	lowercase
 the	lowercase
 kremlin	title case
 's	other
-15th	number
--	punctuation
-century	lowercase
+15th-century	number
 uspensky	title case
 cathedral	title case
 ,	punctuation
@@ -13532,14 +13251,11 @@ where	lowercase
 czars	lowercase
 were	lowercase
 crowned	lowercase
-....	other
+...	other
+.	punctuation
 
 a	uppercase
-34	number
--	punctuation
-foot	lowercase
--	punctuation
-tall	lowercase
+34-foot-tall	number
 ,	punctuation
 $	punctuation
 7.7	number
@@ -13580,7 +13296,7 @@ monastery	title case
 who	lowercase
 said	lowercase
 :	punctuation
-"	punctuation
+``	other
 hong	title case
 kong	title case
 is	lowercase
@@ -13640,7 +13356,7 @@ for	lowercase
 children	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 is	lowercase
 almost	lowercase
@@ -13650,7 +13366,7 @@ the	lowercase
 sony	title case
 product	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 iken	title case
 remarked	lowercase
@@ -13667,10 +13383,10 @@ a	lowercase
 justin	title case
 salesman	lowercase
 :	punctuation
-"	punctuation
+``	other
 exactly	title case
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 justin	title case
@@ -13689,11 +13405,11 @@ corp.	title case
 of	lowercase
 japan	title case
 's	other
-"	punctuation
+``	other
 my	title case
 first	title case
 sony	title case
-"	punctuation
+''	other
 line	lowercase
 .	punctuation
 
@@ -13717,9 +13433,7 @@ customer	lowercase
 part	lowercase
 of	lowercase
 a	lowercase
-hoped	lowercase
--	punctuation
-for	lowercase
+hoped-for	lowercase
 bonanza	lowercase
 from	lowercase
 underselling	lowercase
@@ -13772,10 +13486,10 @@ to	lowercase
 keep	lowercase
 justin	title case
 's	other
-"	punctuation
+``	other
 my	title case
 own	title case
-"	punctuation
+''	other
 product	lowercase
 line	lowercase
 off	lowercase
@@ -13819,11 +13533,7 @@ changed	lowercase
 a	lowercase
 lot	lowercase
 for	lowercase
-61	number
--	punctuation
-year	lowercase
--	punctuation
-old	lowercase
+61-year-old	number
 leonard	title case
 kaye	title case
 ,	punctuation
@@ -13832,7 +13542,7 @@ justin	title case
 owner	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 have	lowercase
 n't	lowercase
@@ -13852,12 +13562,12 @@ been	lowercase
 going	lowercase
 on	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 's	other
 the	lowercase
@@ -13877,7 +13587,7 @@ to	lowercase
 my	lowercase
 business	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 his	uppercase
 company	lowercase
@@ -13971,9 +13681,7 @@ about	lowercase
 being	lowercase
 undersold	lowercase
 by	lowercase
-look	lowercase
--	punctuation
-alike	lowercase
+look-alike	lowercase
 products	lowercase
 from	lowercase
 japan	title case
@@ -13985,9 +13693,7 @@ sony	title case
 whose	lowercase
 innovative	lowercase
 ,	punctuation
-premium	lowercase
--	punctuation
-priced	lowercase
+premium-priced	lowercase
 products	lowercase
 are	lowercase
 among	lowercase
@@ -14009,15 +13715,13 @@ firm	lowercase
 with	lowercase
 a	lowercase
 cheap	lowercase
-look	lowercase
--	punctuation
-alike	lowercase
+look-alike	lowercase
 produced	lowercase
 in	lowercase
 china	title case
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 gist	lowercase
 of	lowercase
@@ -14037,7 +13741,7 @@ to	lowercase
 stop	lowercase
 it	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 lewis	title case
 h.	title case
@@ -14092,7 +13796,7 @@ worst	lowercase
 he	lowercase
 adds	lowercase
 ,	punctuation
-"	punctuation
+``	other
 they	title case
 'd	other
 have	lowercase
@@ -14106,7 +13810,7 @@ throw	lowercase
 them	lowercase
 away	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 mr.	uppercase
 kaye	title case
@@ -14129,7 +13833,7 @@ the	lowercase
 marketplace	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 made	lowercase
 a	lowercase
@@ -14141,7 +13845,7 @@ produced	lowercase
 it	lowercase
 cheaper	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 .	punctuation
@@ -14164,9 +13868,7 @@ renewed	lowercase
 request	lowercase
 for	lowercase
 a	lowercase
-pre	lowercase
--	punctuation
-trial	lowercase
+pre-trial	lowercase
 order	lowercase
 blocking	lowercase
 sale	lowercase
@@ -14240,7 +13942,7 @@ bargained	lowercase
 for	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 had	lowercase
 no	lowercase
@@ -14252,7 +13954,7 @@ in	lowercase
 so	lowercase
 deep	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 mr.	title case
 kaye	title case
@@ -14471,9 +14173,7 @@ of	lowercase
 room	lowercase
 for	lowercase
 a	lowercase
-lower	lowercase
--	punctuation
-priced	lowercase
+lower-priced	lowercase
 competitor	lowercase
 .	punctuation
 
@@ -14529,7 +14229,7 @@ colors	lowercase
 .	punctuation
 
 (	punctuation
-"	punctuation
+``	other
 to	title case
 be	lowercase
 successful	lowercase
@@ -14547,12 +14247,10 @@ long	lowercase
 as	lowercase
 it	lowercase
 is	lowercase
-fire	lowercase
--	punctuation
-engine	lowercase
+fire-engine	lowercase
 red	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 charles	title case
 e.	title case
@@ -14672,7 +14370,7 @@ recalls	uppercase
 mr.	title case
 baxley	title case
 :	punctuation
-"	punctuation
+``	other
 our	title case
 purpose	lowercase
 was	lowercase
@@ -14699,7 +14397,7 @@ have	lowercase
 the	lowercase
 resources	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 sony	uppercase
 answered	lowercase
@@ -14736,7 +14434,7 @@ release	lowercase
 ,	punctuation
 says	lowercase
 ,	punctuation
-"	punctuation
+``	other
 once	title case
 competitive	lowercase
 ,	punctuation
@@ -14744,9 +14442,7 @@ sony	title case
 now	lowercase
 resorts	lowercase
 to	lowercase
-strong	lowercase
--	punctuation
-arm	lowercase
+strong-arm	lowercase
 tactics	lowercase
 in	lowercase
 american	title case
@@ -14759,7 +14455,7 @@ protect	lowercase
 niche	lowercase
 markets	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 sony	uppercase
 's	other
@@ -14808,11 +14504,11 @@ right	lowercase
 to	lowercase
 protect	lowercase
 its	lowercase
-"	punctuation
+``	other
 trade	lowercase
 dress	lowercase
 ,	punctuation
-"	punctuation
+''	other
 in	lowercase
 this	lowercase
 case	lowercase
@@ -14900,7 +14596,7 @@ mr.	title case
 kaye	title case
 says	lowercase
 :	punctuation
-"	punctuation
+``	other
 they	title case
 know	lowercase
 there	lowercase
@@ -14933,7 +14629,7 @@ and	lowercase
 go	lowercase
 away	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 for	uppercase
 now	lowercase
@@ -15028,9 +14724,7 @@ unsolicited	lowercase
 tender	lowercase
 offers	lowercase
 from	lowercase
-boston	title case
--	punctuation
-based	lowercase
+boston-based	lowercase
 eastern	title case
 utilities	title case
 associates	title case
@@ -15118,9 +14812,7 @@ by	lowercase
 west	title case
 germany	title case
 's	other
-second	lowercase
--	punctuation
-biggest	lowercase
+second-biggest	lowercase
 commercial	lowercase
 bank	lowercase
 is	lowercase
@@ -15369,9 +15061,7 @@ the	lowercase
 operator	lowercase
 of	lowercase
 the	lowercase
-10	number
--	punctuation
-store	lowercase
+10-store	number
 sports	title case
 unlimited	title case
 chain	lowercase
@@ -15394,11 +15084,7 @@ sports	title case
 recreation	title case
 ,	punctuation
 a	lowercase
-10	number
--	punctuation
-year	lowercase
--	punctuation
-old	lowercase
+10-year-old	number
 sporting	lowercase
 goods	lowercase
 retailer	lowercase
@@ -15447,10 +15133,10 @@ july	title case
 the	uppercase
 company	lowercase
 is	lowercase
-"	punctuation
+``	other
 very	lowercase
 profitable	lowercase
-"	punctuation
+''	other
 on	lowercase
 an	lowercase
 operating	lowercase
@@ -15489,7 +15175,8 @@ corp.	title case
 of	lowercase
 skokie	title case
 ,	punctuation
-ill.	title case
+ill	title case
+.	punctuation
 
 in	uppercase
 the	lowercase
@@ -15569,9 +15256,7 @@ irvine	title case
 ,	punctuation
 calif.	title case
 ,	punctuation
-title	lowercase
--	punctuation
-insurance	lowercase
+title-insurance	lowercase
 underwriter	lowercase
 ,	punctuation
 are	lowercase
@@ -15582,9 +15267,7 @@ that	lowercase
 prospects	lowercase
 for	lowercase
 a	lowercase
-longer	lowercase
--	punctuation
-term	lowercase
+longer-term	lowercase
 standstill	lowercase
 agreement	lowercase
 are	lowercase
@@ -15638,9 +15321,7 @@ aspen	title case
 airways	title case
 ,	punctuation
 a	lowercase
-denver	title case
--	punctuation
-based	lowercase
+denver-based	lowercase
 regional	lowercase
 carrier	lowercase
 that	lowercase
@@ -15774,16 +15455,12 @@ recycling	lowercase
 newsprint	lowercase
 and	lowercase
 operating	lowercase
-fast	lowercase
--	punctuation
-food	lowercase
+fast-food	lowercase
 restaurants	lowercase
 .	punctuation
 
 the	uppercase
-state	lowercase
--	punctuation
-controlled	lowercase
+state-controlled	lowercase
 insurer	lowercase
 assurances	title case
 generales	title case
@@ -15804,8 +15481,7 @@ the	lowercase
 financial	lowercase
 holding	lowercase
 company	lowercase
-cie	title case
-.	punctuation
+cie.	title case
 de	lowercase
 navigation	title case
 mixte	title case
@@ -15870,11 +15546,11 @@ what	lowercase
 they	lowercase
 have	lowercase
 termed	lowercase
-"	punctuation
+``	other
 investment	lowercase
 purposes	lowercase
 ,	punctuation
-"	punctuation
+''	other
 although	lowercase
 the	lowercase
 issue	lowercase
@@ -16093,7 +15769,8 @@ corp.	title case
 unit	lowercase
 of	lowercase
 raytheon	title case
-corp.	title case
+corp	title case
+.	punctuation
 
 under	uppercase
 the	lowercase
@@ -16111,9 +15788,7 @@ the	lowercase
 aermacchi	title case
 mb-339	lowercase
 jet	lowercase
-tandem	lowercase
--	punctuation
-trainer	lowercase
+tandem-trainer	lowercase
 and	lowercase
 will	lowercase
 supply	lowercase
@@ -16132,9 +15807,7 @@ final	lowercase
 assembly	lowercase
 of	lowercase
 the	lowercase
-tandem	lowercase
--	punctuation
-seat	lowercase
+tandem-seat	lowercase
 trainer	lowercase
 at	lowercase
 its	lowercase
@@ -16184,9 +15857,7 @@ auto	lowercase
 workers	lowercase
 ended	lowercase
 their	lowercase
-19	number
--	punctuation
-day	lowercase
+19-day	number
 occupation	lowercase
 of	lowercase
 a	lowercase
@@ -16344,9 +16015,7 @@ because	lowercase
 of	lowercase
 a	lowercase
 complex	lowercase
-job	lowercase
--	punctuation
-rating	lowercase
+job-rating	lowercase
 system	lowercase
 they	lowercase
 say	lowercase
@@ -16371,9 +16040,7 @@ $	punctuation
 200	number
 billion	lowercase
 of	lowercase
-high	lowercase
--	punctuation
-risk	lowercase
+high-risk	lowercase
 junk	lowercase
 bonds	lowercase
 ,	punctuation
@@ -16442,7 +16109,7 @@ actual	lowercase
 trades	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 junk	lowercase
 bond	lowercase
@@ -16463,7 +16130,7 @@ bids	lowercase
 only	lowercase
 offers	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 independent	lowercase
 investor	lowercase
@@ -16494,12 +16161,12 @@ fund	lowercase
 this	uppercase
 calamity	lowercase
 is	lowercase
-"	punctuation
+``	other
 far	lowercase
 from	lowercase
 over	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 .	punctuation
@@ -16518,9 +16185,7 @@ that	lowercase
 produced	lowercase
 the	lowercase
 deepest	lowercase
-one	lowercase
--	punctuation
-day	lowercase
+one-day	lowercase
 dive	lowercase
 in	lowercase
 the	lowercase
@@ -16563,9 +16228,7 @@ move	lowercase
 capital	lowercase
 into	lowercase
 the	lowercase
-highest	lowercase
--	punctuation
-quality	lowercase
+highest-quality	lowercase
 securities	lowercase
 they	lowercase
 could	lowercase
@@ -16573,12 +16236,12 @@ find	lowercase
 .	punctuation
 
 but	uppercase
-"	punctuation
+``	other
 an	lowercase
 eerie	lowercase
 silence	lowercase
 pervaded	lowercase
-"	punctuation
+''	other
 the	lowercase
 junk	lowercase
 market	lowercase
@@ -16589,17 +16252,15 @@ tumbled	lowercase
 on	lowercase
 hundreds	lowercase
 of	lowercase
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 bonds	lowercase
 despite	lowercase
-"	punctuation
+``	other
 no	lowercase
 active	lowercase
 trading	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 john	title case
 lonski	title case
@@ -16611,7 +16272,8 @@ moody	title case
 's	other
 investors	title case
 service	title case
-inc.	title case
+inc	title case
+.	punctuation
 
 for	uppercase
 example	lowercase
@@ -16632,8 +16294,8 @@ of	lowercase
 bonds	lowercase
 due	lowercase
 2002	number
--	punctuation
--sold	other
+--	other
+sold	lowercase
 less	lowercase
 than	lowercase
 two	lowercase
@@ -16644,7 +16306,9 @@ goldman	title case
 ,	punctuation
 sachs	title case
 &	punctuation
-co.--plummeted	lowercase
+co.	title case
+--	other
+plummeted	lowercase
 25	number
 %	punctuation
 to	lowercase
@@ -16677,9 +16341,7 @@ the	lowercase
 nationwide	lowercase
 chain	lowercase
 of	lowercase
-7	number
--	punctuation
-11	number
+7-11	number
 convenience	lowercase
 stores	lowercase
 that	lowercase
@@ -16778,9 +16440,7 @@ put	lowercase
 its	lowercase
 prestigious	lowercase
 bloomingdales	title case
-department	lowercase
--	punctuation
-store	lowercase
+department-store	lowercase
 chain	lowercase
 up	lowercase
 for	lowercase
@@ -16824,9 +16484,7 @@ highly	lowercase
 leveraged	lowercase
 takeovers	lowercase
 and	lowercase
-buy	lowercase
--	punctuation
-outs	lowercase
+buy-outs	lowercase
 afloat	lowercase
 ,	punctuation
 may	lowercase
@@ -16836,14 +16494,14 @@ the	lowercase
 money	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 music	lowercase
 has	lowercase
 stopped	lowercase
 playing	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 michael	title case
 harkins	title case
@@ -16859,7 +16517,7 @@ levy	title case
 harkins	title case
 .	punctuation
 
-"	punctuation
+``	other
 you	title case
 've	other
 either	lowercase
@@ -16871,7 +16529,7 @@ you	lowercase
 do	lowercase
 n't	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 in	uppercase
 friday	title case
@@ -16886,16 +16544,14 @@ carleton	title case
 a	lowercase
 director	lowercase
 of	lowercase
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 finance	lowercase
 at	lowercase
 first	title case
 boston	title case
 corp.	title case
 ,	punctuation
-"	punctuation
+``	other
 much	lowercase
 of	lowercase
 the	lowercase
@@ -16913,7 +16569,7 @@ on	lowercase
 the	lowercase
 hysteria	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 in	uppercase
 august	title case
@@ -16935,15 +16591,15 @@ because	lowercase
 potential	lowercase
 buyers	lowercase
 were	lowercase
-"	punctuation
+``	other
 very	lowercase
 skittish	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 outlook	lowercase
-"	punctuation
+``	other
 looks	lowercase
 shaky	lowercase
 because	lowercase
@@ -16951,7 +16607,7 @@ we	lowercase
 're	other
 still	lowercase
 waiting	lowercase
-"	punctuation
+''	other
 for	lowercase
 mutual	lowercase
 funds	lowercase
@@ -17012,9 +16668,7 @@ asset	lowercase
 values	lowercase
 of	lowercase
 24	number
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 mutual	lowercase
 funds	lowercase
 declined	lowercase
@@ -17033,9 +16687,7 @@ contrast	lowercase
 ,	punctuation
 the	lowercase
 benchmark	lowercase
-30	number
--	punctuation
-year	lowercase
+30-year	number
 treasury	title case
 bond	lowercase
 climbed	lowercase
@@ -17097,9 +16749,7 @@ group	title case
 the	uppercase
 yield	lowercase
 on	lowercase
-three	lowercase
--	punctuation
-month	lowercase
+three-month	lowercase
 treasury	title case
 bills	lowercase
 ,	punctuation
@@ -17121,9 +16771,7 @@ to	lowercase
 ,	punctuation
 the	lowercase
 largest	lowercase
-one	lowercase
--	punctuation
-day	lowercase
+one-day	lowercase
 decline	lowercase
 since	lowercase
 1982	number
@@ -17139,9 +16787,7 @@ market	lowercase
 rally	lowercase
 was	lowercase
 the	lowercase
-190.58	number
--	punctuation
-point	lowercase
+190.58-point	number
 drop	lowercase
 in	lowercase
 the	lowercase
@@ -17151,7 +16797,7 @@ industrial	title case
 average	title case
 .	punctuation
 
-"	punctuation
+``	other
 when	title case
 you	lowercase
 get	lowercase
@@ -17169,7 +16815,7 @@ in	lowercase
 the	lowercase
 other	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 maria	title case
 ramirez	title case
@@ -17181,7 +16827,8 @@ at	lowercase
 drexel	title case
 burnham	title case
 lambert	title case
-inc.	title case
+inc	title case
+.	punctuation
 
 nevertheless	uppercase
 ,	punctuation
@@ -17205,7 +16852,7 @@ months	lowercase
 ahead	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 this	title case
 marks	lowercase
 a	lowercase
@@ -17217,7 +16864,7 @@ interest	lowercase
 rate	lowercase
 outlook	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 william	title case
 sullivan	title case
@@ -17239,9 +16886,7 @@ york	title case
 
 any	uppercase
 sustained	lowercase
-credit	lowercase
--	punctuation
-easing	lowercase
+credit-easing	lowercase
 could	lowercase
 be	lowercase
 a	lowercase
@@ -17277,16 +16922,14 @@ $	punctuation
 4	number
 billion	lowercase
 of	lowercase
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 bonds	lowercase
 ,	punctuation
 says	lowercase
 he	lowercase
 does	lowercase
 n't	lowercase
-"	punctuation
+``	other
 think	lowercase
 there	lowercase
 is	lowercase
@@ -17308,12 +16951,12 @@ was	lowercase
 herd	lowercase
 instinct	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 he	uppercase
 adds	lowercase
 :	punctuation
-"	punctuation
+``	other
 the	title case
 junk	lowercase
 market	lowercase
@@ -17391,15 +17034,13 @@ it	lowercase
 in	lowercase
 treasurys	title case
 .	punctuation
-"	punctuation
+''	other
 
 even	uppercase
 as	lowercase
 trading	lowercase
 in	lowercase
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 issues	lowercase
 dried	lowercase
 up	lowercase
@@ -17457,9 +17098,7 @@ broadcasting	title case
 system	title case
 inc	title case
 .	punctuation
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 securities	lowercase
 sold	lowercase
 last	lowercase
@@ -17501,7 +17140,7 @@ interest	lowercase
 payments	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 that	title case
 's	other
 a	lowercase
@@ -17521,7 +17160,7 @@ business	lowercase
 going	lowercase
 on	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 mr.	title case
 carleton	title case
@@ -17530,7 +17169,7 @@ first	title case
 boston	title case
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 do	lowercase
 n't	lowercase
@@ -17565,14 +17204,12 @@ week	lowercase
 by	lowercase
 turner	title case
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 raymond	title case
 minella	title case
 ,	punctuation
-co	lowercase
--	punctuation
-head	lowercase
+co-head	lowercase
 of	lowercase
 merchant	lowercase
 banking	lowercase
@@ -17580,9 +17217,10 @@ at	lowercase
 merrill	title case
 lynch	title case
 &	punctuation
-co.	title case
+co	title case
+.	punctuation
 
-"	punctuation
+``	other
 when	title case
 the	lowercase
 rally	lowercase
@@ -17618,9 +17256,7 @@ who	lowercase
 want	lowercase
 to	lowercase
 buy	lowercase
-well	lowercase
--	punctuation
-structured	lowercase
+well-structured	lowercase
 deals	lowercase
 ;	punctuation
 it	lowercase
@@ -17639,7 +17275,7 @@ are	lowercase
 wary	lowercase
 of	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 but	uppercase
 such	lowercase
@@ -17669,9 +17305,7 @@ mcnamara	lowercase
 ,	punctuation
 director	lowercase
 of	lowercase
-fixed	lowercase
--	punctuation
-income	lowercase
+fixed-income	lowercase
 research	lowercase
 at	lowercase
 kemper	title case
@@ -17697,7 +17331,7 @@ in	lowercase
 prices	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 last	title case
 year	lowercase
 we	lowercase
@@ -17711,12 +17345,12 @@ three	lowercase
 new	lowercase
 deals	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 this	title case
 year	lowercase
 ,	punctuation
@@ -17744,7 +17378,7 @@ changed	lowercase
 one	lowercase
 iota	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 however	uppercase
 ,	punctuation
@@ -17757,14 +17391,14 @@ in	lowercase
 junk	lowercase
 is	lowercase
 creating	lowercase
-"	punctuation
+``	other
 one	lowercase
 hell	lowercase
 of	lowercase
 a	lowercase
 buying	lowercase
 opportunity	lowercase
-"	punctuation
+''	other
 for	lowercase
 selective	lowercase
 buyers	lowercase
@@ -17780,26 +17414,26 @@ more	lowercase
 preoccupied	lowercase
 with	lowercase
 the	lowercase
-"	punctuation
+``	other
 bad	lowercase
-"	punctuation
+''	other
 junk	lowercase
 than	lowercase
 the	lowercase
-"	punctuation
+``	other
 good	lowercase
-"	punctuation
+''	other
 junk	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 market	lowercase
 has	lowercase
 been	lowercase
 weak	lowercase
 since	lowercase
-"	punctuation
+''	other
 the	lowercase
 announcement	lowercase
 of	lowercase
@@ -17826,7 +17460,7 @@ merrill	title case
 lynch	title case
 .	punctuation
 
-"	punctuation
+``	other
 that	title case
 really	lowercase
 affected	lowercase
@@ -17845,8 +17479,8 @@ is	lowercase
 in	lowercase
 trouble	lowercase
 ?	punctuation
-"	punctuation
 '	punctuation
+''	other
 
 well	uppercase
 before	lowercase
@@ -17924,9 +17558,7 @@ debt	lowercase
 securities	lowercase
 ,	punctuation
 new	title case
-york	title case
--	punctuation
-based	lowercase
+york-based	lowercase
 integrated	title case
 resources	title case
 inc.	title case
@@ -17947,9 +17579,7 @@ southmark	title case
 corp.	title case
 ,	punctuation
 the	lowercase
-dallas	title case
--	punctuation
-based	lowercase
+dallas-based	lowercase
 real	lowercase
 estate	lowercase
 and	lowercase
@@ -17993,9 +17623,7 @@ of	lowercase
 junk	lowercase
 bonds	lowercase
 and	lowercase
-seven	lowercase
--	punctuation
-year	lowercase
+seven-year	lowercase
 treasury	title case
 notes	lowercase
 widened	lowercase
@@ -18134,9 +17762,10 @@ the	lowercase
 federal	title case
 deposit	title case
 insurance	title case
-corp.	title case
+corp	title case
+.	punctuation
 
-"	punctuation
+``	other
 the	title case
 era	lowercase
 of	lowercase
@@ -18152,7 +17781,7 @@ reaching	lowercase
 for	lowercase
 it	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 james	title case
 grant	title case
@@ -18175,7 +17804,7 @@ bond	lowercase
 market	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 what	title case
 we	lowercase
 've	other
@@ -18223,9 +17852,7 @@ to	lowercase
 a	lowercase
 future	lowercase
 when	lowercase
-speculative	lowercase
--	punctuation
-grade	lowercase
+speculative-grade	lowercase
 debt	lowercase
 will	lowercase
 be	lowercase
@@ -18236,7 +17863,7 @@ rather	lowercase
 than	lowercase
 easy	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 friday	uppercase
 's	other
@@ -18266,9 +17893,7 @@ market	lowercase
 
 the	uppercase
 benchmark	lowercase
-30	number
--	punctuation
-year	lowercase
+30-year	number
 treasury	title case
 bond	lowercase
 was	lowercase
@@ -18320,11 +17945,11 @@ group	title case
 .	punctuation
 
 the	uppercase
-"	punctuation
+``	other
 flight	lowercase
 to	lowercase
 quality	lowercase
-"	punctuation
+''	other
 began	lowercase
 late	lowercase
 in	lowercase
@@ -18424,14 +18049,10 @@ prices	uppercase
 of	lowercase
 municipals	lowercase
 ,	punctuation
-investment	lowercase
--	punctuation
-grade	lowercase
+investment-grade	lowercase
 corporates	lowercase
 and	lowercase
-mortgage	lowercase
--	punctuation
-backed	lowercase
+mortgage-backed	lowercase
 bonds	lowercase
 also	lowercase
 rose	lowercase
@@ -18500,17 +18121,13 @@ about	lowercase
 %	punctuation
 to	lowercase
 a	lowercase
-12	number
--	punctuation
-year	lowercase
+12-year	number
 average	lowercase
 life	lowercase
 assumption	lowercase
 .	punctuation
 
-investment	uppercase
--	punctuation
-grade	lowercase
+investment-grade	lowercase
 corporate	lowercase
 bonds	lowercase
 were	lowercase
@@ -18527,18 +18144,12 @@ the	lowercase
 yield	lowercase
 spread	lowercase
 between	lowercase
-lower	lowercase
--	punctuation
-quality	lowercase
+lower-quality	lowercase
 ,	punctuation
-investment	lowercase
--	punctuation
-grade	lowercase
+investment-grade	lowercase
 issues	lowercase
 and	lowercase
-higher	lowercase
--	punctuation
-quality	lowercase
+higher-quality	lowercase
 bonds	lowercase
 widened	lowercase
 .	punctuation
@@ -18555,9 +18166,7 @@ rose	lowercase
 relative	lowercase
 to	lowercase
 other	lowercase
-investment	lowercase
--	punctuation
-grade	lowercase
+investment-grade	lowercase
 bonds	lowercase
 in	lowercase
 anticipation	lowercase
@@ -18583,9 +18192,7 @@ that	lowercase
 the	lowercase
 tva	lowercase
 's	other
-long	lowercase
--	punctuation
-awaited	lowercase
+long-awaited	lowercase
 offering	lowercase
 would	lowercase
 be	lowercase
@@ -18630,22 +18237,18 @@ $	punctuation
 million	lowercase
 each	lowercase
 of	lowercase
-five	lowercase
--	punctuation
-year	lowercase
+five-year	lowercase
 and	lowercase
-10	number
--	punctuation
-year	lowercase
+10-year	number
 bonds	lowercase
 have	lowercase
 already	lowercase
 been	lowercase
-"	punctuation
+``	other
 substantially	lowercase
 oversubscribed	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 municipal	uppercase
 bonds	lowercase
@@ -18667,9 +18270,7 @@ article	lowercase
 
 friday	uppercase
 's	other
-190	number
--	punctuation
-point	lowercase
+190-point	number
 plunge	lowercase
 in	lowercase
 stocks	lowercase
@@ -18863,10 +18464,10 @@ show	lowercase
 gains	lowercase
 are	lowercase
 not	lowercase
-"	punctuation
+``	other
 ordinary	lowercase
 income	lowercase
-"	punctuation
+''	other
 )	punctuation
 .	punctuation
 
@@ -18957,11 +18558,7 @@ started	lowercase
 to	lowercase
 decide	lowercase
 issues	lowercase
-one	lowercase
--	punctuation
-by	lowercase
--	punctuation
-one	lowercase
+one-by-one	lowercase
 on	lowercase
 their	lowercase
 individual	lowercase
@@ -18986,11 +18583,7 @@ would	lowercase
 pass	lowercase
 on	lowercase
 an	lowercase
-up	lowercase
--	punctuation
-or	lowercase
--	punctuation
-down	lowercase
+up-or-down	lowercase
 vote	lowercase
 .	punctuation
 
@@ -19087,9 +18680,7 @@ clear	lowercase
 case	lowercase
 ,	punctuation
 given	lowercase
-anti	lowercase
--	punctuation
-takeover	lowercase
+anti-takeover	lowercase
 mischief	lowercase
 by	lowercase
 secretary	title case
@@ -19153,9 +18744,7 @@ subcommittee	lowercase
 has	lowercase
 put	lowercase
 an	lowercase
-anti	lowercase
--	punctuation
-airline	lowercase
+anti-airline	lowercase
 takeover	lowercase
 bill	lowercase
 on	lowercase
@@ -19190,9 +18779,9 @@ to	lowercase
 50	number
 days	lowercase
 to	lowercase
-"	punctuation
+``	other
 review	lowercase
-"	punctuation
+''	other
 any	lowercase
 bid	lowercase
 for	lowercase
@@ -19301,9 +18890,7 @@ dollar	lowercase
 is	lowercase
 not	lowercase
 under	lowercase
-1987	number
--	punctuation
-style	lowercase
+1987-style	number
 pressure	lowercase
 .	punctuation
 
@@ -19379,10 +18966,10 @@ interesting	lowercase
 to	lowercase
 learn	lowercase
 if	lowercase
-"	punctuation
+``	other
 circuit	lowercase
 breakers	lowercase
-"	punctuation
+''	other
 prove	lowercase
 to	lowercase
 be	lowercase
@@ -19450,9 +19037,7 @@ chicago	title case
 corp.	title case
 posted	lowercase
 a	lowercase
-third	lowercase
--	punctuation
-quarter	lowercase
+third-quarter	lowercase
 loss	lowercase
 of	lowercase
 $	punctuation
@@ -19524,9 +19109,7 @@ big	lowercase
 1987	number
 additions	lowercase
 to	lowercase
-foreign	lowercase
--	punctuation
-loan	lowercase
+foreign-loan	lowercase
 reserves	lowercase
 ,	punctuation
 brings	lowercase
@@ -19539,13 +19122,9 @@ equaling	lowercase
 79	number
 %	punctuation
 of	lowercase
-medium	lowercase
--	punctuation
-term	lowercase
+medium-term	lowercase
 and	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 loans	lowercase
 outstanding	lowercase
 to	lowercase
@@ -19658,9 +19237,7 @@ unit	lowercase
 a	lowercase
 big	lowercase
 leveraged	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 investor	lowercase
 ,	punctuation
 rose	lowercase
@@ -19722,24 +19299,18 @@ view	lowercase
 of	lowercase
 greece	title case
 's	other
-eight	lowercase
--	punctuation
-year	lowercase
+eight-year	lowercase
 misadventure	lowercase
 under	lowercase
 autocratic	lowercase
 pseudosocialism	lowercase
 and	lowercase
 subsequent	lowercase
-three	lowercase
--	punctuation
-month	lowercase
+three-month	lowercase
 hitch	lowercase
 with	lowercase
 a	lowercase
-conservative	lowercase
--	punctuation
-communist	lowercase
+conservative-communist	lowercase
 coalition	lowercase
 government	lowercase
 --	other
@@ -19776,9 +19347,7 @@ carcass	lowercase
 
 in	uppercase
 the	lowercase
-mid	lowercase
--	punctuation
-june	title case
+mid-june	lowercase
 round	lowercase
 of	lowercase
 voting	lowercase
@@ -19803,9 +19372,7 @@ government	lowercase
 that	lowercase
 emerged	lowercase
 from	lowercase
-post	lowercase
--	punctuation
-electoral	lowercase
+post-electoral	lowercase
 hagglings	lowercase
 was	lowercase
 ,	punctuation
@@ -19816,9 +19383,7 @@ little	lowercase
 more	lowercase
 than	lowercase
 the	lowercase
-ill	lowercase
--	punctuation
-conceived	lowercase
+ill-conceived	lowercase
 offspring	lowercase
 of	lowercase
 ideological	lowercase
@@ -19829,9 +19394,7 @@ one	lowercase
 side	lowercase
 ,	punctuation
 the	lowercase
-center	lowercase
--	punctuation
-right	lowercase
+center-right	lowercase
 new	title case
 democracy	title case
 party	title case
@@ -19847,9 +19410,7 @@ the	lowercase
 other	lowercase
 ,	punctuation
 the	lowercase
-so	lowercase
--	punctuation
-called	lowercase
+so-called	lowercase
 coalition	title case
 of	lowercase
 the	lowercase
@@ -19868,18 +19429,14 @@ a	lowercase
 merger	lowercase
 of	lowercase
 the	lowercase
-pro	lowercase
--	punctuation
-soviet	title case
+pro-soviet	lowercase
 communist	title case
 party	title case
 of	lowercase
 greece	title case
 and	lowercase
 its	lowercase
-euro	title case
--	punctuation
-communist	title case
+euro-communist	title case
 cousin	lowercase
 ,	punctuation
 the	lowercase
@@ -19892,9 +19449,7 @@ unifying	lowercase
 bond	lowercase
 for	lowercase
 this	lowercase
-left	lowercase
--	punctuation
-right	lowercase
+left-right	lowercase
 mismatch	lowercase
 was	lowercase
 plain	lowercase
@@ -19917,9 +19472,7 @@ ostensible	lowercase
 goal	lowercase
 was	lowercase
 a	lowercase
-mop	lowercase
--	punctuation
-up	lowercase
+mop-up	lowercase
 of	lowercase
 government	lowercase
 corruption	lowercase
@@ -19991,12 +19544,8 @@ regard	lowercase
 to	lowercase
 greece	title case
 's	other
-long	lowercase
--	punctuation
-bubbling	lowercase
-bank	lowercase
--	punctuation
-looting	lowercase
+long-bubbling	lowercase
+bank-looting	lowercase
 scandal	lowercase
 ,	punctuation
 mr.	title case
@@ -20016,9 +19565,7 @@ bank	title case
 of	lowercase
 crete	title case
 and	lowercase
-self	lowercase
--	punctuation
-confessed	lowercase
+self-confessed	lowercase
 embezzler	lowercase
 ,	punctuation
 now	lowercase
@@ -20228,9 +19775,9 @@ only	lowercase
 circumstantial	lowercase
 evidence	lowercase
 and	lowercase
-"	punctuation
+``	other
 indications	lowercase
-"	punctuation
+''	other
 that	lowercase
 point	lowercase
 to	lowercase
@@ -20302,9 +19849,9 @@ central	lowercase
 weakness	lowercase
 of	lowercase
 the	lowercase
-"	punctuation
+``	other
 scandals	lowercase
-"	punctuation
+''	other
 debates	lowercase
 was	lowercase
 pointed	lowercase
@@ -20496,9 +20043,7 @@ by	lowercase
 collaborating	lowercase
 in	lowercase
 a	lowercase
-right	lowercase
--	punctuation
-wing	lowercase
+right-wing	lowercase
 plot	lowercase
 aimed	lowercase
 at	lowercase
@@ -20556,9 +20101,7 @@ feel	lowercase
 betrayed	lowercase
 by	lowercase
 the	lowercase
-left	lowercase
--	punctuation
-right	lowercase
+left-right	lowercase
 coalition	lowercase
 's	other
 birth	lowercase
@@ -20568,9 +20111,7 @@ bringing	lowercase
 into	lowercase
 pasok	lowercase
 a	lowercase
-well	lowercase
--	punctuation
-respected	lowercase
+well-respected	lowercase
 communist	title case
 party	title case
 candidate	lowercase
@@ -20618,18 +20159,16 @@ not	lowercase
 only	lowercase
 with	lowercase
 diminished	lowercase
-scandal	lowercase
--	punctuation
-stench	lowercase
+scandal-stench	lowercase
 ,	punctuation
 but	lowercase
 also	lowercase
 with	lowercase
-"	punctuation
+``	other
 seals	lowercase
 of	lowercase
 approval	lowercase
-"	punctuation
+''	other
 from	lowercase
 representatives	lowercase
 of	lowercase
@@ -20865,9 +20404,7 @@ mr.	title case
 papandreou	title case
 with	lowercase
 a	lowercase
-wild	lowercase
--	punctuation
-eyed	lowercase
+wild-eyed	lowercase
 vengeance	lowercase
 .	punctuation
 
@@ -20876,9 +20413,7 @@ the	lowercase
 possibility	lowercase
 of	lowercase
 another	lowercase
-lash	lowercase
--	punctuation
-up	lowercase
+lash-up	lowercase
 government	lowercase
 is	lowercase
 all	lowercase
@@ -20899,9 +20434,7 @@ he	lowercase
 could	lowercase
 hamstring	lowercase
 a	lowercase
-conservative	lowercase
--	punctuation
-led	lowercase
+conservative-led	lowercase
 coalition	lowercase
 .	punctuation
 
@@ -21112,9 +20645,7 @@ jittery	lowercase
 
 friday	uppercase
 's	other
-sell	lowercase
--	punctuation
-off	lowercase
+sell-off	lowercase
 was	lowercase
 triggered	lowercase
 by	lowercase
@@ -21123,9 +20654,7 @@ collapse	lowercase
 of	lowercase
 ual	lowercase
 's	other
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 plan	lowercase
 and	lowercase
 a	lowercase
@@ -21196,9 +20725,7 @@ for	lowercase
 a	lowercase
 new	lowercase
 ual	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 proposal	lowercase
 appear	lowercase
 bleak	lowercase
@@ -21239,9 +20766,7 @@ problems	lowercase
 with	lowercase
 the	lowercase
 ual	lowercase
-management	lowercase
--	punctuation
-pilot	lowercase
+management-pilot	lowercase
 plan	lowercase
 ,	punctuation
 they	lowercase
@@ -21291,9 +20816,7 @@ month	lowercase
 .	punctuation
 
 a	uppercase
-capital	lowercase
--	punctuation
-gains	lowercase
+capital-gains	lowercase
 tax	lowercase
 cut	lowercase
 was	lowercase
@@ -21324,9 +20847,7 @@ n't	lowercase
 press	lowercase
 for	lowercase
 a	lowercase
-capital	lowercase
--	punctuation
-gains	lowercase
+capital-gains	lowercase
 provision	lowercase
 in	lowercase
 the	lowercase
@@ -21334,9 +20855,7 @@ final	lowercase
 deficit	lowercase
 bill	lowercase
 when	lowercase
-house	title case
--	punctuation
-senate	title case
+house-senate	title case
 conferees	lowercase
 meet	lowercase
 later	lowercase
@@ -21387,9 +20906,7 @@ sales	lowercase
 period	lowercase
 of	lowercase
 the	lowercase
-1990	number
--	punctuation
-model	lowercase
+1990-model	number
 year	lowercase
 ,	punctuation
 dragged	lowercase
@@ -21452,13 +20969,9 @@ for	lowercase
 most	lowercase
 of	lowercase
 its	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 and	lowercase
-shopping	lowercase
--	punctuation
-center	lowercase
+shopping-center	lowercase
 assets	lowercase
 from	lowercase
 an	lowercase
@@ -21518,9 +21031,7 @@ would	lowercase
 launch	lowercase
 a	lowercase
 management	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 if	lowercase
 a	lowercase
 hostile	lowercase
@@ -21537,26 +21048,20 @@ aerospace	title case
 and	lowercase
 france	title case
 's	other
-thomson	title case
--	punctuation
-csf	lowercase
+thomson-csf	lowercase
 are	lowercase
 nearing	lowercase
 a	lowercase
 pact	lowercase
 to	lowercase
 merge	lowercase
-guided	lowercase
--	punctuation
-missile	lowercase
+guided-missile	lowercase
 divisions	lowercase
 .	punctuation
 
 new	uppercase
 u.s.	title case
-steel	lowercase
--	punctuation
-import	lowercase
+steel-import	lowercase
 quotas	lowercase
 will	lowercase
 give	lowercase
@@ -21767,10 +21272,10 @@ that	lowercase
 use	lowercase
 of	lowercase
 the	lowercase
-"	punctuation
+``	other
 press	lowercase
 defense	lowercase
-"	punctuation
+''	other
 by	lowercase
 corporations	lowercase
 may	lowercase
@@ -22036,7 +21541,7 @@ apple	title case
 case	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 court	lowercase
 was	lowercase
@@ -22064,7 +21569,7 @@ company	lowercase
 's	other
 statements	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 patrick	title case
 grannon	title case
@@ -22090,7 +21595,7 @@ the	lowercase
 case	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 court	lowercase
 is	lowercase
@@ -22118,7 +21623,7 @@ of	lowercase
 corporate	lowercase
 insiders	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 shareholders	uppercase
 '	punctuation
@@ -22152,7 +21657,7 @@ case	lowercase
 they	uppercase
 wrote	lowercase
 :	punctuation
-"	punctuation
+``	other
 the	title case
 opinion	lowercase
 establishes	lowercase
@@ -22189,7 +21694,7 @@ of	lowercase
 securities	lowercase
 liability	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 nfl	lowercase
 ordered	lowercase
@@ -22501,7 +22006,7 @@ television	lowercase
 contracts	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 usfl	lowercase
 was	lowercase
@@ -22510,15 +22015,13 @@ the	lowercase
 prevailing	lowercase
 party	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 goldfein	title case
 insists	lowercase
 .	punctuation
 
-houston	lowercase
--	punctuation
-calgary	lowercase
+houston-calgary	lowercase
 alliance	lowercase
 :	punctuation
 
@@ -22546,9 +22049,7 @@ to	lowercase
 help	lowercase
 serve	lowercase
 their	lowercase
-energy	lowercase
--	punctuation
-industry	lowercase
+energy-industry	lowercase
 clients	lowercase
 .	punctuation
 
@@ -22561,9 +22062,7 @@ be	lowercase
 the	lowercase
 first	lowercase
 such	lowercase
-cross	lowercase
--	punctuation
-border	lowercase
+cross-border	lowercase
 arrangement	lowercase
 among	lowercase
 major	lowercase
@@ -22601,11 +22100,7 @@ energy	lowercase
 environmental	lowercase
 -	punctuation
 and	lowercase
-fair	lowercase
--	punctuation
-trade	lowercase
--	punctuation
-related	lowercase
+fair-trade-related	lowercase
 issues	lowercase
 and	lowercase
 conduct	lowercase
@@ -22621,9 +22116,7 @@ gibson	title case
 gayle	title case
 jr.	title case
 of	lowercase
-585	number
--	punctuation
-lawyer	lowercase
+585-lawyer	number
 fulbright	title case
 &	punctuation
 jaworski	title case
@@ -22656,9 +22149,7 @@ regulatory	lowercase
 issues	lowercase
 ,	punctuation
 particularly	lowercase
-natural	lowercase
--	punctuation
-gas	lowercase
+natural-gas	lowercase
 exports	lowercase
 ,	punctuation
 for	lowercase
@@ -22680,9 +22171,7 @@ negotiations	lowercase
 grew	lowercase
 out	lowercase
 of	lowercase
-80	number
--	punctuation
-lawyer	lowercase
+80-lawyer	number
 fenerty	title case
 robertson	title case
 's	other
@@ -22732,9 +22221,7 @@ co.	title case
 won	lowercase
 a	lowercase
 3	number
-1\/2	number
--	punctuation
-week	lowercase
+1\/2-week	number
 trial	lowercase
 in	lowercase
 pittsburgh	title case
@@ -22862,9 +22349,7 @@ s.	title case
 killory	title case
 will	lowercase
 join	lowercase
-500	number
--	punctuation
-lawyer	lowercase
+500-lawyer	number
 morrison	title case
 &	punctuation
 foerster	title case
@@ -22879,9 +22364,7 @@ d.c.	title case
 ,	punctuation
 office	lowercase
 in	lowercase
-mid	lowercase
--	punctuation
-november	title case
+mid-november	lowercase
 .	punctuation
 
 she	uppercase
@@ -22889,16 +22372,12 @@ will	lowercase
 help	lowercase
 develop	lowercase
 the	lowercase
-mass	lowercase
--	punctuation
-media	lowercase
+mass-media	lowercase
 practice	lowercase
 of	lowercase
 the	lowercase
 san	title case
-francisco	title case
--	punctuation
-based	lowercase
+francisco-based	lowercase
 firm	lowercase
 's	other
 communications	lowercase
@@ -22988,9 +22467,7 @@ miami	title case
 airline	lowercase
 unit	lowercase
 of	lowercase
-houston	title case
--	punctuation
-based	lowercase
+houston-based	lowercase
 texas	title case
 air	title case
 corp.	title case
@@ -23021,9 +22498,7 @@ his	lowercase
 time	lowercase
 between	lowercase
 the	lowercase
-200	number
--	punctuation
-lawyer	lowercase
+200-lawyer	number
 firm	lowercase
 's	other
 offices	lowercase
@@ -23064,16 +22539,13 @@ oct.	title case
 14	number
 to	lowercase
 dec.	title case
-31	number
-.	punctuation
+31.	number
 ,	punctuation
 as	lowercase
 part	lowercase
 of	lowercase
 a	lowercase
-holiday	lowercase
--	punctuation
-season	lowercase
+holiday-season	lowercase
 sales	lowercase
 promotion	lowercase
 .	punctuation
@@ -23210,9 +22682,7 @@ have	lowercase
 completed	lowercase
 a	lowercase
 100	number
-million	lowercase
--	punctuation
-mark	lowercase
+million-mark	lowercase
 (	punctuation
 $	punctuation
 52.2	number
@@ -23281,7 +22751,8 @@ matsushita	title case
 components	title case
 g.m.b	lowercase
 .	punctuation
-h.	title case
+h	title case
+.	punctuation
 
 it	uppercase
 will	lowercase
@@ -23426,7 +22897,7 @@ in	lowercase
 washington	title case
 .	punctuation
 
-"	punctuation
+``	other
 frankly	title case
 ,	punctuation
 i	title case
@@ -23434,7 +22905,7 @@ missed	lowercase
 my	lowercase
 family	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 mr.	title case
 rosenblatt	title case
@@ -23567,13 +23038,9 @@ and	lowercase
 trend	lowercase
 stories	lowercase
 with	lowercase
-service	lowercase
--	punctuation
-oriented	lowercase
+service-oriented	lowercase
 ,	punctuation
-how	lowercase
--	punctuation
-to	lowercase
+how-to	lowercase
 articles	lowercase
 .	punctuation
 
@@ -23635,9 +23102,7 @@ offers	lowercase
 
 avions	uppercase
 marcel	title case
-dassault	title case
--	punctuation
-breguet	title case
+dassault-breguet	title case
 aviation	title case
 s.a.	title case
 said	lowercase
@@ -23649,9 +23114,7 @@ and	lowercase
 contributions	lowercase
 to	lowercase
 employee	lowercase
-profit	lowercase
--	punctuation
-sharing	lowercase
+profit-sharing	lowercase
 soared	lowercase
 97	number
 %	punctuation
@@ -23822,9 +23285,7 @@ detailed	lowercase
 forecast	lowercase
 of	lowercase
 its	lowercase
-full	lowercase
--	punctuation
-year	lowercase
+full-year	lowercase
 earnings	lowercase
 .	punctuation
 
@@ -23997,9 +23458,7 @@ in	lowercase
 the	lowercase
 face	lowercase
 of	lowercase
-lower	lowercase
--	punctuation
-priced	lowercase
+lower-priced	lowercase
 ,	punctuation
 imported	lowercase
 steel	lowercase
@@ -24383,7 +23842,7 @@ west	title case
 coasts	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 prior	title case
 to	lowercase
 a	lowercase
@@ -24393,9 +23852,7 @@ ago	lowercase
 keystone	title case
 was	lowercase
 an	lowercase
-order	lowercase
--	punctuation
-taker	lowercase
+order-taker	lowercase
 .	punctuation
 
 now	uppercase
@@ -24417,7 +23874,7 @@ retailers	lowercase
 and	lowercase
 wholesalers	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 simmons	title case
 said	lowercase
@@ -24429,28 +23886,20 @@ he	lowercase
 said	lowercase
 ,	punctuation
 the	lowercase
-100	number
--	punctuation
-year	lowercase
--	punctuation
-old	lowercase
+100-year-old	number
 company	lowercase
 plans	lowercase
 to	lowercase
 continue	lowercase
 its	lowercase
-premium	lowercase
--	punctuation
-priced	lowercase
+premium-priced	lowercase
 strategy	lowercase
 for	lowercase
 its	lowercase
 distinctive	lowercase
 brand	lowercase
 of	lowercase
-red	lowercase
--	punctuation
-tipped	lowercase
+red-tipped	lowercase
 wire	lowercase
 fencing	lowercase
 and	lowercase
@@ -24491,9 +23940,7 @@ wire	lowercase
 sales	lowercase
 .	punctuation
 
-freeport	uppercase
--	punctuation
-mcmoran	lowercase
+freeport-mcmoran	lowercase
 inc.	title case
 said	lowercase
 a	lowercase
@@ -24505,9 +23952,7 @@ at	lowercase
 its	lowercase
 sunshine	title case
 bridge	title case
-uranium	lowercase
--	punctuation
-recovery	lowercase
+uranium-recovery	lowercase
 facility	lowercase
 in	lowercase
 donaldsonville	title case
@@ -24526,9 +23971,7 @@ the	lowercase
 company	lowercase
 and	lowercase
 its	lowercase
-freeport	title case
--	punctuation
-mcmoran	lowercase
+freeport-mcmoran	lowercase
 resource	title case
 partners	title case
 limited	title case
@@ -24602,9 +24045,7 @@ years	lowercase
 
 a	uppercase
 second	lowercase
-uranium	lowercase
--	punctuation
-recovery	lowercase
+uranium-recovery	lowercase
 plant	lowercase
 at	lowercase
 uncle	title case
@@ -24628,9 +24069,7 @@ to	lowercase
 operate	lowercase
 .	punctuation
 
-freeport	uppercase
--	punctuation
-mcmoran	lowercase
+freeport-mcmoran	lowercase
 said	lowercase
 the	lowercase
 shutdown	lowercase
@@ -24640,9 +24079,7 @@ affect	lowercase
 sales	lowercase
 volumes	lowercase
 under	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 sales	lowercase
 contracts	lowercase
 of	lowercase
@@ -24667,9 +24104,7 @@ spot	lowercase
 market	lowercase
 .	punctuation
 
-freeport	uppercase
--	punctuation
-mcmoran	lowercase
+freeport-mcmoran	lowercase
 resource	title case
 partners	title case
 ,	punctuation
@@ -24677,9 +24112,7 @@ as	lowercase
 owner	lowercase
 of	lowercase
 the	lowercase
-uranium	lowercase
--	punctuation
-recovery	lowercase
+uranium-recovery	lowercase
 technology	lowercase
 ,	punctuation
 receives	lowercase
@@ -24703,9 +24136,7 @@ them	lowercase
 .	punctuation
 
 a	uppercase
-four	lowercase
--	punctuation
-page	lowercase
+four-page	lowercase
 ad	lowercase
 from	lowercase
 texas	title case
@@ -24721,16 +24152,14 @@ of	lowercase
 the	lowercase
 oct.	title case
 20	number
-"	punctuation
+``	other
 corporate	title case
 elite	title case
-"	punctuation
+''	other
 issue	lowercase
 of	lowercase
 the	lowercase
-mcgraw	lowercase
--	punctuation
-hill	title case
+mcgraw-hill	lowercase
 inc.	title case
 publication	lowercase
 ,	punctuation
@@ -24765,29 +24194,25 @@ tiny	lowercase
 --	other
 but	lowercase
 distinctly	lowercase
-human	lowercase
--	punctuation
-sounding	lowercase
+human-sounding	lowercase
 --	other
 voice	lowercase
 announce	lowercase
 ,	punctuation
-"	punctuation
+``	other
 i	title case
 am	lowercase
 the	lowercase
 talking	lowercase
 chip	lowercase
 ,	punctuation
-"	punctuation
+''	other
 as	lowercase
 it	lowercase
 launches	lowercase
 into	lowercase
 a	lowercase
-15	number
--	punctuation
-second	lowercase
+15-second	number
 discourse	lowercase
 on	lowercase
 its	lowercase
@@ -24803,9 +24228,7 @@ n't	lowercase
 cheap	lowercase
 --	other
 the	lowercase
-per	lowercase
--	punctuation
-ad	lowercase
+per-ad	lowercase
 cost	lowercase
 to	lowercase
 texas	title case
@@ -24845,9 +24268,7 @@ ads	lowercase
 ,	punctuation
 featuring	lowercase
 simple	lowercase
-tone	lowercase
--	punctuation
-generating	lowercase
+tone-generating	lowercase
 chips	lowercase
 that	lowercase
 play	lowercase
@@ -25008,9 +24429,7 @@ to	lowercase
 reach	lowercase
 a	lowercase
 new	lowercase
-bank	lowercase
--	punctuation
-credit	lowercase
+bank-credit	lowercase
 agreement	lowercase
 ,	punctuation
 lomas	title case
@@ -25133,9 +24552,7 @@ it	lowercase
 will	lowercase
 increase	lowercase
 its	lowercase
-loan	lowercase
--	punctuation
-loss	lowercase
+loan-loss	lowercase
 provisions	lowercase
 to	lowercase
 cover	lowercase
@@ -25153,9 +24570,7 @@ mexico	title case
 resulting	lowercase
 in	lowercase
 an	lowercase
-after	lowercase
--	punctuation
-tax	lowercase
+after-tax	lowercase
 charge	lowercase
 to	lowercase
 1989	number
@@ -25208,14 +24623,12 @@ c$	title case
 1.17	number
 billion	lowercase
 in	lowercase
-non	lowercase
--	punctuation
-mexican	title case
+non-mexican	lowercase
 ldc	lowercase
 debt	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 eliminates	lowercase
 the	lowercase
@@ -25231,7 +24644,7 @@ of	lowercase
 the	lowercase
 loans	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
@@ -25368,9 +24781,7 @@ supported	lowercase
 by	lowercase
 u.s.	title case
 treasury	title case
-zero	lowercase
--	punctuation
-coupon	lowercase
+zero-coupon	lowercase
 bonds	lowercase
 .	punctuation
 
@@ -25386,9 +24797,9 @@ ldc	lowercase
 debt	lowercase
 has	lowercase
 been	lowercase
-"	punctuation
+``	other
 painful	lowercase
-"	punctuation
+''	other
 and	lowercase
 this	lowercase
 latest	lowercase
@@ -25459,9 +24870,7 @@ mean	lowercase
 the	lowercase
 end	lowercase
 of	lowercase
-mega	lowercase
--	punctuation
-mergers	lowercase
+mega-mergers	lowercase
 but	lowercase
 simply	lowercase
 marks	lowercase
@@ -25476,9 +24885,7 @@ game	lowercase
 wall	title case
 street	title case
 's	other
-big	lowercase
--	punctuation
-time	lowercase
+big-time	lowercase
 deal	lowercase
 makers	lowercase
 say	lowercase
@@ -25493,18 +24900,14 @@ more	lowercase
 likely	lowercase
 to	lowercase
 be	lowercase
-expansion	lowercase
--	punctuation
-minded	lowercase
+expansion-minded	lowercase
 companies	lowercase
 ,	punctuation
 rather	lowercase
 than	lowercase
 raiders	lowercase
 or	lowercase
-debt	lowercase
--	punctuation
-happy	lowercase
+debt-happy	lowercase
 financiers	lowercase
 .	punctuation
 
@@ -25513,9 +24916,7 @@ they	lowercase
 will	lowercase
 be	lowercase
 launching	lowercase
-lower	lowercase
--	punctuation
-priced	lowercase
+lower-priced	lowercase
 and	lowercase
 perhaps	lowercase
 fewer	lowercase
@@ -25580,7 +24981,7 @@ stock	lowercase
 market	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 market	lowercase
 is	lowercase
@@ -25589,7 +24990,7 @@ overvalued	lowercase
 not	lowercase
 cheap	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 alan	title case
 gaines	title case
@@ -25597,9 +24998,7 @@ of	lowercase
 the	lowercase
 new	title case
 york	title case
-money	lowercase
--	punctuation
-management	lowercase
+money-management	lowercase
 firm	lowercase
 gaines	title case
 berland	title case
@@ -25620,7 +25019,7 @@ his	lowercase
 portfolio	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 look	lowercase
 at	lowercase
@@ -25630,18 +25029,18 @@ can	lowercase
 get	lowercase
 done	lowercase
 ,	punctuation
-"	punctuation
+''	other
 he	lowercase
 says	lowercase
 ,	punctuation
-"	punctuation
+``	other
 and	lowercase
 they	lowercase
 're	other
 not	lowercase
 getting	lowercase
 done	lowercase
-"	punctuation
+''	other
 at	lowercase
 current	lowercase
 prices	lowercase
@@ -25653,9 +25052,7 @@ growing	lowercase
 increasingly	lowercase
 nervous	lowercase
 about	lowercase
-debt	lowercase
--	punctuation
-financed	lowercase
+debt-financed	lowercase
 takeovers	lowercase
 ,	punctuation
 investment	lowercase
@@ -25663,7 +25060,7 @@ bankers	lowercase
 say	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 you	title case
 had	lowercase
 a	lowercase
@@ -25671,9 +25068,7 @@ week	lowercase
 of	lowercase
 a	lowercase
 deteriorating	lowercase
-junk	lowercase
--	punctuation
-bond	lowercase
+junk-bond	lowercase
 market	lowercase
 that	lowercase
 ran	lowercase
@@ -25695,7 +25090,7 @@ bank	lowercase
 debt	lowercase
 market	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 steven	title case
 rattner	title case
@@ -25709,7 +25104,8 @@ with	lowercase
 lazard	title case
 freres	title case
 &	punctuation
-co.	title case
+co	title case
+.	punctuation
 
 trading	uppercase
 dried	lowercase
@@ -25719,9 +25115,7 @@ in	lowercase
 the	lowercase
 market	lowercase
 for	lowercase
-high	lowercase
--	punctuation
-yield	lowercase
+high-yield	lowercase
 junk	lowercase
 bonds	lowercase
 ,	punctuation
@@ -25774,9 +25168,7 @@ view	lowercase
 of	lowercase
 requests	lowercase
 for	lowercase
-high	lowercase
--	punctuation
-risk	lowercase
+high-risk	lowercase
 takeover	lowercase
 loans	lowercase
 .	punctuation
@@ -25817,9 +25209,7 @@ a	lowercase
 share	lowercase
 .	punctuation
 
-takeover	uppercase
--	punctuation
-stock	lowercase
+takeover-stock	lowercase
 traders	lowercase
 today	lowercase
 will	lowercase
@@ -25848,9 +25238,7 @@ investment	uppercase
 bankers	lowercase
 representing	lowercase
 the	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 group	lowercase
 and	lowercase
 ual	lowercase
@@ -25897,11 +25285,7 @@ target	lowercase
 of	lowercase
 a	lowercase
 $	punctuation
-120	number
--	punctuation
-a	lowercase
--	punctuation
-share	lowercase
+120-a-share	number
 takeover	lowercase
 proposal	lowercase
 from	lowercase
@@ -26069,11 +25453,7 @@ from	lowercase
 the	lowercase
 original	lowercase
 $	punctuation
-20	number
--	punctuation
-a	lowercase
--	punctuation
-share	lowercase
+20-a-share	number
 offer	lowercase
 vitro	title case
 launched	lowercase
@@ -26107,9 +25487,7 @@ greatest	lowercase
 significance	lowercase
 of	lowercase
 the	lowercase
-vitro	title case
--	punctuation
-anchor	title case
+vitro-anchor	title case
 deal	lowercase
 may	lowercase
 be	lowercase
@@ -26134,9 +25512,9 @@ $	punctuation
 155	number
 million	lowercase
 temporary	lowercase
-"	punctuation
+``	other
 bridge	lowercase
-"	punctuation
+''	other
 loan	lowercase
 from	lowercase
 donaldson	title case
@@ -26176,10 +25554,10 @@ donaldson	title case
 said	lowercase
 it	lowercase
 is	lowercase
-"	punctuation
+``	other
 highly	lowercase
 confident	lowercase
-"	punctuation
+''	other
 that	lowercase
 it	lowercase
 will	lowercase
@@ -26281,10 +25659,10 @@ banks	lowercase
 that	lowercase
 they	lowercase
 remain	lowercase
-"	punctuation
+``	other
 highly	lowercase
 confident	lowercase
-"	punctuation
+''	other
 they	lowercase
 can	lowercase
 arrange	lowercase
@@ -26307,12 +25685,12 @@ of	lowercase
 lin	lowercase
 broadcasting	title case
 ,	punctuation
-"	punctuation
+``	other
 notwithstanding	lowercase
 recent	lowercase
 events	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 mccaw	lowercase
 is	lowercase
@@ -26343,19 +25721,13 @@ pay	lowercase
 shareholders	lowercase
 a	lowercase
 $	punctuation
-20	number
--	punctuation
-a	lowercase
--	punctuation
-share	lowercase
+20-a-share	number
 special	lowercase
 dividend	lowercase
 and	lowercase
 combine	lowercase
 its	lowercase
-cellular	lowercase
--	punctuation
-telephone	lowercase
+cellular-telephone	lowercase
 operations	lowercase
 with	lowercase
 bellsouth	lowercase
@@ -26413,9 +25785,7 @@ is	lowercase
 viewed	lowercase
 as	lowercase
 a	lowercase
-well	lowercase
--	punctuation
-financed	lowercase
+well-financed	lowercase
 corporate	lowercase
 buyer	lowercase
 unlikely	lowercase
@@ -26447,9 +25817,7 @@ merger	lowercase
 business	lowercase
 in	lowercase
 the	lowercase
-stock	lowercase
--	punctuation
-market	lowercase
+stock-market	lowercase
 drop	lowercase
 .	punctuation
 
@@ -26457,7 +25825,7 @@ potential	uppercase
 bidders	lowercase
 for	lowercase
 companies	lowercase
-"	punctuation
+``	other
 were	lowercase
 saying	lowercase
 that	lowercase
@@ -26468,7 +25836,7 @@ to	lowercase
 look	lowercase
 expensive	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 mr.	title case
 rattner	title case
@@ -26476,7 +25844,7 @@ of	lowercase
 lazard	title case
 .	punctuation
 
-"	punctuation
+``	other
 nothing	title case
 makes	lowercase
 things	lowercase
@@ -26484,21 +25852,19 @@ look	lowercase
 cheaper	lowercase
 than	lowercase
 a	lowercase
-200	number
--	punctuation
-point	lowercase
+200-point	number
 drop	lowercase
 in	lowercase
 the	lowercase
 dow	title case
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 rattner	title case
 says	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 just	title case
 as	lowercase
 there	lowercase
@@ -26527,7 +25893,7 @@ the	lowercase
 deal	lowercase
 market	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 investment	uppercase
 bankers	lowercase
@@ -26539,13 +25905,11 @@ bargain	lowercase
 hunters	lowercase
 to	lowercase
 be	lowercase
-well	lowercase
--	punctuation
-heeled	lowercase
+well-heeled	lowercase
 corporations	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 in	title case
 the	lowercase
 past	lowercase
@@ -26571,7 +25935,7 @@ often	lowercase
 prepared	lowercase
 to	lowercase
 outbid	lowercase
-"	punctuation
+''	other
 the	lowercase
 corporations	lowercase
 ,	punctuation
@@ -26593,16 +25957,14 @@ hutton	title case
 
 now	uppercase
 ,	punctuation
-"	punctuation
+``	other
 corporate	lowercase
 buyers	lowercase
 should	lowercase
 be	lowercase
 willing	lowercase
 to	lowercase
-re	lowercase
--	punctuation
-enter	lowercase
+re-enter	lowercase
 the	lowercase
 acquisition	lowercase
 market	lowercase
@@ -26610,15 +25972,13 @@ because	lowercase
 the	lowercase
 competition	lowercase
 from	lowercase
-junkbond	lowercase
--	punctuation
-financed	lowercase
+junkbond-financed	lowercase
 buyers	lowercase
 has	lowercase
 been	lowercase
 reduced	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 many	uppercase
 takeover	lowercase
@@ -26660,11 +26020,7 @@ to	lowercase
 a	lowercase
 friendly	lowercase
 $	punctuation
-27	number
--	punctuation
-a	lowercase
--	punctuation
-share	lowercase
+27-a-share	number
 bid	lowercase
 from	lowercase
 sony	title case
@@ -26917,9 +26273,7 @@ lower	lowercase
 price	lowercase
 from	lowercase
 a	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 group	lowercase
 that	lowercase
 includes	lowercase
@@ -26945,9 +26299,7 @@ at	lowercase
 .	punctuation
 
 the	uppercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 group	lowercase
 is	lowercase
 offering	lowercase
@@ -26989,9 +26341,7 @@ may	lowercase
 have	lowercase
 oversold	lowercase
 some	lowercase
-takeover	lowercase
--	punctuation
-related	lowercase
+takeover-related	lowercase
 stocks	lowercase
 .	punctuation
 
@@ -27004,9 +26354,7 @@ example	lowercase
 was	lowercase
 among	lowercase
 the	lowercase
-worst	lowercase
--	punctuation
-hit	lowercase
+worst-hit	lowercase
 issues	lowercase
 ,	punctuation
 falling	lowercase
@@ -27057,9 +26405,7 @@ the	lowercase
 depth	lowercase
 of	lowercase
 the	lowercase
-sell	lowercase
--	punctuation
-off	lowercase
+sell-off	lowercase
 in	lowercase
 hilton	title case
 shares	lowercase
@@ -27075,9 +26421,7 @@ would	lowercase
 be	lowercase
 dependent	lowercase
 on	lowercase
-junk	lowercase
--	punctuation
-bond	lowercase
+junk-bond	lowercase
 financing	lowercase
 .	punctuation
 
@@ -27104,9 +26448,7 @@ troubles	lowercase
 of	lowercase
 the	lowercase
 ual	lowercase
-buy	lowercase
--	punctuation
-out	lowercase
+buy-out	lowercase
 group	lowercase
 signified	lowercase
 a	lowercase
@@ -27118,9 +26460,7 @@ to	lowercase
 provide	lowercase
 credit	lowercase
 for	lowercase
-debt	lowercase
--	punctuation
-financed	lowercase
+debt-financed	lowercase
 takeovers	lowercase
 .	punctuation
 
@@ -27164,10 +26504,10 @@ of	lowercase
 its	lowercase
 assets	lowercase
 are	lowercase
-"	punctuation
+``	other
 on	lowercase
 track	lowercase
-"	punctuation
+''	other
 for	lowercase
 what	lowercase
 has	lowercase
@@ -27175,16 +26515,16 @@ been	lowercase
 described	lowercase
 previously	lowercase
 as	lowercase
-"	punctuation
+``	other
 a	lowercase
 slow	lowercase
 and	lowercase
 deliberate	lowercase
 process	lowercase
 .	punctuation
-"	punctuation
+''	other
 
-"	punctuation
+``	other
 i	title case
 ca	lowercase
 n't	lowercase
@@ -27204,7 +26544,7 @@ day	lowercase
 's	other
 trading	lowercase
 ,	punctuation
-"	punctuation
+''	other
 mr.	title case
 lebo	title case
 said	lowercase
@@ -27248,12 +26588,10 @@ banks	lowercase
 .	punctuation
 
 for	uppercase
-debt	lowercase
--	punctuation
-ridden	lowercase
+debt-ridden	lowercase
 suitors	lowercase
 ,	punctuation
-"	punctuation
+``	other
 the	lowercase
 takeover	lowercase
 game	lowercase
@@ -27264,7 +26602,7 @@ for	lowercase
 some	lowercase
 time	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 new	title case
 york	title case
@@ -27289,7 +26627,7 @@ in	lowercase
 cash	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 market	lowercase
 is	lowercase
@@ -27300,7 +26638,7 @@ to	lowercase
 that	lowercase
 point	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 pauline	uppercase
 yoshihashi	title case
@@ -27316,9 +26654,7 @@ column	lowercase
 of	uppercase
 all	lowercase
 the	lowercase
-one	lowercase
--	punctuation
-time	lowercase
+one-time	lowercase
 expenses	lowercase
 incurred	lowercase
 by	lowercase
@@ -27387,9 +26723,7 @@ must	lowercase
 also	lowercase
 evaluate	lowercase
 the	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 in	lowercase
 the	lowercase
@@ -27407,9 +26741,7 @@ it	lowercase
 must	lowercase
 understand	lowercase
 how	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 markets	lowercase
 overreact	lowercase
 to	lowercase
@@ -27435,9 +26767,7 @@ cold	lowercase
 ,	punctuation
 the	lowercase
 local	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 gets	lowercase
 pneumonia	lowercase
@@ -27447,9 +26777,7 @@ in	uppercase
 other	lowercase
 words	lowercase
 ,	punctuation
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 indicators	lowercase
 ,	punctuation
@@ -27508,9 +26836,7 @@ a	lowercase
 slowdown	lowercase
 ,	punctuation
 these	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 indicators	lowercase
 will	lowercase
 rebound	lowercase
@@ -27525,9 +26851,7 @@ economy	lowercase
 why	uppercase
 do	lowercase
 local	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 markets	lowercase
 overreact	lowercase
 to	lowercase
@@ -27537,18 +26861,14 @@ cycles	lowercase
 ?	punctuation
 
 because	uppercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 purchases	lowercase
 and	lowercase
 leases	lowercase
 are	lowercase
 such	lowercase
 major	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 commitments	lowercase
 that	lowercase
 most	lowercase
@@ -27616,9 +26936,7 @@ down	lowercase
 however	uppercase
 ,	punctuation
 the	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 was	lowercase
 hurt	lowercase
@@ -27721,9 +27039,7 @@ overbuilt	lowercase
 and	lowercase
 potentially	lowercase
 undervalued	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 markets	lowercase
 in	lowercase
 the	lowercase
@@ -27747,9 +27063,7 @@ five	lowercase
 years	lowercase
 as	lowercase
 a	lowercase
-counter	lowercase
--	punctuation
-cyclical	lowercase
+counter-cyclical	lowercase
 play	lowercase
 .	punctuation
 
@@ -27808,9 +27122,7 @@ off	lowercase
 .	punctuation
 
 the	uppercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 suffered	lowercase
 even	lowercase
@@ -27863,12 +27175,10 @@ buildings	lowercase
 of	lowercase
 houston	title case
 's	other
-"	punctuation
-see	lowercase
--	punctuation
-through	lowercase
+``	other
+see-through	lowercase
 skyline	lowercase
-"	punctuation
+''	other
 were	lowercase
 indicative	lowercase
 of	lowercase
@@ -27882,9 +27192,7 @@ as	uppercase
 usual	lowercase
 ,	punctuation
 the	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 had	lowercase
 overreacted	lowercase
@@ -27943,9 +27251,7 @@ today	uppercase
 metropolitan	lowercase
 houston	title case
 's	other
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 is	lowercase
 poised	lowercase
@@ -28031,9 +27337,7 @@ area	lowercase
 where	lowercase
 the	lowercase
 commercial	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 has	lowercase
 overreacted	lowercase
@@ -28161,9 +27465,7 @@ economy	lowercase
 
 in	uppercase
 a	lowercase
-self	lowercase
--	punctuation
-fulfilling	lowercase
+self-fulfilling	lowercase
 prophecy	lowercase
 ,	punctuation
 therefore	lowercase
@@ -28171,9 +27473,7 @@ therefore	lowercase
 the	lowercase
 region	lowercase
 's	other
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 all	lowercase
 but	lowercase
@@ -28207,9 +27507,7 @@ when	lowercase
 metropolitan	lowercase
 denver	title case
 's	other
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 market	lowercase
 will	lowercase
 rebound	lowercase
@@ -28283,9 +27581,7 @@ the	lowercase
 resulting	lowercase
 explosion	lowercase
 of	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 activity	lowercase
 will	lowercase
 dwarf	lowercase
@@ -28296,9 +27592,7 @@ rebound	lowercase
 .	punctuation
 
 what	uppercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 strategy	lowercase
 should	lowercase
 one	lowercase
@@ -28393,8 +27687,14 @@ flattening	lowercase
 out	lowercase
 of	lowercase
 economic	lowercase
-growth--"catching	lowercase
-cold"--in	lowercase
+growth	lowercase
+--	other
+``	other
+catching	lowercase
+cold	lowercase
+''	other
+--	other
+in	lowercase
 the	lowercase
 healthy	lowercase
 metropolitan	lowercase
@@ -28423,9 +27723,7 @@ pneumonia	lowercase
 those	uppercase
 looking	lowercase
 for	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 bargains	lowercase
 in	lowercase
 distressed	lowercase
@@ -28448,13 +27746,9 @@ areas	lowercase
 should	lowercase
 take	lowercase
 a	lowercase
-short	lowercase
--	punctuation
-term	lowercase
+short-term	lowercase
 (	punctuation
-three	lowercase
--	punctuation
-year	lowercase
+three-year	lowercase
 )	punctuation
 lease	lowercase
 and	lowercase
@@ -28472,9 +27766,7 @@ managing	lowercase
 partner	lowercase
 of	lowercase
 a	lowercase
-real	lowercase
--	punctuation
-estate	lowercase
+real-estate	lowercase
 advisory	lowercase
 firm	lowercase
 based	lowercase
@@ -28482,7 +27774,8 @@ in	lowercase
 beverly	title case
 hills	title case
 ,	punctuation
-calif.	title case
+calif	title case
+.	punctuation
 
 kysor	uppercase
 industrial	title case
@@ -28491,9 +27784,7 @@ said	lowercase
 it	lowercase
 expects	lowercase
 its	lowercase
-third	lowercase
--	punctuation
-quarter	lowercase
+third-quarter	lowercase
 net	lowercase
 earnings	lowercase
 to	lowercase
@@ -28540,12 +27831,8 @@ share	lowercase
 .	punctuation
 
 the	uppercase
-year	lowercase
--	punctuation
-earlier	lowercase
-third	lowercase
--	punctuation
-quarter	lowercase
+year-earlier	lowercase
+third-quarter	lowercase
 earnings	lowercase
 amounted	lowercase
 to	lowercase
@@ -28571,9 +27858,7 @@ volume	lowercase
 at	lowercase
 its	lowercase
 two	lowercase
-marine	lowercase
--	punctuation
-related	lowercase
+marine-related	lowercase
 operations	lowercase
 .	punctuation
 
@@ -28597,9 +27882,7 @@ kysor	uppercase
 a	lowercase
 maker	lowercase
 of	lowercase
-heavy	lowercase
--	punctuation
-duty	lowercase
+heavy-duty	lowercase
 truck	lowercase
 and	lowercase
 commercial	lowercase
@@ -28610,9 +27893,7 @@ said	lowercase
 it	lowercase
 expects	lowercase
 its	lowercase
-fourth	lowercase
--	punctuation
-quarter	lowercase
+fourth-quarter	lowercase
 earnings	lowercase
 to	lowercase
 be	lowercase
@@ -28668,9 +27949,7 @@ senators	lowercase
 who	lowercase
 interceded	lowercase
 with	lowercase
-thrift	lowercase
--	punctuation
-industry	lowercase
+thrift-industry	lowercase
 regulators	lowercase
 for	lowercase
 him	lowercase
@@ -28688,9 +27967,7 @@ $	punctuation
 1.1	number
 billion	lowercase
 federal	lowercase
-anti	lowercase
--	punctuation
-racketeering	lowercase
+anti-racketeering	lowercase
 lawsuit	lowercase
 accusing	lowercase
 him	lowercase
@@ -28727,9 +28004,7 @@ common	title case
 cause	title case
 ,	punctuation
 the	lowercase
-self	lowercase
--	punctuation
-styled	lowercase
+self-styled	lowercase
 citizens	lowercase
 lobby	lowercase
 --	other
@@ -28748,8 +28023,7 @@ the	lowercase
 lawmakers	lowercase
 --	other
 democratic	title case
-sens	title case
-.	punctuation
+sens.	title case
 dennis	title case
 deconcini	lowercase
 of	lowercase
@@ -28801,7 +28075,7 @@ story	lowercase
 in	lowercase
 april	title case
 :	punctuation
-"	punctuation
+``	other
 one	title case
 question	lowercase
 ...	other
@@ -28844,7 +28118,7 @@ certainly	lowercase
 hope	lowercase
 so	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 in	uppercase
 a	lowercase
@@ -28901,13 +28175,13 @@ insured	lowercase
 money	lowercase
 and	lowercase
 was	lowercase
-"	punctuation
+``	other
 a	lowercase
 ticking	lowercase
 time	lowercase
 bomb	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 mr.	uppercase
 keating	title case
@@ -28937,11 +28211,11 @@ bank	title case
 board	title case
 's	other
 regulations	lowercase
-"	punctuation
+``	other
 grossly	lowercase
 unfair	lowercase
 ,	punctuation
-"	punctuation
+''	other
 and	lowercase
 that	lowercase
 sen.	title case
@@ -28953,12 +28227,12 @@ keating	title case
 's	other
 thrift	lowercase
 was	lowercase
-"	punctuation
+``	other
 viable	lowercase
 and	lowercase
 profitable	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 for	uppercase
 the	lowercase
@@ -29015,9 +28289,7 @@ continental	title case
 corp.	title case
 ,	punctuation
 entered	lowercase
-bankruptcy	lowercase
--	punctuation
-law	lowercase
+bankruptcy-law	lowercase
 proceedings	lowercase
 this	lowercase
 april	title case
@@ -29127,9 +28399,7 @@ midst	lowercase
 of	lowercase
 his	lowercase
 1988	number
-re	lowercase
--	punctuation
-election	lowercase
+re-election	lowercase
 campaign	lowercase
 ,	punctuation
 sen.	title case
@@ -29271,13 +28541,13 @@ but	lowercase
 that	lowercase
 the	lowercase
 matter	lowercase
-"	punctuation
+``	other
 fell	lowercase
 between	lowercase
 the	lowercase
 cracks	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 mr.	uppercase
 keating	title case
@@ -29340,7 +28610,7 @@ keating	title case
 wanted	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 he	title case
 became	lowercase
 very	lowercase
@@ -29363,7 +28633,7 @@ was	lowercase
 a	lowercase
 wimp	lowercase
 ,	punctuation
-"	punctuation
+''	other
 sen.	title case
 mccain	lowercase
 recalls	lowercase
@@ -29386,9 +28656,7 @@ corporate	lowercase
 funds	lowercase
 to	lowercase
 three	lowercase
-tax	lowercase
--	punctuation
-exempt	lowercase
+tax-exempt	lowercase
 voter	lowercase
 registration	lowercase
 organizations	lowercase
@@ -29410,7 +28678,7 @@ soliciting	lowercase
 the	lowercase
 money	lowercase
 was	lowercase
-"	punctuation
+``	other
 a	lowercase
 pretty	lowercase
 stupid	lowercase
@@ -29419,7 +28687,7 @@ to	lowercase
 do	lowercase
 politically	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 in	uppercase
 addition	lowercase
@@ -29450,22 +28718,14 @@ donations	lowercase
 for	lowercase
 a	lowercase
 1986	number
-get	lowercase
--	punctuation
-out	lowercase
--	punctuation
-the	lowercase
--	punctuation
-vote	lowercase
+get-out-the-vote	lowercase
 drive	lowercase
 that	lowercase
 benefited	lowercase
 the	lowercase
 senator	lowercase
 's	other
-re	lowercase
--	punctuation
-election	lowercase
+re-election	lowercase
 campaign	lowercase
 that	lowercase
 year	lowercase
@@ -29587,11 +28847,11 @@ his	lowercase
 conduct	lowercase
 had	lowercase
 been	lowercase
-"	punctuation
+``	other
 entirely	lowercase
 proper	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 sen.	uppercase
 mccain	lowercase
@@ -29599,10 +28859,10 @@ said	lowercase
 he	lowercase
 had	lowercase
 been	lowercase
-"	punctuation
+``	other
 deeply	lowercase
 concerned	lowercase
-"	punctuation
+''	other
 at	lowercase
 the	lowercase
 time	lowercase
@@ -29621,10 +28881,10 @@ but	lowercase
 decided	lowercase
 it	lowercase
 was	lowercase
-"	punctuation
+``	other
 entirely	lowercase
 appropriate	lowercase
-"	punctuation
+''	other
 for	lowercase
 him	lowercase
 to	lowercase
@@ -29653,7 +28913,7 @@ in	lowercase
 the	lowercase
 affair	lowercase
 and	lowercase
-"	punctuation
+``	other
 i	title case
 am	lowercase
 completely	lowercase
@@ -29672,13 +28932,13 @@ senate	title case
 ethics	title case
 committee	title case
 .	punctuation
-"	punctuation
+''	other
 
 sen.	uppercase
 deconcini	lowercase
 said	lowercase
 ,	punctuation
-"	punctuation
+``	other
 when	title case
 all	lowercase
 is	lowercase
@@ -29693,7 +28953,7 @@ be	lowercase
 fully	lowercase
 exonerated	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 sen.	uppercase
 cranston	title case
@@ -29729,7 +28989,7 @@ to	lowercase
 act	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 why	title case
 did	lowercase
 n't	lowercase
@@ -29739,12 +28999,12 @@ board	title case
 act	lowercase
 sooner	lowercase
 ?	punctuation
-"	punctuation
+''	other
 he	lowercase
 said	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 that	title case
 is	lowercase
 what	lowercase
@@ -29774,7 +29034,8 @@ cars	lowercase
 for	lowercase
 norfolk	title case
 southern	title case
-corp.	title case
+corp	title case
+.	punctuation
 
 trinity	uppercase
 estimated	lowercase
@@ -29900,7 +29161,7 @@ new	lowercase
 sourcing	lowercase
 label	lowercase
 :	punctuation
-"	punctuation
+``	other
 made	title case
 in	lowercase
 china	title case
@@ -29909,7 +29170,7 @@ hong	title case
 kong	title case
 companies	title case
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 toy	lowercase
@@ -30003,7 +29264,7 @@ political	lowercase
 policies	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 nobody	title case
 wants	lowercase
 to	lowercase
@@ -30015,7 +29276,7 @@ in	lowercase
 one	lowercase
 basket	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 david	title case
 yeh	title case
@@ -30029,7 +29290,8 @@ of	lowercase
 international	title case
 matchbox	title case
 group	title case
-ltd.	title case
+ltd	title case
+.	punctuation
 
 indeed	uppercase
 ,	punctuation
@@ -30160,7 +29422,7 @@ manufacturing	lowercase
 site	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 south	title case
 china	title case
 is	lowercase
@@ -30174,7 +29436,7 @@ in	lowercase
 the	lowercase
 world	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 henry	title case
 hu	title case
@@ -30186,7 +29448,8 @@ wah	title case
 shing	title case
 toys	title case
 consolidated	title case
-ltd.	title case
+ltd	title case
+.	punctuation
 
 hong	uppercase
 kong	title case
@@ -30222,7 +29485,8 @@ from	lowercase
 1987	number
 ,	punctuation
 to	lowercase
-hk$10.05	lowercase
+hk$	lowercase
+10.05	number
 billion	lowercase
 (	punctuation
 us$	lowercase
@@ -30232,9 +29496,7 @@ billion	lowercase
 .	punctuation
 
 but	uppercase
-re	lowercase
--	punctuation
-exports	lowercase
+re-exports	lowercase
 ,	punctuation
 mainly	lowercase
 from	lowercase
@@ -30245,7 +29507,8 @@ jumped	lowercase
 %	punctuation
 ,	punctuation
 to	lowercase
-hk$15.92	lowercase
+hk$	lowercase
+15.92	number
 billion	lowercase
 .	punctuation
 
@@ -30263,19 +29526,19 @@ fell	lowercase
 %	punctuation
 ,	punctuation
 to	lowercase
-hk$3.87	lowercase
+hk$	lowercase
+3.87	number
 billion	lowercase
 ,	punctuation
 while	lowercase
-re	lowercase
--	punctuation
-exports	lowercase
+re-exports	lowercase
 rose	lowercase
 56	number
 %	punctuation
 ,	punctuation
 to	lowercase
-hk$11.28	lowercase
+hk$	lowercase
+11.28	number
 billion	lowercase
 .	punctuation
 
@@ -30303,7 +29566,7 @@ toy	lowercase
 industry	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 for	title case
 the	lowercase
 next	lowercase
@@ -30324,7 +29587,7 @@ the	lowercase
 main	lowercase
 supplier	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 edmund	title case
 young	title case
@@ -30482,7 +29745,8 @@ inc.	title case
 and	lowercase
 coleco	title case
 industries	title case
-inc.	title case
+inc	title case
+.	punctuation
 
 hong	uppercase
 kong	title case
@@ -30543,11 +29807,9 @@ they	lowercase
 long	lowercase
 for	lowercase
 a	lowercase
-"	punctuation
-mega	lowercase
--	punctuation
-hit	lowercase
-"	punctuation
+``	other
+mega-hit	lowercase
+''	other
 toy	lowercase
 to	lowercase
 excite	lowercase
@@ -30579,9 +29841,7 @@ have	lowercase
 to	lowercase
 a	lowercase
 u.s.	title case
-mega	lowercase
--	punctuation
-hit	lowercase
+mega-hit	lowercase
 this	lowercase
 year	lowercase
 is	lowercase
@@ -30598,18 +29858,15 @@ manufactured	lowercase
 by	lowercase
 playmates	title case
 holdings	title case
-ltd.	title case
+ltd	title case
+.	punctuation
 
 introduced	uppercase
 in	lowercase
 mid-1988	lowercase
 ,	punctuation
 the	lowercase
-15	number
--	punctuation
-centimeter	lowercase
--	punctuation
-tall	lowercase
+15-centimeter-tall	number
 plastic	lowercase
 turtles	lowercase
 are	lowercase
@@ -30648,9 +29905,7 @@ warriors	lowercase
 among	lowercase
 the	lowercase
 10	number
-biggest	lowercase
--	punctuation
-selling	lowercase
+biggest-selling	lowercase
 toys	lowercase
 in	lowercase
 the	lowercase
@@ -30719,9 +29974,7 @@ the	lowercase
 lack	lowercase
 of	lowercase
 a	lowercase
-fast	lowercase
--	punctuation
-selling	lowercase
+fast-selling	lowercase
 product	lowercase
 ,	punctuation
 they	lowercase
@@ -30859,9 +30112,7 @@ concern	lowercase
 exists	lowercase
 that	lowercase
 the	lowercase
-harder	lowercase
--	punctuation
-line	lowercase
+harder-line	lowercase
 beijing	title case
 leadership	lowercase
 will	lowercase
@@ -30879,9 +30130,7 @@ main	lowercase
 laboratory	lowercase
 for	lowercase
 the	lowercase
-open	lowercase
--	punctuation
-door	lowercase
+open-door	lowercase
 policy	lowercase
 and	lowercase
 economic	lowercase
@@ -30904,9 +30153,7 @@ from	lowercase
 tightening	lowercase
 controls	lowercase
 on	lowercase
-export	lowercase
--	punctuation
-oriented	lowercase
+export-oriented	lowercase
 southern	lowercase
 china	title case
 .	punctuation
@@ -30937,7 +30184,7 @@ in	lowercase
 guangdong	title case
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 chinese	title case
 leaders	lowercase
@@ -30954,7 +30201,7 @@ the	lowercase
 want	lowercase
 exports	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 mr.	title case
 kwan	title case
@@ -31061,13 +30308,7 @@ was	lowercase
 outlined	lowercase
 in	lowercase
 a	lowercase
-friend	lowercase
--	punctuation
-of	lowercase
--	punctuation
-the	lowercase
--	punctuation
-court	lowercase
+friend-of-the-court	lowercase
 brief	lowercase
 filed	lowercase
 in	lowercase
@@ -31176,9 +30417,9 @@ the	lowercase
 state	lowercase
 has	lowercase
 a	lowercase
-"	punctuation
+``	other
 reasonable	lowercase
-"	punctuation
+''	other
 justification	lowercase
 for	lowercase
 adopting	lowercase
@@ -31212,9 +30453,9 @@ state	lowercase
 to	lowercase
 have	lowercase
 a	lowercase
-"	punctuation
+``	other
 compelling	lowercase
-"	punctuation
+''	other
 reason	lowercase
 for	lowercase
 restricting	lowercase
@@ -31324,8 +30565,7 @@ share	lowercase
 the	uppercase
 nation	lowercase
 's	other
-no	title case
-.	punctuation
+no.	title case
 1	number
 aluminum	lowercase
 maker	lowercase
@@ -31381,18 +30621,16 @@ surprised	lowercase
 at	lowercase
 the	lowercase
 lackluster	lowercase
-third	lowercase
--	punctuation
-quarter	lowercase
+third-quarter	lowercase
 results	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 's	other
 disappointing	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 william	title case
 siedenburg	title case
@@ -31406,7 +30644,8 @@ barney	title case
 harris	title case
 upham	title case
 &	punctuation
-co.	title case
+co	title case
+.	punctuation
 
 much	uppercase
 of	lowercase
@@ -31416,9 +30655,7 @@ decline	lowercase
 was	lowercase
 led	lowercase
 by	lowercase
-currency	lowercase
--	punctuation
-exchange	lowercase
+currency-exchange	lowercase
 rate	lowercase
 adjustments	lowercase
 ,	punctuation
@@ -31482,7 +30719,7 @@ company	lowercase
 said	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 in	title case
 addition	lowercase
 ,	punctuation
@@ -31499,7 +30736,7 @@ for	lowercase
 modernization	lowercase
 work	lowercase
 ,	punctuation
-"	punctuation
+''	other
 the	lowercase
 company	lowercase
 said	lowercase
@@ -31548,7 +30785,8 @@ goldman	title case
 ,	punctuation
 sachs	title case
 &	punctuation
-co.	title case
+co	title case
+.	punctuation
 
 noting	uppercase
 that	lowercase
@@ -31567,7 +30805,7 @@ mr.	title case
 atwell	title case
 added	lowercase
 ,	punctuation
-"	punctuation
+``	other
 the	lowercase
 third	lowercase
 quarter	lowercase
@@ -31581,7 +30819,7 @@ for	lowercase
 them	lowercase
 anyway	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 nevertheless	uppercase
 ,	punctuation
@@ -31670,9 +30908,7 @@ the	lowercase
 most	lowercase
 lucrative	lowercase
 and	lowercase
-fastest	lowercase
--	punctuation
-growing	lowercase
+fastest-growing	lowercase
 parts	lowercase
 of	lowercase
 the	lowercase
@@ -31810,11 +31046,9 @@ ways	lowercase
 to	lowercase
 sidestep	lowercase
 the	lowercase
-"	punctuation
-fin	lowercase
--	punctuation
-syn	lowercase
-"	punctuation
+``	other
+fin-syn	lowercase
+''	other
 provisions	lowercase
 ,	punctuation
 known	lowercase
@@ -31861,9 +31095,7 @@ qintex	title case
 australia	title case
 ltd.	title case
 's	other
-now	lowercase
--	punctuation
-scuttled	lowercase
+now-scuttled	lowercase
 $	punctuation
 1.5	number
 billion	lowercase
@@ -31871,7 +31103,8 @@ bid	lowercase
 for	lowercase
 mgm\/ua	lowercase
 communications	title case
-co.	title case
+co	title case
+.	punctuation
 
 nbc	lowercase
 's	other
@@ -31911,13 +31144,13 @@ find	lowercase
 another	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 our	title case
 doors	lowercase
 are	lowercase
 open	lowercase
 ,	punctuation
-"	punctuation
+''	other
 an	lowercase
 nbc	lowercase
 spokesman	lowercase
@@ -31939,9 +31172,7 @@ minority	lowercase
 interest	lowercase
 in	lowercase
 a	lowercase
-program	lowercase
--	punctuation
-maker	lowercase
+program-maker	lowercase
 without	lowercase
 violating	lowercase
 the	lowercase
@@ -31972,9 +31203,7 @@ ways	lowercase
 of	lowercase
 skirting	lowercase
 the	lowercase
-fin	lowercase
--	punctuation
-syn	lowercase
+fin-syn	lowercase
 regulations	lowercase
 .	punctuation
 
@@ -32016,9 +31245,7 @@ might	lowercase
 agree	lowercase
 on	lowercase
 reducing	lowercase
-fin	lowercase
--	punctuation
-syn	lowercase
+fin-syn	lowercase
 restraints	lowercase
 .	punctuation
 
@@ -32039,12 +31266,12 @@ the	uppercase
 networks	lowercase
 still	lowercase
 are	lowercase
-"	punctuation
+``	other
 uninhibited	lowercase
 in	lowercase
 their	lowercase
 authority	lowercase
-"	punctuation
+''	other
 over	lowercase
 what	lowercase
 shows	lowercase
@@ -32073,16 +31300,14 @@ rules	lowercase
 
 studios	uppercase
 are	lowercase
-"	punctuation
+``	other
 powerless	lowercase
-"	punctuation
+''	other
 to	lowercase
 get	lowercase
 shows	lowercase
 in	lowercase
-prime	lowercase
--	punctuation
-time	lowercase
+prime-time	lowercase
 lineups	lowercase
 and	lowercase
 keep	lowercase
@@ -32145,7 +31370,9 @@ communications	title case
 inc.	title case
 and	lowercase
 mca	lowercase
-inc.--declined	lowercase
+inc.	title case
+--	other
+declined	lowercase
 to	lowercase
 be	lowercase
 interviewed	lowercase
@@ -32162,7 +31389,7 @@ studios	lowercase
 ,	punctuation
 asserts	lowercase
 :	punctuation
-"	punctuation
+``	other
 the	title case
 whole	lowercase
 production	lowercase
@@ -32178,7 +31405,7 @@ the	lowercase
 side	lowercase
 of	lowercase
 preserving	lowercase
-"	punctuation
+''	other
 the	lowercase
 rules	lowercase
 .	punctuation
@@ -32199,7 +31426,7 @@ will	lowercase
 bend	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 they	title case
 do	lowercase
 n't	lowercase
@@ -32211,14 +31438,14 @@ incentive	lowercase
 to	lowercase
 negotiate	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 one	lowercase
 network	lowercase
 executive	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 and	title case
 there	lowercase
 's	other
@@ -32243,7 +31470,7 @@ is	lowercase
 n't	lowercase
 it	lowercase
 ?	punctuation
-"	punctuation
+''	other
 
 indeed	uppercase
 it	lowercase
@@ -32352,7 +31579,7 @@ $	punctuation
 million	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 wonder	lowercase
 what	lowercase
@@ -32376,7 +31603,7 @@ exclusively	lowercase
 from	lowercase
 tokyo	title case
 ,	punctuation
-"	punctuation
+''	other
 wrote	lowercase
 j.b.	title case
 holston	title case
@@ -32418,17 +31645,15 @@ unavailable	lowercase
 complained	lowercase
 that	lowercase
 the	lowercase
-"	punctuation
+``	other
 archaic	lowercase
 restraints	lowercase
-"	punctuation
+''	other
 in	lowercase
-fin	lowercase
--	punctuation
-syn	lowercase
+fin-syn	lowercase
 rules	lowercase
 have	lowercase
-"	punctuation
+``	other
 contributed	lowercase
 directly	lowercase
 to	lowercase
@@ -32438,13 +31663,11 @@ of	lowercase
 the	lowercase
 studios	lowercase
 by	lowercase
-non	lowercase
--	punctuation
-u.s.	title case
+non-u.s.	lowercase
 enterprises	lowercase
 .	punctuation
 
-"	punctuation
+''	other
 (	punctuation
 he	title case
 did	lowercase
@@ -32477,10 +31700,10 @@ holston	title case
 's	other
 lament	lowercase
 was	lowercase
-"	punctuation
+``	other
 entirely	lowercase
 consistent	lowercase
-"	punctuation
+''	other
 with	lowercase
 nbc	lowercase
 plans	lowercase
@@ -32502,7 +31725,7 @@ severely	lowercase
 as	lowercase
 to	lowercase
 be	lowercase
-"	punctuation
+``	other
 light	lowercase
 years	lowercase
 away	lowercase
@@ -32524,7 +31747,7 @@ the	lowercase
 three	lowercase
 networks	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 the	uppercase
 big	title case
@@ -32557,9 +31780,7 @@ time	title case
 already	lowercase
 had	lowercase
 a	lowercase
-long	lowercase
--	punctuation
-term	lowercase
+long-term	lowercase
 contract	lowercase
 to	lowercase
 buy	lowercase
@@ -32575,9 +31796,7 @@ time	title case
 's	other
 largely	lowercase
 unregulated	lowercase
-pay	lowercase
--	punctuation
-cable	lowercase
+pay-cable	lowercase
 channel	lowercase
 ,	punctuation
 home	title case
@@ -32600,9 +31819,7 @@ is	lowercase
 effectively	lowercase
 blocked	lowercase
 by	lowercase
-fin	lowercase
--	punctuation
-syn	lowercase
+fin-syn	lowercase
 regulations	lowercase
 .	punctuation
 
@@ -32622,9 +31839,7 @@ inability	lowercase
 to	lowercase
 match	lowercase
 a	lowercase
-time	title case
--	punctuation
-warner	title case
+time-warner	title case
 combination	lowercase
 .	punctuation
 
@@ -32688,7 +31903,7 @@ in	lowercase
 washington	title case
 .	punctuation
 
-"	punctuation
+``	other
 it	title case
 's	other
 never	lowercase
@@ -32696,7 +31911,7 @@ really	lowercase
 been	lowercase
 tested	lowercase
 ,	punctuation
-"	punctuation
+''	other
 says	lowercase
 william	title case
 lilley	title case
@@ -32732,9 +31947,7 @@ media	lowercase
 companies	lowercase
 .	punctuation
 
-fin	uppercase
--	punctuation
-syn	lowercase
+fin-syn	lowercase
 rules	lowercase
 do	lowercase
 n't	lowercase
@@ -32866,8 +32079,11 @@ broadcasting	lowercase
 its	lowercase
 popular	lowercase
 crime\/comedy	lowercase
-"	punctuation
-moonlighting"--it	lowercase
+``	other
+moonlighting	title case
+''	other
+--	other
+it	lowercase
 is	lowercase
 n't	lowercase
 allowed	lowercase
@@ -32899,9 +32115,7 @@ the	lowercase
 rights	lowercase
 for	lowercase
 a	lowercase
-one	lowercase
--	punctuation
-time	lowercase
+one-time	lowercase
 fee	lowercase
 .	punctuation
 
@@ -32938,9 +32152,7 @@ close	lowercase
 .	punctuation
 
 the	uppercase
-reagan	title case
--	punctuation
-era	lowercase
+reagan-era	lowercase
 federal	title case
 communications	title case
 commission	title case
@@ -33015,9 +32227,7 @@ ronald	title case
 reagan	title case
 ,	punctuation
 a	lowercase
-one	lowercase
--	punctuation
-time	lowercase
+one-time	lowercase
 actor	lowercase
 ,	punctuation
 intervened	lowercase
@@ -33110,9 +32320,7 @@ edward	title case
 j.	title case
 markey	title case
 (	punctuation
-d	title case
--	punctuation
-mass.	title case
+d-mass.	title case
 )	punctuation
 ,	punctuation
 who	lowercase
@@ -33128,7 +32336,7 @@ says	lowercase
 mr.	title case
 markey	title case
 feels	lowercase
-"	punctuation
+``	other
 the	lowercase
 world	lowercase
 has	lowercase
@@ -33137,12 +32345,10 @@ forever	lowercase
 changed	lowercase
 by	lowercase
 the	lowercase
-sony	title case
--	punctuation
-columbia	title case
+sony-columbia	title case
 deal	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 but	uppercase
 he	lowercase
@@ -33236,9 +32442,7 @@ related	lowercase
 to	lowercase
 an	lowercase
 alleged	lowercase
-contract	lowercase
--	punctuation
-steering	lowercase
+contract-steering	lowercase
 scheme	lowercase
 .	punctuation
 
@@ -33287,9 +32491,7 @@ e.	title case
 voss	title case
 ,	punctuation
 an	lowercase
-ex	lowercase
--	punctuation
-member	lowercase
+ex-member	lowercase
 of	lowercase
 the	lowercase
 postal	title case
@@ -33520,9 +32722,7 @@ a	lowercase
 %	punctuation
 drop	lowercase
 in	lowercase
-third	lowercase
--	punctuation
-quarter	lowercase
+third-quarter	lowercase
 net	lowercase
 income	lowercase
 ,	punctuation
@@ -33530,9 +32730,7 @@ partly	lowercase
 because	lowercase
 of	lowercase
 a	lowercase
-one	lowercase
--	punctuation
-time	lowercase
+one-time	lowercase
 charge	lowercase
 for	lowercase
 discontinued	lowercase
@@ -33593,9 +32791,7 @@ a	lowercase
 share	lowercase
 on	lowercase
 an	lowercase
-after	lowercase
--	punctuation
-tax	lowercase
+after-tax	lowercase
 basis	lowercase
 ,	punctuation
 for	lowercase
@@ -33604,9 +32800,7 @@ cost	lowercase
 of	lowercase
 abandoning	lowercase
 a	lowercase
-computer	lowercase
--	punctuation
-systems	lowercase
+computer-systems	lowercase
 joint	lowercase
 venture	lowercase
 with	lowercase
@@ -33622,9 +32816,7 @@ also	lowercase
 fell	lowercase
 from	lowercase
 the	lowercase
-year	lowercase
--	punctuation
-ago	lowercase
+year-ago	lowercase
 period	lowercase
 because	lowercase
 of	lowercase
@@ -33655,11 +32847,7 @@ stock	lowercase
 rose	lowercase
 in	lowercase
 early	lowercase
-over	lowercase
--	punctuation
-the	lowercase
--	punctuation
-counter	lowercase
+over-the-counter	lowercase
 trading	lowercase
 friday	title case
 ,	punctuation
@@ -33737,17 +32925,15 @@ august	title case
 intel	title case
 warned	lowercase
 that	lowercase
-third	lowercase
--	punctuation
-quarter	lowercase
+third-quarter	lowercase
 earnings	lowercase
 might	lowercase
 be	lowercase
-"	punctuation
+``	other
 flat	lowercase
 to	lowercase
 down	lowercase
-"	punctuation
+''	other
 from	lowercase
 the	lowercase
 previous	lowercase
@@ -33763,9 +32949,7 @@ its	lowercase
 80386	number
 microprocessor	lowercase
 ,	punctuation
-start	lowercase
--	punctuation
-up	lowercase
+start-up	lowercase
 costs	lowercase
 associated	lowercase
 with	lowercase
@@ -33807,7 +32991,7 @@ executive	lowercase
 officer	lowercase
 ,	punctuation
 said	lowercase
-"	punctuation
+``	other
 intel	title case
 's	other
 business	lowercase
@@ -33845,22 +33029,16 @@ quarter	lowercase
 ,	punctuation
 and	lowercase
 our	lowercase
-book	lowercase
--	punctuation
-to	lowercase
--	punctuation
-bill	lowercase
+book-to-bill	lowercase
 ratio	lowercase
 exceeded	lowercase
 1.0	number
 .	punctuation
-"	punctuation
+''	other
 
 for	uppercase
 the	lowercase
-nine	lowercase
--	punctuation
-month	lowercase
+nine-month	lowercase
 period	lowercase
 ,	punctuation
 intel	title case
@@ -33929,15 +33107,9 @@ mr.	title case
 sisulu	title case
 ,	punctuation
 the	lowercase
-77	number
--	punctuation
-year	lowercase
--	punctuation
-old	lowercase
+77-year-old	number
 former	lowercase
-secretary	lowercase
--	punctuation
-general	lowercase
+secretary-general	lowercase
 of	lowercase
 the	lowercase
 liberation	lowercase
@@ -34097,9 +33269,7 @@ scarves	lowercase
 at	uppercase
 the	lowercase
 small	lowercase
-four	lowercase
--	punctuation
-room	lowercase
+four-room	lowercase
 home	lowercase
 of	lowercase
 elias	title case
@@ -34124,9 +33294,7 @@ umkhonto	title case
 we	lowercase
 sizwe	title case
 ,	punctuation
-well	lowercase
--	punctuation
-wishers	lowercase
+well-wishers	lowercase
 stuck	lowercase
 little	lowercase
 anc	lowercase
@@ -34148,7 +33316,7 @@ anc	lowercase
 ribbons	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 am	lowercase
 happy	lowercase
@@ -34160,7 +33328,7 @@ of	lowercase
 the	lowercase
 people	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 mr.	title case
 sisulu	title case
@@ -34181,12 +33349,12 @@ outside	lowercase
 his	lowercase
 home	lowercase
 shouted	lowercase
-"	punctuation
+``	other
 anc	lowercase
 ,	punctuation
 anc	lowercase
 ,	punctuation
-"	punctuation
+''	other
 the	lowercase
 old	lowercase
 man	lowercase
@@ -34198,7 +33366,7 @@ the	lowercase
 air	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 i	title case
 'm	other
 inspired	lowercase
@@ -34209,7 +33377,7 @@ of	lowercase
 the	lowercase
 people	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 under	uppercase
 the	lowercase
@@ -34274,7 +33442,7 @@ internal	lowercase
 wing	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 the	title case
 government	lowercase
 can	lowercase
@@ -34288,16 +33456,14 @@ the	lowercase
 bottle	lowercase
 again	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 cassim	title case
 saloojee	title case
 ,	punctuation
 a	lowercase
 veteran	lowercase
-anti	lowercase
--	punctuation
-apartheid	lowercase
+anti-apartheid	lowercase
 activist	lowercase
 on	lowercase
 hand	lowercase
@@ -34307,7 +33473,7 @@ mr.	title case
 sisulu	title case
 .	punctuation
 
-"	punctuation
+``	other
 things	title case
 have	lowercase
 gone	lowercase
@@ -34328,7 +33494,7 @@ no	lowercase
 turning	lowercase
 back	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 there	uppercase
 was	lowercase
@@ -34374,15 +33540,15 @@ years	lowercase
 deafening	uppercase
 chants	lowercase
 of	lowercase
-"	punctuation
+``	other
 anc	lowercase
-"	punctuation
+''	other
 and	lowercase
-"	punctuation
+``	other
 umkhonto	title case
 we	lowercase
 sizwe	title case
-"	punctuation
+''	other
 shook	lowercase
 the	lowercase
 church	lowercase
@@ -34458,15 +33624,13 @@ freeing	lowercase
 of	lowercase
 the	lowercase
 others	lowercase
-"	punctuation
+``	other
 is	lowercase
 only	lowercase
 a	lowercase
-half	lowercase
--	punctuation
-measure	lowercase
+half-measure	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 president	uppercase
 f.w.	title case
@@ -34679,9 +33843,7 @@ the	lowercase
 large	lowercase
 number	lowercase
 of	lowercase
-right	lowercase
--	punctuation
-wing	lowercase
+right-wing	lowercase
 whites	lowercase
 ,	punctuation
 who	lowercase
@@ -34738,9 +33900,7 @@ townships	lowercase
 leads	lowercase
 to	lowercase
 increased	lowercase
-anti	lowercase
--	punctuation
-government	lowercase
+anti-government	lowercase
 protests	lowercase
 and	lowercase
 violence	lowercase
@@ -34897,9 +34057,7 @@ black	lowercase
 youths	lowercase
 ,	punctuation
 the	lowercase
-so	lowercase
--	punctuation
-called	lowercase
+so-called	lowercase
 young	lowercase
 lions	lowercase
 who	lowercase
@@ -34926,7 +34084,7 @@ african	title case
 youth	title case
 congress	title case
 :	punctuation
-"	punctuation
+``	other
 we	title case
 will	lowercase
 be	lowercase
@@ -34940,7 +34098,7 @@ of	lowercase
 the	lowercase
 anc	lowercase
 .	punctuation
-"	punctuation
+''	other
 
 they	uppercase
 never	lowercase
@@ -34977,7 +34135,7 @@ to	lowercase
 apartheid	lowercase
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 emphasize	lowercase
 discipline	lowercase
@@ -34993,7 +34151,7 @@ very	lowercase
 very	lowercase
 sensitive	lowercase
 ,	punctuation
-"	punctuation
+''	other
 said	lowercase
 andrew	title case
 mlangeni	title case
@@ -35008,7 +34166,7 @@ now	lowercase
 63	number
 .	punctuation
 
-"	punctuation
+``	other
 we	title case
 want	lowercase
 to	lowercase
