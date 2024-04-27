@@ -3,6 +3,10 @@ import numpy as np
 import string
 import math
 import re
+import spacy
+from scipy.spatial.distance import cosine
+
+nlp = spacy.load('en_core_web_sm')
 
 # TODOS
 # recognize if all word in sentence are capitalized (training, ex for titles)
@@ -36,6 +40,8 @@ def hmm(training_files, test_file, result_file):
     transition_probabilities = defaultdict(lambda: defaultdict(float))
     words = set()
     wordCounts = defaultdict(lambda:0)
+    lowercase_vector = np.full(96,0.0001)
+    title_vector = np.full(96,0.0001)
     prev = ('Begin_Sent','Begin_Sent')
 
     with open('truecaser/word_lists/lower.words', 'r') as lower_file:
@@ -86,8 +92,10 @@ def hmm(training_files, test_file, result_file):
                     pos = 'uppercase'
                 else:
                     pos = 'title case'
+                    title_vector = (title_vector+nlp(word)[0].vector)/2
             else:
                 pos = 'lowercase'
+                lowercase_vector = (lowercase_vector+nlp(word)[0].vector)/2
             
             #normalize all words to lowercase before adding to words, update dictionaries accordingly
             word = word.lower()
@@ -263,6 +271,9 @@ def hmm(training_files, test_file, result_file):
                     elif (word not in lower_list):
                         if (tag != "uppercase"):
                             tag = "title case"
+                    else:
+                        if (tag != "uppercase"):
+                            tag = "lowercase" if 1-cosine(lowercase_vector,nlp(word)[0].vector)>1-cosine(title_vector,nlp(word.capitalize())[0].vector) else "title case"
                 #write out the word and the tag
                 res.write(sentence[i] + "\t" + tag + "\n")
             res.write("\n")
