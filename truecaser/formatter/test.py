@@ -1,7 +1,7 @@
 import string
 
-file = open('truecaser/testing/original.words', 'r')
-output = open('truecaser/testing/answers.words', 'w')
+file = open('truecaser/development/original.words', 'r')
+output = open('truecaser/development/answers.words', 'w')
 
 tags = ['Begin_Sent', 'title case', 'uppercase', 'lowercase', 'End_Sent', 'punctuation']
 
