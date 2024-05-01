@@ -16,8 +16,6 @@ nlp = spacy.load('en_core_web_sm')
 # update code to produce properly capitalized sentences rather than the tags
 # maybe remove uppercase (try to tag those properly instead)
 
-#curr accuracy: 96.058199
-
 """
 likelihood - dictionary that stores likelihood of word being tagged pos (likelihood[pos][word]), trained on training data
 
@@ -40,9 +38,11 @@ def hmm(training_files, test_file, result_file):
     transition_probabilities = defaultdict(lambda: defaultdict(float))
     words = set()
     wordCounts = defaultdict(lambda:0)
-    lowercase_vector = np.full(96,0.0001)
-    title_vector = np.full(96,0.0001)
     prev = ('Begin_Sent','Begin_Sent')
+    num_lowercase = 0
+    num_titlecase = 0
+    lowercase_vector = np.zeros(96)
+    title_vector = np.zeros(96)
 
     with open('truecaser/word_lists/lower.words', 'r') as lower_file:
         lower = lower_file.read()
@@ -70,41 +70,49 @@ def hmm(training_files, test_file, result_file):
     prev_list = prev.split("\n")
 
     #training stage
-    for training in training_files:
-        file = open('truecaser/training/'+training, 'r')
-        for line in file:
-            #check if we have reached the end of the sentence
-            if line=='\n':
-                #update transitions to the end of sentence
-                transition[prev]['End_Sent'] += 1
-                transition[prev[1]]['End_Sent']+=1
-                prev = ('Begin_Sent','Begin_Sent')
-                continue
-            word = line.strip()
-            #pretag certain words: punctuations and numbers
-            if word in string.punctuation:
-                pos = 'punctuation'
-            elif word[0].isnumeric():
-                pos = 'number'
-            #for other words: uppercase tag = words at start of sentence, title case = named entities, lowercase = everything else
-            elif word.istitle():
-                if prev[1]=='Begin_Sent':
-                    pos = 'uppercase'
-                else:
-                    pos = 'title case'
-                    title_vector = (title_vector+nlp(word)[0].vector)/2
+    file = open('truecaser/training/'+training_files[5], 'r')
+    first_word = True
+    for line in file:
+        if line == '\n':
+            first_word = True
+        else:
+            if line.istitle() and not first_word: num_titlecase = num_titlecase+1
+            first_word = False
+            if line.islower(): num_lowercase = num_lowercase+1
+    file.seek(0)
+    for line in file:
+        #check if we have reached the end of the sentence
+        if line=='\n':
+            #update transitions to the end of sentence
+            transition[prev]['End_Sent'] += 1
+            transition[prev[1]]['End_Sent']+=1
+            prev = ('Begin_Sent','Begin_Sent')
+            continue
+        word = line.strip()
+        #pretag certain words: punctuations and numbers
+        if word in string.punctuation:
+            pos = 'punctuation'
+        elif word[0].isnumeric():
+            pos = 'number'
+        #for other words: uppercase tag = words at start of sentence, title case = named entities, lowercase = everything else
+        elif word.istitle():
+            if prev[1]=='Begin_Sent':
+                pos = 'uppercase'
             else:
-                pos = 'lowercase'
-                lowercase_vector = (lowercase_vector+nlp(word)[0].vector)/2
-            
-            #normalize all words to lowercase before adding to words, update dictionaries accordingly
-            word = word.lower()
-            words.add(word)
-            wordCounts[word] += 1
-            likelihood[pos][word] += 1
-            transition[prev][pos] += 1
-            transition[prev[1]][pos]+=1
-            prev = (prev[1],pos)
+                pos = 'title case'
+                title_vector = (title_vector+nlp(word)[0].vector)/num_titlecase
+        else:
+            pos = 'lowercase'
+            lowercase_vector = (lowercase_vector+nlp(word)[0].vector)/num_lowercase
+
+        #normalize all words to lowercase before adding to words, update dictionaries accordingly
+        word = word.lower()
+        words.add(word)
+        wordCounts[word] += 1
+        likelihood[pos][word] += 1
+        transition[prev][pos] += 1
+        transition[prev[1]][pos]+=1
+        prev = (prev[1],pos)
 
     file.close()
 
