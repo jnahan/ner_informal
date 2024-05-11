@@ -1,4 +1,3 @@
-(S
 (PERSON July/NNP)
 (ORGANIZATION Mms/NNP)
 (GPE Mcgraw/NNP)
@@ -36,7 +35,6 @@
 (PERSON Monthly/JJ)
 (GPE Columbia/NNP)
 (GPE Japanese/JJ)
-(/(
 (GPE Japanese/JJ)
 (PERSON Shane/NNP Longman/NNP)
 (GPE American/NNP)
@@ -55,7 +53,6 @@
 (GPE Dieppe/NNP)
 (GPE Thames/NNP)
 (PERSON Shane/NNP Longman/NNP)
-(/(
 (GPE British/JJ)
 (GPE London/NNP)
 (ORGANIZATION Yank/NNP)
@@ -73,7 +70,6 @@
 (PERSON William/NNP Armstrong/NNP)
 (PERSON Max/NNP)
 (PERSON Douglas/NNP Hodge/NNP)
-(/(
 (PERSON James/NNP Farentino/NNP)
 (PERSON Rolf/NNP Saxon/NNP)
 (PERSON Tommy/NNP Noonan/NNP)
@@ -130,7 +126,6 @@
 (PERSON James/NNP)
 (GPE British/JJ)
 (PERSON Hoylake/NNP)
-(/(
 (PERSON Axa/NNP)
 (PERSON B.a.t/NNP)
 (PERSON Axa/NNP)
@@ -223,7 +218,6 @@
 (PERSON Geza/NNP Szocs/NNP)
 (GPE Europe/NNP)
 (GPE Budapest/NNP)
-(/(
 (GPE Hungarian/JJ)
 (GPE Europe/NNP)
 (GPE Europe/NNP)
@@ -250,20 +244,15 @@
 (FACILITY Pentagon/NNP)
 (PERSON Edward/NNP Kennedy/NNP)
 (ORGANIZATION Committee/NNP)
-(/(
 (ORGANIZATION Dlc/NNP)
 (PERSON Sam/NNP Nunn/NNP)
-(/(
 (PERSON Chris/NNP Dodd/NNP)
-(/(
 (GPE Kennedy/NNP)
-(/(
 (GPE Vista/NNP)
 (PERSON Foster/NNP)
 (ORGANIZATION Congress/NNP)
 (ORGANIZATION Gallup/NNP Poll/NNP)
 (GPE American/NNP)
-(/(
 (ORGANIZATION National/NNP)
 (ORGANIZATION Labor/NNP)
 (PERSON Will/NNP National/NNP)
@@ -299,18 +288,14 @@
 (PERSON Canada/NNP Savings/NNP)
 (ORGANIZATION Canada/NNP Savings/NNPS)
 (GPE Canadian/JJ)
-(/(
 (GPE Canadian/JJ)
 (ORGANIZATION Canada/NNP Savings/NNPS)
 (GPE Washington/NNP)
 (ORGANIZATION Congress/NNP)
 (PERSON Sam/NNP Nunn/NNP)
-(/(
 (GPE Ga/NNP)
 (PERSON Dave/NNP Mccurdy/NNP)
-(/(
 (PERSON Edward/NNP Kennedy/NNP)
-(/(
 (GPE Mass/NNP)
 (PERSON Nunn/NNP)
 (GPE Mccurdy/NNP)
@@ -320,7 +305,6 @@
 (ORGANIZATION Senate/NNP Labor/NNP Committee/NNP)
 (ORGANIZATION Senate/NNP)
 (PERSON Bush/NNP)
-(/(
 (ORGANIZATION Devotees/NNP)
 (ORGANIZATION Part/NNP)
 (GPE Middle/NNP)
@@ -328,7 +312,6 @@
 (ORGANIZATION National/NNP)
 (ORGANIZATION Nunn/NNP)
 (PERSON Mccurdy/NNP)
-(/(
 (GPE U.s./NNP)
 (PERSON Full/NNP)
 (ORGANIZATION Stanford/NNP)
@@ -336,11 +319,9 @@
 (PERSON Non/NNP)
 (PERSON Kids/NNP)
 (ORGANIZATION Underclass/NNP)
-(/(
 (PERSON Mr./NNP Szanton/NNP)
 (GPE Washington/NNP)
 (ORGANIZATION National/NNP)
-(/(
 (ORGANIZATION Lexington/NNP)
 (PERSON Alan/NNP Greenspan/NNP)
 (GPE U.s./NNP)
@@ -450,10 +431,6 @@
 (ORGANIZATION Aubrey/NNP)
 (PERSON Lanston/NNP)
 (ORGANIZATION Treasury/NNP)
-(/(
-(/(
-(/(
-(/(
 (PERSON Eli/NNP Lilly/NNP)
 (PERSON James/NNP A/NNP)
 (PERSON White/NNP)
@@ -519,7 +496,6 @@
 (ORGANIZATION Commission/NNP)
 (ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP)
 (ORGANIZATION Dow/NNP)
-(/(
 (GPE Djia/NNP)
 (GPE Nyse/NNP)
 (ORGANIZATION Dow/NNP)
@@ -527,11 +503,7 @@
 (PERSON Djia/NNP)
 (GPE Mmi/NNP)
 (PERSON Brady/NNP)
-(/(
-(/(
 (GPE Cftc/NNP)
-(/(
-(/(
 (GPE Soviet/JJ)
 (GPE American/JJ)
 (PERSON Nikolai/NNP I./NNP Lutsenko/NNP)
@@ -559,7 +531,6 @@
 (ORGANIZATION Parliament/NNP)
 (GPE Japanese/JJ)
 (PERSON Tsuruo/NNP Yamaguchi/NNP)
-(/(
 (GPE Spain/NNP)
 (GPE Argentina/NNP)
 (GPE Thailand/NNP)
@@ -576,14 +547,10 @@
 (PERSON Labor/NNP)
 (GPE British/JJ)
 (PERSON Labor/NNP)
-(/(
-(/(
 (GPE Britain/NNP)
-(/(
 (GPE China/NNP)
 (PERSON Bureau/NNP)
 (GPE Yuan/NNP)
-(/(
 (GPE Russian/JJ)
 (GPE Moscow/NNP)
 (FACILITY Kremlin/NNP)
@@ -610,9 +577,7 @@
 (GPE Manhattan/NNP)
 (PERSON Leonard/NNP Kaye/NNP)
 (PERSON Justin/NNP)
-(/(
 (GPE Sony/NNP)
-(/(
 (PERSON Justin/NNP)
 (GPE Japan/NNP)
 (GPE U.s./NNP)
@@ -625,7 +590,6 @@
 (PERSON Lewis/NNP H./NNP Eslinger/NNP)
 (PERSON Sony/NNP)
 (PERSON Rubik/NNP)
-(/(
 (PERSON Sony/NNP)
 (PERSON Mr./NNP Eslinger/NNP)
 (PERSON Mr./NNP Kaye/NNP)
@@ -648,14 +612,12 @@
 (PERSON Justin/NNP)
 (PERSON Mr./NNP Kaye/NNP)
 (PERSON Sony/NNP)
-(/(
 (PERSON Sony/NNP)
 (PERSON Sony/NNP)
 (PERSON Mr./NNP Kaye/NNP)
 (PERSON Sony/NNP)
 (PERSON Sony/NNP)
 (PERSON Justin/NNP)
-(/(
 (PERSON Charles/NNP E./NNP Baxley/NNP)
 (PERSON Justin/NNP)
 (PERSON Justin/NNP)
@@ -668,7 +630,6 @@
 (GPE U.s./NNP)
 (ORGANIZATION Justice/NNP Department/NNP)
 (PERSON Justin/NNP)
-(/(
 (PERSON Mr./NNP Eslinger/NNP)
 (ORGANIZATION Sony/NNP)
 (PERSON Mr./NNP Baxley/NNP)
@@ -679,7 +640,6 @@
 (GPE American/JJ)
 (PERSON Sony/NNP)
 (PERSON Sony/NNP)
-(/(
 (ORGANIZATION Justin/NNP)
 (PERSON Sony/NNP)
 (PERSON Sony/NNP)
@@ -712,8 +672,6 @@
 (LOCATION West/NNP Germany/NNP)
 (PERSON Dresdner/NNP)
 (PERSON Bip/NNP)
-(/(
-(/(
 (ORGANIZATION Societe/NNP)
 (PERSON Societe/NNP)
 (ORGANIZATION Belgique/NNP)
@@ -906,7 +864,6 @@
 (GPE U.s./NNP)
 (ORGANIZATION Dow/NNP Jones/NNP)
 (ORGANIZATION Senate/NNP Democrats/NNPS)
-(/(
 (ORGANIZATION Congress/NNP)
 (ORGANIZATION Senate/NNP)
 (GPE Smokescreens/NNP)
@@ -956,7 +913,6 @@
 (GPE Greece/NNP)
 (ORGANIZATION Communist/JJ)
 (ORGANIZATION Hellenic/NNP)
-(/(
 (PERSON Mr./NNP Papandreou/NNP)
 (ORGANIZATION Mop/NNP)
 (PERSON Mr./NNP Papandreou/NNP)
@@ -989,7 +945,6 @@
 (GPE France/NNP)
 (PERSON Marcel/NNP Dassault/NNP)
 (PERSON Dassault/NNP)
-(/(
 (GPE Greek/JJ)
 (PERSON Mr./NNP Mitsotakis/NNP)
 (ORGANIZATION Communist/JJ)
@@ -1182,7 +1137,6 @@
 (GPE Japan/NNP)
 (GPE Siemens/NNP)
 (GPE West/NNP Germany/NNP)
-(/(
 (PERSON Siemens/NNP)
 (PERSON Matsushita/NNP)
 (ORGANIZATION Components/NNP Co./NNP)
@@ -1213,7 +1167,6 @@
 (GPE U.s./NNP)
 (PERSON Avions/NNS Marcel/NNP Dassault/NNP)
 (PERSON Breguet/NNP Aviation/NNP)
-(/(
 (GPE French/JJ)
 (ORGANIZATION Billings/NNS)
 (PERSON Dassault/NNP)
@@ -1274,7 +1227,6 @@
 (GPE Canadian/JJ)
 (GPE Mexico/NNP)
 (GPE Canadian/JJ)
-(/(
 (PERSON Don/NNP Bowder/NNP)
 (GPE Canadian/JJ)
 (ORGANIZATION Bank/NNP)
@@ -1385,14 +1337,12 @@
 (PERSON Denver/NNP)
 (PERSON Houston/NNP)
 (PERSON Denver/NNP)
-(/(
 (PERSON Denver/NNP)
 (PERSON Denver/NNP)
 (PERSON Houston/NNP)
 (PERSON Denver/NNP)
 (GPE Washington/NNP)
 (GPE Los/NNP Angeles/NNP)
-(/(
 (PERSON Mr./NNP Leinberger/NNP)
 (GPE Beverly/NNP Hills/NNP)
 (GPE Calif./NNP)
@@ -1504,7 +1454,6 @@
 (PERSON Henry/NNP Hu/NNP)
 (ORGANIZATION Consolidated/NNP)
 (GPE Hong/NNP Kong/NNP)
-(/(
 (GPE China/NNP)
 (PERSON Edmund/NNP)
 (PERSON Enterprises/NNP Ltd./NNP)
@@ -1608,7 +1557,6 @@
 (PERSON Archaic/NNP)
 (ORGANIZATION Syn/NN)
 (GPE U.s./NN)
-(/(
 (GPE Australia/NNP)
 (PERSON Mr./NNP Holston/NNP)
 (GPE U.s./NNP)
@@ -1645,7 +1593,6 @@
 (PERSON Hollywood/NNP)
 (PERSON Lots/NNP)
 (PERSON Edward/NNP J./NNP Markey/NNP)
-(/(
 (ORGANIZATION D/NNP)
 (GPE Mass/NNP)
 (ORGANIZATION Fcc/NNP)

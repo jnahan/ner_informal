@@ -1,8 +1,0 @@
-- train on more data sets
-    - brown, gutenberg, reuters
-    - https://www.nltk.org/book/ch02.html
-- run nltk ner on three sets:
-    - one -> original
-    - two -> lowercase
-    - three -> lowercase w/ truecasing
-- compare recall for the three sets
