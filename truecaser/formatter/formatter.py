@@ -1,39 +1,49 @@
 #script to format word tag pairs
+from nltk.tokenize.treebank import TreebankWordDetokenizer
 
-def formatter(newline):
-    next_tag = ""
+#for tagged words
+def formatter(newline, unformatted_file):
+    sentences = []
+    sent = []
 
-    file = open("truecaser/result.words", 'r')
-    res = open("truecaser/formatted.words", 'w')
-    lines = file.readlines()
-    for i in range(len(lines)):
-        line = lines[i]
+    file = open(unformatted_file, 'r')
+    res = open("ner/testing/formatted.truecased.words", 'w')
+    for line in file:
         if (line == "\n"):
-            res.write("\n\n")
+            if (len(sent) > 0):
+                sentences.append(sent)
+                res.write(TreebankWordDetokenizer().detokenize(sent))
+                res.write("\n")
+            sent = []
             continue
         line = line.strip()
         word, tag = line.split('\t')
-
-        if i < len(lines) - 1:
-            next_line = lines[i+1].strip()
-            if next_line:  # Check if the line is not empty
-                next_word, next_tag = next_line.split('\t')
-            else:
-                next_tag = ""
-        if (tag == "uppercase" or tag == "titlecase"):
-            res.write(word.capitalize())
+        if (tag == "uppercase" or tag == "title case"):
+            sent.append(word.capitalize())
         elif (tag == "lowercase"):
-            res.write(word.lower())
+            sent.append(word.lower())
         else:
-            res.write(word)
-        if (newline):
-            res.write("\n")
-        else:
-            if (next_tag == "punctuation" or next_tag == "other"):
-                continue
-            res.write(" ")
-
+            sent.append(word)
     file.close()
     res.close()
 
-formatter(False)
+formatter(False, "truecaser/development/result.words")
+
+def new_line_remover():
+    sentences = []
+    sent = []
+    
+    #change these
+    file = open("truecaser/development/original.words", 'r')
+    res = open("ner/testing/formatted.original.words", 'w')
+    for line in file:
+        if (line == "\n"):
+            if (len(sent) > 0):
+                sentences.append(sent)
+                res.write(TreebankWordDetokenizer().detokenize(sent))
+                res.write("\n")
+            sent = []
+        line = line.strip()
+        sent.append(line)
+
+new_line_remover()

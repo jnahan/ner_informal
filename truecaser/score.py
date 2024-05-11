@@ -88,7 +88,7 @@ def score (keyFileName, responseFileName):
 				elif responsePos == "title case":
 					correct_upper_incorrect_title = correct_upper_incorrect_title+1
 
-			incorrect_list = open("truecaser/testing/incorrect.pos", 'a')
+			incorrect_list = open("truecaser/development/incorrect.words", 'a')
 			incorrect_list.write('line ' + str(i) + '\n')
 			incorrect_list.write('answer: ' + keyToken.strip() + '  ' + keyPos.strip() + '\n')
 			incorrect_list.write('response: ' + responseToken.strip() + '  ' + responsePos.strip() + '\n\n')

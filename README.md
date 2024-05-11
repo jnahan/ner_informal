@@ -1,3 +1,13 @@
+# presentation notes (what others did)
+- problem, solution
+- talk about the data
+    - lets also add brown corpus
+    - talk about why we choosed it
+- methods
+- process
+    - data pre processing
+- conclusion -> include things like performance, cost, improvements, results, comparison
+
 # truecaser
 
 ### resources

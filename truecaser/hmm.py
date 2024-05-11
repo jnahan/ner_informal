@@ -3,10 +3,10 @@ import numpy as np
 import string
 import math
 import re
-import spacy
-from scipy.spatial.distance import cosine
+# import spacy
+# from scipy.spatial.distance import cosine
 
-nlp = spacy.load('en_core_web_sm')
+# nlp = spacy.load('en_core_web_sm')
 
 # TODOS
 # recognize if all word in sentence are capitalized (training, ex for titles)
@@ -41,8 +41,8 @@ def hmm(training_files, test_file, result_file):
     prev = ('Begin_Sent','Begin_Sent')
     num_lowercase = 0
     num_titlecase = 0
-    lowercase_vector = np.zeros(96)
-    title_vector = np.zeros(96)
+    # lowercase_vector = np.zeros(96)
+    # title_vector = np.zeros(96)
 
     with open('truecaser/word_lists/lower.words', 'r') as lower_file:
         lower = lower_file.read()
@@ -70,51 +70,52 @@ def hmm(training_files, test_file, result_file):
     prev_list = prev.split("\n")
 
     #training stage
-    file = open('truecaser/training/'+training_files[5], 'r')
-    first_word = True
-    for line in file:
-        if line == '\n':
-            first_word = True
-        else:
-            if line.istitle() and not first_word: num_titlecase = num_titlecase+1
-            first_word = False
-            if line.islower(): num_lowercase = num_lowercase+1
-    file.seek(0)
-    for line in file:
-        #check if we have reached the end of the sentence
-        if line=='\n':
-            #update transitions to the end of sentence
-            transition[prev]['End_Sent'] += 1
-            transition[prev[1]]['End_Sent']+=1
-            prev = ('Begin_Sent','Begin_Sent')
-            continue
-        word = line.strip()
-        #pretag certain words: punctuations and numbers
-        if word in string.punctuation:
-            pos = 'punctuation'
-        elif word[0].isnumeric():
-            pos = 'number'
-        #for other words: uppercase tag = words at start of sentence, title case = named entities, lowercase = everything else
-        elif word.istitle():
-            if prev[1]=='Begin_Sent':
-                pos = 'uppercase'
+    for training_file in training_files:
+        file = open('truecaser/training/'+training_file, 'r')
+        first_word = True
+        for line in file:
+            if line == '\n':
+                first_word = True
             else:
-                pos = 'title case'
-                title_vector = (title_vector+nlp(word)[0].vector)/num_titlecase
-        else:
-            pos = 'lowercase'
-            lowercase_vector = (lowercase_vector+nlp(word)[0].vector)/num_lowercase
+                if line.istitle() and not first_word: num_titlecase = num_titlecase+1
+                first_word = False
+                if line.islower(): num_lowercase = num_lowercase+1
+        file.seek(0)
+        for line in file:
+            #check if we have reached the end of the sentence
+            if line=='\n':
+                #update transitions to the end of sentence
+                transition[prev]['End_Sent'] += 1
+                transition[prev[1]]['End_Sent']+=1
+                prev = ('Begin_Sent','Begin_Sent')
+                continue
+            word = line.strip()
+            #pretag certain words: punctuations and numbers
+            if word in string.punctuation:
+                pos = 'punctuation'
+            elif word[0].isnumeric():
+                pos = 'number'
+            #for other words: uppercase tag = words at start of sentence, title case = named entities, lowercase = everything else
+            elif word.istitle():
+                if prev[1]=='Begin_Sent':
+                    pos = 'uppercase'
+                else:
+                    pos = 'title case'
+                    # title_vector = (title_vector+nlp(word)[0].vector)/num_titlecase
+            else:
+                pos = 'lowercase'
+                # lowercase_vector = (lowercase_vector+nlp(word)[0].vector)/num_lowercase
 
-        #normalize all words to lowercase before adding to words, update dictionaries accordingly
-        word = word.lower()
-        words.add(word)
-        wordCounts[word] += 1
-        likelihood[pos][word] += 1
-        transition[prev][pos] += 1
-        transition[prev[1]][pos]+=1
-        prev = (prev[1],pos)
+            #normalize all words to lowercase before adding to words, update dictionaries accordingly
+            word = word.lower()
+            words.add(word)
+            wordCounts[word] += 1
+            likelihood[pos][word] += 1
+            transition[prev][pos] += 1
+            transition[prev[1]][pos]+=1
+            prev = (prev[1],pos)
 
-    file.close()
+        file.close()
 
     #unknownWords - stores a list of all words that only appear once in training corpus
     unknownWords = [k for k, v in wordCounts.items() if v == 1]
@@ -279,9 +280,9 @@ def hmm(training_files, test_file, result_file):
                     elif (word not in lower_list):
                         if (tag != "uppercase"):
                             tag = "title case"
-                    else:
-                        if (tag != "uppercase"):
-                            tag = "lowercase" if 1-cosine(lowercase_vector,nlp(word)[0].vector)>1-cosine(title_vector,nlp(word.capitalize())[0].vector) else "title case"
+                    # else:
+                    #     if (tag != "uppercase"):
+                    #         tag = "lowercase" if 1-cosine(lowercase_vector,nlp(word)[0].vector)>1-cosine(title_vector,nlp(word.capitalize())[0].vector) else "title case"
                 #write out the word and the tag
                 res.write(sentence[i] + "\t" + tag + "\n")
             res.write("\n")
@@ -291,6 +292,7 @@ def hmm(training_files, test_file, result_file):
 
 def main():
     training_files = ['alice.words', 'emma.words', 'moby.words', 'parents.words', 'persuasion.words', 'training.words']
+    # training_files = ['brown.words', 'gutenberg.words', 'reuters.words']
     test_file = "truecaser/development/lower.words"
     result_file = "truecaser/development/result.words"
 
