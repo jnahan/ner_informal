@@ -19,22 +19,23 @@ def tokenize_nltk(path):
     for line in lines:
         line = line.strip()
         if (line[0] == "(" and line != "(/(" and line != "(S"):
-            res.write(line+"\n")
             split_line = line.strip('()').split(" ")
             tag = split_line[0]
-            # word = ''.join(map(str, split_line[2:]))
+            word = ''.join(map(str, split_line[1:]))
+            res.write(word + "\t" + tag + "\n")
             tags[tag]+=1
 
     file.close()
     res.close()
     print(path)
     print(tags)
-    print("\n")
+    tags_count = sum(tags.values())
+    print("Total tags: " + str(tags_count) + "\n")
 
+print("-----NLTK-----")
 tokenize_nltk("formatted.lower.words")
 tokenize_nltk("formatted.truecased.words")
 tokenize_nltk("formatted.original.words")
-
 
 def tokenize_spacy(path):
     file = open("ner/testing/"+path, "r")
@@ -50,8 +51,10 @@ def tokenize_spacy(path):
     res.close()
     print(path)
     print(tags)
-    print("\n")
+    tags_count = sum(tags.values())
+    print("Total tags: " + str(tags_count) + "\n")
 
+print("-----SPACY-----")
 tokenize_spacy("formatted.lower.words")
 tokenize_spacy("formatted.truecased.words")
 tokenize_spacy("formatted.original.words")

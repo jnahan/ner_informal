@@ -1,1921 +1,1921 @@
-(PERSON July/NNP)
-(ORGANIZATION MMS/NNP International/NNP)
-(ORGANIZATION McGraw/NNP)
-(PERSON Hill/NNP Inc./NNP)
-(GPE New/NNP York/NNP)
-(PERSON Michael/NNP Englund/NNP)
-(ORGANIZATION MMS/NNP)
-(PERSON Mr./NNP Englund/NNP)
-(PERSON Trade/NNP)
-(GPE August/NNP)
-(ORGANIZATION MMS/NNP)
-(GPE August/NNP)
-(PERSON Robert/NNP H./NNP Chandross/NNP)
-(PERSON Lloyd/NNP)
-(ORGANIZATION Bank/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION CPI/NNP)
-(ORGANIZATION PPI/NNP)
-(ORGANIZATION CPI/NNP)
-(PERSON Gary/NNP Ciminero/NNP)
-(ORGANIZATION Fleet\/Norstar/NNP)
-(GPE August/NNP)
-(PERSON Way/NNP Street/NNP)
-(PERSON Similar/JJ)
-(PERSON Rollin/NNP S./NNP Trexler/NNP)
-(GPE American/NNP)
-(GPE Britain/NNP)
-(ORGANIZATION Capital/NNP City/NNP)
-(PERSON Thames/NNP Television/NNP)
-(ORGANIZATION Capital/NNP City/NNP)
-(ORGANIZATION Shane/NNP Longman/NNP)
-(GPE London/NNP)
-(GPE Shane/NNP)
-(PERSON Longman/NNP)
-(PERSON Shane/NNP Longman/NNP)
-(PERSON Michelle/NNP)
-(PERSON Trouble/NNP)
-(PERSON Michelle/NNP)
-(PERSON Shane/NNP Longman/NNP)
-(GPE U.S./NNP)
-(GPE Columbia/NNP)
-(GPE Japanese/JJ)
-(GPE Japanese/JJ)
-(PERSON Shane/NNP Longman/NNP)
-(GPE American/NNP)
-(PERSON Michelle/NNP)
-(GPE Porsche/NNP)
-(PERSON Declan/NNP)
-(GPE Britain/NNP)
-(GPE Thatcherian/NNP)
-(GPE Max/NNP)
-(PERSON Max/NNP)
-(GPE Chinese/JJ)
-(GPE French/JJ)
-(GPE Dieppe/NNP)
-(ORGANIZATION Capital/NNP City/NNP)
-(GPE Thames/NNP)
-(PERSON Shane/NNP Longman/NNP)
-(GPE British/JJ)
-(GPE London/NNP)
-(ORGANIZATION Capital/NNP City/NNP)
-(ORGANIZATION Yank/NNP)
-(GPE America/NNP)
-(PERSON Thames/NNP)
-(GPE U.S./NNP)
-(PERSON Donald/NNP Taffner/NNP)
-(GPE U.S./NNP)
-(PERSON Three/NNP)
-(ORGANIZATION Company/NNP)
-(ORGANIZATION Comfort/NNP)
-(GPE British/JJ)
-(PERSON Mr./NNP Taffner/NNP)
-(ORGANIZATION Capital/NNP City/NNP)
-(GPE British/JJ)
-(PERSON Carry/NNP)
-(GPE American/NNP)
-(PERSON Joanna/NNP Kanska/NNP)
-(PERSON William/NNP Armstrong/NNP)
-(PERSON Max/NNP)
-(PERSON Douglas/NNP Hodge/NNP)
-(PERSON James/NNP Farentino/NNP)
-(PERSON Rolf/NNP Saxon/NNP)
-(PERSON Tommy/NNP Noonan/NNP)
-(PERSON Dorian/NNP Healy/NNP)
-(PERSON Huntz/NNP Hall/NNP)
-(ORGANIZATION Bowery/NNP Boys/NNP)
-(ORGANIZATION OK/JJ)
-(PERSON Carry/NNP)
-(GPE Japanese/JJ)
-(ORGANIZATION Dai/NNP)
-(PERSON Ichi/NNP Kangyo/NNP Bank/NNP)
-(FACILITY White/NNP House/NNP)
-(PERSON Zsa/NNP Zsa/NNP)
-(PERSON Huntz/NNP Hall/NNP)
-(PERSON Mr./NNP Rustin/NNP)
-(ORGANIZATION Journal/NNP)
-(GPE London/NNP)
-(PERSON Axa/NNP)
-(PERSON Midi/NNP Assurances/NNP)
-(GPE France/NNP)
-(ORGANIZATION Farmers/NNP Group/NNP Inc./NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Farmers/NNP)
-(PERSON Sir/NNP James/NNP Goldsmith/NNP)
-(GPE British/JJ)
-(GPE Los/NNP Angeles/NNP)
-(ORGANIZATION Farmers/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Goldsmith/NNP)
-(GPE Farmers/NNP)
-(PERSON Sir/NNP James/NNP)
-(GPE August/NNP)
-(ORGANIZATION Farmers/NNP)
-(PERSON Axa/NNP)
-(GPE Hoylake/NNP)
-(PERSON Sir/NNP James/NNP)
-(PERSON Axa/NNP)
-(PERSON Axa/NNP)
-(PERSON Axa/NNP)
-(ORGANIZATION Midi/NNP Group/NNP)
-(PERSON Axa/NNP)
-(PERSON Claude/NNP Bebear/NNP)
-(GPE Axa/NNP)
-(PERSON Cie/NNP)
-(PERSON Paribas/NNP)
-(ORGANIZATION Credit/NNP Lyonnais/NNP)
-(PERSON Societe/NNP Generale/NNP)
-(ORGANIZATION BankAmerica/NNP Corp./NNP)
-(ORGANIZATION Citicorp/NNP)
-(PERSON Mr./NNP Bebear/NNP)
-(PERSON Axa/NNP)
-(ORGANIZATION Midi/NNP Group/NNP)
-(GPE Farmers/NNP)
-(PERSON Hoylake/NNP)
-(ORGANIZATION Farmers/NNP)
-(PERSON Axa/NNP)
-(PERSON Hoylake/NNP)
-(PERSON Hoylake/NNP)
-(ORGANIZATION Farmers/NNP)
-(PERSON Mr./NNP Bebear/NNP)
-(GPE Farmers/NNP)
-(PERSON Farmers/NNP)
-(PERSON Axa/NNP)
-(PERSON Hoylake/NNP)
-(PERSON Sir/NNP James/NNP)
-(GPE British/JJ)
-(PERSON Hoylake/NNP)
-(GPE Farmers/NNP)
-(PERSON Axa/NNP)
-(PERSON B.A.T/NNP)
-(PERSON Axa/NNP)
-(ORGANIZATION Farmers/NNP)
-(ORGANIZATION Farmers/NNP)
-(PERSON Sir/NNP James/NNP)
-(ORGANIZATION General/NNP Motors/NNP Corp./NNP)
-(GPE U.S./NNP)
-(GPE North/JJ)
-(GPE American/JJ)
-(ORGANIZATION GM/NNP)
-(GPE August/NNP)
-(ORGANIZATION GM/NNP)
-(GPE U.S./NNP)
-(GPE U.S./NNP)
-(PERSON Tom/NNP Kelly/NNP)
-(PERSON Bill/NNP Wink/NNP Chevrolet/NNP)
-(GPE Dearborn/NNP)
-(PERSON Mich/NNP)
-(ORGANIZATION GM/NNP)
-(PERSON Cadillac/NNP)
-(PERSON Cadillac/NNP)
-(GPE Lexus/NNP)
-(PERSON Toyota/NNP Motor/NNP)
-(GPE Toyota/NNP)
-(ORGANIZATION No/NNP)
-(ORGANIZATION GM/NNP)
-(ORGANIZATION GM/NNP)
-(ORGANIZATION GM/NNP)
-(PERSON Chrysler/NNP)
-(PERSON Honda/NNP Motor/NNP)
-(PERSON Honda/NNP)
-(GPE Marysville/NNP)
-(GPE Ohio/NNP)
-(PERSON Accords/NNP)
-(GPE Honda/NNP)
-(PERSON Chrysler/NNP)
-(PERSON Chrysler/NNP)
-(GPE Domestic/JJ)
-(PERSON Antonio/NNP L./NNP Savoca/NNP)
-(ORGANIZATION Atlantic/NNP Research/NNP Corp./NNP)
-(PERSON Mr./NNP Savoca/NNP)
-(PERSON Mr./NNP Savoca/NNP)
-(PERSON William/NNP H./NNP Borten/NNP)
-(PERSON Sequa/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION Central/NNP Intelligence/NNP)
-(GPE Hungarian/JJ)
-(PERSON Employees/NNS)
-(PERSON Szabad/NNP Europa/NNP Radio/NNP)
-(PERSON Radio/NNP Free/NNP)
-(PERSON Barnabas/NNP de/NNP Bueky/NNP)
-(GPE Hungarian/NNP)
-(GPE Munich/NNP)
-(GPE West/NNP Germany/NNP)
-(GPE Hungarian/NNP)
-(GPE Warsaw/NNP)
-(LOCATION East/NNP Bloc/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Budapest/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Hungarian/JJ)
-(PERSON Andrew/NNP Deak/NNP)
-(ORGANIZATION Technical/NNP University/NNP)
-(GPE Hungarian/NNP)
-(GPE Hungary/NNP)
-(PERSON Boys/NNP)
-(PERSON Radio/NN)
-(GPE British/JJ)
-(ORGANIZATION Broadcasting/NNP Corp./NNP)
-(GPE U.S./NNP)
-(GPE America/NNP)
-(GPE Hungarian/JJ)
-(GPE Hungarian/NNP)
-(GPE Australian/JJ)
-(PERSON Rupert/NNP Murdoch/NNP)
-(GPE Hungarian/JJ)
-(GPE Britain/NNP)
-(PERSON Robert/NNP Maxwell/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Hungary/NNP)
-(PERSON Great/NNP Eastern/NNP Beyond/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Soviet/NNP Union/NNP)
-(PERSON Radio/NNP Liberty/NNP)
-(GPE Bulgarian/NNP)
-(GPE Belorussian/NNP)
-(GPE Kazakh/NNP)
-(PERSON Kirghiz/NNP)
-(GPE Warsaw/NNP)
-(GPE Eastern/NNP Europe/NNP)
-(PERSON Months/NNP)
-(GPE Hungarian/NNP)
-(ORGANIZATION Communist/NNP Party/NNP)
-(ORGANIZATION Socialist/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(ORGANIZATION Hungarian/NNP Ministry/NNP)
-(ORGANIZATION Foreign/NNP Affairs/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(ORGANIZATION Ministry/NNP of/IN Telecommunications/NNPS)
-(LOCATION Budapest/NNP)
-(PERSON Geza/NNP Szocs/NNP)
-(ORGANIZATION Radio/NNP Free/NNP Europe/NNP)
-(GPE Budapest/NNP)
-(GPE Hungarian/JJ)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(PERSON Dark/NNP Ages/NNP)
-(ORGANIZATION Century/NNP)
-(GPE Western/JJ)
-(GPE Europe/NNP)
-(GPE Budapest/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Hungarian/JJ)
-(GPE Hungary/NNP)
-(GPE Hungarian/JJ Radio/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Budapest/NNP)
-(GPE Hungarian/JJ)
-(GPE Nagykanizsa/NNP)
-(GPE Nyiregyhaza/NNP)
-(GPE Hungarian/JJ)
-(GPE Newsreel/NNP)
-(PERSON Radio/NNP Free/NNP Europe/NNP)
-(GPE Western/JJ)
-(ORGANIZATION Pet/NNP Shop/NNP Boys/NNP)
-(PERSON Mr./NNP Deak/NNP)
-(ORGANIZATION Community/NNP Service/NNP Act/NNP)
-(GPE America/NNP)
-(ORGANIZATION Democratic/JJ Leadership/NNP Council/NNP)
-(ORGANIZATION DLC/NNP)
-(FACILITY Pentagon/NNP)
-(PERSON Edward/NNP Kennedy/NNP)
-(ORGANIZATION Labor/NNP Committee/NNP)
-(ORGANIZATION DLC/NNP)
-(PERSON Sam/NNP Nunn/NNP)
-(PERSON Chris/NNP Dodd/NNP)
-(GPE Kennedy/NNP)
-(PERSON Dale/NNP Bumpers/NNP)
-(ORGANIZATION VISTA/NNP)
-(ORGANIZATION Retired/NNP Senior/NNP Volunteer/NNP)
-(PERSON Foster/NNP Grandparent/NNP)
-(ORGANIZATION Senior/NNP)
-(ORGANIZATION House/NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION Gallup/NNP Poll/NNP)
-(GPE American/NNP)
-(ORGANIZATION GI/NNP Bill/NNP)
-(PERSON Will/NNP)
-(PERSON Polls/NNP)
-(ORGANIZATION Senate/NNP)
-(GPE Light/NNP)
-(FACILITY White/NNP House/NNP)
-(ORGANIZATION Democratic/JJ)
-(ORGANIZATION National/NNP)
-(PERSON Mr./NNP Chapman/NNP)
-(GPE Indianapolis/NNP)
-(PERSON Hudson/NNP Institute/NNP)
-(PERSON Mr./NNP Szanton/NNP)
-(PERSON Drug/NNP Emporium/NNP)
-(PERSON Gary/NNP Wilber/NNP)
-(PERSON Philip/NNP T./NNP Wilber/NNP)
-(PERSON Robert/NNP E./NNP Lyons/NNP III/NNP)
-(GSP Philadelphia/NNP)
-(PERSON Gary/NNP Wilber/NNP)
-(ORGANIZATION
-(GPE Texas/NNP)
-(ORGANIZATION American/NNP Energy/NNP)
-(PERSON Physicians/NNP)
-(PERSON Texas/NNP American/NNP)
-(GPE American/NNP)
-(GPE Bedminster/NNP)
-(GPE N.J./NNP)
-(PERSON Prime/NNP)
-(GPE France/NNP)
-(ORGANIZATION National/NNP Statistics/NNPS Institute/NNP)
-(ORGANIZATION GDP/NNP)
-(GPE Canadian/JJ)
-(PERSON Canada/NNP Savings/NNP Bond/NNP)
-(ORGANIZATION Canada/NNP Savings/NNPS Bonds/NNP)
-(GPE Canadian/JJ)
-(ORGANIZATION US/NNP)
-(GPE Canadian/JJ)
-(ORGANIZATION Canada/NNP Savings/NNPS Bonds/NNP)
-(ORGANIZATION National/NNP Service/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION Congress/NNP)
-(PERSON Sam/NNP Nunn/NNP)
-(GPE Ga/NNP)
-(PERSON Dave/NNP McCurdy/NNP)
-(PERSON Edward/NNP Kennedy/NNP)
-(GPE Mass/NNP)
-(PERSON Nunn/NNP)
-(ORGANIZATION McCurdy/NNP)
-(ORGANIZATION Democratic/JJ Sens/NNPS)
-(PERSON Claiborne/NNP Pell/NNP)
-(PERSON Barbara/NNP Mikulski/NNP)
-(PERSON Christopher/NNP Dodd/NNP)
-(ORGANIZATION Senate/NNP Labor/NNP Committee/NNP)
-(ORGANIZATION Senate/NNP)
-(PERSON Bush/NNP)
-(ORGANIZATION YES/NNP)
-(ORGANIZATION Devotees/NNP)
-(ORGANIZATION Part/NNP)
-(GPE Middle/NNP)
-(ORGANIZATION Nunn/NNP)
-(ORGANIZATION McCurdy/NNP)
-(ORGANIZATION GI/NNP Bill/NNP)
-(ORGANIZATION GI/NNP)
-(GPE U.S./NNP)
-(PERSON Full/NNP)
-(ORGANIZATION Stanford/NNP)
-(GPE Yale/NNP)
-(PERSON Non/NNP)
-(ORGANIZATION Underclass/NNP)
-(ORGANIZATION Underclass/NNP)
-(PERSON Mr./NNP Szanton/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION National/NNP)
-(PERSON Lexington/NNP Books/NNP)
-(ORGANIZATION Federal/NNP Reserve/NNP)
-(PERSON Alan/NNP Greenspan/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Fed/NNP)
-(ORGANIZATION Treasury/NNP)
-(PERSON Nicholas/NNP Brady/NNP)
-(FACILITY Wall/NNP Street/NNP)
-(ORGANIZATION Assistant/NNP)
-(PERSON David/NNP Mullins/NNP)
-(ORGANIZATION Fed/NNP)
-(ORGANIZATION Bush/NNP)
-(ORGANIZATION Fed/NNP)
-(GPE New/NNP York/NNP Times/NNP)
-(ORGANIZATION Washington/NNP Post/NNP)
-(ORGANIZATION Fed/NNP)
-(PERSON Fed/NNP Chairman/NNP Greenspan/NNP)
-(ORGANIZATION Fed/NNP)
-(ORGANIZATION Fed/NNP)
-(PERSON Budget/NNP Director/NNP)
-(PERSON Richard/NNP Darman/NNP)
-(ORGANIZATION ABC/NNP)
-(ORGANIZATION Treasury/NNP Brady/NNP)
-(GPE Greenspan/NNP)
-(ORGANIZATION SEC/NNP)
-(PERSON Mr./NNP Darman/NNP)
-(ORGANIZATION Treasury/NNP)
-(PERSON Brady/NNP)
-(PERSON Fed/NNP Chairman/NNP Greenspan/NNP)
-(PERSON Manuel/NNP Johnson/NNP)
-(ORGANIZATION New/NNP Zealand/NNP)
-(ORGANIZATION EST/NNP)
-(GPE Tokyo/NNP)
-(GPE Europe/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Fed/NNP)
-(GPE Tokyo/NNP)
-(ORGANIZATION Bush/NNP)
-(ORGANIZATION Treasury/NNP)
-(PERSON Brady/NNP)
-(PERSON Undersecretary/NNP Robert/NNP Glauber/NNP)
-(ORGANIZATION Assistant/NNP)
-(PERSON Mullins/NNP)
-(PERSON Brady/NNP Commission/NNP)
-(PERSON Mr./NNP Brady/NNP)
-(PERSON Mr./NNP Brady/NNP)
-(FACILITY White/NNP House/NNP)
-(PERSON Mr./NNP Mullins/NNP)
-(GPE New/NNP York/NNP)
-(GPE Chicago/NNP)
-(PERSON Mr./NNP Brady/NNP)
-(PERSON Mr./NNP Greenspan/NNP)
-(ORGANIZATION SEC/NNP)
-(PERSON Richard/NNP Breeden/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION Administration/NN)
-(PERSON Bush/NNP)
-(PERSON Camp/NNP David/NNP)
-(PERSON Mr./NNP Brady/NNP)
-(PERSON Michael/NNP Boskin/NNP)
-(PERSON Treasury/NNP Undersecretary/NNP)
-(PERSON David/NNP Mulford/NNP)
-(ORGANIZATION Business/NNP Council/NNP)
-(GPE Hot/NNP Springs/NNP)
-(PERSON Fed/NNP Chairman/NNP Greenspan/NNP)
-(ORGANIZATION American/JJ Bankers/NNP Association/NNP)
-(GPE Washington/NNP)
-(PERSON Mr./NNP Greenspan/NNP)
-(GPE Dallas/NNP)
-(GPE Dallas/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION Commercial/NNP Rand/NNP)
-(GPE Canadian/JJ)
-(ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP Average/NNP)
-(ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP Average/NNP)
-(PERSON Panic/NNP)
-(PERSON Stephen/NNP B./NNP Timbers/NNP)
-(GPE Chicago/NNP)
-(PERSON Kemper/NNP Financial/NNP Services/NNPS Inc/NNP)
-(PERSON Steve/NNP Janachowski/NNP)
-(ORGANIZATION San/NNP Francisco/NNP)
-(PERSON Brouwer/NNP)
-(PERSON Janachowski/NNP)
-(PERSON Front/NNP)
-(PERSON Stein/NNP Roe/NNP)
-(PERSON Farnham/NNP Inc./NNP)
-(GPE Chicago/NNP)
-(PERSON Mr./NNP Front/NNP)
-(PERSON Roger/NNP Ibbotson/NNP)
-(ORGANIZATION Yale/NNP University/NNP)
-(ORGANIZATION Ibbotson/NNP Associates/NNPS Inc./NNP)
-(PERSON Mr./NNP Ibbotson/NNP)
-(PERSON John/NNP Snyder/NNP)
-(GPE Los/NNP Angeles/NNP)
-(ORGANIZATION National/NNP Association/NNP)
-(ORGANIZATION Investors/NNPS Corp./NNP)
-(PERSON Alfred/NNP Goldman/NNP)
-(GPE St./NNP)
-(PERSON James/NNP Craig/NNP)
-(GPE Denver/NNP)
-(PERSON Janus/NNP Fund/NNP)
-(PERSON Hershey/NNP Foods/NNP)
-(PERSON Wal/NNP)
-(ORGANIZATION Mart/NNP Stores/NNPS Inc./NNP)
-(ORGANIZATION American/NNP International/NNP Group/NNP Inc./NNP)
-(ORGANIZATION
-(PERSON Mr./NNP Craig/NNP)
-(PERSON Mr./NNP Front/NNP)
-(PERSON Stein/NNP Roe/NNP)
-(PERSON William/NNP Fleckenstein/NNP)
-(GPE Seattle/NNP)
-(PERSON Mr./NNP Fleckenstein/NNP)
-(PERSON Mr./NNP Fleckenstein/NNP)
-(PERSON David/NNP M./NNP Jones/NNP)
-(ORGANIZATION Aubrey/NNP)
-(PERSON Lanston/NNP)
-(ORGANIZATION Treasury/NNP)
-(PERSON Eli/NNP Lilly/NNP)
-(PERSON James/NNP A/NNP)
-(PERSON White/NNP)
-(PERSON Tom/NNP Herman/NNP)
-(PERSON Coldwell/NNP Banker/NNP)
-(ORGANIZATION Commercial/NNP Group/NNP)
-(GPE Sears/NNP)
-(PERSON Roebuck/NNP)
-(PERSON James/NNP J./NNP Didion/NNP)
-(PERSON Mr./NNP Didion/NNP)
-(ORGANIZATION Coldwell/NNP Banker/NNP)
-(ORGANIZATION Coldwell/NNP Banker/NNP)
-(PERSON Carlyle/NNP Group/NNP)
-(GPE Washington/NNP)
-(GPE D.C./NNP)
-(PERSON Frank/NNP Carlucci/NNP)
-(PERSON Frederic/NNP V./NNP Malek/NNP)
-(PERSON Carlyle/NNP Group/NNP)
-(PERSON Mellon/NNP Family/NNP Trust/NNP)
-(GPE Pittsburgh/NNP)
-(ORGANIZATION Westinghouse/NNP Credit/NNP Corp./NNP)
-(ORGANIZATION Westinghouse/NNP Electric/NNP Corp./NNP)
-(ORGANIZATION Bankers/NNP Trust/NNP Co./NNP)
-(ORGANIZATION Bankers/NNPS Trust/NNP New/NNP York/NNP Corp./NNP)
-(GPE Japanese/JJ)
-(GPE Tokyo/NNP)
-(PERSON Sumitomo/NNP Bank/NNP)
-(ORGANIZATION Bankers/NNPS Trust/NNP)
-(PERSON Sumitomo/NNP)
-(PERSON Sears/NNP Roebuck/NNP)
-(PERSON Coldwell/NNP Banker/NNP)
-(PERSON Gary/NNP Wilson/NNP)
-(ORGANIZATION Walt/NNP Disney/NNP)
-(PERSON James/NNP Montgomery/NNP)
-(GPE Great/NNP)
-(LOCATION Western/NNP Financial/NNP)
-(PERSON Peter/NNP Ubberroth/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Chicago/NNP Mercantile/NNP Exchange/NNP)
-(ORGANIZATION Merc/NNP)
-(ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP Average/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION Merc/NNP)
-(PERSON Board/NNP)
-(ORGANIZATION Brady/NNP Task/NNP Force/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Brady/NNP)
-(ORGANIZATION Merc/NNP)
-(ORGANIZATION Merc/NNP)
-(ORGANIZATION Standard/NNP)
-(PERSON Poor/NNP)
-(ORGANIZATION CDT/NNP)
-(PERSON Board/NNP)
-(PERSON Howard/NNP Dubnow/NNP)
-(ORGANIZATION Merc/NNP)
-(ORGANIZATION Dow/NNP)
-(PERSON Mr./NNP Dubnow/NNP)
-(ORGANIZATION Chicago/NNP Board/NNP)
-(GPE Trade/NNP)
-(PERSON Market/NNP Index/NNP)
-(ORGANIZATION MMI/NNP)
-(GPE Washington/NNP)
-(PERSON Capitol/NNP Hill/NNP)
-(ORGANIZATION Federal/NNP)
-(PERSON Stanley/NNP Sporkin/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION Brady/NNP Task/NNP Force/NNP)
-(ORGANIZATION Reagan/NNP)
-(FACILITY White/NNP House/NNP)
-(ORGANIZATION Brady/NNP)
-(ORGANIZATION Working/NNP Group/NNP)
-(ORGANIZATION Financial/NNP Markets/NNPS)
-(ORGANIZATION Working/NNP Group/NNP)
-(ORGANIZATION Federal/NNP Reserve/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Securities/NNPS)
-(ORGANIZATION Exchange/NNP Commission/NNP)
-(ORGANIZATION Commodity/NNP Futures/NNPS)
-(ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP Average/NNP)
-(PERSON Dow/NNP Industrials/NNP)
-(ORGANIZATION DJIA/NNP)
-(ORGANIZATION NYSE/NNP)
-(PERSON Dow/NNP Industrials/NNP)
-(ORGANIZATION MMI/NNP)
-(ORGANIZATION DJIA/NNP)
-(PERSON Big/NNP Board/NNP)
-(ORGANIZATION MMI/NNP)
-(PERSON Brady/NNP Task/NNP Force/NNP)
-(PERSON Unify/NNP)
-(ORGANIZATION SEC/NNP)
-(ORGANIZATION SEC/NNP)
-(ORGANIZATION SEC/NNP)
-(ORGANIZATION CFTC/NNP)
-(ORGANIZATION SEC/NNP)
-(ORGANIZATION SEC/NNP)
-(ORGANIZATION SEC/NNP)
-(GPE Soviet/JJ)
-(GPE American/JJ)
-(PERSON Nikolai/NNP I./NNP Lutsenko/NNP)
-(ORGANIZATION Nika/NNP)
-(PERSON Nedelya/NNP)
-(PERSON Mr./NNP Lutsenko/NNP)
-(PERSON Nedelya/NNP)
-(GPE U.S./NNP)
-(GPE U.S./NNP)
-(GPE Soviet/NNP Union/NNP)
-(PERSON Nedelya/NNP)
-(PERSON Mr./NNP Lutsenko/NNP)
-(PERSON John/NNP Denver/NNP)
-(GPE Colorado/NNP)
-(PERSON Nika/NNP)
-(ORGANIZATION Communist/NNP)
-(PERSON South/NNP Africa/NNP)
-(ORGANIZATION National/NNP Union/NNP)
-(ORGANIZATION Mineworkers/NNP)
-(FACILITY De/NNP Beers/NNP Consolidated/NNP Mines/NNP)
-(PERSON Beers/NNP)
-(PERSON De/NNP Beers/NNP)
-(GPE Japan/NNP)
-(ORGANIZATION Socialist/NNP Party/NNP)
-(ORGANIZATION Parliament/NNP)
-(ORGANIZATION Liberal/NNP Democratic/NNP Party/NNP)
-(GPE Japanese/JJ)
-(PERSON Tsuruo/NNP Yamaguchi/NNP)
-(ORGANIZATION Socialist/NNP Party/NNP)
-(PERSON Nature/NNP)
-(GPE Spain/NNP)
-(GPE Argentina/NNP)
-(GPE Thailand/NNP)
-(GPE Indonesia/NNP)
-(ORGANIZATION U.N.-sponsored/JJ Convention/NNP)
-(ORGANIZATION International/NNP Trade/NNP)
-(ORGANIZATION Endangered/NNP Species/NNPS)
-(GPE Lausanne/NNP)
-(PERSON Fund/NNP)
-(PERSON Simon/NNP Lyster/NNP)
-(ORGANIZATION NATO/NNP)
-(GPE Britain/NNP)
-(GPE France/NNP)
-(GPE Italy/NNP)
-(GPE East/NNP)
-(GPE West/JJ)
-(GPE Britain/NNP)
-(ORGANIZATION Labor/NNP Party/NNP)
-(PERSON Labor/NNP)
-(ORGANIZATION Visa/NNP)
-(GPE British/JJ)
-(PERSON Labor/NNP)
-(GPE Britain/NNP)
-(ORGANIZATION Labor/NNP)
-(ORGANIZATION Co/NNP)
-(ORGANIZATION Bank/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(PERSON Daily/NNP)
-(ORGANIZATION State/NNP Statistical/NNP Bureau/NNP)
-(GPE Russian/JJ)
-(GPE Moscow/NNP)
-(FACILITY Kremlin/NNP)
-(PERSON Uspensky/NNP Cathedral/NNP)
-(PERSON Buddha/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE China/NNP)
-(ORGANIZATION Sik/NNP Chi/NNP Wan/NNP)
-(GPE Hong/NNP Kong/NNP)
-(PERSON Steven/NNP B./NNP Iken/NNP)
-(ORGANIZATION Justin/NNP Products/NNPS)
-(ORGANIZATION Sony/NNP)
-(PERSON Mr./NNP Iken/NNP)
-(ORGANIZATION Justin/NNP)
-(ORGANIZATION Justin/NNP)
-(ORGANIZATION Sony/NNP Corp./NNP)
-(GPE Japan/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Iken/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(GPE U.S./NNP)
-(PERSON Sony/NNP)
-(GPE Manhattan/NNP)
-(PERSON Leonard/NNP Kaye/NNP)
-(PERSON Justin/NNP)
-(GPE Sony/NNP)
-(PERSON Justin/NNP)
-(GPE Japan/NNP)
-(GPE U.S./NNP)
-(GPE Japan/NNP)
-(PERSON Sony/NNP)
-(GPE U.S./NNP)
-(GPE China./NNP)
-(PERSON Justin/NNP)
-(ORGANIZATION Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Lewis/NNP H./NNP Eslinger/NNP)
-(PERSON Sony/NNP)
-(PERSON Rubik/NNP)
-(PERSON Sony/NNP)
-(PERSON Mr./NNP Eslinger/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(GPE U.S./NNP)
-(PERSON John/NNP E./NNP Sprizzo/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(ORGANIZATION Capetronic/NNP Inc./NNP)
-(GPE Taiwan/NNP)
-(PERSON Justin/NNP)
-(GPE Hong/NNP Kong/NNP)
-(PERSON Mickey/NNP Mouse/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(PERSON Charles/NNP E./NNP Baxley/NNP)
-(PERSON Justin/NNP)
-(PERSON Justin/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Baxley/NNP)
-(GPE Sony/NNP)
-(ORGANIZATION Federal/NNP Trade/NNP Commission/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Justice/NNP Department/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Eslinger/NNP)
-(ORGANIZATION Sony/NNP)
-(PERSON Mr./NNP Baxley/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(PERSON Sony/NNP)
-(GPE American/JJ)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(ORGANIZATION Justin/NNP)
-(PERSON Sony/NNP)
-(PERSON Sony/NNP)
-(PERSON Justin/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(GPE Sony/NNP)
-(PERSON Mr./NNP Kaye/NNP)
-(PERSON Charles/NNP H./NNP Tenney/NNP II/NNP)
-(ORGANIZATION Unitil/NNP Corp./NNP)
-(GPE Unitil/NNP)
-(ORGANIZATION Securities/NNPS)
-(ORGANIZATION Exchange/NNP Commission/NNP)
-(GPE Unitil/NNP)
-(PERSON Exeter/NNP)
-(PERSON Fitchburg/NNP Gas/NNP)
-(ORGANIZATION Electric/NNP Co./NNP)
-(GPE Fitchburg/NNP)
-(GPE Boston/NNP)
-(ORGANIZATION Eastern/NNP Utilities/NNPS Associates/NNPS)
-(PERSON Eastern/NNP Utilities/NNP)
-(ORGANIZATION Unitil/NNP)
-(PERSON Fitchburg/NNP Gas/NNP)
-(PERSON Dresdner/NNP Bank/NNP AG/NNP)
-(GPE West/NNP Germany/NNP)
-(ORGANIZATION Banque/NNP Internationale/NNP)
-(GPE Placements/NNP)
-(GPE French/JJ)
-(GPE France/NNP)
-(ORGANIZATION Societe/NNP Generale/NNP)
-(ORGANIZATION Societe/NNP)
-(PERSON Bourses/NNP Francaises/NNP)
-(LOCATION West/NNP Germany/NNP)
-(PERSON Dresdner/NNP)
-(ORGANIZATION BIP/NNP)
-(ORGANIZATION Societe/NNP Generale/NNP)
-(PERSON Societe/NNP Generale/NNP)
-(ORGANIZATION Belgique/NNP)
-(PERSON Financiere/NNP Tradition/NNP)
-(GPE Mexican/JJ)
-(PERSON Joel/NNP Rocha/NNP Garza/NNP)
-(ORGANIZATION Smith/NNP Laboratories/NNPS Inc./NNP)
-(ORGANIZATION Securities/NNPS)
-(ORGANIZATION Exchange/NNP Commission/NNP)
-(PERSON Mr./NNP Rocha/NNP Garza/NNP)
-(PERSON Biscayne/NNP Syndicate/NNP)
-(PERSON Lahus/NNP II/NNP)
-(PERSON Lahus/NNP)
-(ORGANIZATION III/NNP Inc./NNP)
-(PERSON Mr./NNP Rocha/NNP Garza/NNP)
-(PERSON Clarendon/NNP Group/NNP)
-(GPE Biscayne/NNP)
-(PERSON Lahus/NNP II/NNP)
-(PERSON Lahus/NNP III/NNP)
-(PERSON Mr./NNP Rocha/NNP Garza/NNP)
-(GPE San/NNP Diego/NNP)
-(ORGANIZATION Smith/NNP Laboratories/NNPS)
-(PERSON Timothy/NNP Wollaeger/NNP)
-(PERSON Investcorp/NNP)
-(GPE New/NNP York/NNP)
-(GPE Sports/NNP)
-(ORGANIZATION Recreation/NNP Inc./NNP)
-(GPE Sports/NNP)
-(PERSON Oliver/NNP E./NNP Richardson/NNP)
-(ORGANIZATION Investcorp/NNP)
-(PERSON Sports/NNP Unlimited/NNP)
-(PERSON Tampa/NNP)
-(PERSON Mr./NNP Richardson/NNP)
-(PERSON Sports/NNP)
-(ORGANIZATION Recreation/NNP)
-(PERSON Brunswick/NNP Corp./NNP)
-(GPE Skokie/NNP)
-(PERSON Ill/NNP)
-(PERSON Mr./NNP Richardson/NNP)
-(PERSON Hammond/NNP Co./NNP)
-(ORGANIZATION Newport/NNP Beach/NNP)
-(GPE Calif./NNP)
-(PERSON Fidelity/NNP National/NNP Financial/NNP)
-(PERSON Hammond/NNP)
-(ORGANIZATION Fidelity/NNP)
-(GPE Irvine/NNP)
-(GPE Calif./NNP)
-(ORGANIZATION Fidelity/NNP)
-(GPE Hammond/NNP)
-(GPE Securities/NNP)
-(ORGANIZATION Exchange/NNP Commission/NNP)
-(PERSON Hammond/NNP)
-(ORGANIZATION Giant/NNP Group/NNP)
-(PERSON Aspen/NNP Airways/NNP)
-(GPE Denver/NNP)
-(ORGANIZATION United/NNP Express/NNP)
-(ORGANIZATION UAL/NNP Corp./NNP)
-(ORGANIZATION United/NNP Airlines/NNPS)
-(PERSON Giant/NNP)
-(ORGANIZATION Beverly/NNP Hills/NNP)
-(GPE Calif./NNP)
-(PERSON Hollywood/NNP)
-(PERSON Burt/NNP Sugarman/NNP)
-(GPE Aspen/NNP)
-(PERSON Giant/NNP)
-(PERSON Giant/NNP)
-(PERSON Avmark/NNP Inc./NNP)
-(GPE Arlington/NNP)
-(PERSON Aspen/NNP)
-(GPE Giant/NNP)
-(PERSON Generales/NNP)
-(PERSON France/NNP)
-(ORGANIZATION Navigation/NNP Mixte/NNP)
-(GPE Bourse/NNP)
-(GPE Cie/NNP)
-(GPE Paribas/NNP)
-(ORGANIZATION Paribas/NNP)
-(ORGANIZATION AGF/NNP)
-(ORGANIZATION Navigation/NNP Mixte/NNP)
-(ORGANIZATION AGF/NNP)
-(ORGANIZATION AGF/NNP)
-(PERSON Paribas/NNP)
-(PERSON Lockheed/NNP Aeronautical/NNP Systems/NNP)
-(ORGANIZATION Lockheed/NNP Corp./NNP)
-(PERSON Aermacchi/NNP)
-(GPE Varese/NNP)
-(GPE Italy/NNP)
-(GPE U.S./NNP)
-(FACILITY Air/NNP Force/NNP)
-(ORGANIZATION Cessna/NNP Aircraft/NNP)
-(ORGANIZATION General/NNP Dynamics/NNP Corp./NNP)
-(FACILITY Air/NNP Force/NNP)
-(PERSON Lockheed/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Beech/NNP Aircraft/NNP Corp./NNP)
-(ORGANIZATION Raytheon/NNP Corp/NNP)
-(PERSON Lockheed/NNP)
-(PERSON Aermacchi/NNP)
-(PERSON Lockheed/NNP)
-(ORGANIZATION Aermacchi/NNP)
-(PERSON Lockheed/NNP)
-(FACILITY Air/NNP Force/NNP)
-(ORGANIZATION Lockheed/NNP)
-(GPE Burbank/NNP)
-(GPE Calif./NNP)
-(FACILITY Air/NNP Force/NNP)
-(ORGANIZATION Peugeot/NNP)
-(GPE France/NNP)
-(ORGANIZATION Peugeot/NNP)
-(ORGANIZATION Finance/NNP Ministry/NNP)
-(ORGANIZATION Peugeot/NNP)
-(GPE Mulhouse/NNP)
-(PERSON Peugeot/NNP)
-(GPE Paris/NNP)
-(ORGANIZATION Ministry/NNP)
-(GPE Finance/NNP)
-(ORGANIZATION Ministry/NNP)
-(PERSON Martin/NNP D./NNP Sass/NNP)
-(PERSON Junk/NNP)
-(ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP Average/NNP)
-(GPE U.S./NNP)
-(PERSON John/NNP Lonski/NNP)
-(ORGANIZATION Moody/NNP)
-(ORGANIZATION Investors/NNPS Service/NNP Inc./NNP For/IN)
-(GPE Southland/NNP)
-(ORGANIZATION Goldman/NNP)
-(PERSON Sachs/NNP)
-(PERSON Goldman/NNP)
-(GPE Southland/NNP)
-(ORGANIZATION Goldman/NNP)
-(ORGANIZATION Campeau/NNP Corp./NNP)
-(GPE U.S./NNP)
-(PERSON Campeau/NNP)
-(ORGANIZATION Bloomingdales/NNP)
-(PERSON Ethan/NNP Allen/NNP)
-(ORGANIZATION TW/NNP Services/NNPS)
-(ORGANIZATION York/NNP International/NNP)
-(PERSON Michael/NNP Harkins/NNP)
-(PERSON Levy/NNP)
-(PERSON Douglas/NNP Carleton/NNP)
-(ORGANIZATION First/NNP Boston/NNP Corp./NNP)
-(GPE August/NNP)
-(PERSON First/NNP Boston/NNP)
-(PERSON Ohio/NNP Mattress/NNP)
-(ORGANIZATION McCarthy/NNP)
-(PERSON Crisanti/NNP)
-(GPE Maffei/NNP)
-(PERSON Xerox/NNP Financial/NNP Services/NNPS)
-(ORGANIZATION Treasury/NNP)
-(PERSON Technical/NNP Data/NNP Global/NNP Markets/NNP Group/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Dow/NNP Jones/NNP Industrial/NNP)
-(PERSON Maria/NNP Ramirez/NNP)
-(ORGANIZATION Drexel/NNP Burnham/NNP Lambert/NNP Inc/NNP)
-(ORGANIZATION Federal/NNP Reserve/NNP)
-(PERSON William/NNP Sullivan/NNP)
-(FACILITY Dean/NNP Witter/NNP Reynolds/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Any/NNP)
-(PERSON Robert/NNP Dow/NNP)
-(ORGANIZATION Lord/NNP)
-(PERSON Abbett/NNP)
-(GPE Treasurys/NNP)
-(PERSON Petrolane/NNP Gas/NNP Services/NNP)
-(PERSON First/NNP Boston/NNP)
-(PERSON Turner/NNP Broadcasting/NNP System/NNP Inc/NNP)
-(PERSON Drexel/NNP)
-(GPE Boston/NNP)
-(PERSON Mr./NNP Carleton/NNP)
-(ORGANIZATION First/NNP)
-(PERSON Turner/NNP)
-(PERSON Raymond/NNP Minella/NNP)
-(ORGANIZATION Merrill/NNP Lynch/NNP)
-(PERSON Michael/NNP McNamara/NNP)
-(ORGANIZATION Kemper/NNP Financial/NNP Services/NNPS)
-(PERSON Mr./NNP McNamara/NNP)
-(GPE Campeau/NNP)
-(PERSON Olympia/NNP)
-(PERSON York/NNP)
-(PERSON Mr./NNP Minella/NNP)
-(ORGANIZATION Merrill/NNP)
-(GPE Campeau/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION Integrated/NNP Resources/NNPS Inc./NNP)
-(GPE July/NNP)
-(PERSON Southmark/NNP Corp./NNP)
-(GPE Dallas/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Treasury/NNP)
-(GPE August/NNP)
-(PERSON Resorts/NNP International/NNP Inc./NNP)
-(PERSON Campeau/NNP)
-(PERSON Lomas/NNP Financial/NNP)
-(PERSON Moody/NNP)
-(ORGANIZATION Federal/NNP Deposit/NNP Insurance/NNP)
-(PERSON James/NNP Grant/NNP)
-(GPE Grant/NNP)
-(ORGANIZATION Interest/NNP Rate/NNP Observer/NNP)
-(PERSON Market/NN Activity/NNP Prices/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION EDT/NNP)
-(PERSON Technical/NNP Data/NNP Global/NNP Markets/NNP Group/NNP)
-(PERSON Treasurys/NN)
-(ORGANIZATION Federal/NNP Reserve/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Ginnie/NNP Mae/NNP)
-(ORGANIZATION Investment/NNP)
-(ORGANIZATION Tennessee/NNP Valley/NNP Authority/NNP)
-(ORGANIZATION TVA/NNP)
-(PERSON Roger/NNP Lowenstein/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION UAL/NNP)
-(ORGANIZATION UAL/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Dow/NNP Jones/NNP)
-(ORGANIZATION Senate/NNP Democrats/NNPS)
-(ORGANIZATION House/NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION Senate/NNP)
-(PERSON Bush/NNP)
-(GPE Panama/NNP)
-(ORGANIZATION UAL/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION Transportation/NNP Skinner/NNP)
-(ORGANIZATION KLM/NNP)
-(GPE British/NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION Skinner/NNP)
-(PERSON James/NNP Oberstar/NNP)
-(ORGANIZATION Minnesota/NNP)
-(ORGANIZATION Public/NNP Works/NNP)
-(ORGANIZATION Transportation/NNP Committee/NNP)
-(GPE American/JJ)
-(GPE United/NNP Air/NNP)
-(PERSON Mr./NNP Skinner/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION UAL/NNP)
-(PERSON Mr./NNP Secretary/NNP)
-(ORGANIZATION Danny/NNP Rostenkowski/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Treasury/NNP)
-(ORGANIZATION Fed/NNP)
-(PERSON Board/NNP)
-(ORGANIZATION Chicago/NNP Board/NNP)
-(GPE Trade/NNP)
-(GPE Washington/NNP)
-(PERSON First/NNP Chicago/NNP)
-(ORGANIZATION First/NNP National/NNP Bank/NNP)
-(GPE Chicago/NNP)
-(PERSON First/NNP Chicago/NNP)
-(PERSON First/NNP Chicago/NNP)
-(ORGANIZATION Combined/NNP)
-(PERSON First/NNP Chicago/NNP)
-(GPE Greece/NNP)
-(GPE Greece/NNP)
-(PERSON Andreas/NNP Papandreou/NNP)
-(GPE Greeks/NNP)
-(ORGANIZATION New/NNP Democracy/NNP Party/NNP)
-(ORGANIZATION Constantine/NNP Mitsotakis/NNP)
-(ORGANIZATION Left/NNP)
-(ORGANIZATION Progress/NNP)
-(GPE Soviet/JJ)
-(ORGANIZATION Communist/NNP Party/NNP)
-(GPE Greece/NNP)
-(GPE Euro/NNP)
-(ORGANIZATION Communist/NN)
-(ORGANIZATION Hellenic/NNP Left/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(GPE Greece/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(PERSON George/NNP Koskotas/NNP)
-(ORGANIZATION Bank/NNP)
-(GPE Crete/NNP)
-(GPE Salem/NNP)
-(GPE Greece/NNP)
-(PERSON Mr./NNP Koskotas/NNP)
-(ORGANIZATION New/NNP Democracy/NNP)
-(ORGANIZATION Communist/NNP)
-(ORGANIZATION PASOK/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(ORGANIZATION Bank/NNP)
-(GPE Crete/NNP)
-(PERSON Mr./NNP Koskotas/NNP)
-(ORGANIZATION PASOK/NNP)
-(PERSON Mr./NNP Koskotas/NNP)
-(ORGANIZATION Koskotas/NNP)
-(ORGANIZATION PASOK/NNP)
-(ORGANIZATION Parliament/NNP)
-(PERSON Mr./NNP Koskotas/NNP)
-(GPE New/NNP)
-(ORGANIZATION PASOK/NNP)
-(GPE Greeks/NNP)
-(ORGANIZATION EYP/NNP)
-(ORGANIZATION PASOK/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(ORGANIZATION PASOK/NNP)
-(ORGANIZATION General/NNP Dynamics/NNP Corp./NNP)
-(GPE France/NNP)
-(PERSON Avions/NNP Marcel/NNP Dassault/NNP)
-(PERSON Dassault/NNP)
-(GPE Greek/JJ)
-(PERSON Mr./NNP Mitsotakis/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(ORGANIZATION PASOK/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(PERSON First/JJ)
-(ORGANIZATION Coalition/NNP)
-(ORGANIZATION Left/NNP)
-(ORGANIZATION Progress/NNP)
-(ORGANIZATION PASOK/NNP)
-(GPE Greece/NNP)
-(ORGANIZATION PASOK/NNP)
-(ORGANIZATION Communist/NNP Party/NNP)
-(GPE New/NNP)
-(PERSON Mr./NNP Mitsotakis/NNP)
-(PERSON Thus/NNP)
-(GPE Greece/NNP)
-(ORGANIZATION NATO/NNP)
-(GPE Greece/NNP)
-(ORGANIZATION Common/NNP Market/NNP)
-(GPE Greece/NNP)
-(GPE U.S./NNP)
-(GPE U.S./NNP)
-(GPE Greece/NNP)
-(PERSON Mohammed/NNP Rashid/NNP)
-(GPE Palestinian/JJ)
-(GPE U.S./NNP)
-(ORGANIZATION Pan/NNP American/NNP Airways/NNP)
-(GPE Greek/JJ)
-(GPE Rashid/NNP)
-(GPE Greece/NNP)
-(GPE Greeks/NNP)
-(GPE Greece/NNP)
-(GPE Greek/JJ)
-(ORGANIZATION PASOK/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(ORGANIZATION PASOK/NNP)
-(PERSON Mr./NNP Papandreou/NNP)
-(PERSON Mr./NNP Carpenter/NNP)
-(ORGANIZATION National/NNP Review/NNP)
-(GPE Athens/NNP)
-(GPE U.S./NNP)
-(PERSON Black/NNP)
-(PERSON Fed/NNP Chairman/NNP Greenspan/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION UAL/NNP)
-(ORGANIZATION Dow/NNP Jones/NNP)
-(ORGANIZATION Treasury/NNP)
-(GPE Japanese/JJ)
-(GPE Tokyo/NNP)
-(ORGANIZATION UAL/NNP)
-(ORGANIZATION Senate/NNP)
-(PERSON Bush/NNP)
-(ORGANIZATION House/NNP)
-(ORGANIZATION Senate/NNP)
-(ORGANIZATION General/NNP Motors/NNPS)
-(GPE North/JJ)
-(GPE American/JJ)
-(GPE U.S./NNP)
-(PERSON Warner/NNP)
-(PERSON Sony/NNP)
-(PERSON Peter/NNP Gruber/NNP)
-(PERSON Jon/NNP Peters/NNP)
-(PERSON Sony/NNP)
-(GPE U.S./NNP)
-(PERSON Hooker/NNP)
-(GPE U.S./NNP)
-(PERSON Bonwit/NNP Teller/NNP)
-(ORGANIZATION Boeing/NNP)
-(PERSON America/NNP West/NNP)
-(GPE Houston/NNP)
-(GPE Boeing/NNP)
-(PERSON Saatchi/NNP)
-(PERSON Saatchi/NNP)
-(GPE British/JJ)
-(ORGANIZATION Aerospace/NNP)
-(GPE France/NNP)
-(PERSON Thomson/NNP)
-(ORGANIZATION CSF/NN)
-(GPE U.S./NNP)
-(GPE Japan/NNP)
-(PERSON Dow/NNP Jones/NNP)
-(PERSON Shearson/NNP Lehman/NNP Hutton/NNP Treasury/NNP)
-(PERSON Dow/NNP Jones/NNP)
-(GPE San/NNP)
-(PERSON Francisco/NNP)
-(PERSON Apple/NNP Computer/NNP)
-(ORGANIZATION Lisa/NNP)
-(GPE Apple/NNP)
-(PERSON Lisa/NNP)
-(PERSON Lisa/NNP)
-(PERSON Apple/NNP)
-(PERSON Lisa/NNP)
-(ORGANIZATION San/NNP Francisco/NNP)
-(PERSON Lisa/NNP)
-(PERSON Lisa/NNP)
-(GPE Twiggy/NNP)
-(PERSON Twiggy/NNP)
-(PERSON Patrick/NNP Grannon/NNP)
-(GPE Los/NNP Angeles/NNP)
-(GPE Greenfield/NNP)
-(GPE Chimicles/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Milberg/NNP)
-(GPE Weiss/NNP)
-(PERSON Bershad/NNP)
-(PERSON Specthrie/NNP)
-(PERSON Lerach/NNP)
-(ORGANIZATION NFL/NNP)
-(ORGANIZATION National/NNP Football/NNP League/NNP)
-(GPE U.S./NNP)
-(PERSON League/NNP)
-(ORGANIZATION NFL/NNP)
-(ORGANIZATION USFL/NNP)
-(ORGANIZATION NFL/NNP)
-(ORGANIZATION USFL/NNP)
-(ORGANIZATION U.S./NNP Court/NNP)
-(GPE Appeals/NNPS)
-(GPE New/NNP York/NNP)
-(PERSON Harvey/NNP D./NNP Myerson/NNP)
-(PERSON Myerson/NNP)
-(PERSON Kuhn/NNP)
-(GPE Finley/NNP)
-(GPE Kumble/NNP)
-(PERSON Wagner/NNP)
-(PERSON Heine/NNP)
-(PERSON Underberg/NNP)
-(GPE Manley/NNP)
-(PERSON Myerson/NNP)
-(PERSON Casey/NNP)
-(PERSON Douglas/NNP R./NNP Pappas/NNP)
-(PERSON Myerson/NNP)
-(PERSON Kuhn/NNP)
-(ORGANIZATION USFL/NNP)
-(PERSON Myerson/NNP)
-(PERSON Kuhn/NNP)
-(ORGANIZATION USFL/NNP)
-(PERSON Shepard/NNP Goldfein/NNP)
-(ORGANIZATION NFL/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Supreme/NNP Court/NNP)
-(PERSON Mr./NNP Goldfein/NNP)
-(GPE Skadden/NNP)
-(PERSON Arps/NNP)
-(GPE Slate/NNP)
-(PERSON Meagher/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION USFL/NNP)
-(ORGANIZATION NFL/NNP)
-(ORGANIZATION USFL/NNP)
-(PERSON Mr./NNP Goldfein/NNP)
-(ORGANIZATION HOUSTON/NNP)
-(ORGANIZATION CALGARY/JJ)
-(ORGANIZATION Jaworski/NNP)
-(GPE Houston/NNP)
-(PERSON Fenerty/NNP)
-(PERSON Robertson/NNP)
-(GPE Fraser/NNP)
-(PERSON Hatch/NNP)
-(GPE Calgary/NNP)
-(PERSON Alberta/NNP)
-(PERSON Gibson/NNP Gayle/NNP)
-(PERSON Fulbright/NNP)
-(PERSON Jaworski/NNP)
-(PERSON Fulbright/NNP)
-(PERSON Jaworski/NNP)
-(GPE Washington/NNP)
-(GPE D.C./NNP)
-(PERSON Fenerty/NNP Robertson/NNP)
-(GPE U.S./NNP)
-(GPE U.S./NNP)
-(GPE Canada/NNP)
-(PERSON Francis/NNP M./NNP Saville/NNP)
-(PERSON Fenerty/NNP Robertson/NNP)
-(GPE Pittsburgh/NNP)
-(PERSON Mount/NNP Lebanon/NNP High/NNP School/NNP)
-(GPE Pittsburgh/NNP)
-(GPE Grace/NNP)
-(PERSON Grace/NNP)
-(ORGANIZATION FCC/NNP)
-(PERSON Diane/NNP S./NNP Killory/NNP)
-(PERSON Morrison/NNP)
-(GPE Washington/NNP)
-(GPE D.C./NNP)
-(ORGANIZATION San/NNP Francisco/NNP)
-(ORGANIZATION Federal/NNP Communications/NNPS)
-(ORGANIZATION FCC/NNP)
-(PERSON RICHARD/NNP P./NNP MAGURNO/NNP)
-(PERSON Eastern/NNP Airlines/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION Lord/NNP)
-(GPE Lord/NNP)
-(PERSON Barrett/NNP Smith/NNP)
-(PERSON Mr./NNP Magurno/NNP)
-(ORGANIZATION Miami/NNP)
-(GPE Houston/NNP)
-(PERSON Texas/NNP Air/NNP)
-(PERSON Mr./NNP Magurno/NNP)
-(GPE Washington/NNP)
-(GPE D.C./NNP)
-(GPE New/NNP York/NNP)
-(PERSON Apple/NNP Computer/NNP)
-(PERSON Apple/NNP)
-(ORGANIZATION Macintosh/NNP Plus/NNP)
-(ORGANIZATION Macintosh/NNP)
-(ORGANIZATION Macintosh/NNP)
-(ORGANIZATION Macintosh/NNP)
-(GPE Apple/NNP)
-(PERSON Matsushita/NNP Electric/NNP Industrial/NNP)
-(GPE Japan/NNP)
-(PERSON Siemens/NNP AG/NNP)
-(GPE West/NNP Germany/NNP)
-(PERSON Siemens/NNP)
-(PERSON Matsushita/NNP Electronic/NNP Components/NNP)
-(PERSON Siemens/NNP Matsushita/NNP Components/NNP)
-(GPE Munich/NNP)
-(PERSON Matsushita/NNP)
-(PERSON Matsushita/NNP)
-(GPE West/NNP Germany/NNP)
-(GSP Austria/NNP)
-(GPE France/NNP)
-(GPE Spain/NNP)
-(PERSON Roger/NNP Rosenblatt/NNP)
-(GPE U.S./NNP)
-(PERSON Mr./NNP Rosenblatt/NNP)
-(GPE New/NNP York/NNP)
-(GPE Frankly/NNP)
-(PERSON Mr./NNP Rosenblatt/NNP)
-(PERSON Mr./NNP Rosenblatt/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Time/NNP Warner/NNP Inc./NNP)
-(ORGANIZATION Washington/NNP Post/NNP)
-(ORGANIZATION Newsweek/NNP)
-(PERSON Mortimer/NNP B./NNP Zuckerman/NNP)
-(PERSON Mr./NNP Rosenblatt/NNP)
-(PERSON Michael/NNP Ruby/NNP)
-(PERSON Merrill/NNP McLoughlin/NNP)
-(PERSON Mr./NNP Ruby/NNP)
-(PERSON Mr./NNP Zuckerman/NNP)
-(PERSON Mr./NNP Rosenblatt/NNP)
-(ORGANIZATION Time/NNP)
-(GPE U.S./NNP)
-(PERSON Avions/NNS Marcel/NNP Dassault/NNP)
-(PERSON Breguet/NNP Aviation/NNP)
-(GPE French/JJ)
-(PERSON Dassault/NNP)
-(PERSON Keystone/NNP Consolidated/NNP)
-(ORGANIZATION Industries/NNPS Inc./NNP)
-(PERSON Glenn/NNP R./NNP Simmons/NNP)
-(PERSON Keystone/NNP)
-(PERSON Mr./NNP Simmons/NNP)
-(PERSON Keystone/NNP)
-(PERSON Revenue/NN)
-(PERSON Mr./NNP Simmons/NNP)
-(PERSON Keystone/NNP)
-(PERSON Mr./NNP Simmons/NNP)
-(PERSON Revenue/NN)
-(PERSON Keystone/NNP)
-(PERSON Revenue/NN)
-(PERSON Mr./NNP Simmons/NNP)
-(PERSON Keystone/NNP)
-(GPE Keystone/NNP)
-(PERSON Keystone/NNP)
-(PERSON Keystone/NNP)
-(PERSON Mr./NNP Simmons/NNP)
-(PERSON Robert/NNP W./NNP Singer/NNP)
-(PERSON Keystone/NNP)
-(GPE East/NNP)
-(GPE West/NNP)
-(PERSON Keystone/NNP)
-(PERSON Mr./NNP Simmons/NNP)
-(GPE U.S./NNP)
-(PERSON Freeport/NNP)
-(ORGANIZATION McMoRan/NNP Inc./NNP)
-(ORGANIZATION Sunshine/NNP Bridge/NNP)
-(GSP Donaldsonville/NNP)
-(GPE Freeport/NNP)
-(ORGANIZATION
-(ORGANIZATION Uncle/NNP Sam/NNP)
-(PERSON Freeport/NNP)
-(ORGANIZATION McMoRan/NNP)
-(ORGANIZATION Freeport/NNP Uranium/NNP Recovery/NNP)
-(PERSON Freeport/NNP)
-(ORGANIZATION McMoRan/NNP Resource/NNP Partners/NNP)
-(PERSON Business/NNP Week/NNP)
-(GPE Texas/NNP)
-(ORGANIZATION Corporate/NNP Elite/NNP)
-(ORGANIZATION McGraw/NNP)
-(PERSON Hill/NNP)
-(PERSON Texas/NNP Instruments/NNP)
-(ORGANIZATION Business/NNP Week/NNP)
-(PERSON Texas/NNP Instruments/NNP)
-(PERSON Lomas/NNP Financial/NNP)
-(GPE Dallas/NNP)
-(GPE U.S./NNP)
-(PERSON Lazard/NNP Freres/NNP)
-(PERSON Lomas/NNP)
-(ORGANIZATION Merrill/NNP Lynch/NNP Capital/NNP Markets/NNP)
-(ORGANIZATION Equitable/NNP Lomas/NNP)
-(PERSON Lomas/NNP)
-(ORGANIZATION Bankruptcy/NNP Code/NNP)
-(PERSON Lomas/NNP)
-(PERSON Merrill/NNP Lynch/NNP)
-(GPE Lomas/NNP)
-(PERSON Lomas/NNP)
-(PERSON Lazard/NNP)
-(PERSON Lazard/NNP)
-(GPE Europe/NNP)
-(GPE Japan/NNP)
-(GPE U.S./NNP)
-(PERSON Canadian/JJ Imperial/NNP Bank/NNP)
-(ORGANIZATION Commerce/NNP)
-(GPE Mexico/NNP)
-(GPE Canadian/JJ)
-(ORGANIZATION US/NNP)
-(PERSON Don/NNP Bowder/NNP)
-(GPE Canadian/JJ)
-(GPE Mexican/JJ)
-(ORGANIZATION LDC/NNP)
-(ORGANIZATION LDC/NNP)
-(PERSON Mr./NNP Bowder/NNP)
-(PERSON Mr./NNP Bowder/NNP)
-(GPE Mexican/JJ)
-(GPE Mexican/JJ)
-(GPE U.S./NNP)
-(GPE Mexican/JJ)
-(GPE Mexican/JJ)
-(GPE U.S./NNP)
-(PERSON Mr./NNP Bowder/NNP)
-(ORGANIZATION LDC/NNP)
-(ORGANIZATION LDC/NNP)
-(PERSON Wall/NNP Street/NNP)
-(PERSON Alan/NNP Gaines/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Gaines/NNP Berland/NNP)
-(PERSON Steven/NNP Rattner/NNP)
-(PERSON Lazard/NNP Freres/NNP)
-(PERSON Campeau/NNP)
-(ORGANIZATION UAL/NNP)
-(GPE United/NNP Airlines/NNPS)
-(PERSON Takeover/NNP)
-(ORGANIZATION UAL/NNP)
-(ORGANIZATION UAL/NNP)
-(GPE American/JJ)
-(ORGANIZATION Airlines/NNPS)
-(ORGANIZATION AMR/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Donald/NNP Trump/NNP)
-(ORGANIZATION AMR/NNP)
-(ORGANIZATION EDT/NNP)
-(ORGANIZATION AMR/NNP)
-(GPE London/NNP)
-(ORGANIZATION Jefferies/NNP)
-(GPE Los/NNP Angeles/NNP)
-(ORGANIZATION AMR/NNP)
-(PERSON Delta/NNP Air/NNP Lines/NNPS)
-(ORGANIZATION USAir/NNP Group/NNP)
-(ORGANIZATION Wall/NNP)
-(PERSON Vitro/NNP S.A./NNP)
-(GPE Mexican/JJ)
-(PERSON Anchor/NNP Glass/NNP Container/NNP)
-(PERSON Vitro/NNP)
-(GPE Anchor/NNP)
-(ORGANIZATION Vitro/NNP)
-(GPE Anchor/NNP)
-(PERSON Donaldson/NNP)
-(PERSON Lufkin/NNP)
-(ORGANIZATION Jenrette/NNP Securities/NNPS)
-(ORGANIZATION Security/NNP Pacific/NNP National/NNP Bank/NNP)
-(PERSON Anchor/NNP Glass/NNP)
-(PERSON Donaldson/NNP)
-(PERSON Vitro/NNP)
-(PERSON Donaldson/NNP)
-(PERSON Donaldson/NNP)
-(ORGANIZATION Security/NNP Pacific/NNP)
-(PERSON Vitro/NNP)
-(ORGANIZATION McCaw/NNP Cellular/NNP Communications/NNP)
-(PERSON McCaw/NNP)
-(ORGANIZATION McCaw/NNP)
-(ORGANIZATION LIN/NNP Broadcasting/NNP)
-(ORGANIZATION McCaw/NNP)
-(ORGANIZATION LIN/NNP)
-(ORGANIZATION LIN/NNP)
-(ORGANIZATION BellSouth/NNP)
-(ORGANIZATION LIN/NNP)
-(ORGANIZATION LIN/NNP)
-(ORGANIZATION BellSouth/NNP)
-(PERSON Mr./NNP Rattner/NNP)
-(ORGANIZATION Dow/NNP)
-(PERSON Mr./NNP Rattner/NNP)
-(ORGANIZATION LBO/NN)
-(PERSON Tomilson/NNP Hill/NNP)
-(ORGANIZATION Shearson/NNP)
-(PERSON Hutton/NNP)
-(ORGANIZATION Columbia/NNP Pictures/NNPS Entertainment/NNP)
-(ORGANIZATION Sony/NNP)
-(GPE Japan/NNP)
-(ORGANIZATION USX/NNP)
-(PERSON Upjohn/NNP)
-(PERSON Campbell/NNP Soup/NNP)
-(ORGANIZATION Paramount/NNP Communications/NNP)
-(GPE Woolworth/NNP)
-(PERSON Delta/NNP Air/NNP Lines/NNPS)
-(ORGANIZATION MCA/NNP)
-(PERSON Kollmorgen/NNP)
-(PERSON Vernitron/NNP)
-(PERSON Ramada/NNP)
-(PERSON Ramada/NNP)
-(GPE American/NNP)
-(ORGANIZATION Medical/NNP International/NNP)
-(PERSON First/NNP Boston/NNP)
-(ORGANIZATION Pritzker/NNP)
-(GPE Chicago/NNP)
-(ORGANIZATION American/NNP Medical/NNP)
-(PERSON Hilton/NNP Hotels/NNP)
-(PERSON Hilton/NNP)
-(PERSON Hilton/NNP)
-(GPE Hilton/NNP)
-(ORGANIZATION UAL/NNP)
-(PERSON Hilton/NNP)
-(PERSON William/NNP Lebo/NNP)
-(PERSON Hilton/NNP)
-(PERSON Hilton/NNP)
-(PERSON Mr./NNP Lebo/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Neil/NNP Weisman/NNP)
-(GPE Chilmark/NNP Capital/NNP)
-(PERSON Pauline/NNP Yoshihashi/NNP)
-(GPE Los/NNP Angeles/NNP)
-(GPE Los/NNP Angeles/NNP)
-(GPE New/NNP York/NNP)
-(ORGANIZATION Metropolitan/NNP Detroit/NNP)
-(PERSON Area/NNP)
-(PERSON Detroit/NNP)
-(PERSON Houston/NNP)
-(GPE Denver/NNP)
-(PERSON Houston/NNP)
-(GPE Denver/NNP)
-(ORGANIZATION Metropolitan/NNP Houston/NNP)
-(GPE Houston/NNP)
-(ORGANIZATION Metropolitan/NNP Houston/NNP)
-(PERSON Houston/NNP)
-(PERSON Houston/NNP)
-(PERSON Houston/NNP)
-(PERSON Denver/NNP)
-(PERSON Denver/NNP)
-(PERSON Houston/NNP)
-(PERSON Denver/NNP)
-(PERSON Denver/NNP)
-(PERSON Denver/NNP)
-(PERSON Houston/NNP)
-(PERSON Denver/NNP)
-(GPE Washington/NNP)
-(GPE New/NNP York/NNP)
-(GPE Los/NNP Angeles/NNP)
-(PERSON Mr./NNP Leinberger/NNP)
-(GPE Beverly/NNP Hills/NNP)
-(GPE Calif./NNP)
-(PERSON Kysor/NNP)
-(ORGANIZATION Common/NNP Cause/NNP)
-(ORGANIZATION Senate/NNP Ethics/NNP Committee/NNP)
-(ORGANIZATION Justice/NNP Department/NNP)
-(GPE Arizona/NNP)
-(PERSON Charles/NNP Keating/NNP)
-(GPE U.S./NNP)
-(PERSON Mr./NNP Keating/NNP)
-(GPE California/NNP)
-(PERSON Lincoln/NNP Savings/NNP)
-(PERSON Loan/NNP Association/NNP)
-(PERSON Fred/NNP Wertheimer/NNP)
-(ORGANIZATION Common/NNP Cause/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION Democratic/JJ Sens/NNP)
-(PERSON Dennis/NNP DeConcini/NNP)
-(GPE Arizona/NNP)
-(PERSON Alan/NNP Cranston/NNP)
-(GPE California/NNP)
-(PERSON John/NNP Glenn/NNP)
-(GPE Ohio/NNP)
-(PERSON Donald/NNP Riegle/NNP)
-(GPE Michigan/NNP)
-(ORGANIZATION GOP/NNP)
-(PERSON John/NNP McCain/NNP)
-(GPE Arizona/NNP)
-(PERSON Mr./NNP Wertheimer/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(FACILITY Wall/NNP Street/NNP Journal/NNP)
-(PERSON Lincoln/NNP)
-(PERSON Lincoln/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION Federal/NNP Home/NNP Loan/NNP Bank/NNP Board/NNP)
-(PERSON Glenn/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION Bank/NNP Board/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Lincoln/NNP)
-(PERSON Lincoln/NNP)
-(GPE American/NNP)
-(ORGANIZATION Continental/NNP Corp./NNP)
-(ORGANIZATION Resolution/NNP Trust/NNP Corp./NNP)
-(ORGANIZATION Bank/NNP Board/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Lincoln/NNP)
-(ORGANIZATION Senate/NNP Banking/NNP Committee/NNP)
-(GPE Detroit/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Lincoln/NNP)
-(GPE American/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION Cat/NNP Cay/NNP)
-(ORGANIZATION Bahamas/NNPS)
-(PERSON McCain/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON McCain/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(GPE July/NNP)
-(GPE California/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(PERSON Cranston/NNP)
-(PERSON Cranston/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION California/NNP Democratic/NNP)
-(GPE July/NNP)
-(GPE Ohio/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION National/NNP Council/NNP)
-(ORGANIZATION Public/NNP Policy/NNP)
-(PERSON Glenn/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION Ohio/NNP)
-(PERSON Mr./NNP Wertheimer/NNP)
-(ORGANIZATION Senate/NNP Ethics/NNP Committee/NNP)
-(ORGANIZATION House/NNP)
-(PERSON James/NNP Wright/NNP)
-(PERSON Wilson/NNP Abney/NNP)
-(PERSON Riegle/NNP)
-(PERSON McCain/NNP)
-(PERSON Glenn/NNP)
-(ORGANIZATION Senate/NNP Ethics/NNP Committee/NNP)
-(PERSON Cranston/NNP)
-(ORGANIZATION Federal/NNP Bureau/NNP)
-(PERSON Mr./NNP Keating/NNP)
-(ORGANIZATION Bank/NNP Board/NNP)
-(ORGANIZATION Common/NNP Cause/NNP)
-(ORGANIZATION Trinity/NNP Industries/NNPS Inc./NNP)
-(PERSON Norfolk/NNP Southern/NNP)
-(PERSON Trinity/NNP)
-(PERSON Norfolk/NNP Southern/NNP)
-(GPE Norfolk/NNP)
-(GPE China/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE China/NNP)
-(GPE Hong/NNP Kong/NNP Toys/NNP Council/NNP)
-(PERSON Dennis/NNP Ting/NNP)
-(GPE China/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE British/JJ)
-(GPE Beijing/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(PERSON David/NNP Yeh/NNP)
-(ORGANIZATION International/NNP Matchbox/NNP Group/NNP Ltd/NNP)
-(PERSON Matchbox/NNP)
-(GPE Hong/NNP Kong/NNP)
-(LOCATION Southeast/NNP Asia/NNP)
-(GPE Thailand/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE China/NNP)
-(GPE Guangdong/NNP)
-(GPE South/NNP China/NNP)
-(PERSON Henry/NNP Hu/NNP)
-(ORGANIZATION Wah/NNP)
-(GPE Hong/NNP Kong/NNP)
-(ORGANIZATION US/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(PERSON Edmund/NNP Young/NNP)
-(PERSON Perfecta/NNP Enterprises/NNP)
-(GPE Hong/NNP Kong/NNP)
-(LOCATION Southeast/NNP Asia/NNP)
-(GPE Thailand/NNP)
-(PERSON Matchbox/NNP)
-(PERSON Wah/NNP Shing/NNP)
-(PERSON Kader/NNP Industrial/NNP)
-(PERSON Mr./NNP Ting/NNP)
-(GPE Malaysia/NNP)
-(ORGANIZATION Philippines/NNPS)
-(GPE Indonesia/NNP)
-(ORGANIZATION European/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE Spain/NNP)
-(GPE Portugal/NNP)
-(GPE Greece/NNP)
-(GPE China/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE U.S./NNP)
-(PERSON Worlds/NNP)
-(ORGANIZATION Wonder/NNP Inc./NNP)
-(ORGANIZATION
-(GPE U.S./NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Teenage/NNP Mutant/NNP Ninja/NNP Turtles/NNP)
-(ORGANIZATION Playmates/NNP Holdings/NNPS Ltd/NNP)
-(GPE American/JJ)
-(PERSON Paul/NNP Kwan/NNP)
-(GPE Playmates/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Christmas/NNP)
-(GPE U.S./NNP)
-(PERSON Mr./NNP Kwan/NNP)
-(ORGANIZATION Ninja/NNP Turtles/NNP)
-(PERSON Playmates/NNP)
-(GPE Hong/NNP Kong/NNP)
-(GPE U.S./NNP)
-(PERSON Nintendo/NNP Entertainment/NNP System/NNP)
-(ORGANIZATION Nintendo/NNP)
-(GPE Japan/NNP)
-(GPE Beijing/NNP)
-(GPE Guangdong/NNP)
-(PERSON Bank/NNP)
-(GPE China/NNP)
-(GPE Beijing/NNP)
-(GPE Guangdong/NNP)
-(GPE Beijing/NNP)
-(GPE China/NNP)
-(GPE China/NNP)
-(GPE Chinese/JJ)
-(PERSON Mr./NNP Kwan/NNP)
-(GPE Playmates/NNP)
-(ORGANIZATION Bush/NNP)
-(ORGANIZATION Supreme/NNP Court/NNP)
-(PERSON Solicitor/NNP General/NNP)
-(PERSON Kenneth/NNP Starr/NNP)
-(ORGANIZATION Supreme/NNP Court/NNP)
-(PERSON Roe/NNP)
-(PERSON Wade/NNP)
-(ORGANIZATION Supreme/NNP Court/NNP)
-(PERSON William/NNP Rehnquist/NNP)
-(PERSON Missouri/NNP)
-(ORGANIZATION Supreme/NNP Court/NNP)
-(ORGANIZATION Minnesota/NNP)
-(ORGANIZATION Bush/NNP)
-(PERSON Hodgson/NNP)
-(PERSON Aluminum/NNP Co./NNP)
-(GPE America/NNP)
-(PERSON Revenue/NNP)
-(PERSON Alcoa/NNP)
-(PERSON William/NNP Siedenburg/NNP)
-(PERSON Smith/NNP Barney/NNP)
-(PERSON Harris/NNP Upham/NNP)
-(PERSON Wayne/NNP Atwell/NNP)
-(PERSON Goldman/NNP)
-(PERSON Sachs/NNP)
-(PERSON Mr./NNP Atwell/NNP)
-(GPE New/NNP York/NNP)
-(PERSON Alcoa/NNP)
-(ORGANIZATION NBC/NNP)
-(ORGANIZATION ABC/NNP)
-(ORGANIZATION CBS/NNP)
-(ORGANIZATION Hollywood/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION Hollywood/NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION Financial/NNP Interest/NNP)
-(ORGANIZATION Syndication/NNP Rules/NNP)
-(ORGANIZATION National/NNP Broadcasting/NNP Co./NNP)
-(ORGANIZATION General/NNP Electric/NNP Co./NNP)
-(PERSON Qintex/NNP Australia/NNP)
-(GPE Australian/JJ)
-(ORGANIZATION NBC/NNP)
-(ORGANIZATION NBC/NNP)
-(ORGANIZATION CBS/NNP Inc./NNP)
-(ORGANIZATION ABC/NNP)
-(ORGANIZATION Capital/NNP)
-(GPE Hollywood/NNP)
-(PERSON Motion/NNP Picture/NNP)
-(PERSON Jack/NNP Valenti/NNP)
-(ORGANIZATION Paramount/NNP Communications/NNP Inc./NNP)
-(PERSON Fries/NNP Entertainment/NNP)
-(ORGANIZATION Warner/NNP Communications/NNPS Inc./NNP)
-(ORGANIZATION MCA/NNP)
-(PERSON Mr./NNP Valenti/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION Congress/NNP)
-(ORGANIZATION NBC/NNP)
-(PERSON Robert/NNP Wright/NNP)
-(PERSON Sony/NNP Corp./NNP)
-(ORGANIZATION
-(PERSON Walter/NNP Cronkite/NNP)
-(PERSON Broadcast/NNP System/NNP Trinitron/NNP)
-(PERSON Dan/NNP Rather/NNP)
-(GPE Tokyo/NNP)
-(PERSON Holston/NNP)
-(ORGANIZATION NBC/NNP)
-(GPE Broadcasting/NNP)
-(PERSON Mr./NNP Holston/NNP)
-(GPE Europe/NNP)
-(GPE U.S./NNP)
-(GPE Australia/NNP)
-(ORGANIZATION NBC/NNP)
-(PERSON Mr./NNP Holston/NNP)
-(ORGANIZATION NBC/NNP)
-(GPE U.S./NNP)
-(ORGANIZATION NBC/NNP)
-(ORGANIZATION Qintex/NNP)
-(GPE Sony/NNP)
-(ORGANIZATION Time/NNP Inc./NNP)
-(PERSON Warner/NNP)
-(PERSON Time/NNP)
-(GPE Warner/NNP)
-(PERSON Time/NNP)
-(PERSON Home/NNP Box/NNP Office/NNP)
-(ORGANIZATION Warner/NNP)
-(ORGANIZATION HBO/NNP)
-(ORGANIZATION NBC/NNP)
-(PERSON Mr./NNP Wright/NNP)
-(ORGANIZATION Time/NNP)
-(GPE Warner/NNP)
-(ORGANIZATION Sony/NNP)
-(PERSON Columbia/NNP)
-(ORGANIZATION NBC/NNP)
-(GPE Qintex/NNP)
-(PERSON Mr./NNP Wright/NNP)
-(GPE Qintex/NNP)
-(ORGANIZATION NBC/NNP)
-(PERSON William/NNP Lilley/NNP III/NNP)
-(ORGANIZATION CBS/NNP)
-(ORGANIZATION Policy/NN Communications/NNPS)
-(GPE Washington/NNP)
-(PERSON Fin/NNP)
-(PERSON Hence/NNP)
-(ORGANIZATION NBC/NNP)
-(ORGANIZATION ABC/NNP)
-(ORGANIZATION ABC/NNP)
-(ORGANIZATION Reagan/NNP)
-(ORGANIZATION Federal/NNP Communications/NNP Commission/NNP)
-(ORGANIZATION Brookings/NNP Institution/NNP)
-(PERSON Ronald/NNP Reagan/NNP)
-(GPE Hollywood/NNP)
-(ORGANIZATION FCC/NNP)
-(PERSON Network/NNP)
-(GPE Washington/NNP)
-(ORGANIZATION Congress/NNP)
-(PERSON Hollywood/NNP)
-(PERSON Edward/NNP J./NNP Markey/NNP)
-(ORGANIZATION D/NNP)
-(GPE Mass/NNP)
-(ORGANIZATION FCC/NNP)
-(PERSON Mr./NNP Markey/NNP)
-(ORGANIZATION Sony/NNP)
-(GPE Columbia/NNP)
-(PERSON Mr./NNP Markey/NNP)
-(ORGANIZATION FCC/NNP)
-(PERSON Alfred/NNP C./NNP Sikes/NNP)
-(ORGANIZATION Equipment/NNP Inc./NNP)
-(PERSON Postal/NNP Service/NNP)
-(GPE April/NNP)
-(PERSON William/NNP G./NNP Moore/NNP Jr./NNP)
-(PERSON Robert/NNP W./NNP Reedy/NNP)
-(PERSON Peter/NNP E./NNP Voss/NNP)
-(ORGANIZATION Postal/NNP Service/NNP)
-(PERSON Mr./NNP Voss/NNP)
-(PERSON Recognition/NNP)
-(PERSON Mr./NNP Moore/NNP)
-(PERSON Mr./NNP Reedy/NNP)
-(ORGANIZATION District/NNP)
-(GPE Columbia/NNP)
-(ORGANIZATION Postal/NNP Service/NNP)
-(PERSON Recognition/NNP Equipment/NNP)
-(ORGANIZATION Postal/NNP Service/NNP)
-(ORGANIZATION Postal/NNP Service/NNP)
-(ORGANIZATION Intel/NNP Corp./NNP)
-(PERSON Siemens/NNP AG/NNP)
-(GPE West/NNP Germany/NNP)
-(PERSON Sales/NNS)
-(ORGANIZATION Intel/NNP)
-(ORGANIZATION Intel/NNP)
-(GPE August/NNP)
-(ORGANIZATION Intel/NNP)
-(PERSON Andrew/NNP S.Grove/NNP)
-(GPE Intel/NNP)
-(ORGANIZATION Intel/NNP)
-(ORGANIZATION Intel/NNP)
-(PERSON Revenue/NN)
-(PERSON Walter/NNP Sisulu/NNP)
-(ORGANIZATION African/NNP National/NNP)
-(ORGANIZATION Congress/NNP)
-(PERSON Mr./NNP Sisulu/NNP)
-(ORGANIZATION ANC/NNP)
-(GPE South/NNP Africa/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Mr./NNP Sisulu/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Elias/NNP Motsoaledi/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Sizwe/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Mr./NNP Sisulu/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION ANC/NNP)
-(GPE Lusaka/NNP)
-(GPE Zambia/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Cassim/NNP Saloojee/NNP)
-(PERSON Mr./NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION Holy/NNP Cross/NNP Anglican/NNP Church/NNP)
-(GPE Soweto/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Nelson/NNP Mandela/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Mr./NNP Sisulu/NNP)
-(PERSON Klerk/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION Pan/NNP Africanist/NNP Congress/NNP)
-(GPE Poland/NNP)
-(GPE Soviet/NNP Union/NNP)
-(GPE South/JJ)
-(GPE African/JJ)
-(PERSON Mr./NNP Mandela/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION ANC/NNP)
-(ORGANIZATION ANC/NNP)
-(GSP Pretoria/NNP)
-(PERSON Mr./NNP Mandela/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Mr./NNP Mandela/NNP)
-(ORGANIZATION ANC/NNP)
-(GPE Lusaka/NNP)
-(PERSON Peter/NNP Mokaba/NNP)
-(GPE South/JJ)
-(ORGANIZATION African/NNP Youth/NNP)
-(ORGANIZATION ANC/NNP)
-(PERSON Andrew/NNP Mlangeni/NNP)
-(ORGANIZATION Umkhonto/NNP)
-(PERSON Nelson/NNP Mandela/NNP)
+July/NNP	PERSON
+MMS/NNPInternational/NNP	ORGANIZATION
+McGraw/NNP	ORGANIZATION
+Hill/NNPInc./NNP	PERSON
+New/NNPYork/NNP	GPE
+Michael/NNPEnglund/NNP	PERSON
+MMS/NNP	ORGANIZATION
+Mr./NNPEnglund/NNP	PERSON
+Trade/NNP	PERSON
+August/NNP	GPE
+MMS/NNP	ORGANIZATION
+August/NNP	GPE
+Robert/NNPH./NNPChandross/NNP	PERSON
+Lloyd/NNP	PERSON
+Bank/NNP	ORGANIZATION
+New/NNPYork/NNP	GPE
+CPI/NNP	ORGANIZATION
+PPI/NNP	ORGANIZATION
+CPI/NNP	ORGANIZATION
+Gary/NNPCiminero/NNP	PERSON
+Fleet\/Norstar/NNP	ORGANIZATION
+August/NNP	GPE
+Way/NNPStreet/NNP	PERSON
+Similar/JJ	PERSON
+Rollin/NNPS./NNPTrexler/NNP	PERSON
+American/NNP	GPE
+Britain/NNP	GPE
+Capital/NNPCity/NNP	ORGANIZATION
+Thames/NNPTelevision/NNP	PERSON
+Capital/NNPCity/NNP	ORGANIZATION
+Shane/NNPLongman/NNP	ORGANIZATION
+London/NNP	GPE
+Shane/NNP	GPE
+Longman/NNP	PERSON
+Shane/NNPLongman/NNP	PERSON
+Michelle/NNP	PERSON
+Trouble/NNP	PERSON
+Michelle/NNP	PERSON
+Shane/NNPLongman/NNP	PERSON
+U.S./NNP	GPE
+Columbia/NNP	GPE
+Japanese/JJ	GPE
+Japanese/JJ	GPE
+Shane/NNPLongman/NNP	PERSON
+American/NNP	GPE
+Michelle/NNP	PERSON
+Porsche/NNP	GPE
+Declan/NNP	PERSON
+Britain/NNP	GPE
+Thatcherian/NNP	GPE
+Max/NNP	GPE
+Max/NNP	PERSON
+Chinese/JJ	GPE
+French/JJ	GPE
+Dieppe/NNP	GPE
+Capital/NNPCity/NNP	ORGANIZATION
+Thames/NNP	GPE
+Shane/NNPLongman/NNP	PERSON
+British/JJ	GPE
+London/NNP	GPE
+Capital/NNPCity/NNP	ORGANIZATION
+Yank/NNP	ORGANIZATION
+America/NNP	GPE
+Thames/NNP	PERSON
+U.S./NNP	GPE
+Donald/NNPTaffner/NNP	PERSON
+U.S./NNP	GPE
+Three/NNP	PERSON
+Company/NNP	ORGANIZATION
+Comfort/NNP	ORGANIZATION
+British/JJ	GPE
+Mr./NNPTaffner/NNP	PERSON
+Capital/NNPCity/NNP	ORGANIZATION
+British/JJ	GPE
+Carry/NNP	PERSON
+American/NNP	GPE
+Joanna/NNPKanska/NNP	PERSON
+William/NNPArmstrong/NNP	PERSON
+Max/NNP	PERSON
+Douglas/NNPHodge/NNP	PERSON
+James/NNPFarentino/NNP	PERSON
+Rolf/NNPSaxon/NNP	PERSON
+Tommy/NNPNoonan/NNP	PERSON
+Dorian/NNPHealy/NNP	PERSON
+Huntz/NNPHall/NNP	PERSON
+Bowery/NNPBoys/NNP	ORGANIZATION
+OK/JJ	ORGANIZATION
+Carry/NNP	PERSON
+Japanese/JJ	GPE
+Dai/NNP	ORGANIZATION
+Ichi/NNPKangyo/NNPBank/NNP	PERSON
+White/NNPHouse/NNP	FACILITY
+Zsa/NNPZsa/NNP	PERSON
+Huntz/NNPHall/NNP	PERSON
+Mr./NNPRustin/NNP	PERSON
+Journal/NNP	ORGANIZATION
+London/NNP	GPE
+Axa/NNP	PERSON
+Midi/NNPAssurances/NNP	PERSON
+France/NNP	GPE
+Farmers/NNPGroup/NNPInc./NNP	ORGANIZATION
+U.S./NNP	GPE
+Farmers/NNP	ORGANIZATION
+Sir/NNPJames/NNPGoldsmith/NNP	PERSON
+British/JJ	GPE
+Los/NNPAngeles/NNP	GPE
+Farmers/NNP	ORGANIZATION
+U.S./NNP	GPE
+Goldsmith/NNP	ORGANIZATION
+Farmers/NNP	GPE
+Sir/NNPJames/NNP	PERSON
+August/NNP	GPE
+Farmers/NNP	ORGANIZATION
+Axa/NNP	PERSON
+Hoylake/NNP	GPE
+Sir/NNPJames/NNP	PERSON
+Axa/NNP	PERSON
+Axa/NNP	PERSON
+Axa/NNP	PERSON
+Midi/NNPGroup/NNP	ORGANIZATION
+Axa/NNP	PERSON
+Claude/NNPBebear/NNP	PERSON
+Axa/NNP	GPE
+Cie/NNP	PERSON
+Paribas/NNP	PERSON
+Credit/NNPLyonnais/NNP	ORGANIZATION
+Societe/NNPGenerale/NNP	PERSON
+BankAmerica/NNPCorp./NNP	ORGANIZATION
+Citicorp/NNP	ORGANIZATION
+Mr./NNPBebear/NNP	PERSON
+Axa/NNP	PERSON
+Midi/NNPGroup/NNP	ORGANIZATION
+Farmers/NNP	GPE
+Hoylake/NNP	PERSON
+Farmers/NNP	ORGANIZATION
+Axa/NNP	PERSON
+Hoylake/NNP	PERSON
+Hoylake/NNP	PERSON
+Farmers/NNP	ORGANIZATION
+Mr./NNPBebear/NNP	PERSON
+Farmers/NNP	GPE
+Farmers/NNP	PERSON
+Axa/NNP	PERSON
+Hoylake/NNP	PERSON
+Sir/NNPJames/NNP	PERSON
+British/JJ	GPE
+Hoylake/NNP	PERSON
+Farmers/NNP	GPE
+Axa/NNP	PERSON
+B.A.T/NNP	PERSON
+Axa/NNP	PERSON
+Farmers/NNP	ORGANIZATION
+Farmers/NNP	ORGANIZATION
+Sir/NNPJames/NNP	PERSON
+General/NNPMotors/NNPCorp./NNP	ORGANIZATION
+U.S./NNP	GPE
+North/JJ	GPE
+American/JJ	GPE
+GM/NNP	ORGANIZATION
+August/NNP	GPE
+GM/NNP	ORGANIZATION
+U.S./NNP	GPE
+U.S./NNP	GPE
+Tom/NNPKelly/NNP	PERSON
+Bill/NNPWink/NNPChevrolet/NNP	PERSON
+Dearborn/NNP	GPE
+Mich/NNP	PERSON
+GM/NNP	ORGANIZATION
+Cadillac/NNP	PERSON
+Cadillac/NNP	PERSON
+Lexus/NNP	GPE
+Toyota/NNPMotor/NNP	PERSON
+Toyota/NNP	GPE
+No/NNP	ORGANIZATION
+GM/NNP	ORGANIZATION
+GM/NNP	ORGANIZATION
+GM/NNP	ORGANIZATION
+Chrysler/NNP	PERSON
+Honda/NNPMotor/NNP	PERSON
+Honda/NNP	PERSON
+Marysville/NNP	GPE
+Ohio/NNP	GPE
+Accords/NNP	PERSON
+Honda/NNP	GPE
+Chrysler/NNP	PERSON
+Chrysler/NNP	PERSON
+Domestic/JJ	GPE
+Antonio/NNPL./NNPSavoca/NNP	PERSON
+Atlantic/NNPResearch/NNPCorp./NNP	ORGANIZATION
+Mr./NNPSavoca/NNP	PERSON
+Mr./NNPSavoca/NNP	PERSON
+William/NNPH./NNPBorten/NNP	PERSON
+Sequa/NNP	PERSON
+U.S./NNP	GPE
+Congress/NNP	ORGANIZATION
+Central/NNPIntelligence/NNP	ORGANIZATION
+Hungarian/JJ	GPE
+Employees/NNS	PERSON
+Szabad/NNPEuropa/NNPRadio/NNP	PERSON
+Radio/NNPFree/NNP	PERSON
+Barnabas/NNPde/NNPBueky/NNP	PERSON
+Hungarian/NNP	GPE
+Munich/NNP	GPE
+West/NNPGermany/NNP	GPE
+Hungarian/NNP	GPE
+Warsaw/NNP	GPE
+East/NNPBloc/NNP	LOCATION
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Budapest/NNP	GPE
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Hungarian/JJ	GPE
+Andrew/NNPDeak/NNP	PERSON
+Technical/NNPUniversity/NNP	ORGANIZATION
+Hungarian/NNP	GPE
+Hungary/NNP	GPE
+Boys/NNP	PERSON
+Radio/NN	PERSON
+British/JJ	GPE
+Broadcasting/NNPCorp./NNP	ORGANIZATION
+U.S./NNP	GPE
+America/NNP	GPE
+Hungarian/JJ	GPE
+Hungarian/NNP	GPE
+Australian/JJ	GPE
+Rupert/NNPMurdoch/NNP	PERSON
+Hungarian/JJ	GPE
+Britain/NNP	GPE
+Robert/NNPMaxwell/NNP	PERSON
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Hungary/NNP	GPE
+Great/NNPEastern/NNPBeyond/NNP	PERSON
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Soviet/NNPUnion/NNP	GPE
+Radio/NNPLiberty/NNP	PERSON
+Bulgarian/NNP	GPE
+Belorussian/NNP	GPE
+Kazakh/NNP	GPE
+Kirghiz/NNP	PERSON
+Warsaw/NNP	GPE
+Eastern/NNPEurope/NNP	GPE
+Months/NNP	PERSON
+Hungarian/NNP	GPE
+Communist/NNPParty/NNP	ORGANIZATION
+Socialist/NNP	ORGANIZATION
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Hungarian/NNPMinistry/NNP	ORGANIZATION
+Foreign/NNPAffairs/NNP	ORGANIZATION
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Ministry/NNPof/INTelecommunications/NNPS	ORGANIZATION
+Budapest/NNP	LOCATION
+Geza/NNPSzocs/NNP	PERSON
+Radio/NNPFree/NNPEurope/NNP	ORGANIZATION
+Budapest/NNP	GPE
+Hungarian/JJ	GPE
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Dark/NNPAges/NNP	PERSON
+Century/NNP	ORGANIZATION
+Western/JJ	GPE
+Europe/NNP	GPE
+Budapest/NNP	GPE
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Hungarian/JJ	GPE
+Hungary/NNP	GPE
+Hungarian/JJRadio/NNP	GPE
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Budapest/NNP	GPE
+Hungarian/JJ	GPE
+Nagykanizsa/NNP	GPE
+Nyiregyhaza/NNP	GPE
+Hungarian/JJ	GPE
+Newsreel/NNP	GPE
+Radio/NNPFree/NNPEurope/NNP	PERSON
+Western/JJ	GPE
+Pet/NNPShop/NNPBoys/NNP	ORGANIZATION
+Mr./NNPDeak/NNP	PERSON
+Community/NNPService/NNPAct/NNP	ORGANIZATION
+America/NNP	GPE
+Democratic/JJLeadership/NNPCouncil/NNP	ORGANIZATION
+DLC/NNP	ORGANIZATION
+Pentagon/NNP	FACILITY
+Edward/NNPKennedy/NNP	PERSON
+Labor/NNPCommittee/NNP	ORGANIZATION
+DLC/NNP	ORGANIZATION
+Sam/NNPNunn/NNP	PERSON
+Chris/NNPDodd/NNP	PERSON
+Kennedy/NNP	GPE
+Dale/NNPBumpers/NNP	PERSON
+VISTA/NNP	ORGANIZATION
+Retired/NNPSenior/NNPVolunteer/NNP	ORGANIZATION
+Foster/NNPGrandparent/NNP	PERSON
+Senior/NNP	ORGANIZATION
+House/NNP	ORGANIZATION
+Congress/NNP	ORGANIZATION
+Gallup/NNPPoll/NNP	ORGANIZATION
+American/NNP	GPE
+GI/NNPBill/NNP	ORGANIZATION
+Will/NNP	PERSON
+Polls/NNP	PERSON
+Senate/NNP	ORGANIZATION
+Light/NNP	GPE
+White/NNPHouse/NNP	FACILITY
+Democratic/JJ	ORGANIZATION
+National/NNP	ORGANIZATION
+Mr./NNPChapman/NNP	PERSON
+Indianapolis/NNP	GPE
+Hudson/NNPInstitute/NNP	PERSON
+Mr./NNPSzanton/NNP	PERSON
+Drug/NNPEmporium/NNP	PERSON
+Gary/NNPWilber/NNP	PERSON
+Philip/NNPT./NNPWilber/NNP	PERSON
+Robert/NNPE./NNPLyons/NNPIII/NNP	PERSON
+Philadelphia/NNP	GSP
+Gary/NNPWilber/NNP	PERSON
+	ORGANIZATION
+Texas/NNP	GPE
+American/NNPEnergy/NNP	ORGANIZATION
+Physicians/NNP	PERSON
+Texas/NNPAmerican/NNP	PERSON
+American/NNP	GPE
+Bedminster/NNP	GPE
+N.J./NNP	GPE
+Prime/NNP	PERSON
+France/NNP	GPE
+National/NNPStatistics/NNPSInstitute/NNP	ORGANIZATION
+GDP/NNP	ORGANIZATION
+Canadian/JJ	GPE
+Canada/NNPSavings/NNPBond/NNP	PERSON
+Canada/NNPSavings/NNPSBonds/NNP	ORGANIZATION
+Canadian/JJ	GPE
+US/NNP	ORGANIZATION
+Canadian/JJ	GPE
+Canada/NNPSavings/NNPSBonds/NNP	ORGANIZATION
+National/NNPService/NNP	ORGANIZATION
+Washington/NNP	GPE
+Congress/NNP	ORGANIZATION
+Sam/NNPNunn/NNP	PERSON
+Ga/NNP	GPE
+Dave/NNPMcCurdy/NNP	PERSON
+Edward/NNPKennedy/NNP	PERSON
+Mass/NNP	GPE
+Nunn/NNP	PERSON
+McCurdy/NNP	ORGANIZATION
+Democratic/JJSens/NNPS	ORGANIZATION
+Claiborne/NNPPell/NNP	PERSON
+Barbara/NNPMikulski/NNP	PERSON
+Christopher/NNPDodd/NNP	PERSON
+Senate/NNPLabor/NNPCommittee/NNP	ORGANIZATION
+Senate/NNP	ORGANIZATION
+Bush/NNP	PERSON
+YES/NNP	ORGANIZATION
+Devotees/NNP	ORGANIZATION
+Part/NNP	ORGANIZATION
+Middle/NNP	GPE
+Nunn/NNP	ORGANIZATION
+McCurdy/NNP	ORGANIZATION
+GI/NNPBill/NNP	ORGANIZATION
+GI/NNP	ORGANIZATION
+U.S./NNP	GPE
+Full/NNP	PERSON
+Stanford/NNP	ORGANIZATION
+Yale/NNP	GPE
+Non/NNP	PERSON
+Underclass/NNP	ORGANIZATION
+Underclass/NNP	ORGANIZATION
+Mr./NNPSzanton/NNP	PERSON
+Washington/NNP	GPE
+National/NNP	ORGANIZATION
+Lexington/NNPBooks/NNP	PERSON
+Federal/NNPReserve/NNP	ORGANIZATION
+Alan/NNPGreenspan/NNP	PERSON
+U.S./NNP	GPE
+Fed/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Nicholas/NNPBrady/NNP	PERSON
+Wall/NNPStreet/NNP	FACILITY
+Assistant/NNP	ORGANIZATION
+David/NNPMullins/NNP	PERSON
+Fed/NNP	ORGANIZATION
+Bush/NNP	ORGANIZATION
+Fed/NNP	ORGANIZATION
+New/NNPYork/NNPTimes/NNP	GPE
+Washington/NNPPost/NNP	ORGANIZATION
+Fed/NNP	ORGANIZATION
+Fed/NNPChairman/NNPGreenspan/NNP	PERSON
+Fed/NNP	ORGANIZATION
+Fed/NNP	ORGANIZATION
+Budget/NNPDirector/NNP	PERSON
+Richard/NNPDarman/NNP	PERSON
+ABC/NNP	ORGANIZATION
+Treasury/NNPBrady/NNP	ORGANIZATION
+Greenspan/NNP	GPE
+SEC/NNP	ORGANIZATION
+Mr./NNPDarman/NNP	PERSON
+Treasury/NNP	ORGANIZATION
+Brady/NNP	PERSON
+Fed/NNPChairman/NNPGreenspan/NNP	PERSON
+Manuel/NNPJohnson/NNP	PERSON
+New/NNPZealand/NNP	ORGANIZATION
+EST/NNP	ORGANIZATION
+Tokyo/NNP	GPE
+Europe/NNP	GPE
+Treasury/NNP	ORGANIZATION
+Fed/NNP	ORGANIZATION
+Tokyo/NNP	GPE
+Bush/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Brady/NNP	PERSON
+Undersecretary/NNPRobert/NNPGlauber/NNP	PERSON
+Assistant/NNP	ORGANIZATION
+Mullins/NNP	PERSON
+Brady/NNPCommission/NNP	PERSON
+Mr./NNPBrady/NNP	PERSON
+Mr./NNPBrady/NNP	PERSON
+White/NNPHouse/NNP	FACILITY
+Mr./NNPMullins/NNP	PERSON
+New/NNPYork/NNP	GPE
+Chicago/NNP	GPE
+Mr./NNPBrady/NNP	PERSON
+Mr./NNPGreenspan/NNP	PERSON
+SEC/NNP	ORGANIZATION
+Richard/NNPBreeden/NNP	PERSON
+New/NNPYork/NNP	GPE
+Administration/NN	ORGANIZATION
+Bush/NNP	PERSON
+Camp/NNPDavid/NNP	PERSON
+Mr./NNPBrady/NNP	PERSON
+Michael/NNPBoskin/NNP	PERSON
+Treasury/NNPUndersecretary/NNP	PERSON
+David/NNPMulford/NNP	PERSON
+Business/NNPCouncil/NNP	ORGANIZATION
+Hot/NNPSprings/NNP	GPE
+Fed/NNPChairman/NNPGreenspan/NNP	PERSON
+American/JJBankers/NNPAssociation/NNP	ORGANIZATION
+Washington/NNP	GPE
+Mr./NNPGreenspan/NNP	PERSON
+Dallas/NNP	GPE
+Dallas/NNP	GPE
+Washington/NNP	GPE
+Commercial/NNPRand/NNP	ORGANIZATION
+Canadian/JJ	GPE
+Dow/NNPJones/NNPIndustrial/NNPAverage/NNP	ORGANIZATION
+Dow/NNPJones/NNPIndustrial/NNPAverage/NNP	ORGANIZATION
+Panic/NNP	PERSON
+Stephen/NNPB./NNPTimbers/NNP	PERSON
+Chicago/NNP	GPE
+Kemper/NNPFinancial/NNPServices/NNPSInc/NNP	PERSON
+Steve/NNPJanachowski/NNP	PERSON
+San/NNPFrancisco/NNP	ORGANIZATION
+Brouwer/NNP	PERSON
+Janachowski/NNP	PERSON
+Front/NNP	PERSON
+Stein/NNPRoe/NNP	PERSON
+Farnham/NNPInc./NNP	PERSON
+Chicago/NNP	GPE
+Mr./NNPFront/NNP	PERSON
+Roger/NNPIbbotson/NNP	PERSON
+Yale/NNPUniversity/NNP	ORGANIZATION
+Ibbotson/NNPAssociates/NNPSInc./NNP	ORGANIZATION
+Mr./NNPIbbotson/NNP	PERSON
+John/NNPSnyder/NNP	PERSON
+Los/NNPAngeles/NNP	GPE
+National/NNPAssociation/NNP	ORGANIZATION
+Investors/NNPSCorp./NNP	ORGANIZATION
+Alfred/NNPGoldman/NNP	PERSON
+St./NNP	GPE
+James/NNPCraig/NNP	PERSON
+Denver/NNP	GPE
+Janus/NNPFund/NNP	PERSON
+Hershey/NNPFoods/NNP	PERSON
+Wal/NNP	PERSON
+Mart/NNPStores/NNPSInc./NNP	ORGANIZATION
+American/NNPInternational/NNPGroup/NNPInc./NNP	ORGANIZATION
+	ORGANIZATION
+Mr./NNPCraig/NNP	PERSON
+Mr./NNPFront/NNP	PERSON
+Stein/NNPRoe/NNP	PERSON
+William/NNPFleckenstein/NNP	PERSON
+Seattle/NNP	GPE
+Mr./NNPFleckenstein/NNP	PERSON
+Mr./NNPFleckenstein/NNP	PERSON
+David/NNPM./NNPJones/NNP	PERSON
+Aubrey/NNP	ORGANIZATION
+Lanston/NNP	PERSON
+Treasury/NNP	ORGANIZATION
+Eli/NNPLilly/NNP	PERSON
+James/NNPA/NNP	PERSON
+White/NNP	PERSON
+Tom/NNPHerman/NNP	PERSON
+Coldwell/NNPBanker/NNP	PERSON
+Commercial/NNPGroup/NNP	ORGANIZATION
+Sears/NNP	GPE
+Roebuck/NNP	PERSON
+James/NNPJ./NNPDidion/NNP	PERSON
+Mr./NNPDidion/NNP	PERSON
+Coldwell/NNPBanker/NNP	ORGANIZATION
+Coldwell/NNPBanker/NNP	ORGANIZATION
+Carlyle/NNPGroup/NNP	PERSON
+Washington/NNP	GPE
+D.C./NNP	GPE
+Frank/NNPCarlucci/NNP	PERSON
+Frederic/NNPV./NNPMalek/NNP	PERSON
+Carlyle/NNPGroup/NNP	PERSON
+Mellon/NNPFamily/NNPTrust/NNP	PERSON
+Pittsburgh/NNP	GPE
+Westinghouse/NNPCredit/NNPCorp./NNP	ORGANIZATION
+Westinghouse/NNPElectric/NNPCorp./NNP	ORGANIZATION
+Bankers/NNPTrust/NNPCo./NNP	ORGANIZATION
+Bankers/NNPSTrust/NNPNew/NNPYork/NNPCorp./NNP	ORGANIZATION
+Japanese/JJ	GPE
+Tokyo/NNP	GPE
+Sumitomo/NNPBank/NNP	PERSON
+Bankers/NNPSTrust/NNP	ORGANIZATION
+Sumitomo/NNP	PERSON
+Sears/NNPRoebuck/NNP	PERSON
+Coldwell/NNPBanker/NNP	PERSON
+Gary/NNPWilson/NNP	PERSON
+Walt/NNPDisney/NNP	ORGANIZATION
+James/NNPMontgomery/NNP	PERSON
+Great/NNP	GPE
+Western/NNPFinancial/NNP	LOCATION
+Peter/NNPUbberroth/NNP	PERSON
+U.S./NNP	GPE
+Chicago/NNPMercantile/NNPExchange/NNP	ORGANIZATION
+Merc/NNP	ORGANIZATION
+Dow/NNPJones/NNPIndustrial/NNPAverage/NNP	ORGANIZATION
+New/NNPYork/NNP	GPE
+Merc/NNP	ORGANIZATION
+Board/NNP	PERSON
+Brady/NNPTask/NNPForce/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Brady/NNP	ORGANIZATION
+Merc/NNP	ORGANIZATION
+Merc/NNP	ORGANIZATION
+Standard/NNP	ORGANIZATION
+Poor/NNP	PERSON
+CDT/NNP	ORGANIZATION
+Board/NNP	PERSON
+Howard/NNPDubnow/NNP	PERSON
+Merc/NNP	ORGANIZATION
+Dow/NNP	ORGANIZATION
+Mr./NNPDubnow/NNP	PERSON
+Chicago/NNPBoard/NNP	ORGANIZATION
+Trade/NNP	GPE
+Market/NNPIndex/NNP	PERSON
+MMI/NNP	ORGANIZATION
+Washington/NNP	GPE
+Capitol/NNPHill/NNP	PERSON
+Federal/NNP	ORGANIZATION
+Stanley/NNPSporkin/NNP	PERSON
+New/NNPYork/NNP	GPE
+Brady/NNPTask/NNPForce/NNP	ORGANIZATION
+Reagan/NNP	ORGANIZATION
+White/NNPHouse/NNP	FACILITY
+Brady/NNP	ORGANIZATION
+Working/NNPGroup/NNP	ORGANIZATION
+Financial/NNPMarkets/NNPS	ORGANIZATION
+Working/NNPGroup/NNP	ORGANIZATION
+Federal/NNPReserve/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Securities/NNPS	ORGANIZATION
+Exchange/NNPCommission/NNP	ORGANIZATION
+Commodity/NNPFutures/NNPS	ORGANIZATION
+Dow/NNPJones/NNPIndustrial/NNPAverage/NNP	ORGANIZATION
+Dow/NNPIndustrials/NNP	PERSON
+DJIA/NNP	ORGANIZATION
+NYSE/NNP	ORGANIZATION
+Dow/NNPIndustrials/NNP	PERSON
+MMI/NNP	ORGANIZATION
+DJIA/NNP	ORGANIZATION
+Big/NNPBoard/NNP	PERSON
+MMI/NNP	ORGANIZATION
+Brady/NNPTask/NNPForce/NNP	PERSON
+Unify/NNP	PERSON
+SEC/NNP	ORGANIZATION
+SEC/NNP	ORGANIZATION
+SEC/NNP	ORGANIZATION
+CFTC/NNP	ORGANIZATION
+SEC/NNP	ORGANIZATION
+SEC/NNP	ORGANIZATION
+SEC/NNP	ORGANIZATION
+Soviet/JJ	GPE
+American/JJ	GPE
+Nikolai/NNPI./NNPLutsenko/NNP	PERSON
+Nika/NNP	ORGANIZATION
+Nedelya/NNP	PERSON
+Mr./NNPLutsenko/NNP	PERSON
+Nedelya/NNP	PERSON
+U.S./NNP	GPE
+U.S./NNP	GPE
+Soviet/NNPUnion/NNP	GPE
+Nedelya/NNP	PERSON
+Mr./NNPLutsenko/NNP	PERSON
+John/NNPDenver/NNP	PERSON
+Colorado/NNP	GPE
+Nika/NNP	PERSON
+Communist/NNP	ORGANIZATION
+South/NNPAfrica/NNP	PERSON
+National/NNPUnion/NNP	ORGANIZATION
+Mineworkers/NNP	ORGANIZATION
+De/NNPBeers/NNPConsolidated/NNPMines/NNP	FACILITY
+Beers/NNP	PERSON
+De/NNPBeers/NNP	PERSON
+Japan/NNP	GPE
+Socialist/NNPParty/NNP	ORGANIZATION
+Parliament/NNP	ORGANIZATION
+Liberal/NNPDemocratic/NNPParty/NNP	ORGANIZATION
+Japanese/JJ	GPE
+Tsuruo/NNPYamaguchi/NNP	PERSON
+Socialist/NNPParty/NNP	ORGANIZATION
+Nature/NNP	PERSON
+Spain/NNP	GPE
+Argentina/NNP	GPE
+Thailand/NNP	GPE
+Indonesia/NNP	GPE
+U.N.-sponsored/JJConvention/NNP	ORGANIZATION
+International/NNPTrade/NNP	ORGANIZATION
+Endangered/NNPSpecies/NNPS	ORGANIZATION
+Lausanne/NNP	GPE
+Fund/NNP	PERSON
+Simon/NNPLyster/NNP	PERSON
+NATO/NNP	ORGANIZATION
+Britain/NNP	GPE
+France/NNP	GPE
+Italy/NNP	GPE
+East/NNP	GPE
+West/JJ	GPE
+Britain/NNP	GPE
+Labor/NNPParty/NNP	ORGANIZATION
+Labor/NNP	PERSON
+Visa/NNP	ORGANIZATION
+British/JJ	GPE
+Labor/NNP	PERSON
+Britain/NNP	GPE
+Labor/NNP	ORGANIZATION
+Co/NNP	ORGANIZATION
+Bank/NNP	ORGANIZATION
+China/NNP	GPE
+China/NNP	GPE
+Daily/NNP	PERSON
+State/NNPStatistical/NNPBureau/NNP	ORGANIZATION
+Russian/JJ	GPE
+Moscow/NNP	GPE
+Kremlin/NNP	FACILITY
+Uspensky/NNPCathedral/NNP	PERSON
+Buddha/NNP	PERSON
+Hong/NNPKong/NNP	GPE
+China/NNP	GPE
+Sik/NNPChi/NNPWan/NNP	ORGANIZATION
+Hong/NNPKong/NNP	GPE
+Steven/NNPB./NNPIken/NNP	PERSON
+Justin/NNPProducts/NNPS	ORGANIZATION
+Sony/NNP	ORGANIZATION
+Mr./NNPIken/NNP	PERSON
+Justin/NNP	ORGANIZATION
+Justin/NNP	ORGANIZATION
+Sony/NNPCorp./NNP	ORGANIZATION
+Japan/NNP	GPE
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+Mr./NNPIken/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+U.S./NNP	GPE
+Sony/NNP	PERSON
+Manhattan/NNP	GPE
+Leonard/NNPKaye/NNP	PERSON
+Justin/NNP	PERSON
+Sony/NNP	GPE
+Justin/NNP	PERSON
+Japan/NNP	GPE
+U.S./NNP	GPE
+Japan/NNP	GPE
+Sony/NNP	PERSON
+U.S./NNP	GPE
+China./NNP	GPE
+Justin/NNP	PERSON
+Sony/NNP	ORGANIZATION
+Sony/NNP	PERSON
+Lewis/NNPH./NNPEslinger/NNP	PERSON
+Sony/NNP	PERSON
+Rubik/NNP	PERSON
+Sony/NNP	PERSON
+Mr./NNPEslinger/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+U.S./NNP	GPE
+John/NNPE./NNPSprizzo/NNP	PERSON
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+Justin/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+Justin/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+Capetronic/NNPInc./NNP	ORGANIZATION
+Taiwan/NNP	GPE
+Justin/NNP	PERSON
+Hong/NNPKong/NNP	GPE
+Mickey/NNPMouse/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+Justin/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+Charles/NNPE./NNPBaxley/NNP	PERSON
+Justin/NNP	PERSON
+Justin/NNP	PERSON
+Hong/NNPKong/NNP	GPE
+New/NNPYork/NNP	GPE
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+Mr./NNPBaxley/NNP	PERSON
+Sony/NNP	GPE
+Federal/NNPTrade/NNPCommission/NNP	ORGANIZATION
+U.S./NNP	GPE
+Justice/NNPDepartment/NNP	ORGANIZATION
+Justin/NNP	PERSON
+Mr./NNPEslinger/NNP	PERSON
+Sony/NNP	ORGANIZATION
+Mr./NNPBaxley/NNP	PERSON
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+Sony/NNP	PERSON
+American/JJ	GPE
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	ORGANIZATION
+Sony/NNP	PERSON
+Sony/NNP	PERSON
+Justin/NNP	PERSON
+Mr./NNPKaye/NNP	PERSON
+Sony/NNP	GPE
+Mr./NNPKaye/NNP	PERSON
+Charles/NNPH./NNPTenney/NNPII/NNP	PERSON
+Unitil/NNPCorp./NNP	ORGANIZATION
+Unitil/NNP	GPE
+Securities/NNPS	ORGANIZATION
+Exchange/NNPCommission/NNP	ORGANIZATION
+Unitil/NNP	GPE
+Exeter/NNP	PERSON
+Fitchburg/NNPGas/NNP	PERSON
+Electric/NNPCo./NNP	ORGANIZATION
+Fitchburg/NNP	GPE
+Boston/NNP	GPE
+Eastern/NNPUtilities/NNPSAssociates/NNPS	ORGANIZATION
+Eastern/NNPUtilities/NNP	PERSON
+Unitil/NNP	ORGANIZATION
+Fitchburg/NNPGas/NNP	PERSON
+Dresdner/NNPBank/NNPAG/NNP	PERSON
+West/NNPGermany/NNP	GPE
+Banque/NNPInternationale/NNP	ORGANIZATION
+Placements/NNP	GPE
+French/JJ	GPE
+France/NNP	GPE
+Societe/NNPGenerale/NNP	ORGANIZATION
+Societe/NNP	ORGANIZATION
+Bourses/NNPFrancaises/NNP	PERSON
+West/NNPGermany/NNP	LOCATION
+Dresdner/NNP	PERSON
+BIP/NNP	ORGANIZATION
+Societe/NNPGenerale/NNP	ORGANIZATION
+Societe/NNPGenerale/NNP	PERSON
+Belgique/NNP	ORGANIZATION
+Financiere/NNPTradition/NNP	PERSON
+Mexican/JJ	GPE
+Joel/NNPRocha/NNPGarza/NNP	PERSON
+Smith/NNPLaboratories/NNPSInc./NNP	ORGANIZATION
+Securities/NNPS	ORGANIZATION
+Exchange/NNPCommission/NNP	ORGANIZATION
+Mr./NNPRocha/NNPGarza/NNP	PERSON
+Biscayne/NNPSyndicate/NNP	PERSON
+Lahus/NNPII/NNP	PERSON
+Lahus/NNP	PERSON
+III/NNPInc./NNP	ORGANIZATION
+Mr./NNPRocha/NNPGarza/NNP	PERSON
+Clarendon/NNPGroup/NNP	PERSON
+Biscayne/NNP	GPE
+Lahus/NNPII/NNP	PERSON
+Lahus/NNPIII/NNP	PERSON
+Mr./NNPRocha/NNPGarza/NNP	PERSON
+San/NNPDiego/NNP	GPE
+Smith/NNPLaboratories/NNPS	ORGANIZATION
+Timothy/NNPWollaeger/NNP	PERSON
+Investcorp/NNP	PERSON
+New/NNPYork/NNP	GPE
+Sports/NNP	GPE
+Recreation/NNPInc./NNP	ORGANIZATION
+Sports/NNP	GPE
+Oliver/NNPE./NNPRichardson/NNP	PERSON
+Investcorp/NNP	ORGANIZATION
+Sports/NNPUnlimited/NNP	PERSON
+Tampa/NNP	PERSON
+Mr./NNPRichardson/NNP	PERSON
+Sports/NNP	PERSON
+Recreation/NNP	ORGANIZATION
+Brunswick/NNPCorp./NNP	PERSON
+Skokie/NNP	GPE
+Ill/NNP	PERSON
+Mr./NNPRichardson/NNP	PERSON
+Hammond/NNPCo./NNP	PERSON
+Newport/NNPBeach/NNP	ORGANIZATION
+Calif./NNP	GPE
+Fidelity/NNPNational/NNPFinancial/NNP	PERSON
+Hammond/NNP	PERSON
+Fidelity/NNP	ORGANIZATION
+Irvine/NNP	GPE
+Calif./NNP	GPE
+Fidelity/NNP	ORGANIZATION
+Hammond/NNP	GPE
+Securities/NNP	GPE
+Exchange/NNPCommission/NNP	ORGANIZATION
+Hammond/NNP	PERSON
+Giant/NNPGroup/NNP	ORGANIZATION
+Aspen/NNPAirways/NNP	PERSON
+Denver/NNP	GPE
+United/NNPExpress/NNP	ORGANIZATION
+UAL/NNPCorp./NNP	ORGANIZATION
+United/NNPAirlines/NNPS	ORGANIZATION
+Giant/NNP	PERSON
+Beverly/NNPHills/NNP	ORGANIZATION
+Calif./NNP	GPE
+Hollywood/NNP	PERSON
+Burt/NNPSugarman/NNP	PERSON
+Aspen/NNP	GPE
+Giant/NNP	PERSON
+Giant/NNP	PERSON
+Avmark/NNPInc./NNP	PERSON
+Arlington/NNP	GPE
+Aspen/NNP	PERSON
+Giant/NNP	GPE
+Generales/NNP	PERSON
+France/NNP	PERSON
+Navigation/NNPMixte/NNP	ORGANIZATION
+Bourse/NNP	GPE
+Cie/NNP	GPE
+Paribas/NNP	GPE
+Paribas/NNP	ORGANIZATION
+AGF/NNP	ORGANIZATION
+Navigation/NNPMixte/NNP	ORGANIZATION
+AGF/NNP	ORGANIZATION
+AGF/NNP	ORGANIZATION
+Paribas/NNP	PERSON
+Lockheed/NNPAeronautical/NNPSystems/NNP	PERSON
+Lockheed/NNPCorp./NNP	ORGANIZATION
+Aermacchi/NNP	PERSON
+Varese/NNP	GPE
+Italy/NNP	GPE
+U.S./NNP	GPE
+Air/NNPForce/NNP	FACILITY
+Cessna/NNPAircraft/NNP	ORGANIZATION
+General/NNPDynamics/NNPCorp./NNP	ORGANIZATION
+Air/NNPForce/NNP	FACILITY
+Lockheed/NNP	PERSON
+U.S./NNP	GPE
+Beech/NNPAircraft/NNPCorp./NNP	ORGANIZATION
+Raytheon/NNPCorp/NNP	ORGANIZATION
+Lockheed/NNP	PERSON
+Aermacchi/NNP	PERSON
+Lockheed/NNP	PERSON
+Aermacchi/NNP	ORGANIZATION
+Lockheed/NNP	PERSON
+Air/NNPForce/NNP	FACILITY
+Lockheed/NNP	ORGANIZATION
+Burbank/NNP	GPE
+Calif./NNP	GPE
+Air/NNPForce/NNP	FACILITY
+Peugeot/NNP	ORGANIZATION
+France/NNP	GPE
+Peugeot/NNP	ORGANIZATION
+Finance/NNPMinistry/NNP	ORGANIZATION
+Peugeot/NNP	ORGANIZATION
+Mulhouse/NNP	GPE
+Peugeot/NNP	PERSON
+Paris/NNP	GPE
+Ministry/NNP	ORGANIZATION
+Finance/NNP	GPE
+Ministry/NNP	ORGANIZATION
+Martin/NNPD./NNPSass/NNP	PERSON
+Junk/NNP	PERSON
+Dow/NNPJones/NNPIndustrial/NNPAverage/NNP	ORGANIZATION
+U.S./NNP	GPE
+John/NNPLonski/NNP	PERSON
+Moody/NNP	ORGANIZATION
+Investors/NNPSService/NNPInc./NNPFor/IN	ORGANIZATION
+Southland/NNP	GPE
+Goldman/NNP	ORGANIZATION
+Sachs/NNP	PERSON
+Goldman/NNP	PERSON
+Southland/NNP	GPE
+Goldman/NNP	ORGANIZATION
+Campeau/NNPCorp./NNP	ORGANIZATION
+U.S./NNP	GPE
+Campeau/NNP	PERSON
+Bloomingdales/NNP	ORGANIZATION
+Ethan/NNPAllen/NNP	PERSON
+TW/NNPServices/NNPS	ORGANIZATION
+York/NNPInternational/NNP	ORGANIZATION
+Michael/NNPHarkins/NNP	PERSON
+Levy/NNP	PERSON
+Douglas/NNPCarleton/NNP	PERSON
+First/NNPBoston/NNPCorp./NNP	ORGANIZATION
+August/NNP	GPE
+First/NNPBoston/NNP	PERSON
+Ohio/NNPMattress/NNP	PERSON
+McCarthy/NNP	ORGANIZATION
+Crisanti/NNP	PERSON
+Maffei/NNP	GPE
+Xerox/NNPFinancial/NNPServices/NNPS	PERSON
+Treasury/NNP	ORGANIZATION
+Technical/NNPData/NNPGlobal/NNPMarkets/NNPGroup/NNP	PERSON
+Treasury/NNP	ORGANIZATION
+Dow/NNPJones/NNPIndustrial/NNP	ORGANIZATION
+Maria/NNPRamirez/NNP	PERSON
+Drexel/NNPBurnham/NNPLambert/NNPInc/NNP	ORGANIZATION
+Federal/NNPReserve/NNP	ORGANIZATION
+William/NNPSullivan/NNP	PERSON
+Dean/NNPWitter/NNPReynolds/NNP	FACILITY
+New/NNPYork/NNP	GPE
+Any/NNP	PERSON
+Robert/NNPDow/NNP	PERSON
+Lord/NNP	ORGANIZATION
+Abbett/NNP	PERSON
+Treasurys/NNP	GPE
+Petrolane/NNPGas/NNPServices/NNP	PERSON
+First/NNPBoston/NNP	PERSON
+Turner/NNPBroadcasting/NNPSystem/NNPInc/NNP	PERSON
+Drexel/NNP	PERSON
+Boston/NNP	GPE
+Mr./NNPCarleton/NNP	PERSON
+First/NNP	ORGANIZATION
+Turner/NNP	PERSON
+Raymond/NNPMinella/NNP	PERSON
+Merrill/NNPLynch/NNP	ORGANIZATION
+Michael/NNPMcNamara/NNP	PERSON
+Kemper/NNPFinancial/NNPServices/NNPS	ORGANIZATION
+Mr./NNPMcNamara/NNP	PERSON
+Campeau/NNP	GPE
+Olympia/NNP	PERSON
+York/NNP	PERSON
+Mr./NNPMinella/NNP	PERSON
+Merrill/NNP	ORGANIZATION
+Campeau/NNP	GPE
+New/NNPYork/NNP	GPE
+Integrated/NNPResources/NNPSInc./NNP	ORGANIZATION
+July/NNP	GPE
+Southmark/NNPCorp./NNP	PERSON
+Dallas/NNP	GPE
+U.S./NNP	GPE
+Treasury/NNP	ORGANIZATION
+August/NNP	GPE
+Resorts/NNPInternational/NNPInc./NNP	PERSON
+Campeau/NNP	PERSON
+Lomas/NNPFinancial/NNP	PERSON
+Moody/NNP	PERSON
+Federal/NNPDeposit/NNPInsurance/NNP	ORGANIZATION
+James/NNPGrant/NNP	PERSON
+Grant/NNP	GPE
+Interest/NNPRate/NNPObserver/NNP	ORGANIZATION
+Market/NNActivity/NNPPrices/NNP	PERSON
+Treasury/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+EDT/NNP	ORGANIZATION
+Technical/NNPData/NNPGlobal/NNPMarkets/NNPGroup/NNP	PERSON
+Treasurys/NN	PERSON
+Federal/NNPReserve/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Ginnie/NNPMae/NNP	ORGANIZATION
+Investment/NNP	ORGANIZATION
+Tennessee/NNPValley/NNPAuthority/NNP	ORGANIZATION
+TVA/NNP	ORGANIZATION
+Roger/NNPLowenstein/NNP	PERSON
+Washington/NNP	GPE
+UAL/NNP	ORGANIZATION
+UAL/NNP	ORGANIZATION
+U.S./NNP	GPE
+Dow/NNPJones/NNP	ORGANIZATION
+Senate/NNPDemocrats/NNPS	ORGANIZATION
+House/NNP	ORGANIZATION
+Congress/NNP	ORGANIZATION
+Senate/NNP	ORGANIZATION
+Bush/NNP	PERSON
+Panama/NNP	GPE
+UAL/NNP	ORGANIZATION
+Washington/NNP	GPE
+Transportation/NNPSkinner/NNP	ORGANIZATION
+KLM/NNP	ORGANIZATION
+British/NNP	GPE
+Congress/NNP	ORGANIZATION
+Skinner/NNP	ORGANIZATION
+James/NNPOberstar/NNP	PERSON
+Minnesota/NNP	ORGANIZATION
+Public/NNPWorks/NNP	ORGANIZATION
+Transportation/NNPCommittee/NNP	ORGANIZATION
+American/JJ	GPE
+United/NNPAir/NNP	GPE
+Mr./NNPSkinner/NNP	PERSON
+U.S./NNP	GPE
+UAL/NNP	ORGANIZATION
+Mr./NNPSecretary/NNP	PERSON
+Danny/NNPRostenkowski/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Fed/NNP	ORGANIZATION
+Board/NNP	PERSON
+Chicago/NNPBoard/NNP	ORGANIZATION
+Trade/NNP	GPE
+Washington/NNP	GPE
+First/NNPChicago/NNP	PERSON
+First/NNPNational/NNPBank/NNP	ORGANIZATION
+Chicago/NNP	GPE
+First/NNPChicago/NNP	PERSON
+First/NNPChicago/NNP	PERSON
+Combined/NNP	ORGANIZATION
+First/NNPChicago/NNP	PERSON
+Greece/NNP	GPE
+Greece/NNP	GPE
+Andreas/NNPPapandreou/NNP	PERSON
+Greeks/NNP	GPE
+New/NNPDemocracy/NNPParty/NNP	ORGANIZATION
+Constantine/NNPMitsotakis/NNP	ORGANIZATION
+Left/NNP	ORGANIZATION
+Progress/NNP	ORGANIZATION
+Soviet/JJ	GPE
+Communist/NNPParty/NNP	ORGANIZATION
+Greece/NNP	GPE
+Euro/NNP	GPE
+Communist/NN	ORGANIZATION
+Hellenic/NNPLeft/NNP	ORGANIZATION
+Mr./NNPPapandreou/NNP	PERSON
+Mr./NNPPapandreou/NNP	PERSON
+Greece/NNP	GPE
+Mr./NNPPapandreou/NNP	PERSON
+George/NNPKoskotas/NNP	PERSON
+Bank/NNP	ORGANIZATION
+Crete/NNP	GPE
+Salem/NNP	GPE
+Greece/NNP	GPE
+Mr./NNPKoskotas/NNP	PERSON
+New/NNPDemocracy/NNP	ORGANIZATION
+Communist/NNP	ORGANIZATION
+PASOK/NNP	ORGANIZATION
+Mr./NNPPapandreou/NNP	PERSON
+Bank/NNP	ORGANIZATION
+Crete/NNP	GPE
+Mr./NNPKoskotas/NNP	PERSON
+PASOK/NNP	ORGANIZATION
+Mr./NNPKoskotas/NNP	PERSON
+Koskotas/NNP	ORGANIZATION
+PASOK/NNP	ORGANIZATION
+Parliament/NNP	ORGANIZATION
+Mr./NNPKoskotas/NNP	PERSON
+New/NNP	GPE
+PASOK/NNP	ORGANIZATION
+Greeks/NNP	GPE
+EYP/NNP	ORGANIZATION
+PASOK/NNP	ORGANIZATION
+Mr./NNPPapandreou/NNP	PERSON
+PASOK/NNP	ORGANIZATION
+General/NNPDynamics/NNPCorp./NNP	ORGANIZATION
+France/NNP	GPE
+Avions/NNPMarcel/NNPDassault/NNP	PERSON
+Dassault/NNP	PERSON
+Greek/JJ	GPE
+Mr./NNPMitsotakis/NNP	PERSON
+Mr./NNPPapandreou/NNP	PERSON
+Mr./NNPPapandreou/NNP	PERSON
+PASOK/NNP	ORGANIZATION
+Mr./NNPPapandreou/NNP	PERSON
+First/JJ	PERSON
+Coalition/NNP	ORGANIZATION
+Left/NNP	ORGANIZATION
+Progress/NNP	ORGANIZATION
+PASOK/NNP	ORGANIZATION
+Greece/NNP	GPE
+PASOK/NNP	ORGANIZATION
+Communist/NNPParty/NNP	ORGANIZATION
+New/NNP	GPE
+Mr./NNPMitsotakis/NNP	PERSON
+Thus/NNP	PERSON
+Greece/NNP	GPE
+NATO/NNP	ORGANIZATION
+Greece/NNP	GPE
+Common/NNPMarket/NNP	ORGANIZATION
+Greece/NNP	GPE
+U.S./NNP	GPE
+U.S./NNP	GPE
+Greece/NNP	GPE
+Mohammed/NNPRashid/NNP	PERSON
+Palestinian/JJ	GPE
+U.S./NNP	GPE
+Pan/NNPAmerican/NNPAirways/NNP	ORGANIZATION
+Greek/JJ	GPE
+Rashid/NNP	GPE
+Greece/NNP	GPE
+Greeks/NNP	GPE
+Greece/NNP	GPE
+Greek/JJ	GPE
+PASOK/NNP	ORGANIZATION
+Mr./NNPPapandreou/NNP	PERSON
+Mr./NNPPapandreou/NNP	PERSON
+PASOK/NNP	ORGANIZATION
+Mr./NNPPapandreou/NNP	PERSON
+Mr./NNPCarpenter/NNP	PERSON
+National/NNPReview/NNP	ORGANIZATION
+Athens/NNP	GPE
+U.S./NNP	GPE
+Black/NNP	PERSON
+Fed/NNPChairman/NNPGreenspan/NNP	PERSON
+U.S./NNP	GPE
+UAL/NNP	ORGANIZATION
+Dow/NNPJones/NNP	ORGANIZATION
+Treasury/NNP	ORGANIZATION
+Japanese/JJ	GPE
+Tokyo/NNP	GPE
+UAL/NNP	ORGANIZATION
+Senate/NNP	ORGANIZATION
+Bush/NNP	PERSON
+House/NNP	ORGANIZATION
+Senate/NNP	ORGANIZATION
+General/NNPMotors/NNPS	ORGANIZATION
+North/JJ	GPE
+American/JJ	GPE
+U.S./NNP	GPE
+Warner/NNP	PERSON
+Sony/NNP	PERSON
+Peter/NNPGruber/NNP	PERSON
+Jon/NNPPeters/NNP	PERSON
+Sony/NNP	PERSON
+U.S./NNP	GPE
+Hooker/NNP	PERSON
+U.S./NNP	GPE
+Bonwit/NNPTeller/NNP	PERSON
+Boeing/NNP	ORGANIZATION
+America/NNPWest/NNP	PERSON
+Houston/NNP	GPE
+Boeing/NNP	GPE
+Saatchi/NNP	PERSON
+Saatchi/NNP	PERSON
+British/JJ	GPE
+Aerospace/NNP	ORGANIZATION
+France/NNP	GPE
+Thomson/NNP	PERSON
+CSF/NN	ORGANIZATION
+U.S./NNP	GPE
+Japan/NNP	GPE
+Dow/NNPJones/NNP	PERSON
+Shearson/NNPLehman/NNPHutton/NNPTreasury/NNP	PERSON
+Dow/NNPJones/NNP	PERSON
+San/NNP	GPE
+Francisco/NNP	PERSON
+Apple/NNPComputer/NNP	PERSON
+Lisa/NNP	ORGANIZATION
+Apple/NNP	GPE
+Lisa/NNP	PERSON
+Lisa/NNP	PERSON
+Apple/NNP	PERSON
+Lisa/NNP	PERSON
+San/NNPFrancisco/NNP	ORGANIZATION
+Lisa/NNP	PERSON
+Lisa/NNP	PERSON
+Twiggy/NNP	GPE
+Twiggy/NNP	PERSON
+Patrick/NNPGrannon/NNP	PERSON
+Los/NNPAngeles/NNP	GPE
+Greenfield/NNP	GPE
+Chimicles/NNP	GPE
+New/NNPYork/NNP	GPE
+Milberg/NNP	PERSON
+Weiss/NNP	GPE
+Bershad/NNP	PERSON
+Specthrie/NNP	PERSON
+Lerach/NNP	PERSON
+NFL/NNP	ORGANIZATION
+National/NNPFootball/NNPLeague/NNP	ORGANIZATION
+U.S./NNP	GPE
+League/NNP	PERSON
+NFL/NNP	ORGANIZATION
+USFL/NNP	ORGANIZATION
+NFL/NNP	ORGANIZATION
+USFL/NNP	ORGANIZATION
+U.S./NNPCourt/NNP	ORGANIZATION
+Appeals/NNPS	GPE
+New/NNPYork/NNP	GPE
+Harvey/NNPD./NNPMyerson/NNP	PERSON
+Myerson/NNP	PERSON
+Kuhn/NNP	PERSON
+Finley/NNP	GPE
+Kumble/NNP	GPE
+Wagner/NNP	PERSON
+Heine/NNP	PERSON
+Underberg/NNP	PERSON
+Manley/NNP	GPE
+Myerson/NNP	PERSON
+Casey/NNP	PERSON
+Douglas/NNPR./NNPPappas/NNP	PERSON
+Myerson/NNP	PERSON
+Kuhn/NNP	PERSON
+USFL/NNP	ORGANIZATION
+Myerson/NNP	PERSON
+Kuhn/NNP	PERSON
+USFL/NNP	ORGANIZATION
+Shepard/NNPGoldfein/NNP	PERSON
+NFL/NNP	ORGANIZATION
+U.S./NNP	GPE
+Supreme/NNPCourt/NNP	ORGANIZATION
+Mr./NNPGoldfein/NNP	PERSON
+Skadden/NNP	GPE
+Arps/NNP	PERSON
+Slate/NNP	GPE
+Meagher/NNP	PERSON
+New/NNPYork/NNP	GPE
+USFL/NNP	ORGANIZATION
+NFL/NNP	ORGANIZATION
+USFL/NNP	ORGANIZATION
+Mr./NNPGoldfein/NNP	PERSON
+HOUSTON/NNP	ORGANIZATION
+CALGARY/JJ	ORGANIZATION
+Jaworski/NNP	ORGANIZATION
+Houston/NNP	GPE
+Fenerty/NNP	PERSON
+Robertson/NNP	PERSON
+Fraser/NNP	GPE
+Hatch/NNP	PERSON
+Calgary/NNP	GPE
+Alberta/NNP	PERSON
+Gibson/NNPGayle/NNP	PERSON
+Fulbright/NNP	PERSON
+Jaworski/NNP	PERSON
+Fulbright/NNP	PERSON
+Jaworski/NNP	PERSON
+Washington/NNP	GPE
+D.C./NNP	GPE
+Fenerty/NNPRobertson/NNP	PERSON
+U.S./NNP	GPE
+U.S./NNP	GPE
+Canada/NNP	GPE
+Francis/NNPM./NNPSaville/NNP	PERSON
+Fenerty/NNPRobertson/NNP	PERSON
+Pittsburgh/NNP	GPE
+Mount/NNPLebanon/NNPHigh/NNPSchool/NNP	PERSON
+Pittsburgh/NNP	GPE
+Grace/NNP	GPE
+Grace/NNP	PERSON
+FCC/NNP	ORGANIZATION
+Diane/NNPS./NNPKillory/NNP	PERSON
+Morrison/NNP	PERSON
+Washington/NNP	GPE
+D.C./NNP	GPE
+San/NNPFrancisco/NNP	ORGANIZATION
+Federal/NNPCommunications/NNPS	ORGANIZATION
+FCC/NNP	ORGANIZATION
+RICHARD/NNPP./NNPMAGURNO/NNP	PERSON
+Eastern/NNPAirlines/NNP	PERSON
+New/NNPYork/NNP	GPE
+Lord/NNP	ORGANIZATION
+Lord/NNP	GPE
+Barrett/NNPSmith/NNP	PERSON
+Mr./NNPMagurno/NNP	PERSON
+Miami/NNP	ORGANIZATION
+Houston/NNP	GPE
+Texas/NNPAir/NNP	PERSON
+Mr./NNPMagurno/NNP	PERSON
+Washington/NNP	GPE
+D.C./NNP	GPE
+New/NNPYork/NNP	GPE
+Apple/NNPComputer/NNP	PERSON
+Apple/NNP	PERSON
+Macintosh/NNPPlus/NNP	ORGANIZATION
+Macintosh/NNP	ORGANIZATION
+Macintosh/NNP	ORGANIZATION
+Macintosh/NNP	ORGANIZATION
+Apple/NNP	GPE
+Matsushita/NNPElectric/NNPIndustrial/NNP	PERSON
+Japan/NNP	GPE
+Siemens/NNPAG/NNP	PERSON
+West/NNPGermany/NNP	GPE
+Siemens/NNP	PERSON
+Matsushita/NNPElectronic/NNPComponents/NNP	PERSON
+Siemens/NNPMatsushita/NNPComponents/NNP	PERSON
+Munich/NNP	GPE
+Matsushita/NNP	PERSON
+Matsushita/NNP	PERSON
+West/NNPGermany/NNP	GPE
+Austria/NNP	GSP
+France/NNP	GPE
+Spain/NNP	GPE
+Roger/NNPRosenblatt/NNP	PERSON
+U.S./NNP	GPE
+Mr./NNPRosenblatt/NNP	PERSON
+New/NNPYork/NNP	GPE
+Frankly/NNP	GPE
+Mr./NNPRosenblatt/NNP	PERSON
+Mr./NNPRosenblatt/NNP	PERSON
+U.S./NNP	GPE
+Time/NNPWarner/NNPInc./NNP	ORGANIZATION
+Washington/NNPPost/NNP	ORGANIZATION
+Newsweek/NNP	ORGANIZATION
+Mortimer/NNPB./NNPZuckerman/NNP	PERSON
+Mr./NNPRosenblatt/NNP	PERSON
+Michael/NNPRuby/NNP	PERSON
+Merrill/NNPMcLoughlin/NNP	PERSON
+Mr./NNPRuby/NNP	PERSON
+Mr./NNPZuckerman/NNP	PERSON
+Mr./NNPRosenblatt/NNP	PERSON
+Time/NNP	ORGANIZATION
+U.S./NNP	GPE
+Avions/NNSMarcel/NNPDassault/NNP	PERSON
+Breguet/NNPAviation/NNP	PERSON
+French/JJ	GPE
+Dassault/NNP	PERSON
+Keystone/NNPConsolidated/NNP	PERSON
+Industries/NNPSInc./NNP	ORGANIZATION
+Glenn/NNPR./NNPSimmons/NNP	PERSON
+Keystone/NNP	PERSON
+Mr./NNPSimmons/NNP	PERSON
+Keystone/NNP	PERSON
+Revenue/NN	PERSON
+Mr./NNPSimmons/NNP	PERSON
+Keystone/NNP	PERSON
+Mr./NNPSimmons/NNP	PERSON
+Revenue/NN	PERSON
+Keystone/NNP	PERSON
+Revenue/NN	PERSON
+Mr./NNPSimmons/NNP	PERSON
+Keystone/NNP	PERSON
+Keystone/NNP	GPE
+Keystone/NNP	PERSON
+Keystone/NNP	PERSON
+Mr./NNPSimmons/NNP	PERSON
+Robert/NNPW./NNPSinger/NNP	PERSON
+Keystone/NNP	PERSON
+East/NNP	GPE
+West/NNP	GPE
+Keystone/NNP	PERSON
+Mr./NNPSimmons/NNP	PERSON
+U.S./NNP	GPE
+Freeport/NNP	PERSON
+McMoRan/NNPInc./NNP	ORGANIZATION
+Sunshine/NNPBridge/NNP	ORGANIZATION
+Donaldsonville/NNP	GSP
+Freeport/NNP	GPE
+	ORGANIZATION
+Uncle/NNPSam/NNP	ORGANIZATION
+Freeport/NNP	PERSON
+McMoRan/NNP	ORGANIZATION
+Freeport/NNPUranium/NNPRecovery/NNP	ORGANIZATION
+Freeport/NNP	PERSON
+McMoRan/NNPResource/NNPPartners/NNP	ORGANIZATION
+Business/NNPWeek/NNP	PERSON
+Texas/NNP	GPE
+Corporate/NNPElite/NNP	ORGANIZATION
+McGraw/NNP	ORGANIZATION
+Hill/NNP	PERSON
+Texas/NNPInstruments/NNP	PERSON
+Business/NNPWeek/NNP	ORGANIZATION
+Texas/NNPInstruments/NNP	PERSON
+Lomas/NNPFinancial/NNP	PERSON
+Dallas/NNP	GPE
+U.S./NNP	GPE
+Lazard/NNPFreres/NNP	PERSON
+Lomas/NNP	PERSON
+Merrill/NNPLynch/NNPCapital/NNPMarkets/NNP	ORGANIZATION
+Equitable/NNPLomas/NNP	ORGANIZATION
+Lomas/NNP	PERSON
+Bankruptcy/NNPCode/NNP	ORGANIZATION
+Lomas/NNP	PERSON
+Merrill/NNPLynch/NNP	PERSON
+Lomas/NNP	GPE
+Lomas/NNP	PERSON
+Lazard/NNP	PERSON
+Lazard/NNP	PERSON
+Europe/NNP	GPE
+Japan/NNP	GPE
+U.S./NNP	GPE
+Canadian/JJImperial/NNPBank/NNP	PERSON
+Commerce/NNP	ORGANIZATION
+Mexico/NNP	GPE
+Canadian/JJ	GPE
+US/NNP	ORGANIZATION
+Don/NNPBowder/NNP	PERSON
+Canadian/JJ	GPE
+Mexican/JJ	GPE
+LDC/NNP	ORGANIZATION
+LDC/NNP	ORGANIZATION
+Mr./NNPBowder/NNP	PERSON
+Mr./NNPBowder/NNP	PERSON
+Mexican/JJ	GPE
+Mexican/JJ	GPE
+U.S./NNP	GPE
+Mexican/JJ	GPE
+Mexican/JJ	GPE
+U.S./NNP	GPE
+Mr./NNPBowder/NNP	PERSON
+LDC/NNP	ORGANIZATION
+LDC/NNP	ORGANIZATION
+Wall/NNPStreet/NNP	PERSON
+Alan/NNPGaines/NNP	PERSON
+New/NNPYork/NNP	GPE
+Gaines/NNPBerland/NNP	PERSON
+Steven/NNPRattner/NNP	PERSON
+Lazard/NNPFreres/NNP	PERSON
+Campeau/NNP	PERSON
+UAL/NNP	ORGANIZATION
+United/NNPAirlines/NNPS	GPE
+Takeover/NNP	PERSON
+UAL/NNP	ORGANIZATION
+UAL/NNP	ORGANIZATION
+American/JJ	GPE
+Airlines/NNPS	ORGANIZATION
+AMR/NNP	ORGANIZATION
+New/NNPYork/NNP	GPE
+Donald/NNPTrump/NNP	PERSON
+AMR/NNP	ORGANIZATION
+EDT/NNP	ORGANIZATION
+AMR/NNP	ORGANIZATION
+London/NNP	GPE
+Jefferies/NNP	ORGANIZATION
+Los/NNPAngeles/NNP	GPE
+AMR/NNP	ORGANIZATION
+Delta/NNPAir/NNPLines/NNPS	PERSON
+USAir/NNPGroup/NNP	ORGANIZATION
+Wall/NNP	ORGANIZATION
+Vitro/NNPS.A./NNP	PERSON
+Mexican/JJ	GPE
+Anchor/NNPGlass/NNPContainer/NNP	PERSON
+Vitro/NNP	PERSON
+Anchor/NNP	GPE
+Vitro/NNP	ORGANIZATION
+Anchor/NNP	GPE
+Donaldson/NNP	PERSON
+Lufkin/NNP	PERSON
+Jenrette/NNPSecurities/NNPS	ORGANIZATION
+Security/NNPPacific/NNPNational/NNPBank/NNP	ORGANIZATION
+Anchor/NNPGlass/NNP	PERSON
+Donaldson/NNP	PERSON
+Vitro/NNP	PERSON
+Donaldson/NNP	PERSON
+Donaldson/NNP	PERSON
+Security/NNPPacific/NNP	ORGANIZATION
+Vitro/NNP	PERSON
+McCaw/NNPCellular/NNPCommunications/NNP	ORGANIZATION
+McCaw/NNP	PERSON
+McCaw/NNP	ORGANIZATION
+LIN/NNPBroadcasting/NNP	ORGANIZATION
+McCaw/NNP	ORGANIZATION
+LIN/NNP	ORGANIZATION
+LIN/NNP	ORGANIZATION
+BellSouth/NNP	ORGANIZATION
+LIN/NNP	ORGANIZATION
+LIN/NNP	ORGANIZATION
+BellSouth/NNP	ORGANIZATION
+Mr./NNPRattner/NNP	PERSON
+Dow/NNP	ORGANIZATION
+Mr./NNPRattner/NNP	PERSON
+LBO/NN	ORGANIZATION
+Tomilson/NNPHill/NNP	PERSON
+Shearson/NNP	ORGANIZATION
+Hutton/NNP	PERSON
+Columbia/NNPPictures/NNPSEntertainment/NNP	ORGANIZATION
+Sony/NNP	ORGANIZATION
+Japan/NNP	GPE
+USX/NNP	ORGANIZATION
+Upjohn/NNP	PERSON
+Campbell/NNPSoup/NNP	PERSON
+Paramount/NNPCommunications/NNP	ORGANIZATION
+Woolworth/NNP	GPE
+Delta/NNPAir/NNPLines/NNPS	PERSON
+MCA/NNP	ORGANIZATION
+Kollmorgen/NNP	PERSON
+Vernitron/NNP	PERSON
+Ramada/NNP	PERSON
+Ramada/NNP	PERSON
+American/NNP	GPE
+Medical/NNPInternational/NNP	ORGANIZATION
+First/NNPBoston/NNP	PERSON
+Pritzker/NNP	ORGANIZATION
+Chicago/NNP	GPE
+American/NNPMedical/NNP	ORGANIZATION
+Hilton/NNPHotels/NNP	PERSON
+Hilton/NNP	PERSON
+Hilton/NNP	PERSON
+Hilton/NNP	GPE
+UAL/NNP	ORGANIZATION
+Hilton/NNP	PERSON
+William/NNPLebo/NNP	PERSON
+Hilton/NNP	PERSON
+Hilton/NNP	PERSON
+Mr./NNPLebo/NNP	PERSON
+New/NNPYork/NNP	GPE
+Neil/NNPWeisman/NNP	PERSON
+Chilmark/NNPCapital/NNP	GPE
+Pauline/NNPYoshihashi/NNP	PERSON
+Los/NNPAngeles/NNP	GPE
+Los/NNPAngeles/NNP	GPE
+New/NNPYork/NNP	GPE
+Metropolitan/NNPDetroit/NNP	ORGANIZATION
+Area/NNP	PERSON
+Detroit/NNP	PERSON
+Houston/NNP	PERSON
+Denver/NNP	GPE
+Houston/NNP	PERSON
+Denver/NNP	GPE
+Metropolitan/NNPHouston/NNP	ORGANIZATION
+Houston/NNP	GPE
+Metropolitan/NNPHouston/NNP	ORGANIZATION
+Houston/NNP	PERSON
+Houston/NNP	PERSON
+Houston/NNP	PERSON
+Denver/NNP	PERSON
+Denver/NNP	PERSON
+Houston/NNP	PERSON
+Denver/NNP	PERSON
+Denver/NNP	PERSON
+Denver/NNP	PERSON
+Houston/NNP	PERSON
+Denver/NNP	PERSON
+Washington/NNP	GPE
+New/NNPYork/NNP	GPE
+Los/NNPAngeles/NNP	GPE
+Mr./NNPLeinberger/NNP	PERSON
+Beverly/NNPHills/NNP	GPE
+Calif./NNP	GPE
+Kysor/NNP	PERSON
+Common/NNPCause/NNP	ORGANIZATION
+Senate/NNPEthics/NNPCommittee/NNP	ORGANIZATION
+Justice/NNPDepartment/NNP	ORGANIZATION
+Arizona/NNP	GPE
+Charles/NNPKeating/NNP	PERSON
+U.S./NNP	GPE
+Mr./NNPKeating/NNP	PERSON
+California/NNP	GPE
+Lincoln/NNPSavings/NNP	PERSON
+Loan/NNPAssociation/NNP	PERSON
+Fred/NNPWertheimer/NNP	PERSON
+Common/NNPCause/NNP	ORGANIZATION
+Mr./NNPKeating/NNP	PERSON
+Democratic/JJSens/NNP	ORGANIZATION
+Dennis/NNPDeConcini/NNP	PERSON
+Arizona/NNP	GPE
+Alan/NNPCranston/NNP	PERSON
+California/NNP	GPE
+John/NNPGlenn/NNP	PERSON
+Ohio/NNP	GPE
+Donald/NNPRiegle/NNP	PERSON
+Michigan/NNP	GPE
+GOP/NNP	ORGANIZATION
+John/NNPMcCain/NNP	PERSON
+Arizona/NNP	GPE
+Mr./NNPWertheimer/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Wall/NNPStreet/NNPJournal/NNP	FACILITY
+Lincoln/NNP	PERSON
+Lincoln/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Federal/NNPHome/NNPLoan/NNPBank/NNPBoard/NNP	ORGANIZATION
+Glenn/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Bank/NNPBoard/NNP	ORGANIZATION
+Mr./NNPKeating/NNP	PERSON
+Lincoln/NNP	PERSON
+Lincoln/NNP	PERSON
+American/NNP	GPE
+Continental/NNPCorp./NNP	ORGANIZATION
+Resolution/NNPTrust/NNPCorp./NNP	ORGANIZATION
+Bank/NNPBoard/NNP	ORGANIZATION
+Mr./NNPKeating/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Lincoln/NNP	PERSON
+Senate/NNPBanking/NNPCommittee/NNP	ORGANIZATION
+Detroit/NNP	GPE
+Mr./NNPKeating/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Lincoln/NNP	PERSON
+American/NNP	GPE
+Mr./NNPKeating/NNP	PERSON
+Cat/NNPCay/NNP	ORGANIZATION
+Bahamas/NNPS	ORGANIZATION
+McCain/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+McCain/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+July/NNP	GPE
+California/NNP	GPE
+Mr./NNPKeating/NNP	PERSON
+Cranston/NNP	PERSON
+Cranston/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+California/NNPDemocratic/NNP	ORGANIZATION
+July/NNP	GPE
+Ohio/NNP	GPE
+Mr./NNPKeating/NNP	PERSON
+National/NNPCouncil/NNP	ORGANIZATION
+Public/NNPPolicy/NNP	ORGANIZATION
+Glenn/NNP	PERSON
+Mr./NNPKeating/NNP	PERSON
+Ohio/NNP	ORGANIZATION
+Mr./NNPWertheimer/NNP	PERSON
+Senate/NNPEthics/NNPCommittee/NNP	ORGANIZATION
+House/NNP	ORGANIZATION
+James/NNPWright/NNP	PERSON
+Wilson/NNPAbney/NNP	PERSON
+Riegle/NNP	PERSON
+McCain/NNP	PERSON
+Glenn/NNP	PERSON
+Senate/NNPEthics/NNPCommittee/NNP	ORGANIZATION
+Cranston/NNP	PERSON
+Federal/NNPBureau/NNP	ORGANIZATION
+Mr./NNPKeating/NNP	PERSON
+Bank/NNPBoard/NNP	ORGANIZATION
+Common/NNPCause/NNP	ORGANIZATION
+Trinity/NNPIndustries/NNPSInc./NNP	ORGANIZATION
+Norfolk/NNPSouthern/NNP	PERSON
+Trinity/NNP	PERSON
+Norfolk/NNPSouthern/NNP	PERSON
+Norfolk/NNP	GPE
+China/NNP	GPE
+Hong/NNPKong/NNP	GPE
+China/NNP	GPE
+Hong/NNPKong/NNPToys/NNPCouncil/NNP	GPE
+Dennis/NNPTing/NNP	PERSON
+China/NNP	GPE
+Hong/NNPKong/NNP	GPE
+British/JJ	GPE
+Beijing/NNP	GPE
+Hong/NNPKong/NNP	GPE
+China/NNP	GPE
+China/NNP	GPE
+China/NNP	GPE
+David/NNPYeh/NNP	PERSON
+International/NNPMatchbox/NNPGroup/NNPLtd/NNP	ORGANIZATION
+Matchbox/NNP	PERSON
+Hong/NNPKong/NNP	GPE
+Southeast/NNPAsia/NNP	LOCATION
+Thailand/NNP	GPE
+China/NNP	GPE
+China/NNP	GPE
+China/NNP	GPE
+Hong/NNPKong/NNP	GPE
+China/NNP	GPE
+Guangdong/NNP	GPE
+South/NNPChina/NNP	GPE
+Henry/NNPHu/NNP	PERSON
+Wah/NNP	ORGANIZATION
+Hong/NNPKong/NNP	GPE
+US/NNP	ORGANIZATION
+China/NNP	GPE
+China/NNP	GPE
+China/NNP	GPE
+Edmund/NNPYoung/NNP	PERSON
+Perfecta/NNPEnterprises/NNP	PERSON
+Hong/NNPKong/NNP	GPE
+Southeast/NNPAsia/NNP	LOCATION
+Thailand/NNP	GPE
+Matchbox/NNP	PERSON
+Wah/NNPShing/NNP	PERSON
+Kader/NNPIndustrial/NNP	PERSON
+Mr./NNPTing/NNP	PERSON
+Malaysia/NNP	GPE
+Philippines/NNPS	ORGANIZATION
+Indonesia/NNP	GPE
+European/NNP	ORGANIZATION
+Hong/NNPKong/NNP	GPE
+Spain/NNP	GPE
+Portugal/NNP	GPE
+Greece/NNP	GPE
+China/NNP	GPE
+Hong/NNPKong/NNP	GPE
+U.S./NNP	GPE
+Worlds/NNP	PERSON
+Wonder/NNPInc./NNP	ORGANIZATION
+	ORGANIZATION
+U.S./NNP	GPE
+Hong/NNPKong/NNP	GPE
+U.S./NNP	GPE
+Teenage/NNPMutant/NNPNinja/NNPTurtles/NNP	ORGANIZATION
+Playmates/NNPHoldings/NNPSLtd/NNP	ORGANIZATION
+American/JJ	GPE
+Paul/NNPKwan/NNP	PERSON
+Playmates/NNP	GPE
+U.S./NNP	GPE
+Christmas/NNP	ORGANIZATION
+U.S./NNP	GPE
+Mr./NNPKwan/NNP	PERSON
+Ninja/NNPTurtles/NNP	ORGANIZATION
+Playmates/NNP	PERSON
+Hong/NNPKong/NNP	GPE
+U.S./NNP	GPE
+Nintendo/NNPEntertainment/NNPSystem/NNP	PERSON
+Nintendo/NNP	ORGANIZATION
+Japan/NNP	GPE
+Beijing/NNP	GPE
+Guangdong/NNP	GPE
+Bank/NNP	PERSON
+China/NNP	GPE
+Beijing/NNP	GPE
+Guangdong/NNP	GPE
+Beijing/NNP	GPE
+China/NNP	GPE
+China/NNP	GPE
+Chinese/JJ	GPE
+Mr./NNPKwan/NNP	PERSON
+Playmates/NNP	GPE
+Bush/NNP	ORGANIZATION
+Supreme/NNPCourt/NNP	ORGANIZATION
+Solicitor/NNPGeneral/NNP	PERSON
+Kenneth/NNPStarr/NNP	PERSON
+Supreme/NNPCourt/NNP	ORGANIZATION
+Roe/NNP	PERSON
+Wade/NNP	PERSON
+Supreme/NNPCourt/NNP	ORGANIZATION
+William/NNPRehnquist/NNP	PERSON
+Missouri/NNP	PERSON
+Supreme/NNPCourt/NNP	ORGANIZATION
+Minnesota/NNP	ORGANIZATION
+Bush/NNP	ORGANIZATION
+Hodgson/NNP	PERSON
+Aluminum/NNPCo./NNP	PERSON
+America/NNP	GPE
+Revenue/NNP	PERSON
+Alcoa/NNP	PERSON
+William/NNPSiedenburg/NNP	PERSON
+Smith/NNPBarney/NNP	PERSON
+Harris/NNPUpham/NNP	PERSON
+Wayne/NNPAtwell/NNP	PERSON
+Goldman/NNP	PERSON
+Sachs/NNP	PERSON
+Mr./NNPAtwell/NNP	PERSON
+New/NNPYork/NNP	GPE
+Alcoa/NNP	PERSON
+NBC/NNP	ORGANIZATION
+ABC/NNP	ORGANIZATION
+CBS/NNP	ORGANIZATION
+Hollywood/NNP	ORGANIZATION
+U.S./NNP	GPE
+Hollywood/NNP	ORGANIZATION
+Congress/NNP	ORGANIZATION
+Congress/NNP	ORGANIZATION
+Financial/NNPInterest/NNP	ORGANIZATION
+Syndication/NNPRules/NNP	ORGANIZATION
+National/NNPBroadcasting/NNPCo./NNP	ORGANIZATION
+General/NNPElectric/NNPCo./NNP	ORGANIZATION
+Qintex/NNPAustralia/NNP	PERSON
+Australian/JJ	GPE
+NBC/NNP	ORGANIZATION
+NBC/NNP	ORGANIZATION
+CBS/NNPInc./NNP	ORGANIZATION
+ABC/NNP	ORGANIZATION
+Capital/NNP	ORGANIZATION
+Hollywood/NNP	GPE
+Motion/NNPPicture/NNP	PERSON
+Jack/NNPValenti/NNP	PERSON
+Paramount/NNPCommunications/NNPInc./NNP	ORGANIZATION
+Fries/NNPEntertainment/NNP	PERSON
+Warner/NNPCommunications/NNPSInc./NNP	ORGANIZATION
+MCA/NNP	ORGANIZATION
+Mr./NNPValenti/NNP	PERSON
+Washington/NNP	GPE
+Congress/NNP	ORGANIZATION
+NBC/NNP	ORGANIZATION
+Robert/NNPWright/NNP	PERSON
+Sony/NNPCorp./NNP	PERSON
+	ORGANIZATION
+Walter/NNPCronkite/NNP	PERSON
+Broadcast/NNPSystem/NNPTrinitron/NNP	PERSON
+Dan/NNPRather/NNP	PERSON
+Tokyo/NNP	GPE
+Holston/NNP	PERSON
+NBC/NNP	ORGANIZATION
+Broadcasting/NNP	GPE
+Mr./NNPHolston/NNP	PERSON
+Europe/NNP	GPE
+U.S./NNP	GPE
+Australia/NNP	GPE
+NBC/NNP	ORGANIZATION
+Mr./NNPHolston/NNP	PERSON
+NBC/NNP	ORGANIZATION
+U.S./NNP	GPE
+NBC/NNP	ORGANIZATION
+Qintex/NNP	ORGANIZATION
+Sony/NNP	GPE
+Time/NNPInc./NNP	ORGANIZATION
+Warner/NNP	PERSON
+Time/NNP	PERSON
+Warner/NNP	GPE
+Time/NNP	PERSON
+Home/NNPBox/NNPOffice/NNP	PERSON
+Warner/NNP	ORGANIZATION
+HBO/NNP	ORGANIZATION
+NBC/NNP	ORGANIZATION
+Mr./NNPWright/NNP	PERSON
+Time/NNP	ORGANIZATION
+Warner/NNP	GPE
+Sony/NNP	ORGANIZATION
+Columbia/NNP	PERSON
+NBC/NNP	ORGANIZATION
+Qintex/NNP	GPE
+Mr./NNPWright/NNP	PERSON
+Qintex/NNP	GPE
+NBC/NNP	ORGANIZATION
+William/NNPLilley/NNPIII/NNP	PERSON
+CBS/NNP	ORGANIZATION
+Policy/NNCommunications/NNPS	ORGANIZATION
+Washington/NNP	GPE
+Fin/NNP	PERSON
+Hence/NNP	PERSON
+NBC/NNP	ORGANIZATION
+ABC/NNP	ORGANIZATION
+ABC/NNP	ORGANIZATION
+Reagan/NNP	ORGANIZATION
+Federal/NNPCommunications/NNPCommission/NNP	ORGANIZATION
+Brookings/NNPInstitution/NNP	ORGANIZATION
+Ronald/NNPReagan/NNP	PERSON
+Hollywood/NNP	GPE
+FCC/NNP	ORGANIZATION
+Network/NNP	PERSON
+Washington/NNP	GPE
+Congress/NNP	ORGANIZATION
+Hollywood/NNP	PERSON
+Edward/NNPJ./NNPMarkey/NNP	PERSON
+D/NNP	ORGANIZATION
+Mass/NNP	GPE
+FCC/NNP	ORGANIZATION
+Mr./NNPMarkey/NNP	PERSON
+Sony/NNP	ORGANIZATION
+Columbia/NNP	GPE
+Mr./NNPMarkey/NNP	PERSON
+FCC/NNP	ORGANIZATION
+Alfred/NNPC./NNPSikes/NNP	PERSON
+Equipment/NNPInc./NNP	ORGANIZATION
+Postal/NNPService/NNP	PERSON
+April/NNP	GPE
+William/NNPG./NNPMoore/NNPJr./NNP	PERSON
+Robert/NNPW./NNPReedy/NNP	PERSON
+Peter/NNPE./NNPVoss/NNP	PERSON
+Postal/NNPService/NNP	ORGANIZATION
+Mr./NNPVoss/NNP	PERSON
+Recognition/NNP	PERSON
+Mr./NNPMoore/NNP	PERSON
+Mr./NNPReedy/NNP	PERSON
+District/NNP	ORGANIZATION
+Columbia/NNP	GPE
+Postal/NNPService/NNP	ORGANIZATION
+Recognition/NNPEquipment/NNP	PERSON
+Postal/NNPService/NNP	ORGANIZATION
+Postal/NNPService/NNP	ORGANIZATION
+Intel/NNPCorp./NNP	ORGANIZATION
+Siemens/NNPAG/NNP	PERSON
+West/NNPGermany/NNP	GPE
+Sales/NNS	PERSON
+Intel/NNP	ORGANIZATION
+Intel/NNP	ORGANIZATION
+August/NNP	GPE
+Intel/NNP	ORGANIZATION
+Andrew/NNPS.Grove/NNP	PERSON
+Intel/NNP	GPE
+Intel/NNP	ORGANIZATION
+Intel/NNP	ORGANIZATION
+Revenue/NN	PERSON
+Walter/NNPSisulu/NNP	PERSON
+African/NNPNational/NNP	ORGANIZATION
+Congress/NNP	ORGANIZATION
+Mr./NNPSisulu/NNP	PERSON
+ANC/NNP	ORGANIZATION
+South/NNPAfrica/NNP	GPE
+ANC/NNP	ORGANIZATION
+Mr./NNPSisulu/NNP	PERSON
+ANC/NNP	ORGANIZATION
+Elias/NNPMotsoaledi/NNP	PERSON
+ANC/NNP	ORGANIZATION
+Sizwe/NNP	PERSON
+ANC/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+Mr./NNPSisulu/NNP	PERSON
+ANC/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+Lusaka/NNP	GPE
+Zambia/NNP	GPE
+ANC/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+Cassim/NNPSaloojee/NNP	PERSON
+Mr./NNP	PERSON
+ANC/NNP	ORGANIZATION
+Holy/NNPCross/NNPAnglican/NNPChurch/NNP	ORGANIZATION
+Soweto/NNP	GPE
+ANC/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+Nelson/NNPMandela/NNP	PERSON
+ANC/NNP	ORGANIZATION
+Mr./NNPSisulu/NNP	PERSON
+Klerk/NNP	PERSON
+ANC/NNP	ORGANIZATION
+Pan/NNPAfricanist/NNPCongress/NNP	ORGANIZATION
+Poland/NNP	GPE
+Soviet/NNPUnion/NNP	GPE
+South/JJ	GPE
+African/JJ	GPE
+Mr./NNPMandela/NNP	PERSON
+ANC/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+Pretoria/NNP	GSP
+Mr./NNPMandela/NNP	PERSON
+ANC/NNP	ORGANIZATION
+Mr./NNPMandela/NNP	PERSON
+ANC/NNP	ORGANIZATION
+Lusaka/NNP	GPE
+Peter/NNPMokaba/NNP	PERSON
+South/JJ	GPE
+African/NNPYouth/NNP	ORGANIZATION
+ANC/NNP	ORGANIZATION
+Andrew/NNPMlangeni/NNP	PERSON
+Umkhonto/NNP	ORGANIZATION
+Nelson/NNPMandela/NNP	PERSON
