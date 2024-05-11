@@ -1,105 +1,105 @@
-fleet\/norstar/JJ	ORGANIZATION
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./NN	GPE
-u.s./NN	GPE
-mr./NN	PERSON
-mr./NN fleckenstein/NNP	PERSON
-d.c./NN	GPE
-u.s./JJ	GPE
-u.s./NN	GPE
-u.s./JJ	GPE
-mr./NN	PERSON
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-mr./NN kaye/NNP	PERSON
-mr./NNS	PERSON
-mr./NN kaye/NNP	PERSON
-mr./JJS	PERSON
-u.s./JJ	GPE
-mr./JJ	PERSON
-calif./NN	GPE
-calif./NN	GPE
-calif./NN	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-calif./NN	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-mr./NN skinner/NNP	PERSON
-u.s./JJ	GPE
-mr./JJ	PERSON
-mr./JJ	PERSON
-mr./NN koskotas/NNP	PERSON
-mr./NN	PERSON
-mr./NN	ORGANIZATION
-mr./NN mitsotakis/NNP	PERSON
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./NN	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-d.c./NN	GPE
-u.s./JJ	GPE
-u.s./NN	GPE
-d.c./NN	GPE
-mr./NN magurno/NNP	PERSON
-d.c./NN	GPE
-u.s./JJ	GPE
-mr./JJ	PERSON
-u.s./JJ	GPE
-mr./NN	PERSON
-mr./JJ	PERSON
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-u.s./JJ	GPE
-hilton/NN	PERSON
-u.s./JJ	GPE
-mr./JJ	PERSON
-mr./NN	PERSON
-mr./NN	PERSON
-mr./JJ	PERSON
-mr./NN keating/NNP	PERSON
-mr./NN keating/NNP	PERSON
-u.s./JJ	GPE
-u.s./NN	GPE
-u.s./JJ	GPE
-u.s./NN	GPE
-u.s./JJ	GPE
-mr./NN kwan/NNP	PERSON
-u.s./JJ	GPE
-mr./NN kwan/NNP	PERSON
-u.s./JJ	GPE
-mr./JJ valenti/NNP	PERSON
-u.s./JJ	GPE
-u.s./JJ	GPE
-mr./NN markey/NNP	PERSON
-mr./JJ	PERSON
-u.s./JJ	GPE
-mr./NNP	ORGANIZATION
-mr./NN	PERSON
-mr./NN	PERSON
-mr./NN mandela/NNP	PERSON
-mr./NN mandela/NNP	PERSON
+511	fleet\/norstar/JJ	ORGANIZATION
+1038	u.s./JJ	GPE
+1630	u.s./JJ	GPE
+1651	u.s./JJ	GPE
+1987	u.s./JJ	GPE
+2037	u.s./JJ	GPE
+2600	u.s./JJ	GPE
+2765	u.s./JJ	GPE
+2777	u.s./JJ	GPE
+3386	u.s./JJ	GPE
+3719	u.s./JJ	GPE
+7116	u.s./NN	GPE
+7709	u.s./NN	GPE
+9199	mr./NN	PERSON
+9877	mr./NN fleckenstein/NNP	PERSON
+10547	d.c./NN	GPE
+10701	u.s./JJ	GPE
+12239	u.s./NN	GPE
+12248	u.s./JJ	GPE
+12264	mr./NN	PERSON
+13204	u.s./JJ	GPE
+13374	u.s./JJ	GPE
+13418	u.s./JJ	GPE
+13553	u.s./JJ	GPE
+13655	mr./NN kaye/NNP	PERSON
+13719	mr./NNS	PERSON
+13757	mr./NN kaye/NNP	PERSON
+13850	mr./JJS	PERSON
+14024	u.s./JJ	GPE
+14249	mr./JJ	PERSON
+14862	calif./NN	GPE
+14910	calif./NN	GPE
+15005	calif./NN	GPE
+15329	u.s./JJ	GPE
+15395	u.s./JJ	GPE
+15481	calif./NN	GPE
+15860	u.s./JJ	GPE
+16055	u.s./JJ	GPE
+17225	u.s./JJ	GPE
+18018	u.s./JJ	GPE
+18398	mr./NN skinner/NNP	PERSON
+18420	u.s./JJ	GPE
+19085	mr./JJ	PERSON
+19282	mr./JJ	PERSON
+19383	mr./NN koskotas/NNP	PERSON
+19458	mr./NN	PERSON
+19611	mr./NN	ORGANIZATION
+19767	mr./NN mitsotakis/NNP	PERSON
+19855	u.s./JJ	GPE
+19869	u.s./JJ	GPE
+19915	u.s./NN	GPE
+20176	u.s./JJ	GPE
+20223	u.s./JJ	GPE
+20492	u.s./JJ	GPE
+20554	u.s./JJ	GPE
+20560	u.s./JJ	GPE
+20667	u.s./JJ	GPE
+21299	u.s./JJ	GPE
+21352	u.s./JJ	GPE
+21521	u.s./JJ	GPE
+21703	d.c./NN	GPE
+21756	u.s./JJ	GPE
+21766	u.s./NN	GPE
+21934	d.c./NN	GPE
+22029	mr./NN magurno/NNP	PERSON
+22080	d.c./NN	GPE
+22420	u.s./JJ	GPE
+22468	mr./JJ	PERSON
+22496	u.s./JJ	GPE
+22537	mr./NN	PERSON
+22573	mr./JJ	PERSON
+22614	u.s./JJ	GPE
+23463	u.s./JJ	GPE
+23909	u.s./JJ	GPE
+24093	u.s./JJ	GPE
+24309	u.s./JJ	GPE
+24341	u.s./JJ	GPE
+25967	hilton/NN	PERSON
+27521	u.s./JJ	GPE
+27590	mr./JJ	PERSON
+27798	mr./NN	PERSON
+27995	mr./NN	PERSON
+28037	mr./JJ	PERSON
+28266	mr./NN keating/NNP	PERSON
+28538	mr./NN keating/NNP	PERSON
+29268	u.s./JJ	GPE
+29348	u.s./NN	GPE
+29370	u.s./JJ	GPE
+29444	u.s./NN	GPE
+29464	u.s./JJ	GPE
+29470	mr./NN kwan/NNP	PERSON
+29517	u.s./JJ	GPE
+29732	mr./NN kwan/NNP	PERSON
+30456	u.s./JJ	GPE
+30886	mr./JJ valenti/NNP	PERSON
+31161	u.s./JJ	GPE
+31204	u.s./JJ	GPE
+31828	mr./NN markey/NNP	PERSON
+31848	mr./JJ	PERSON
+31911	u.s./JJ	GPE
+32736	mr./NNP	ORGANIZATION
+32828	mr./NN	PERSON
+33102	mr./NN	PERSON
+33404	mr./NN mandela/NNP	PERSON
+33487	mr./NN mandela/NNP	PERSON

@@ -34,15 +34,17 @@ def tokenize_nltk(path):
     entities = nltk.ne_chunk(tagged_tokens)
     lines = str(entities).split('\n')
 
+    word_idx = 0
     tags = defaultdict(int)
     res = open("ner/nltk/"+path, "w")
     for line in lines:
         line = line.strip()
+        word_idx += line.count("/")
         if (line[0] == "(" and line != "(/(" and line != "(S"):
             split_line = line.strip('()').split(" ")
             tag = split_line[0]
             word = ' '.join(map(str, split_line[1:]))
-            res.write(word + "\t" + tag + "\n")
+            res.write(str(word_idx) + "\t" + word + "\t" + tag + "\n")
             tags[tag]+=1
 
     file.close()
@@ -64,7 +66,7 @@ def tokenize_spacy(path):
     tags = defaultdict(int)
     res = open("ner/spacy/"+path, "w")
     for ent in doc.ents:
-        res.write(ent.text + "\t" + ent.label_ + "\n")
+        res.write(str(ent.start_char) + "\t" + ent.text + "\t" + ent.label_ + "\n")
         tags[ent.label_]+=1
 
     file.close()
