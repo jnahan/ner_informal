@@ -12,7 +12,7 @@ u.s./JJ	GPE
 u.s./NN	GPE
 u.s./NN	GPE
 mr./NN	PERSON
-mr./NNfleckenstein/NNP	PERSON
+mr./NN fleckenstein/NNP	PERSON
 d.c./NN	GPE
 u.s./JJ	GPE
 u.s./NN	GPE
@@ -22,9 +22,9 @@ u.s./JJ	GPE
 u.s./JJ	GPE
 u.s./JJ	GPE
 u.s./JJ	GPE
-mr./NNkaye/NNP	PERSON
+mr./NN kaye/NNP	PERSON
 mr./NNS	PERSON
-mr./NNkaye/NNP	PERSON
+mr./NN kaye/NNP	PERSON
 mr./JJS	PERSON
 u.s./JJ	GPE
 mr./JJ	PERSON
@@ -38,14 +38,14 @@ u.s./JJ	GPE
 u.s./JJ	GPE
 u.s./JJ	GPE
 u.s./JJ	GPE
-mr./NNskinner/NNP	PERSON
+mr./NN skinner/NNP	PERSON
 u.s./JJ	GPE
 mr./JJ	PERSON
 mr./JJ	PERSON
-mr./NNkoskotas/NNP	PERSON
+mr./NN koskotas/NNP	PERSON
 mr./NN	PERSON
 mr./NN	ORGANIZATION
-mr./NNmitsotakis/NNP	PERSON
+mr./NN mitsotakis/NNP	PERSON
 u.s./JJ	GPE
 u.s./JJ	GPE
 u.s./NN	GPE
@@ -62,7 +62,7 @@ d.c./NN	GPE
 u.s./JJ	GPE
 u.s./NN	GPE
 d.c./NN	GPE
-mr./NNmagurno/NNP	PERSON
+mr./NN magurno/NNP	PERSON
 d.c./NN	GPE
 u.s./JJ	GPE
 mr./JJ	PERSON
@@ -81,25 +81,25 @@ mr./JJ	PERSON
 mr./NN	PERSON
 mr./NN	PERSON
 mr./JJ	PERSON
-mr./NNkeating/NNP	PERSON
-mr./NNkeating/NNP	PERSON
+mr./NN keating/NNP	PERSON
+mr./NN keating/NNP	PERSON
 u.s./JJ	GPE
 u.s./NN	GPE
 u.s./JJ	GPE
 u.s./NN	GPE
 u.s./JJ	GPE
-mr./NNkwan/NNP	PERSON
+mr./NN kwan/NNP	PERSON
 u.s./JJ	GPE
-mr./NNkwan/NNP	PERSON
+mr./NN kwan/NNP	PERSON
 u.s./JJ	GPE
-mr./JJvalenti/NNP	PERSON
+mr./JJ valenti/NNP	PERSON
 u.s./JJ	GPE
 u.s./JJ	GPE
-mr./NNmarkey/NNP	PERSON
+mr./NN markey/NNP	PERSON
 mr./JJ	PERSON
 u.s./JJ	GPE
 mr./NNP	ORGANIZATION
 mr./NN	PERSON
 mr./NN	PERSON
-mr./NNmandela/NNP	PERSON
-mr./NNmandela/NNP	PERSON
+mr./NN mandela/NNP	PERSON
+mr./NN mandela/NNP	PERSON
