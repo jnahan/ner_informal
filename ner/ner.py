@@ -19,8 +19,6 @@
         # ner didn't recognize this org on truecased set
     # talk about groups ner didn't capture properly, trends, whys
 
-# write about trends i notice
-
 import spacy 
 nlp = spacy.load('en_core_web_sm') 
 
@@ -39,13 +37,22 @@ def tokenize_nltk(path):
     res = open("ner/nltk/"+path, "w")
     for line in lines:
         line = line.strip()
-        word_idx += line.count("/")
-        if (line[0] == "(" and line != "(/(" and line != "(S"):
+        if (line == "(/(" or line == "(S"):
+            continue
+        if (line[0] == "("):
             split_line = line.strip('()').split(" ")
             tag = split_line[0]
-            word = ' '.join(map(str, split_line[1:]))
-            res.write(str(word_idx) + "\t" + word + "\t" + tag + "\n")
+            word = ' '.join(map(str, split_line[1:])).lower()
+            words = word.split(" ")
+            formatted_words = ""
+            for word in words:
+                formatted_words += word.split("/")[0]
+                formatted_words += " "
+            res.write(str(word_idx) + "\t" + formatted_words.strip() + "\t" + tag + "\n")
             tags[tag]+=1
+            word_idx += len(formatted_words.replace(" ", ""))
+        else:
+            word_idx += len(line.split('/')[0])
 
     file.close()
     res.close()
